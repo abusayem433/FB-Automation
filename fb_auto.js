@@ -533,10 +533,12 @@ async function scrapeMemberRequests(page) {
             } else {
               console.log("❌ Missing transaction ID or phone number - DECLINING");
               let dbErrorMessage
-              if(!phoneNumber){
-                dbErrorMessage = config.DECLINE_MISSING_PHONE
+              if(!phoneNumber && !transactionId){
+                dbErrorMessage = config.DECLINE_MISSING_BOTH;
+              }else if(!phoneNumber){
+                dbErrorMessage = config.DECLINE_MISSING_PHONE;
               }else if(!transactionId){
-                dbErrorMessage = config.DECLINE_MISSING_TRANSACTION
+                dbErrorMessage = config.DECLINE_MISSING_TRANSACTION;
               }else{
                 dbErrorMessage = config.DECLINE_MISSING_BOTH;
               }
