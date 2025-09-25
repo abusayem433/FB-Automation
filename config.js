@@ -8,12 +8,22 @@ const config = {
   GROUP_URL: "https://www.facebook.com/groups/2499286187104014/member-requests",
 
   // ===========================================
+  // ELIGIBLE PRODUCT IDS
+  // ===========================================
+  ELIGIBLE_PRODUCT_IDS: [
+    "f9db6ff1-c365-4e29-a3a7-7d0bd9487c9c",
+    "4e8f4314-2d70-48a6-8fb0-4384d735dce2",
+    "d8787524-8ef5-4a22-a605-8d9a5a75eee4"
+  ],
+
+  // ===========================================
   // DECLINE MESSAGES (in Bangla)
   // ===========================================
   DECLINE_ALREADY_APPROVED: "এই ট্রানজেকশন আইডি ব্যবহৃত হয়েছে",
   DECLINE_PHONE_MISMATCH:
     "ফোন নম্বরটি এই ট্রানজেকশন আইডির জন্য সঠিক নয়, যে নম্বর দিয়ে আইডি খুলে কোর্স কিনেছেন সেই নম্বর দিন",
   DECLINE_TRANSACTION_NOT_FOUND: "ট্রানজেকশন আইডি সঠিক নয়",
+  DECLINE_PRODUCT_NOT_ELIGIBLE: "এই গ্রুপের জন্য আপনি যোগ্য নন",
   DECLINE_NO_ANSWERS: "প্রশ্নের উত্তর দেওয়া হয়নি",
   DECLINE_MISSING_PHONE: "ফোন নম্বর দেওয়া হয়নি",
   DECLINE_MISSING_TRANSACTION: "ট্রানজেকশন আইডি দেওয়া হয়নি",

@@ -58,8 +58,27 @@ async function processPaymentApproval(phone = '', transactionId = '', approvedId
     const transactionResult = await client.query(transactionCheckQuery, [transactionId]);
     
     if (transactionResult.rows.length > 0) {
-      // Transaction ID exists, check if it's already approved
+      // Transaction ID exists, check product eligibility first
       const existingRecord = transactionResult.rows[0];
+      const productId = existingRecord.product_id;
+      
+      // Check if product_id is in the eligible products list
+      if (!config.ELIGIBLE_PRODUCT_IDS.includes(productId)) {
+        console.log(`❌ Product ID ${productId} is not eligible - DECLINING`);
+        
+        const declineReason = config.DECLINE_PRODUCT_NOT_ELIGIBLE;
+        
+        // Log the decline reason
+        logDeclineReason(phone, transactionId, declineReason, approvedId);
+        
+        return { 
+          status: 'declined', 
+          rowCount: 0, 
+          declineReason: declineReason
+        };
+      }
+      
+      // Product is eligible, check if it's already approved
       const isAlreadyApproved = existingRecord.is_approved;
       
               if (isAlreadyApproved) {
