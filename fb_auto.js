@@ -154,7 +154,7 @@ async function declineWithFeedback(page, memberCard, declineReason) {
     // Wait for the feedback modal to appear
     console.log("⏳ Waiting for feedback modal...");
     await page.waitForTimeout(3000);
-    
+  
     // Select "Issue with answer to questions" radio button
     console.log("🔍 Selecting 'Issue with answer to questions' radio button...");
     
@@ -168,6 +168,13 @@ async function declineWithFeedback(page, memberCard, declineReason) {
         // Find the parent container and then the radio button
         const parentContainer = await issueText.$('..');
         issueRadioButton = await parentContainer.$('[role="radio"]');
+      }
+      else{
+        console.log("❌ Modal not found, using simple decline");
+        const declineButton = await memberCard.$('[aria-label*="Decline"]');
+        if (declineButton) {
+          await declineButton.click();
+        }
       }
     }
     
