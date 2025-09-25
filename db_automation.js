@@ -97,49 +97,29 @@ async function processPaymentApproval(phone = '', transactionId = '', approvedId
         };
       }
       
-      // Transaction ID exists but not approved yet, check if phone number matches
-      const existingPhone = existingRecord.phone;
+      // Transaction ID exists but not approved yet - APPROVE
+      console.log(`✅ Row found - APPROVING payment for user ID: ${existingRecord.user_id}`);
       
-              if (existingPhone !== phone) {
-                // Phone number doesn't match
-                console.log(`❌ Phone number mismatch - Transaction ID exists but phone doesn't match`);
-                console.log(`   Expected phone: ${existingPhone}, Provided phone: ${phone}`);
-                
-                const declineReason = config.DECLINE_PHONE_MISMATCH;
-        
-        // Log the decline reason
-        logDeclineReason(phone, transactionId, declineReason, approvedId);
-        
-        return { 
-          status: 'declined', 
-          rowCount: 0, 
-          declineReason: declineReason
-        };
-      } else {
-        // Both transaction ID and phone match - APPROVE
-        console.log(`✅ Row found - APPROVING payment for user ID: ${existingRecord.user_id}`);
-        
-        // Update is_approved to true and set approved_id
-        const updateQuery = `
-          UPDATE product_payment 
-          SET is_approved = true, approved_id = $3, updated_at = NOW()
-          WHERE user_id = $1 AND transaction_id = $2
-        `;
-        
-        const updateResult = await client.query(updateQuery, [
-          existingRecord.user_id, 
-          transactionId,
-          approvedId
-        ]);
-        
-        console.log(`✅ Payment approved and updated with approved_id: ${approvedId}. Rows affected: ${updateResult.rowCount}`);
-        
-        // Add delay after approval to prevent overwhelming the database
-        console.log('⏳ Waiting 2 seconds before next operation...');
-        await new Promise(resolve => setTimeout(resolve, 2000));
-        
-        return { status: 'approved', rowCount: updateResult.rowCount, approvedId: approvedId };
-      }
+      // Update is_approved to true and set approved_id
+      const updateQuery = `
+        UPDATE product_payment 
+        SET is_approved = true, approved_id = $3, updated_at = NOW()
+        WHERE user_id = $1 AND transaction_id = $2
+      `;
+      
+      const updateResult = await client.query(updateQuery, [
+        existingRecord.user_id, 
+        transactionId,
+        approvedId
+      ]);
+      
+      console.log(`✅ Payment approved and updated with approved_id: ${approvedId}. Rows affected: ${updateResult.rowCount}`);
+      
+      // Add delay after approval to prevent overwhelming the database
+      console.log('⏳ Waiting 2 seconds before next operation...');
+      await new Promise(resolve => setTimeout(resolve, 2000));
+      
+      return { status: 'approved', rowCount: updateResult.rowCount, approvedId: approvedId };
             } else {
               // Transaction ID doesn't exist
               console.log(`❌ Transaction ID not found - DECLINING payment`);
