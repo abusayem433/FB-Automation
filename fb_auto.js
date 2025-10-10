@@ -1,6 +1,7 @@
 // filename: facebook-profile.js
 const { chromium } = require("playwright");
 const fs = require("fs");
+const readline = require("readline");
 const { processPaymentApproval, saveMemberLog } = require("./db_automation.js");
 const config = require("./config.js");
 
@@ -9,9 +10,116 @@ let currentProcessingCount = 0;
 let totalMembers = 0;
 let logMessages = [];
 
+// Multi-tab tracking system
+let tabData = new Map(); // Map to store data for each tab (className -> {page, currentCount, totalMembers, logMessages})
+let isMultiTabMode = false;
+
+// Function to prompt user for class selection
+function promptClassSelection() {
+  return new Promise((resolve) => {
+    const rl = readline.createInterface({
+      input: process.stdin,
+      output: process.stdout
+    });
+
+    console.log('\n🎓 FB Automation - Class Selection');
+    console.log('=====================================');
+    console.log('0. 🚀 ALL CLASSES (Multi-tab processing)');
+    console.log('Available classes:');
+    
+    const availableClasses = config.getAvailableClasses();
+    availableClasses.forEach((className, index) => {
+      console.log(`${index + 1}. ${className}`);
+    });
+    
+    console.log('=====================================');
+    
+    const askForClass = () => {
+      rl.question('\nWhich class do you want to start the operation for? (Enter number or class name): ', (answer) => {
+        let selectedClass = null;
+        
+        // Check for option 0 (all classes)
+        if (answer === '0' || answer.toLowerCase() === 'all' || answer.toLowerCase() === 'all classes') {
+          // Check if at least one class is configured
+          const configuredClasses = availableClasses.filter(className => {
+            const classConfig = config.CLASSES[className];
+            return classConfig.GROUP_URL && classConfig.ELIGIBLE_PRODUCT_IDS.length > 0;
+          });
+          
+          if (configuredClasses.length === 0) {
+            console.log('\n❌ Error: No classes are configured yet.');
+            console.log('Please configure at least one class before using the ALL CLASSES option.');
+            rl.close();
+            resolve(null);
+            return;
+          }
+          
+          console.log(`\n✅ Selected: ALL CLASSES (${configuredClasses.length} configured classes)`);
+          configuredClasses.forEach(className => {
+            console.log(`  - ${className}`);
+          });
+          rl.close();
+          resolve('ALL_CLASSES');
+          return;
+        }
+        
+        // Check if input is a number
+        const classIndex = parseInt(answer) - 1;
+        if (!isNaN(classIndex) && classIndex >= 0 && classIndex < availableClasses.length) {
+          selectedClass = availableClasses[classIndex];
+        } else {
+          // Check if input matches a class name
+          const matchedClass = availableClasses.find(className => 
+            className.toLowerCase() === answer.toLowerCase()
+          );
+          if (matchedClass) {
+            selectedClass = matchedClass;
+          }
+        }
+        
+        if (selectedClass) {
+          // Check if the selected class has been configured
+          const classConfig = config.CLASSES[selectedClass];
+          if (!classConfig.GROUP_URL || classConfig.ELIGIBLE_PRODUCT_IDS.length === 0) {
+            console.log(`\n❌ Error: ${selectedClass} is not configured yet.`);
+            console.log('Please provide the group URL and eligible product IDs for this class first.');
+            rl.close();
+            resolve(null);
+            return;
+          }
+          
+          console.log(`\n✅ Selected: ${selectedClass}`);
+          config.setSelectedClass(selectedClass);
+          rl.close();
+          resolve(selectedClass);
+        } else {
+          console.log('\n❌ Invalid selection. Please try again.');
+          askForClass();
+        }
+      });
+    };
+    
+    askForClass();
+  });
+}
+
 // Function to create and show toast notification
-async function showToast(page, message, type = 'info') {
+async function showToast(page, message, type = 'info', className = null) {
   try {
+    // Get the appropriate data based on whether we're in multi-tab mode
+    let progress, total, logs;
+    
+    if (isMultiTabMode && className && tabData.has(className)) {
+      const data = tabData.get(className);
+      progress = data.currentCount;
+      total = data.totalMembers;
+      logs = data.logMessages;
+    } else {
+      progress = currentProcessingCount;
+      total = totalMembers;
+      logs = logMessages;
+    }
+
     // Ensure toast element exists in the current page (after reloads too)
     await page.evaluate(() => {
       let toast = document.getElementById('fb-automation-toast');
@@ -41,15 +149,16 @@ async function showToast(page, message, type = 'info') {
     });
 
     // Update toast content
-    await page.evaluate(({ msg, msgType, progress, total, logs }) => {
+    await page.evaluate(({ msg, msgType, progress, total, logs, className, isMultiTab }) => {
       const toast = document.getElementById('fb-automation-toast');
       if (toast) {
         const timestamp = new Date().toLocaleTimeString();
         const progressText = total > 0 ? `Processing ${progress}/${total}` : 'Processing...';
+        const classText = isMultiTab && className ? ` - ${className}` : '';
         
         toast.innerHTML = `
           <div style="font-weight: bold; margin-bottom: 8px; font-size: 16px;">
-            🤖 FB Automation - ${progressText}
+            🤖 FB Automation${classText} - ${progressText}
           </div>
           <div style="margin-bottom: 8px; font-size: 15px; color: ${msgType === 'error' ? '#ff6b6b' : msgType === 'success' ? '#51cf66' : '#74c0fc'};">
             ${msg}
@@ -75,9 +184,11 @@ async function showToast(page, message, type = 'info') {
     }, { 
       msg: message, 
       msgType: type, 
-      progress: currentProcessingCount, 
-      total: totalMembers, 
-      logs: logMessages 
+      progress: progress, 
+      total: total, 
+      logs: logs,
+      className: className,
+      isMultiTab: isMultiTabMode
     });
 
   } catch (error) {
@@ -86,27 +197,77 @@ async function showToast(page, message, type = 'info') {
 }
 
 // Function to add log message
-function addLogMessage(message) {
+function addLogMessage(message, className = null) {
   const timestamp = new Date().toLocaleTimeString();
-  logMessages.push(`[${timestamp}] ${message}`);
-  // Keep only last 20 messages
-  if (logMessages.length > 20) {
-    logMessages = logMessages.slice(-20);
+  const logEntry = `[${timestamp}] ${message}`;
+  
+  if (isMultiTabMode && className && tabData.has(className)) {
+    const data = tabData.get(className);
+    data.logMessages.push(logEntry);
+    // Keep only last 20 messages per tab
+    if (data.logMessages.length > 20) {
+      data.logMessages = data.logMessages.slice(-20);
+    }
+  } else {
+    logMessages.push(logEntry);
+    // Keep only last 20 messages
+    if (logMessages.length > 20) {
+      logMessages = logMessages.slice(-20);
+    }
+  }
+}
+
+// Function to initialize tab data for a class
+function initializeTabData(className, page) {
+  tabData.set(className, {
+    page: page,
+    currentCount: 0,
+    totalMembers: 0,
+    logMessages: []
+  });
+}
+
+// Function to update tab processing count
+function updateTabProcessingCount(className, current, total = null) {
+  if (tabData.has(className)) {
+    const data = tabData.get(className);
+    data.currentCount = current;
+    if (total !== null) {
+      data.totalMembers = total;
+    }
   }
 }
 
 // Function to save member processing data to database
-async function saveMemberProcessingData(page, memberData) {
+async function saveMemberProcessingData(page, memberData, className = null) {
   try {
     await saveMemberLog(memberData);
-    addLogMessage(`📝 Saved member log: ${memberData.memberName}`);
-    await showToast(page, `📝 Saved log for ${memberData.memberName}`, 'info');
+    addLogMessage(`📝 Saved member log: ${memberData.memberName}`, className);
+    await showToast(page, `📝 Saved log for ${memberData.memberName}`, 'info', className);
   } catch (error) {
     console.error('❌ Error saving member log:', error.message);
-    addLogMessage(`❌ Failed to save log: ${error.message}`);
-    await showToast(page, `❌ Failed to save log`, 'error');
+    addLogMessage(`❌ Failed to save log: ${error.message}`, className);
+    await showToast(page, `❌ Failed to save log`, 'error', className);
   }
 }
+// Function to decline member directly without feedback
+async function declineDirectly(page, memberCard) {
+  try {
+    console.log("🔄 Starting direct decline process...");
+    
+    // Find the decline button directly
+    const declineButton = await memberCard.$('[aria-label*="Decline"]');
+    if (declineButton) {
+      await declineButton.click();
+      console.log("✅ Direct decline button clicked");
+    } else {
+      console.log("❌ Decline button not found");
+    }
+  } catch (error) {
+    console.error("❌ Error in direct decline:", error.message);
+  }
+}
+
 // Function to decline member with feedback
 async function declineWithFeedback(page, memberCard, declineReason) {
   try {
@@ -269,12 +430,23 @@ async function declineWithFeedback(page, memberCard, declineReason) {
   }
 }
 
+// Function to decline member based on configuration
+async function declineMember(page, memberCard, declineReason) {
+  if (config.DECLINE_WITH_FEEDBACK) {
+    console.log("📝 Using decline with feedback (config: DECLINE_WITH_FEEDBACK = true)");
+    await declineWithFeedback(page, memberCard, declineReason);
+  } else {
+    console.log("⚡ Using direct decline (config: DECLINE_WITH_FEEDBACK = false)");
+    await declineDirectly(page, memberCard);
+  }
+}
+
 // Function to scrape member requests and handle approval/decline
-async function scrapeMemberRequests(page) {
+async function scrapeMemberRequests(page, className = null) {
   try {
     console.log("🔍 Looking for member requests...");
-    addLogMessage(config.INFO_LOOKING);
-    await showToast(page, config.INFO_LOOKING, 'info');
+    addLogMessage(config.INFO_LOOKING, className);
+    await showToast(page, config.INFO_LOOKING, 'info', className);
     
     // Wait for member request elements to load - look for the actual member request cards
     await page.waitForSelector('[aria-label*="Approve"]', { timeout: 10000 });
@@ -284,18 +456,22 @@ async function scrapeMemberRequests(page) {
     console.log(`Found ${approveButtons.length} member request(s)`);
     
     // Set total members for progress tracking
-    totalMembers = approveButtons.length;
-    currentProcessingCount = 0;
+    if (isMultiTabMode && className) {
+      updateTabProcessingCount(className, 0, approveButtons.length);
+    } else {
+      totalMembers = approveButtons.length;
+      currentProcessingCount = 0;
+    }
     
-    if (totalMembers === 0) {
+    if (approveButtons.length === 0) {
       console.log("❌ No member requests found");
-      addLogMessage(`${config.INFO_NO_MEMBERS} - will retry in 10 minutes`);
-      await showToast(page, config.INFO_NO_MEMBERS, 'info');
+      addLogMessage(`${config.INFO_NO_MEMBERS} - will retry in 10 minutes`, className);
+      await showToast(page, config.INFO_NO_MEMBERS, 'info', className);
       return { noMembers: true };
     }
     
-    addLogMessage(`Found ${totalMembers} member request(s)`);
-    await showToast(page, `Found ${totalMembers} member request(s)`, 'info');
+    addLogMessage(`Found ${approveButtons.length} member request(s)`, className);
+    await showToast(page, `Found ${approveButtons.length} member request(s)`, 'info', className);
     
     // Get the parent containers of the approve buttons (these are the member request cards)
     const memberRequests = [];
@@ -311,10 +487,18 @@ async function scrapeMemberRequests(page) {
     }
     
     for (let i = 0; i < memberRequests.length; i++) {
-      currentProcessingCount = i + 1;
-      console.log(`\n--- Processing Member Request ${currentProcessingCount}/${totalMembers} ---`);
-      addLogMessage(`Processing member ${currentProcessingCount}/${totalMembers}`);
-      await showToast(page, `Processing member ${currentProcessingCount}/${totalMembers}`, 'info');
+      const currentCount = i + 1;
+      const totalCount = memberRequests.length;
+      
+      if (isMultiTabMode && className) {
+        updateTabProcessingCount(className, currentCount);
+      } else {
+        currentProcessingCount = currentCount;
+      }
+      
+      console.log(`\n--- Processing Member Request ${currentCount}/${totalCount} ---`);
+      addLogMessage(`Processing member ${currentCount}/${totalCount}`, className);
+      await showToast(page, `Processing member ${currentCount}/${totalCount}`, 'info', className);
       
       try {
         // Extract member name and user ID from approve button aria-label and profile link
@@ -390,7 +574,7 @@ async function scrapeMemberRequests(page) {
         }
         
         console.log(`👤 Member Name: ${memberName}`);
-        addLogMessage(`Processing: ${memberName}`);
+        addLogMessage(`Processing: ${memberName}`, className);
         
         // Initialize member data object for database logging
         const memberData = {
@@ -470,21 +654,36 @@ async function scrapeMemberRequests(page) {
               console.log("🔍 Checking payment approval in database...");
               
               try {
+                // Get the correct eligible product IDs for this class
+                let eligibleProductIds;
+                if (isMultiTabMode && className) {
+                  eligibleProductIds = config.CLASSES[className].ELIGIBLE_PRODUCT_IDS;
+                } else {
+                  eligibleProductIds = config.ELIGIBLE_PRODUCT_IDS;
+                }
+                
+                // Temporarily set the config for this check
+                const originalEligibleIds = config.ELIGIBLE_PRODUCT_IDS;
+                config.ELIGIBLE_PRODUCT_IDS = eligibleProductIds;
+                
                 // Check database for payment approval and pass Facebook user ID
                 const dbResult = await processPaymentApproval(phoneNumber, transactionId, facebookUserId);
+                
+                // Restore original config
+                config.ELIGIBLE_PRODUCT_IDS = originalEligibleIds;
                 
                 if (dbResult.status === 'approved') {
                   console.log("✅ Payment verified in database - APPROVING member");
                   console.log(`✅ Approved ID stored: ${dbResult.approvedId}`);
-                  addLogMessage(`✅ APPROVED: ${memberName}`);
-                  await showToast(page, `✅ APPROVED: ${memberName}`, 'success');
+                  addLogMessage(`✅ APPROVED: ${memberName}`, className);
+                  await showToast(page, `✅ APPROVED: ${memberName}`, 'success', className);
                   
                   // Update member data for approved status
                   memberData.approvalStatus = 'approved';
                   memberData.memberUserId = dbResult.approvedId;
                   
                   // Save member data to database
-                  await saveMemberProcessingData(page, memberData);
+                  await saveMemberProcessingData(page, memberData, className);
                   
                   await approveButton.click();
                   console.log("✅ Member approved and payment confirmed");
@@ -492,31 +691,31 @@ async function scrapeMemberRequests(page) {
                   console.log("❌ Payment not found or not approved in database - DECLINING member");
                   if (dbResult.declineReason) {
                     console.log(`📝 Decline reason: ${dbResult.declineReason}`);
-                    addLogMessage(`❌ DECLINED: ${memberName} - ${dbResult.declineReason}`);
-                    await showToast(page, `❌ DECLINED: ${memberName}`, 'error');
+                    addLogMessage(`❌ DECLINED: ${memberName} - ${dbResult.declineReason}`, className);
+                    await showToast(page, `❌ DECLINED: ${memberName}`, 'error', className);
                     
                     // Update member data for declined status
                     memberData.approvalStatus = 'declined';
                     memberData.declineReason = dbResult.declineReason;
                     
                     // Save member data to database
-                    await saveMemberProcessingData(page, memberData);
+                    await saveMemberProcessingData(page, memberData, className);
                     
-                    // Use enhanced decline with feedback
-                    await declineWithFeedback(page, memberRequests[i], dbResult.declineReason);
+                    // Use configured decline method
+                    await declineMember(page, memberRequests[i], dbResult.declineReason);
                   } else {
                     // Fallback to simple decline
                   await declineButton.click();
                     console.log("✅ Fallback: Simple decline button clicked");
-                    addLogMessage(`❌ DECLINE FAILED: ${memberName}`);
-                    await showToast(page, `❌ DECLINE FAILED: ${memberName}`, 'error');
+                    addLogMessage(`❌ DECLINE FAILED: ${memberName}`, className);
+                    await showToast(page, `❌ DECLINE FAILED: ${memberName}`, 'error', className);
                     
                     // Update member data for decline failure
                     memberData.approvalStatus = 'decline_failed';
                     memberData.declineReason = 'Decline button click failed';
                     
                     // Save member data to database
-                    await saveMemberProcessingData(page, memberData);
+                    await saveMemberProcessingData(page, memberData, className);
                     
                   console.log("❌ Member declined due to payment verification failure");
                   }
@@ -525,17 +724,17 @@ async function scrapeMemberRequests(page) {
                 console.error("❌ Database error during payment check:", dbError.message);
                 console.log("❌ Declining member due to database error");
                 const dbErrorMessage = config.DECLINE_DATABASE_ERROR;
-                addLogMessage(`❌ DB ERROR: ${memberName}`);
-                await showToast(page, `❌ DB ERROR: ${memberName}`, 'error');
+                addLogMessage(`❌ DB ERROR: ${memberName}`, className);
+                await showToast(page, `❌ DB ERROR: ${memberName}`, 'error', className);
                 
                 // Update member data for database error
                 memberData.approvalStatus = 'database_error';
                 memberData.declineReason = dbErrorMessage;
                 
                 // Save member data to database
-                await saveMemberProcessingData(page, memberData);
+                await saveMemberProcessingData(page, memberData, className);
                 
-                await declineWithFeedback(page, memberRequests[i], dbErrorMessage);
+                await declineMember(page, memberRequests[i], dbErrorMessage);
               }
             } else {
               console.log("❌ Missing transaction ID or phone number - DECLINING");
@@ -549,8 +748,8 @@ async function scrapeMemberRequests(page) {
               }else{
                 dbErrorMessage = config.DECLINE_MISSING_BOTH;
               }
-              addLogMessage(`❌ MISSING INFO: ${memberName} - ${dbErrorMessage}`);
-              await showToast(page, `❌ MISSING INFO: ${memberName}`, 'error');
+              addLogMessage(`❌ MISSING INFO: ${memberName} - ${dbErrorMessage}`, className);
+              await showToast(page, `❌ MISSING INFO: ${memberName}`, 'error', className);
               
               // Update member data with available info and missing info status
               memberData.memberQA = answers;
@@ -560,24 +759,24 @@ async function scrapeMemberRequests(page) {
               memberData.declineReason = dbErrorMessage;
               
               // Save member data to database
-              await saveMemberProcessingData(page, memberData);
+              await saveMemberProcessingData(page, memberData, className);
               
-              await declineWithFeedback(page,memberRequests[i],dbErrorMessage);
+              await declineMember(page, memberRequests[i], dbErrorMessage);
               console.log("❌ Decline button clicked");
             }
           } else {
             console.log("❌ Member has no answers - DECLINING");
-            addLogMessage(`❌ NO ANSWERS: ${memberName}`);
-            await showToast(page, `❌ NO ANSWERS: ${memberName}`, 'error');
+            addLogMessage(`❌ NO ANSWERS: ${memberName}`, className);
+            await showToast(page, `❌ NO ANSWERS: ${memberName}`, 'error', className);
             
             // Update member data for no answers status
             memberData.approvalStatus = 'no_answers';
             memberData.declineReason = config.DECLINE_NO_ANSWERS;
             
             // Save member data to database
-            await saveMemberProcessingData(page, memberData);
+            await saveMemberProcessingData(page, memberData, className);
             const dbErrorMessage = memberData.declineReason;
-            await declineWithFeedback(page,memberRequests[i],dbErrorMessage)
+            await declineMember(page, memberRequests[i], dbErrorMessage);
             console.log("❌ Decline button clicked");
           }
           
@@ -586,30 +785,155 @@ async function scrapeMemberRequests(page) {
           await page.waitForTimeout(config.WAIT_BETWEEN_ACTIONS);
         } else {
           console.log("⚠️ Could not find approve/decline buttons for this member");
-          addLogMessage(`⚠️ NO BUTTONS: ${memberName}`);
-          await showToast(page, `⚠️ NO BUTTONS: ${memberName}`, 'error');
+          addLogMessage(`⚠️ NO BUTTONS: ${memberName}`, className);
+          await showToast(page, `⚠️ NO BUTTONS: ${memberName}`, 'error', className);
         }
         
       } catch (memberError) {
         console.error(`❌ Error processing member request ${i + 1}:`, memberError.message);
-        addLogMessage(`❌ PROCESSING ERROR: ${memberError.message}`);
-        await showToast(page, `❌ PROCESSING ERROR`, 'error');
+        addLogMessage(`❌ PROCESSING ERROR: ${memberError.message}`, className);
+        await showToast(page, `❌ PROCESSING ERROR`, 'error', className);
       }
     }
     
     // All members processed
-    addLogMessage(`✅ ${config.SUCCESS_COMPLETED} ${totalMembers} members`);
-    await showToast(page, `✅ ${config.SUCCESS_COMPLETED} ${totalMembers} members`, 'success');
+    const processedCount = isMultiTabMode && className ? 
+      (tabData.has(className) ? tabData.get(className).totalMembers : memberRequests.length) : 
+      totalMembers;
+    addLogMessage(`✅ ${config.SUCCESS_COMPLETED} ${processedCount} members`, className);
+    await showToast(page, `✅ ${config.SUCCESS_COMPLETED} ${processedCount} members`, 'success', className);
     
   } catch (error) {
     console.error("❌ Error scraping member requests:", error.message);
   }
 }
 
-// Main automation loop with sleep/retry cycle
-async function startAutomationLoop(page) {
+// Class-specific automation loop with sleep/retry cycle
+async function startClassAutomationLoop(page, className) {
   let cycleCount = 0;
   
+  console.log(`🎯 Starting automation loop for: ${className}`);
+  addLogMessage(`Starting automation loop for: ${className}`, className);
+  await showToast(page, `Starting automation for ${className}`, 'info', className);
+  
+  while (true) {
+    try {
+      cycleCount++;
+      console.log(`\n🔄 [${className}] Starting automation cycle ${cycleCount}`);
+      addLogMessage(`Starting automation cycle ${cycleCount}`, className);
+      await showToast(page, `Starting automation cycle ${cycleCount}`, 'info', className);
+      
+      // Scrape member request information for this specific class
+      const result = await scrapeMemberRequests(page, className);
+      
+      if (result && result.noMembers) {
+        console.log(`💤 [${className}] No members found, sleeping for ${config.WAIT_NO_MEMBERS/60000} minutes...`);
+        addLogMessage(`No members found, sleeping for ${config.WAIT_NO_MEMBERS/60000} minutes...`, className);
+        await showToast(page, "No members found, sleeping...", 'info', className);
+        
+        // Sleep for configured time
+        await page.waitForTimeout(config.WAIT_NO_MEMBERS);
+        
+        console.log(`⏰ [${className}] Sleep period ended, checking for new members...`);
+        addLogMessage("Sleep period ended, checking for new members...", className);
+        await showToast(page, "Checking for new members...", 'info', className);
+        
+        // Refresh the page to check for new members
+        await page.reload({ waitUntil: 'domcontentloaded' });
+        await page.waitForTimeout(5000);
+      } else {
+        // Members were processed, wait a bit before next cycle
+        console.log(`⏳ [${className}] Waiting ${config.WAIT_BETWEEN_MEMBERS/1000} seconds before next check...`);
+        addLogMessage(`Waiting ${config.WAIT_BETWEEN_MEMBERS/1000} seconds before next check...`, className);
+        await showToast(page, config.INFO_WAITING, 'info', className);
+        await page.waitForTimeout(config.WAIT_BETWEEN_MEMBERS);
+        
+        // Refresh the page to check for new members
+        await page.reload({ waitUntil: 'domcontentloaded' });
+        await page.waitForTimeout(5000);
+      }
+      
+    } catch (error) {
+      console.error(`❌ [${className}] Error in automation loop:`, error.message);
+      addLogMessage(`❌ Automation loop error: ${error.message}`, className);
+      await showToast(page, `❌ Automation loop error`, 'error', className);
+      
+      // Wait configured time before retrying
+      console.log(`⏳ [${className}] Waiting ${config.WAIT_ON_ERROR/60000} minutes before retrying...`);
+      await page.waitForTimeout(config.WAIT_ON_ERROR);
+    }
+  }
+}
+
+// Multi-class automation function
+async function startMultiClassAutomation(context, chromePath, userDataDir, profile) {
+  console.log('\n🚀 Starting Multi-Class Automation');
+  console.log('===================================');
+  
+  // Set multi-tab mode
+  isMultiTabMode = true;
+  
+  // Get all configured classes
+  const availableClasses = config.getAvailableClasses();
+  const configuredClasses = availableClasses.filter(className => {
+    const classConfig = config.CLASSES[className];
+    return classConfig.GROUP_URL && classConfig.ELIGIBLE_PRODUCT_IDS.length > 0;
+  });
+  
+  console.log(`📋 Processing ${configuredClasses.length} configured classes:`);
+  configuredClasses.forEach(className => {
+    console.log(`  - ${className}`);
+  });
+  
+  // Create tabs and start automation for each class
+  const automationPromises = [];
+  
+  for (const className of configuredClasses) {
+    try {
+      console.log(`\n🔗 Opening tab for: ${className}`);
+      
+      // Create new page for this class
+      const page = await context.newPage();
+      
+      // Initialize tab data
+      initializeTabData(className, page);
+      
+      // Navigate to the class-specific group URL
+      const classConfig = config.CLASSES[className];
+      console.log(`📍 [${className}] Navigating to: ${classConfig.GROUP_URL}`);
+      
+      await page.goto(classConfig.GROUP_URL, {
+        waitUntil: "domcontentloaded",
+        timeout: 30000,
+      });
+      
+      console.log(`✅ [${className}] Tab opened and navigated successfully`);
+      
+      // Wait a bit for the page to load
+      await page.waitForTimeout(3000);
+      
+      // Start automation loop for this class (don't await - run in parallel)
+      const automationPromise = startClassAutomationLoop(page, className);
+      automationPromises.push(automationPromise);
+      
+      // Small delay between opening tabs
+      await new Promise(resolve => setTimeout(resolve, 2000));
+      
+    } catch (error) {
+      console.error(`❌ Error setting up automation for ${className}:`, error.message);
+    }
+  }
+  
+  console.log(`\n🎯 All ${configuredClasses.length} automation loops started!`);
+  console.log('Each class is now processing members in parallel.');
+  
+  // Wait for all automation loops (they run indefinitely)
+  await Promise.all(automationPromises);
+}
+
+// Main automation loop with sleep/retry cycle (for single class)
+async function startAutomationLoop(page) {
+  let cycleCount = 0;
   
   while (true) {
     try {
@@ -662,18 +986,37 @@ async function startAutomationLoop(page) {
 
 (async () => {
   try {
+    // First, prompt user to select a class
+    console.log("🚀 Starting Facebook Automation System");
+    console.log("======================================");
+    
+    const selectedClass = await promptClassSelection();
+    if (!selectedClass) {
+      console.log("\n❌ No class selected or class not configured. Exiting...");
+      process.exit(1);
+    }
+    
+    // Handle multi-class selection
+    if (selectedClass === 'ALL_CLASSES') {
+      console.log(`\n🎯 Starting automation for: ALL CLASSES (Multi-tab mode)`);
+      console.log("======================================\n");
+    } else {
+      console.log(`\n🎯 Starting automation for: ${selectedClass}`);
+      console.log(`📍 Group URL: ${config.GROUP_URL}`);
+      console.log(`🆔 Eligible Product IDs: ${config.ELIGIBLE_PRODUCT_IDS.length} items`);
+      console.log("======================================\n");
+    }
+
     // Path to your Chrome executable (adjust if needed)
-    const chromePath =
-      "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"; // macOS
-    // Windows example:
-    // const chromePath = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe";
+    const chromePath = "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"; // Windows
+    // macOS example:
+    // const chromePath = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
 
     // Path to the user data directory where Chrome stores profiles
     // Replace with your actual path
-    const userDataDir =
-      "/Users/aweshislam/Library/Application Support/Google/Chrome"; // macOS
-    // Windows example:
-    // const userDataDir = "C:\\Users\\your-username\\AppData\\Local\\Google\\Chrome\\User Data";
+    const userDataDir = "C:\\Users\\This-Pc\\AppData\\Local\\Google\\Chrome\\User Data"; // Windows
+    // macOS example:
+    // const userDataDir = "/Users/aweshislam/Library/Application Support/Google/Chrome";
 
     // The profile you want to use (e.g., "Default", "Profile 1", "Profile 2")
     let profile = "afs"; // Changed to Default to avoid profile conflicts
@@ -739,74 +1082,82 @@ async function startAutomationLoop(page) {
 
     console.log("Chrome launched successfully!");
 
-    // Check existing pages
-    const pages = context.pages();
-    console.log("Existing pages:", pages.length);
-    
-    // Use existing page if available, otherwise create new one
-    let page;
-    if (pages.length > 0) {
-      page = pages[0];
-      console.log("Using existing page");
+    // Handle multi-class vs single class automation
+    if (selectedClass === 'ALL_CLASSES') {
+      // Start multi-class automation
+      await startMultiClassAutomation(context, chromePath, userDataDir, profile);
     } else {
-      page = await context.newPage();
-      console.log("Created new page");
-    }
-
-    // Go to Facebook with timeout and error handling
-    console.log("Navigating to Facebook...");
-    try {
-      await page.goto(
-        config.GROUP_URL,
-        {
-          waitUntil: "domcontentloaded",
-          timeout: 30000,
-        }
-      );
-      console.log("Facebook opened successfully with profile:", profile);
+      // Single class automation - use existing logic
       
-      // Wait a bit to see the page
-      await page.waitForTimeout(3000);
+      // Check existing pages
+      const pages = context.pages();
+      console.log("Existing pages:", pages.length);
       
-      // Check if we're actually on Facebook
-      const currentUrl = page.url();
-      console.log("Current URL:", currentUrl);
-      
-      if (currentUrl.includes('facebook.com')) {
-        console.log("✅ Successfully navigated to Facebook!");
-        
-        // Wait for the page to fully load
-        await page.waitForTimeout(5000);
-        
-        // Start the main automation loop
-        await startAutomationLoop(page);
-        
+      // Use existing page if available, otherwise create new one
+      let page;
+      if (pages.length > 0) {
+        page = pages[0];
+        console.log("Using existing page");
       } else {
-        console.log("⚠️ Warning: Not on Facebook. Current URL:", currentUrl);
+        page = await context.newPage();
+        console.log("Created new page");
       }
-      
-    } catch (navigationError) {
-      console.error("⚠️ Navigation timeout, but checking if page loaded:", navigationError.message);
-      console.log("Current URL:", page.url());
-      
-      // Try to get page title for debugging
+
+      // Go to Facebook with timeout and error handling
+      console.log("Navigating to Facebook...");
       try {
-        const title = await page.title();
-        console.log("Page title:", title);
+        await page.goto(
+          config.GROUP_URL,
+          {
+            waitUntil: "domcontentloaded",
+            timeout: 30000,
+          }
+        );
+        console.log("Facebook opened successfully with profile:", profile);
         
-        // If we're on Facebook, continue with automation
-        if (page.url().includes('facebook.com')) {
-          console.log("✅ Page loaded successfully, continuing with automation...");
+        // Wait a bit to see the page
+        await page.waitForTimeout(3000);
+        
+        // Check if we're actually on Facebook
+        const currentUrl = page.url();
+        console.log("Current URL:", currentUrl);
+        
+        if (currentUrl.includes('facebook.com')) {
+          console.log("✅ Successfully navigated to Facebook!");
           
           // Wait for the page to fully load
           await page.waitForTimeout(5000);
           
           // Start the main automation loop
           await startAutomationLoop(page);
+          
+        } else {
+          console.log("⚠️ Warning: Not on Facebook. Current URL:", currentUrl);
         }
-      } catch (titleError) {
-        console.log("Could not get page title:", titleError.message);
-        throw navigationError;
+        
+      } catch (navigationError) {
+        console.error("⚠️ Navigation timeout, but checking if page loaded:", navigationError.message);
+        console.log("Current URL:", page.url());
+        
+        // Try to get page title for debugging
+        try {
+          const title = await page.title();
+          console.log("Page title:", title);
+          
+          // If we're on Facebook, continue with automation
+          if (page.url().includes('facebook.com')) {
+            console.log("✅ Page loaded successfully, continuing with automation...");
+            
+            // Wait for the page to fully load
+            await page.waitForTimeout(5000);
+            
+            // Start the main automation loop
+            await startAutomationLoop(page);
+          }
+        } catch (titleError) {
+          console.log("Could not get page title:", titleError.message);
+          throw navigationError;
+        }
       }
     }
     

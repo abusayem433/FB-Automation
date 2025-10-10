@@ -11,7 +11,7 @@
   "dependencies": {
     "dotenv": "^17.2.2",
     "pg": "^8.11.3",
-    "playwright": "^1.40.0"
+    "playwright": "^1.55.1"
   },
   "keywords": [
     "automation",
