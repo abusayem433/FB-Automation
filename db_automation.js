@@ -19,27 +19,6 @@ const dbConfig = {
 // Create connection pool
 const pool = new Pool(dbConfig);
 
-// Function to log decline reasons
-function logDeclineReason(phone, transactionId, declineReason, facebookUserId = '') {
-  try {
-    const logEntry = {
-      timestamp: new Date().toISOString(),
-      phone: phone,
-      transactionId: transactionId,
-      facebookUserId: facebookUserId,
-      declineReason: declineReason
-    };
-    
-    const logFile = path.join(__dirname, 'decline_reasons.log');
-    const logLine = JSON.stringify(logEntry) + '\n';
-    
-    fs.appendFileSync(logFile, logLine, 'utf8');
-    console.log(`📝 Decline reason logged to file`);
-  } catch (error) {
-    console.error('Error logging decline reason:', error.message);
-  }
-}
-
 // Function to check and process payment approval
 async function processPaymentApproval(phone = '', transactionId = '', approvedId = '') {
   const client = await pool.connect();
@@ -68,9 +47,6 @@ async function processPaymentApproval(phone = '', transactionId = '', approvedId
         
         const declineReason = config.DECLINE_PRODUCT_NOT_ELIGIBLE;
         
-        // Log the decline reason
-        logDeclineReason(phone, transactionId, declineReason, approvedId);
-        
         return { 
           status: 'declined', 
           rowCount: 0, 
@@ -86,9 +62,6 @@ async function processPaymentApproval(phone = '', transactionId = '', approvedId
                 console.log(`❌ Transaction ID already approved - DECLINING`);
                 
                 const declineReason = config.DECLINE_ALREADY_APPROVED;
-        
-        // Log the decline reason
-        logDeclineReason(phone, transactionId, declineReason, approvedId);
         
         return { 
           status: 'declined', 
@@ -125,9 +98,6 @@ async function processPaymentApproval(phone = '', transactionId = '', approvedId
               console.log(`❌ Transaction ID not found - DECLINING payment`);
               
               const declineReason = config.DECLINE_TRANSACTION_NOT_FOUND;
-      
-      // Log the decline reason
-      logDeclineReason(phone, transactionId, declineReason, approvedId);
       
       return { 
         status: 'declined', 

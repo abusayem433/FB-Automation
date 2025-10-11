@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": "2025-10-11T17:40:36.846Z",
+    "date": "10/11/2025, 11:40:36 PM",
+    "className": "Class 6",
+    "memberName": "Nowshin Anjum Samiha",
+    "facebookUserId": "61582093408025",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-11T17:40:58.993Z",
+    "date": "10/11/2025, 11:40:58 PM",
+    "className": "Class 6",
+    "memberName": "Lucky Bhattacharjee",
+    "facebookUserId": "61581984843524",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-11T17:41:09.198Z",
+    "date": "10/11/2025, 11:41:09 PM",
+    "className": "Class 6",
+    "memberName": "Ayesha",
+    "facebookUserId": "61577841929571",
+    "memberUserId": "",
+    "memberPhone": "01626950951",
+    "memberTrxId": "395339df-8c4d-42ab-938b-4e3c8146815",
+    "memberQA": {
+      "তোমার নাম": "Ayesha Siddika",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01626950951",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "395339df-8c4d-42ab-938b-4e3c8146815"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-11T17:41:19.312Z",
+    "date": "10/11/2025, 11:41:19 PM",
+    "className": "Class 6",
+    "memberName": "Rahul Sing",
+    "facebookUserId": "61575228713696",
+    "memberUserId": "",
+    "memberPhone": "01616077926",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Rabbi Mehedi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01616077926"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-11T17:41:41.360Z",
+    "date": "10/11/2025, 11:41:41 PM",
+    "className": "Class 6",
+    "memberName": "Zunaed Ferdaus",
+    "facebookUserId": "61559416466831",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-11T17:41:56.961Z",
+    "date": "10/11/2025, 11:41:56 PM",
+    "className": "Class 6",
+    "memberName": "Mohammed Rashedul Islam",
+    "facebookUserId": "100035331197621",
+    "memberUserId": "",
+    "memberPhone": "01813794245",
+    "memberTrxId": "009cea59-88b7-4fb5-bee5-1740c52300d9",
+    "memberQA": {
+      "তোমার নাম": "MD. Zawadul Islam.",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01813794245",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "009cea59-88b7-4fb5-bee5-1740c52300d9"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-11T17:42:00.804Z",
+    "date": "10/11/2025, 11:42:00 PM",
+    "className": "Class 6",
+    "memberName": "Md Abdul Karim",
+    "facebookUserId": "100047298126167",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-11T17:42:04.734Z",
+    "date": "10/11/2025, 11:42:04 PM",
+    "className": "Class 6",
+    "memberName": "Sultana Easmin Juli",
+    "facebookUserId": "100063264218768",
+    "memberUserId": "",
+    "memberPhone": "fae2b5a9-c93d-4952-9a32-73c81b3d3d3f",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "nothing",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "fae2b5a9-c93d-4952-9a32-73c81b3d3d3f"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-11T17:42:08.844Z",
+    "date": "10/11/2025, 11:42:08 PM",
+    "className": "Class 6",
+    "memberName": "Sanchaita Saha",
+    "facebookUserId": "100035082918815",
+    "memberUserId": "",
+    "memberPhone": "0171502797",
+    "memberTrxId": "prottasha Sarker",
+    "memberQA": {
+      "তোমার নাম": "Prottasha sarker",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "0171502797",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "prottasha Sarker"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  }
+]

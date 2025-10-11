@@ -1,6 +1,7 @@
 // filename: facebook-profile.js
 const { chromium } = require("playwright");
 const fs = require("fs");
+const path = require("path");
 const readline = require("readline");
 const { processPaymentApproval, saveMemberLog } = require("./db_automation.js");
 const config = require("./config.js");
@@ -13,6 +14,104 @@ let logMessages = [];
 // Multi-tab tracking system
 let tabData = new Map(); // Map to store data for each tab (className -> {page, currentCount, totalMembers, logMessages})
 let isMultiTabMode = false;
+
+// JSON Logging Functions
+// Create logs directory if it doesn't exist
+const logsDir = path.join(__dirname, 'logs');
+if (!fs.existsSync(logsDir)) {
+  fs.mkdirSync(logsDir);
+}
+
+// Function to sanitize class name for file naming
+function sanitizeClassName(className) {
+  return className.replace(/\s+/g, '_').replace(/[^a-zA-Z0-9_]/g, '');
+}
+
+// Function to log approval to JSON file
+function logApprovalToJSON(className, memberData) {
+  try {
+    const sanitizedClassName = sanitizeClassName(className);
+    const logFile = path.join(logsDir, `${sanitizedClassName}_approvals.json`);
+    
+    // Create log entry with all available data
+    const logEntry = {
+      timestamp: new Date().toISOString(),
+      date: new Date().toLocaleString(),
+      className: className,
+      memberName: memberData.memberName || 'Unknown',
+      facebookUserId: memberData.facebookUserId || '',
+      memberUserId: memberData.memberUserId || '',
+      memberPhone: memberData.memberPhone || '',
+      memberTrxId: memberData.memberTrxId || '',
+      memberQA: memberData.memberQA || {},
+      approvalStatus: 'approved',
+      declineReason: null,
+      processedBy: 'FB-Automation'
+    };
+    
+    // Read existing data or create new array
+    let approvals = [];
+    if (fs.existsSync(logFile)) {
+      const fileContent = fs.readFileSync(logFile, 'utf8');
+      if (fileContent.trim()) {
+        approvals = JSON.parse(fileContent);
+      }
+    }
+    
+    // Add new entry
+    approvals.push(logEntry);
+    
+    // Write back to file with pretty formatting
+    fs.writeFileSync(logFile, JSON.stringify(approvals, null, 2), 'utf8');
+    console.log(`📝 Approval logged to: ${logFile}`);
+    
+  } catch (error) {
+    console.error('❌ Error logging approval to JSON:', error.message);
+  }
+}
+
+// Function to log decline to JSON file
+function logDeclineToJSON(className, memberData) {
+  try {
+    const sanitizedClassName = sanitizeClassName(className);
+    const logFile = path.join(logsDir, `${sanitizedClassName}_declines.json`);
+    
+    // Create log entry with all available data
+    const logEntry = {
+      timestamp: new Date().toISOString(),
+      date: new Date().toLocaleString(),
+      className: className,
+      memberName: memberData.memberName || 'Unknown',
+      facebookUserId: memberData.facebookUserId || '',
+      memberUserId: memberData.memberUserId || '',
+      memberPhone: memberData.memberPhone || '',
+      memberTrxId: memberData.memberTrxId || '',
+      memberQA: memberData.memberQA || {},
+      approvalStatus: memberData.approvalStatus || 'declined',
+      declineReason: memberData.declineReason || 'Unknown reason',
+      processedBy: 'FB-Automation'
+    };
+    
+    // Read existing data or create new array
+    let declines = [];
+    if (fs.existsSync(logFile)) {
+      const fileContent = fs.readFileSync(logFile, 'utf8');
+      if (fileContent.trim()) {
+        declines = JSON.parse(fileContent);
+      }
+    }
+    
+    // Add new entry
+    declines.push(logEntry);
+    
+    // Write back to file with pretty formatting
+    fs.writeFileSync(logFile, JSON.stringify(declines, null, 2), 'utf8');
+    console.log(`📝 Decline logged to: ${logFile}`);
+    
+  } catch (error) {
+    console.error('❌ Error logging decline to JSON:', error.message);
+  }
+}
 
 // Function to prompt user for class selection
 function promptClassSelection() {
@@ -685,6 +784,12 @@ async function scrapeMemberRequests(page, className = null) {
                   // Save member data to database
                   await saveMemberProcessingData(page, memberData, className);
                   
+                  // Log approval to JSON file
+                  const approvalClassName = isMultiTabMode && className ? className : config.SELECTED_CLASS;
+                  if (approvalClassName) {
+                    logApprovalToJSON(approvalClassName, memberData);
+                  }
+                  
                   await approveButton.click();
                   console.log("✅ Member approved and payment confirmed");
                 } else {
@@ -700,6 +805,12 @@ async function scrapeMemberRequests(page, className = null) {
                     
                     // Save member data to database
                     await saveMemberProcessingData(page, memberData, className);
+                    
+                    // Log decline to JSON file
+                    const declineClassName = isMultiTabMode && className ? className : config.SELECTED_CLASS;
+                    if (declineClassName) {
+                      logDeclineToJSON(declineClassName, memberData);
+                    }
                     
                     // Use configured decline method
                     await declineMember(page, memberRequests[i], dbResult.declineReason);
@@ -734,6 +845,12 @@ async function scrapeMemberRequests(page, className = null) {
                 // Save member data to database
                 await saveMemberProcessingData(page, memberData, className);
                 
+                // Log decline to JSON file
+                const dbErrorClassName = isMultiTabMode && className ? className : config.SELECTED_CLASS;
+                if (dbErrorClassName) {
+                  logDeclineToJSON(dbErrorClassName, memberData);
+                }
+                
                 await declineMember(page, memberRequests[i], dbErrorMessage);
               }
             } else {
@@ -761,6 +878,12 @@ async function scrapeMemberRequests(page, className = null) {
               // Save member data to database
               await saveMemberProcessingData(page, memberData, className);
               
+              // Log decline to JSON file
+              const missingInfoClassName = isMultiTabMode && className ? className : config.SELECTED_CLASS;
+              if (missingInfoClassName) {
+                logDeclineToJSON(missingInfoClassName, memberData);
+              }
+              
               await declineMember(page, memberRequests[i], dbErrorMessage);
               console.log("❌ Decline button clicked");
             }
@@ -775,6 +898,13 @@ async function scrapeMemberRequests(page, className = null) {
             
             // Save member data to database
             await saveMemberProcessingData(page, memberData, className);
+            
+            // Log decline to JSON file
+            const noAnswersClassName = isMultiTabMode && className ? className : config.SELECTED_CLASS;
+            if (noAnswersClassName) {
+              logDeclineToJSON(noAnswersClassName, memberData);
+            }
+            
             const dbErrorMessage = memberData.declineReason;
             await declineMember(page, memberRequests[i], dbErrorMessage);
             console.log("❌ Decline button clicked");
