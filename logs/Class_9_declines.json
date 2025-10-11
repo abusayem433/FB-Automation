@@ -2269,5 +2269,19 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-11T18:50:03.086Z",
+    "date": "10/12/2025, 12:50:03 AM",
+    "className": "Class 9",
+    "memberName": "Mustakim Billah Mayaz",
+    "facebookUserId": "61573556321717",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

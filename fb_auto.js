@@ -337,6 +337,168 @@ function updateTabProcessingCount(className, current, total = null) {
   }
 }
 
+// Function to parse request time and check if it's too recent
+function isRequestTooRecent(timeText) {
+  if (!timeText) return false;
+  
+  const minAgeMinutes = config.MIN_REQUEST_AGE_MINUTES || 3;
+  
+  // Convert text to lowercase for easier matching
+  const text = timeText.toLowerCase();
+  
+  // Check for "a few seconds ago" or similar instant patterns
+  if (text.includes('few seconds') || text.includes('just now') || text.includes('seconds ago')) {
+    console.log(`⏰ Request is too recent: "${timeText}" (less than 1 minute)`);
+    return true;
+  }
+  
+  // Extract minutes from patterns like "1 minute ago", "2 minutes ago", "1m", "2m"
+  const minutePatterns = [
+    /(\d+)\s*minute[s]?\s*ago/i,
+    /(\d+)\s*min[s]?\s*ago/i,
+    /(\d+)m\s*ago/i,
+    /(\d+)\s*m$/i
+  ];
+  
+  for (const pattern of minutePatterns) {
+    const match = text.match(pattern);
+    if (match) {
+      const minutes = parseInt(match[1]);
+      if (minutes < minAgeMinutes) {
+        console.log(`⏰ Request is too recent: "${timeText}" (${minutes} minutes < ${minAgeMinutes} minutes required)`);
+        return true;
+      }
+      console.log(`✅ Request is old enough: "${timeText}" (${minutes} minutes >= ${minAgeMinutes} minutes required)`);
+      return false;
+    }
+  }
+  
+  // If we can't parse it, assume it's old enough (hours, days, weeks, etc.)
+  if (text.includes('hour') || text.includes('day') || text.includes('week') || text.includes('month') || text.includes('year')) {
+    console.log(`✅ Request is old enough: "${timeText}" (more than ${minAgeMinutes} minutes)`);
+    return false;
+  }
+  
+  // If we still can't determine, be conservative and skip it
+  console.log(`⚠️ Could not parse request time: "${timeText}" - skipping to be safe`);
+  return true;
+}
+
+// Function to extract and check request time from member card
+async function checkRequestTime(memberCard) {
+  try {
+    const requestTime = await memberCard.evaluate(el => {
+      // Look for time text in various possible locations
+      const timeSelectors = [
+        'abbr',
+        '[role="link"] span',
+        'span[class*="x193iq5w"]',
+        'span[class*="x1lliihq"]',
+        'span'
+      ];
+      
+      for (const selector of timeSelectors) {
+        const timeElements = el.querySelectorAll(selector);
+        for (const elem of timeElements) {
+          const text = elem.textContent || elem.innerText;
+          // Check if this looks like a time indicator
+          if (text && (
+            text.includes('ago') || 
+            text.includes('minute') || 
+            text.includes('hour') || 
+            text.includes('day') ||
+            text.includes('week') ||
+            text.includes('month') ||
+            /\d+[mhd]/.test(text) // Matches patterns like "3m", "2h", "1d"
+          )) {
+            return text.trim();
+          }
+        }
+      }
+      return null;
+    });
+    
+    if (!requestTime) {
+      // If we can't find the time, assume it's old enough
+      return { shouldSkip: false, requestAge: 'unknown' };
+    }
+    
+    // Parse the time text
+    const text = requestTime.toLowerCase();
+    const minAgeMinutes = config.MIN_REQUEST_AGE_MINUTES || 3;
+    
+    // Check for "a few seconds ago" or similar instant patterns
+    if (text.includes('few seconds') || text.includes('just now') || text.includes('second')) {
+      return { shouldSkip: true, requestAge: '< 1' };
+    }
+    
+    // Extract minutes
+    const minutePatterns = [
+      /(\d+)\s*minute[s]?\s*ago/i,
+      /(\d+)\s*min[s]?\s*ago/i,
+      /(\d+)m\s*ago/i,
+      /(\d+)\s*m\s/i
+    ];
+    
+    for (const pattern of minutePatterns) {
+      const match = text.match(pattern);
+      if (match) {
+        const minutes = parseInt(match[1]);
+        // Skip patterns like "0m", "0d", "0w" which are invalid
+        if (minutes === 0) {
+          console.log(`⚠️ Invalid time pattern: "${requestTime}" - treating as old enough`);
+          return { shouldSkip: false, requestAge: 'invalid-zero' };
+        }
+        if (minutes < minAgeMinutes) {
+          return { shouldSkip: true, requestAge: minutes };
+        }
+        return { shouldSkip: false, requestAge: minutes };
+      }
+    }
+    
+    // Check for hour/day/week patterns (these are definitely old enough)
+    const longTimePatterns = [
+      /(\d+)\s*hour[s]?\s*ago/i,
+      /(\d+)\s*h\s*ago/i,
+      /(\d+)\s*day[s]?\s*ago/i,
+      /(\d+)\s*d\s*ago/i,
+      /(\d+)\s*week[s]?\s*ago/i,
+      /(\d+)\s*w\s*ago/i
+    ];
+    
+    for (const pattern of longTimePatterns) {
+      const match = text.match(pattern);
+      if (match) {
+        const value = parseInt(match[1]);
+        // Skip patterns like "0h", "0d", "0w" which are invalid
+        if (value === 0) {
+          console.log(`⚠️ Invalid time pattern: "${requestTime}" - treating as old enough`);
+          return { shouldSkip: false, requestAge: 'invalid-zero' };
+        }
+        // Any hour, day, or week value >= 1 is definitely old enough
+        console.log(`✅ Request is old enough: "${requestTime}"`);
+        return { shouldSkip: false, requestAge: requestTime };
+      }
+    }
+    
+    // If it includes these words without numbers, assume it's old enough
+    if (text.includes('hour') || text.includes('day') || text.includes('week') || text.includes('month') || text.includes('year')) {
+      console.log(`✅ Request is old enough: "${requestTime}"`);
+      return { shouldSkip: false, requestAge: requestTime };
+    }
+    
+    // If we can't parse it, assume it's old enough (safer to process)
+    console.log(`⚠️ Could not parse time format: "${requestTime}" - treating as old enough`);
+    return { shouldSkip: false, requestAge: 'unknown-format' };
+    
+  } catch (error) {
+    console.log(`⚠️ Error checking request time: ${error.message}`);
+    // If there's an error, don't skip the request
+    return { shouldSkip: false, requestAge: 'error' };
+  }
+}
+
+
 // Function to save member processing data to database
 async function saveMemberProcessingData(page, memberData, className = null) {
   try {
@@ -573,7 +735,7 @@ async function scrapeMemberRequests(page, className = null) {
     await showToast(page, `Found ${approveButtons.length} member request(s)`, 'info', className);
     
     // Get the parent containers of the approve buttons (these are the member request cards)
-    const memberRequests = [];
+    const allMemberRequests = [];
     for (const button of approveButtons) {
       const memberCard = await button.evaluateHandle(el => {
         // Find the parent container that contains the member info
@@ -581,9 +743,45 @@ async function scrapeMemberRequests(page, className = null) {
         return parent;
       });
       if (memberCard) {
-        memberRequests.push(memberCard);
+        allMemberRequests.push(memberCard);
       }
     }
+    
+    // Filter out requests that are less than configured minimum age
+    console.log(`\n⏰ Checking request ages (minimum: ${config.MIN_REQUEST_AGE_MINUTES} minutes)...`);
+    const memberRequests = [];
+    let skippedCount = 0;
+    
+    for (const memberCard of allMemberRequests) {
+      const timeCheck = await checkRequestTime(memberCard);
+      if (!timeCheck.shouldSkip) {
+        memberRequests.push(memberCard);
+      } else {
+        skippedCount++;
+        console.log(`⏩ Skipping request (too recent: ${timeCheck.requestAge} min)`);
+      }
+    }
+    
+    console.log(`✅ Eligible requests: ${memberRequests.length}/${allMemberRequests.length} (Skipped ${skippedCount} recent requests)`);
+    
+    // If all requests were skipped due to being too recent, treat as no members
+    if (memberRequests.length === 0) {
+      console.log(`⚠️ All member requests are too recent (< ${config.MIN_REQUEST_AGE_MINUTES} minutes old)`);
+      addLogMessage(`All requests are too recent - waiting ${config.WAIT_NO_MEMBERS/1000} seconds`, className);
+      await showToast(page, `All requests too recent (< ${config.MIN_REQUEST_AGE_MINUTES} min), waiting...`, 'info', className);
+      return { noMembers: true };
+    }
+    
+    // Update tracking with eligible count
+    if (isMultiTabMode && className) {
+      updateTabProcessingCount(className, 0, memberRequests.length);
+    } else {
+      totalMembers = memberRequests.length;
+      currentProcessingCount = 0;
+    }
+    
+    addLogMessage(`Processing ${memberRequests.length} eligible request(s)`, className);
+    await showToast(page, `Processing ${memberRequests.length} eligible request(s)`, 'info', className);
     
     for (let i = 0; i < memberRequests.length; i++) {
       const currentCount = i + 1;

@@ -428,5 +428,23 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-11T18:56:38.871Z",
+    "date": "10/12/2025, 12:56:38 AM",
+    "className": "Class 7",
+    "memberName": "Tripti Debnath",
+    "facebookUserId": "100050824817177",
+    "memberUserId": "",
+    "memberPhone": "01719943796",
+    "memberTrxId": "Avro Debnath",
+    "memberQA": {
+      "তোমার নাম": "Avro Debnath",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01719943796",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Avro Debnath"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

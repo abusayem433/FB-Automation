@@ -1474,5 +1474,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-11T18:56:12.295Z",
+    "date": "10/12/2025, 12:56:12 AM",
+    "className": "Class 8",
+    "memberName": "Kamal Hossain",
+    "facebookUserId": "61565802423867",
+    "memberUserId": "61565802423867",
+    "memberPhone": "01857322087",
+    "memberTrxId": "f95e2165-2c01-4560-a86a-ee97c3be2d2b",
+    "memberQA": {
+      "তোমার নাম": "Md. Yeamin Arafat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01857322087",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f95e2165-2c01-4560-a86a-ee97c3be2d2b"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

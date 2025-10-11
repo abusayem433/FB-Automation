@@ -35,7 +35,8 @@ const config = {
       ELIGIBLE_PRODUCT_IDS: [
         "19e7c5ff-d9c1-43f1-8e0e-98d4eaf1d26e", // Class 9 Diamond
         "b6e8dd78-252b-4f84-912e-6f971afaea4b", // Class 9 Gold July
-        "e225c7d2-3d32-4c15-8952-6326ea90e38e"  // Class 9 (General)
+        "e225c7d2-3d32-4c15-8952-6326ea90e38e", // Class 9 (General)
+        "1c7b7206-bdca-400c-924d-630bc83d2aaf"  // Class 9 (Commerce)
       ]
     },
     "Class 10 Science": {
@@ -47,8 +48,10 @@ const config = {
       ]
     },
     "Class 10 Commerce": {
-      GROUP_URL: "",
-      ELIGIBLE_PRODUCT_IDS: []
+      GROUP_URL: "https://www.facebook.com/groups/1383777663750752/member-requests?joined_fb_recently=false&orderby=chronological&previously_removed_members=false&suggested=false",
+      ELIGIBLE_PRODUCT_IDS: [
+        "7baf4db8-9cfb-4e95-beaf-ea00b862630e" // Commerce only
+      ]
     }
   },
   // ===========================================
@@ -94,10 +97,15 @@ const config = {
   // ===========================================
   // TIMING SETTINGS (in milliseconds)
   // ===========================================
-  WAIT_NO_MEMBERS: 3000, // 3 seconds
+  WAIT_NO_MEMBERS: 30000, // 30 seconds
   WAIT_BETWEEN_MEMBERS: 3000, // 3 second
   WAIT_ON_ERROR: 3000, // 3 seconds
   WAIT_BETWEEN_ACTIONS: 3000, // 3 seconds
+  
+  // ===========================================
+  // REQUEST FILTERING SETTINGS
+  // ===========================================
+  MIN_REQUEST_AGE_MINUTES: 3, // Minimum age of request in minutes before processing (skips requests newer than this)
 
   // ===========================================
   // HELPER FUNCTIONS
