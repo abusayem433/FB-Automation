@@ -142,5 +142,305 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-13T12:42:56.529Z",
+    "date": "10/13/2025, 6:42:56 PM",
+    "className": "Class 6",
+    "memberName": "Palash Deb",
+    "facebookUserId": "100015247690833",
+    "memberUserId": "",
+    "memberPhone": "01736254764",
+    "memberTrxId": "91fcc2c2-a0e7-4af3-a863-97379d4b08f4",
+    "memberQA": {
+      "তোমার নাম": "Arohi Adhikary",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01736254764",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "91fcc2c2-a0e7-4af3-a863-97379d4b08f4"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-13T12:43:19.160Z",
+    "date": "10/13/2025, 6:43:19 PM",
+    "className": "Class 6",
+    "memberName": "Md Shaksady Ali",
+    "facebookUserId": "100079458597764",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-13T12:43:22.644Z",
+    "date": "10/13/2025, 6:43:22 PM",
+    "className": "Class 6",
+    "memberName": "Lipika Biswas",
+    "facebookUserId": "100017284053697",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-13T12:43:26.484Z",
+    "date": "10/13/2025, 6:43:26 PM",
+    "className": "Class 6",
+    "memberName": "Bishwajit Roy",
+    "facebookUserId": "100000029501032",
+    "memberUserId": "",
+    "memberPhone": "01643420596",
+    "memberTrxId": "b66a0b25-987b-47ce-bee2-581709b5da81b66a0b25-987b-47ce-bee2-581709b5da81",
+    "memberQA": {
+      "তোমার নাম": "Bornil Saha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01643420596",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b66a0b25-987b-47ce-bee2-581709b5da81b66a0b25-987b-47ce-bee2-581709b5da81"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-14T09:19:31.953Z",
+    "date": "10/14/2025, 3:19:31 PM",
+    "className": "Class 6",
+    "memberName": "Bishwajit Roy",
+    "facebookUserId": "100000029501032",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-14T09:19:35.353Z",
+    "date": "10/14/2025, 3:19:35 PM",
+    "className": "Class 6",
+    "memberName": "Selina Akter",
+    "facebookUserId": "61556197838484",
+    "memberUserId": "",
+    "memberPhone": "01786028805.",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Jaharatul Jannat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01786028805."
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-14T09:19:39.668Z",
+    "date": "10/14/2025, 3:19:39 PM",
+    "className": "Class 6",
+    "memberName": "Md R H Lipu",
+    "facebookUserId": "100040836330051",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-14T09:19:43.724Z",
+    "date": "10/14/2025, 3:19:43 PM",
+    "className": "Class 6",
+    "memberName": "Fazle Bari",
+    "facebookUserId": "100089550187412",
+    "memberUserId": "",
+    "memberPhone": "01793626263",
+    "memberTrxId": "bd4ac2a-fd72-4718-9ef0-efd0371e46c8",
+    "memberQA": {
+      "তোমার নাম": "Tahara bari",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01793626263",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "bd4ac2a-fd72-4718-9ef0-efd0371e46c8"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-15T05:56:34.703Z",
+    "date": "10/15/2025, 11:56:34 AM",
+    "className": "Class 6",
+    "memberName": "Nazim Uddin",
+    "facebookUserId": "100002533677880",
+    "memberUserId": "",
+    "memberPhone": "01875023234",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Irtifa Maliath Tihamee",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01875023234"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-15T05:56:39.936Z",
+    "date": "10/15/2025, 11:56:39 AM",
+    "className": "Class 6",
+    "memberName": "অ্যাডভোকেট আমিন আহমেদ লিটন",
+    "facebookUserId": "100014849342301",
+    "memberUserId": "",
+    "memberPhone": "01711572370",
+    "memberTrxId": "dec51af9-2a56-48dd-81af-5b81fd3000fd",
+    "memberQA": {
+      "তোমার নাম": "SABIHA",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711572370",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dec51af9-2a56-48dd-81af-5b81fd3000fd"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-15T05:56:44.041Z",
+    "date": "10/15/2025, 11:56:44 AM",
+    "className": "Class 6",
+    "memberName": "Bishwajit Roy",
+    "facebookUserId": "100000029501032",
+    "memberUserId": "",
+    "memberPhone": "01643420596",
+    "memberTrxId": "b66a0b25-987b-47ce-bee2-581709b5da81b66a0b25-987b-47ce-bee2-581709b5da81",
+    "memberQA": {
+      "তোমার নাম": "Bornil Saha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01643420596",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b66a0b25-987b-47ce-bee2-581709b5da81b66a0b25-987b-47ce-bee2-581709b5da81"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-15T05:56:58.236Z",
+    "date": "10/15/2025, 11:56:58 AM",
+    "className": "Class 6",
+    "memberName": "Jahangir Alam",
+    "facebookUserId": "100010076059535",
+    "memberUserId": "",
+    "memberPhone": "01710037650",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Zarif",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01710037650"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-15T05:57:19.260Z",
+    "date": "10/15/2025, 11:57:19 AM",
+    "className": "Class 6",
+    "memberName": "Prodip Kumar Sarker",
+    "facebookUserId": "100000001655706",
+    "memberUserId": "",
+    "memberPhone": "01715202797",
+    "memberTrxId": "Congratulations!\n\nতুমি আমাদের Academic Program এর স্টুডেন্ট হওয়ার Class  6 Final Revision Batch টি পাচ্ছো সম্পূর্ণ ফ্রিতে!\n\nএখনই জয়েন হয়ে যাও এই ফেইসবুক গ্রুপে:  https://acsfs.com/class6FRB\n\nগ্রুপে bf995be7-d28a-4bee-8958-46ad1d23a85b",
+    "memberQA": {
+      "তোমার নাম": "প্রত্যাশা সরকার",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01715202797",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Congratulations!\n\nতুমি আমাদের Academic Program এর স্টুডেন্ট হওয়ার Class  6 Final Revision Batch টি পাচ্ছো সম্পূর্ণ ফ্রিতে!\n\nএখনই জয়েন হয়ে যাও এই ফেইসবুক গ্রুপে:  https://acsfs.com/class6FRB\n\nগ্রুপে bf995be7-d28a-4bee-8958-46ad1d23a85b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-15T05:57:23.109Z",
+    "date": "10/15/2025, 11:57:23 AM",
+    "className": "Class 6",
+    "memberName": "Dipangkar Barua Dipu",
+    "facebookUserId": "100025334884843",
+    "memberUserId": "",
+    "memberPhone": "01818664422",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "দীপেশ বড়ুয়া",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01818664422"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-15T05:57:28.157Z",
+    "date": "10/15/2025, 11:57:28 AM",
+    "className": "Class 6",
+    "memberName": "Suchi Chowdhury",
+    "facebookUserId": "100071242137026",
+    "memberUserId": "",
+    "memberPhone": "01401790071",
+    "memberTrxId": "f8753ad-b246-4272-b16d-ab50c345e8c8",
+    "memberQA": {
+      "তোমার নাম": "Safwan Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01401790071",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f8753ad-b246-4272-b16d-ab50c345e8c8"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-15T05:57:40.486Z",
+    "date": "10/15/2025, 11:57:40 AM",
+    "className": "Class 6",
+    "memberName": "Kurakhal Gps",
+    "facebookUserId": "100029564328800",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-15T05:57:54.263Z",
+    "date": "10/15/2025, 11:57:54 AM",
+    "className": "Class 6",
+    "memberName": "Rebaka Sultana",
+    "facebookUserId": "100006630528251",
+    "memberUserId": "",
+    "memberPhone": "01760222088",
+    "memberTrxId": "Congratulations!\n\nতুমি আমাদের Academic Program এর স্টুডেন্ট হওয়ার Class  6 Final Revision Batch টি পাচ্ছো সম্পূর্ণ ফ্রিতে!\n\nএখনই জয়েন হয়ে যাও এই ফেইসবুক গ্রুপে:  https://acsfs.com/class6FRB\n\nগ্রুপে জয়েনের সময় এই এক্সেস কোডটি দিবে:  605a903c-9f52",
+    "memberQA": {
+      "তোমার নাম": "Sadman Senan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01760222088",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Congratulations!\n\nতুমি আমাদের Academic Program এর স্টুডেন্ট হওয়ার Class  6 Final Revision Batch টি পাচ্ছো সম্পূর্ণ ফ্রিতে!\n\nএখনই জয়েন হয়ে যাও এই ফেইসবুক গ্রুপে:  https://acsfs.com/class6FRB\n\nগ্রুপে জয়েনের সময় এই এক্সেস কোডটি দিবে:  605a903c-9f52"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-15T05:57:59.069Z",
+    "date": "10/15/2025, 11:57:59 AM",
+    "className": "Class 6",
+    "memberName": "Nusrat Zahan",
+    "facebookUserId": "100003667426908",
+    "memberUserId": "",
+    "memberPhone": "01818344082",
+    "memberTrxId": "380545f23-4bbe-4115-ac74-c69c507e23",
+    "memberQA": {
+      "তোমার নাম": "Tazrian ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01818344082",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "380545f23-4bbe-4115-ac74-c69c507e23"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

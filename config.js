@@ -10,7 +10,7 @@ const config = {
       GROUP_URL: "https://www.facebook.com/groups/1473078223944296/member-requests?joined_fb_recently=false&orderby=chronological&previously_removed_members=false&suggested=false",
       ELIGIBLE_PRODUCT_IDS: [
         "4f45bf11-f21d-444a-b6d0-ca21b571787b", // Class 6 Diamond
-        "094132e7-6ae6-433c-a824-e77cd1da9395", // Class 6 Gold July
+        "d8787524-8ef5-4a22-a605-8d9a5a75eee4", // Class 6 Gold July
         "dd2fc129-e625-4c3c-be8f-245a1b48ea76"  // Class 6 (General)
       ]
     },
