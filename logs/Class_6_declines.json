@@ -926,5 +926,19 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-21T12:54:38.668Z",
+    "date": "10/21/2025, 6:54:38 PM",
+    "className": "Class 6",
+    "memberName": "চাঁদ সুলতানা সুখী",
+    "facebookUserId": "61578912380288",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

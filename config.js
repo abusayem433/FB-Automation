@@ -93,19 +93,24 @@ const config = {
   INFO_LOOKING: "সদস্য অনুরোধ খুঁজছি...",
   INFO_NO_MEMBERS: "কোন সদস্য অনুরোধ পাওয়া যায়নি",
   INFO_WAITING: "পরবর্তী চেকের জন্য অপেক্ষা করছি...",
+  INFO_AUTO_QUIT_TRIGGERED: "অটো-কুইট: কোন সদস্য অনুরোধ নেই",
+  INFO_AUTO_QUIT_COUNTDOWN: "অটো-কুইট কাউন্টডাউন",
 
   // ===========================================
   // TIMING SETTINGS (in milliseconds)
   // ===========================================
-  WAIT_NO_MEMBERS: 30000, // 30 seconds
-  WAIT_BETWEEN_MEMBERS: 3000, // 3 second
-  WAIT_ON_ERROR: 3000, // 3 seconds
-  WAIT_BETWEEN_ACTIONS: 3000, // 3 seconds
+  WAIT_TIME: 3000, // Single wait time for all operations (3 seconds)
   
   // ===========================================
   // REQUEST FILTERING SETTINGS
   // ===========================================
   MIN_REQUEST_AGE_MINUTES: 3, // Minimum age of request in minutes before processing (skips requests newer than this)
+
+  // ===========================================
+  // AUTO-QUIT SETTINGS
+  // ===========================================
+  AUTO_QUIT_WHEN_NO_REQUESTS: true, // Automatically quit tab when no requests are found
+  AUTO_QUIT_MAX_CYCLES: 0, // Maximum number of cycles with no requests before quitting (0 = quit immediately)
 
   // ===========================================
   // HELPER FUNCTIONS

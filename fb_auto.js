@@ -767,7 +767,7 @@ async function scrapeMemberRequests(page, className = null) {
     // If all requests were skipped due to being too recent, treat as no members
     if (memberRequests.length === 0) {
       console.log(`⚠️ All member requests are too recent (< ${config.MIN_REQUEST_AGE_MINUTES} minutes old)`);
-      addLogMessage(`All requests are too recent - waiting ${config.WAIT_NO_MEMBERS/1000} seconds`, className);
+      addLogMessage(`All requests are too recent - waiting ${config.WAIT_TIME/1000} seconds`, className);
       await showToast(page, `All requests too recent (< ${config.MIN_REQUEST_AGE_MINUTES} min), waiting...`, 'info', className);
       return { noMembers: true };
     }
@@ -1109,8 +1109,8 @@ async function scrapeMemberRequests(page, className = null) {
           }
           
           // Wait a bit between actions and before next member
-          console.log(`⏳ Waiting ${config.WAIT_BETWEEN_ACTIONS/1000} seconds before processing next member...`);
-          await page.waitForTimeout(config.WAIT_BETWEEN_ACTIONS);
+          console.log(`⏳ Waiting ${config.WAIT_TIME/1000} seconds before processing next member...`);
+          await page.waitForTimeout(config.WAIT_TIME);
         } else {
           console.log("⚠️ Could not find approve/decline buttons for this member");
           addLogMessage(`⚠️ NO BUTTONS: ${memberName}`, className);
@@ -1133,12 +1133,16 @@ async function scrapeMemberRequests(page, className = null) {
     
   } catch (error) {
     console.error("❌ Error scraping member requests:", error.message);
+    addLogMessage(`❌ Error: ${error.message}`, className);
+    await showToast(page, `❌ Error: ${error.message}`, 'error', className);
+    return { noMembers: true };
   }
 }
 
 // Class-specific automation loop with sleep/retry cycle
 async function startClassAutomationLoop(page, className) {
   let cycleCount = 0;
+  let noMembersCycleCount = 0;
   
   console.log(`🎯 Starting automation loop for: ${className}`);
   addLogMessage(`Starting automation loop for: ${className}`, className);
@@ -1153,14 +1157,51 @@ async function startClassAutomationLoop(page, className) {
       
       // Scrape member request information for this specific class
       const result = await scrapeMemberRequests(page, className);
+      console.log(`🔍 Debug [${className}]: scrapeMemberRequests result:`, result);
       
       if (result && result.noMembers) {
-        console.log(`💤 [${className}] No members found, sleeping for ${config.WAIT_NO_MEMBERS/60000} minutes...`);
-        addLogMessage(`No members found, sleeping for ${config.WAIT_NO_MEMBERS/60000} minutes...`, className);
-        await showToast(page, "No members found, sleeping...", 'info', className);
+        noMembersCycleCount++;
+        console.log(`💤 [${className}] No members found (cycle ${noMembersCycleCount})`);
+        addLogMessage(`No members found (cycle ${noMembersCycleCount})`, className);
+        
+        // Check if we should auto-quit IMMEDIATELY
+        const shouldQuit = config.AUTO_QUIT_WHEN_NO_REQUESTS && 
+            (config.AUTO_QUIT_MAX_CYCLES === 0 || noMembersCycleCount >= config.AUTO_QUIT_MAX_CYCLES);
+        console.log(`🔍 Debug: shouldQuit = ${shouldQuit} (AUTO_QUIT_WHEN_NO_REQUESTS: ${config.AUTO_QUIT_WHEN_NO_REQUESTS}, AUTO_QUIT_MAX_CYCLES: ${config.AUTO_QUIT_MAX_CYCLES}, noMembersCycleCount: ${noMembersCycleCount})`);
+        
+        if (shouldQuit) {
+          console.log(`🚪 [${className}] Auto-quit triggered: No members found for ${noMembersCycleCount} consecutive cycles`);
+          addLogMessage(`🚪 Auto-quit: No members for ${noMembersCycleCount} cycles`, className);
+          await showToast(page, `${config.INFO_AUTO_QUIT_TRIGGERED} (${noMembersCycleCount} cycles)`, 'info', className);
+          
+          // Remove from tab data tracking
+          if (tabData.has(className)) {
+            tabData.delete(className);
+          }
+          
+          // Close the page and exit
+          await page.close();
+          console.log(`✅ [${className}] Tab closed due to auto-quit`);
+          return; // Exit the automation loop
+        }
+        
+        // Show countdown if approaching auto-quit
+        if (config.AUTO_QUIT_WHEN_NO_REQUESTS && config.AUTO_QUIT_MAX_CYCLES > 0) {
+          const cyclesLeft = config.AUTO_QUIT_MAX_CYCLES - noMembersCycleCount;
+          if (cyclesLeft > 0 && cyclesLeft <= 2) {
+            await showToast(page, `${config.INFO_AUTO_QUIT_COUNTDOWN}: ${cyclesLeft} cycles left`, 'info', className);
+          } else {
+            await showToast(page, "No members found, sleeping...", 'info', className);
+          }
+        } else {
+          await showToast(page, "No members found, sleeping...", 'info', className);
+        }
+        
+        console.log(`💤 [${className}] Sleeping for ${config.WAIT_TIME/1000} seconds...`);
+        addLogMessage(`Sleeping for ${config.WAIT_TIME/1000} seconds...`, className);
         
         // Sleep for configured time
-        await page.waitForTimeout(config.WAIT_NO_MEMBERS);
+        await page.waitForTimeout(config.WAIT_TIME);
         
         console.log(`⏰ [${className}] Sleep period ended, checking for new members...`);
         addLogMessage("Sleep period ended, checking for new members...", className);
@@ -1170,11 +1211,14 @@ async function startClassAutomationLoop(page, className) {
         await page.reload({ waitUntil: 'domcontentloaded' });
         await page.waitForTimeout(5000);
       } else {
+        // Members were processed, reset no-members counter
+        noMembersCycleCount = 0;
+        
         // Members were processed, wait a bit before next cycle
-        console.log(`⏳ [${className}] Waiting ${config.WAIT_BETWEEN_MEMBERS/1000} seconds before next check...`);
-        addLogMessage(`Waiting ${config.WAIT_BETWEEN_MEMBERS/1000} seconds before next check...`, className);
+        console.log(`⏳ [${className}] Waiting ${config.WAIT_TIME/1000} seconds before next check...`);
+        addLogMessage(`Waiting ${config.WAIT_TIME/1000} seconds before next check...`, className);
         await showToast(page, config.INFO_WAITING, 'info', className);
-        await page.waitForTimeout(config.WAIT_BETWEEN_MEMBERS);
+        await page.waitForTimeout(config.WAIT_TIME);
         
         // Refresh the page to check for new members
         await page.reload({ waitUntil: 'domcontentloaded' });
@@ -1187,8 +1231,8 @@ async function startClassAutomationLoop(page, className) {
       await showToast(page, `❌ Automation loop error`, 'error', className);
       
       // Wait configured time before retrying
-      console.log(`⏳ [${className}] Waiting ${config.WAIT_ON_ERROR/60000} minutes before retrying...`);
-      await page.waitForTimeout(config.WAIT_ON_ERROR);
+      console.log(`⏳ [${className}] Waiting ${config.WAIT_TIME/1000} seconds before retrying...`);
+      await page.waitForTimeout(config.WAIT_TIME);
     }
   }
 }
@@ -1255,13 +1299,50 @@ async function startMultiClassAutomation(context, chromePath, userDataDir, profi
   console.log(`\n🎯 All ${configuredClasses.length} automation loops started!`);
   console.log('Each class is now processing members in parallel.');
   
-  // Wait for all automation loops (they run indefinitely)
-  await Promise.all(automationPromises);
+  // Wait for all automation loops (they may exit due to auto-quit)
+  try {
+    await Promise.all(automationPromises);
+  } catch (error) {
+    console.log(`\n⚠️ Some automation loops ended: ${error.message}`);
+  }
+  
+  // Check if all tabs have been closed due to auto-quit
+  const remainingPages = context.pages();
+  if (remainingPages.length === 0) {
+    console.log('\n🚪 All tabs have been closed due to auto-quit. Exiting multi-class automation.');
+    return;
+  }
+  
+  // Check if only blank tabs remain
+  const nonBlankPages = remainingPages.filter(page => {
+    try {
+      const url = page.url();
+      return url && !url.includes('about:blank') && !url.includes('chrome://');
+    } catch (error) {
+      return false;
+    }
+  });
+  
+  if (nonBlankPages.length === 0 && remainingPages.length > 0) {
+    console.log('\n🚪 Only blank tabs remain. Closing all remaining tabs and exiting.');
+    // Close all remaining pages
+    for (const page of remainingPages) {
+      try {
+        await page.close();
+      } catch (error) {
+        console.log(`⚠️ Error closing page: ${error.message}`);
+      }
+    }
+    return;
+  }
+  
+  console.log(`\n📊 ${remainingPages.length} tabs still active (${nonBlankPages.length} non-blank). Continuing monitoring...`);
 }
 
 // Main automation loop with sleep/retry cycle (for single class)
 async function startAutomationLoop(page) {
   let cycleCount = 0;
+  let noMembersCycleCount = 0;
   
   while (true) {
     try {
@@ -1272,14 +1353,46 @@ async function startAutomationLoop(page) {
       
       // Scrape member request information
       const result = await scrapeMemberRequests(page);
+      console.log(`🔍 Debug: scrapeMemberRequests result:`, result);
       
       if (result && result.noMembers) {
-        console.log(`💤 No members found, sleeping for ${config.WAIT_NO_MEMBERS/60000} minutes...`);
-        addLogMessage(`No members found, sleeping for ${config.WAIT_NO_MEMBERS/60000} minutes...`);
-        await showToast(page, "No members found, sleeping...", 'info');
+        noMembersCycleCount++;
+        console.log(`💤 No members found (cycle ${noMembersCycleCount})`);
+        addLogMessage(`No members found (cycle ${noMembersCycleCount})`);
+        
+        // Check if we should auto-quit IMMEDIATELY
+        const shouldQuit = config.AUTO_QUIT_WHEN_NO_REQUESTS && 
+            (config.AUTO_QUIT_MAX_CYCLES === 0 || noMembersCycleCount >= config.AUTO_QUIT_MAX_CYCLES);
+        console.log(`🔍 Debug: shouldQuit = ${shouldQuit} (AUTO_QUIT_WHEN_NO_REQUESTS: ${config.AUTO_QUIT_WHEN_NO_REQUESTS}, AUTO_QUIT_MAX_CYCLES: ${config.AUTO_QUIT_MAX_CYCLES}, noMembersCycleCount: ${noMembersCycleCount})`);
+        
+        if (shouldQuit) {
+          console.log(`🚪 Auto-quit triggered: No members found for ${noMembersCycleCount} consecutive cycles`);
+          addLogMessage(`🚪 Auto-quit: No members for ${noMembersCycleCount} cycles`);
+          await showToast(page, `${config.INFO_AUTO_QUIT_TRIGGERED} (${noMembersCycleCount} cycles)`, 'info');
+          
+          // Close the page and exit
+          await page.close();
+          console.log("✅ Tab closed due to auto-quit");
+          return; // Exit the automation loop
+        }
+        
+        // Show countdown if approaching auto-quit
+        if (config.AUTO_QUIT_WHEN_NO_REQUESTS && config.AUTO_QUIT_MAX_CYCLES > 0) {
+          const cyclesLeft = config.AUTO_QUIT_MAX_CYCLES - noMembersCycleCount;
+          if (cyclesLeft > 0 && cyclesLeft <= 2) {
+            await showToast(page, `${config.INFO_AUTO_QUIT_COUNTDOWN}: ${cyclesLeft} cycles left`, 'info');
+          } else {
+            await showToast(page, "No members found, sleeping...", 'info');
+          }
+        } else {
+          await showToast(page, "No members found, sleeping...", 'info');
+        }
+        
+        console.log(`💤 Sleeping for ${config.WAIT_TIME/1000} seconds...`);
+        addLogMessage(`Sleeping for ${config.WAIT_TIME/1000} seconds...`);
         
         // Sleep for configured time
-        await page.waitForTimeout(config.WAIT_NO_MEMBERS);
+        await page.waitForTimeout(config.WAIT_TIME);
         
         console.log("⏰ Sleep period ended, checking for new members...");
         addLogMessage("Sleep period ended, checking for new members...");
@@ -1289,11 +1402,14 @@ async function startAutomationLoop(page) {
         await page.reload({ waitUntil: 'domcontentloaded' });
         await page.waitForTimeout(5000);
       } else {
+        // Members were processed, reset no-members counter
+        noMembersCycleCount = 0;
+        
         // Members were processed, wait a bit before next cycle
-        console.log(`⏳ Waiting ${config.WAIT_BETWEEN_MEMBERS/1000} seconds before next check...`);
-        addLogMessage(`Waiting ${config.WAIT_BETWEEN_MEMBERS/1000} seconds before next check...`);
+        console.log(`⏳ Waiting ${config.WAIT_TIME/1000} seconds before next check...`);
+        addLogMessage(`Waiting ${config.WAIT_TIME/1000} seconds before next check...`);
         await showToast(page, config.INFO_WAITING, 'info');
-        await page.waitForTimeout(config.WAIT_BETWEEN_MEMBERS);
+        await page.waitForTimeout(config.WAIT_TIME);
         
         // Refresh the page to check for new members
         await page.reload({ waitUntil: 'domcontentloaded' });
@@ -1306,8 +1422,8 @@ async function startAutomationLoop(page) {
       await showToast(page, `❌ Automation loop error`, 'error');
       
       // Wait configured time before retrying
-      console.log(`⏳ Waiting ${config.WAIT_ON_ERROR/60000} minutes before retrying...`);
-      await page.waitForTimeout(config.WAIT_ON_ERROR);
+      console.log(`⏳ Waiting ${config.WAIT_TIME/1000} seconds before retrying...`);
+      await page.waitForTimeout(config.WAIT_TIME);
     }
   }
 }
@@ -1459,6 +1575,23 @@ async function startAutomationLoop(page) {
           // Start the main automation loop
           await startAutomationLoop(page);
           
+          // Cleanup after automation loop ends (due to auto-quit)
+          console.log('\n🚪 Automation loop ended. Cleaning up remaining tabs...');
+          const remainingPages = context.pages();
+          
+          // Close all remaining pages (including blank tabs)
+          for (const remainingPage of remainingPages) {
+            try {
+              await remainingPage.close();
+              console.log('✅ Closed remaining tab');
+            } catch (error) {
+              console.log(`⚠️ Error closing remaining tab: ${error.message}`);
+            }
+          }
+          
+          console.log('✅ All tabs closed. Exiting single class automation.');
+          return;
+          
         } else {
           console.log("⚠️ Warning: Not on Facebook. Current URL:", currentUrl);
         }
@@ -1481,6 +1614,23 @@ async function startAutomationLoop(page) {
             
             // Start the main automation loop
             await startAutomationLoop(page);
+            
+            // Cleanup after automation loop ends (due to auto-quit)
+            console.log('\n🚪 Automation loop ended. Cleaning up remaining tabs...');
+            const remainingPages = context.pages();
+            
+            // Close all remaining pages (including blank tabs)
+            for (const remainingPage of remainingPages) {
+              try {
+                await remainingPage.close();
+                console.log('✅ Closed remaining tab');
+              } catch (error) {
+                console.log(`⚠️ Error closing remaining tab: ${error.message}`);
+              }
+            }
+            
+            console.log('✅ All tabs closed. Exiting single class automation.');
+            return;
           }
         } catch (titleError) {
           console.log("Could not get page title:", titleError.message);

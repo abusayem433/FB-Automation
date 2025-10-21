@@ -3114,5 +3114,41 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-21T12:04:04.892Z",
+    "date": "10/21/2025, 6:04:04 PM",
+    "className": "Class 10 Commerce",
+    "memberName": "Jihadul Islam",
+    "facebookUserId": "61574017416905",
+    "memberUserId": "",
+    "memberPhone": "01965299480",
+    "memberTrxId": "7df2a1a9-cbde-4db5-8386-01fc2805e0c0",
+    "memberQA": {
+      "তোমার নাম": "JIHADUL ISLAM",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01965299480",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7df2a1a9-cbde-4db5-8386-01fc2805e0c0"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-21T12:55:13.529Z",
+    "date": "10/21/2025, 6:55:13 PM",
+    "className": "Class 10 Commerce",
+    "memberName": "Tawsif Shikder",
+    "facebookUserId": "100072259663127",
+    "memberUserId": "",
+    "memberPhone": "01732049969",
+    "memberTrxId": "01732049969",
+    "memberQA": {
+      "তোমার নাম": "Taosif",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01732049969",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "01732049969"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

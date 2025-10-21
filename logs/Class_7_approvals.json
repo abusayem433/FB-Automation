@@ -934,5 +934,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-21T12:54:57.101Z",
+    "date": "10/21/2025, 6:54:57 PM",
+    "className": "Class 7",
+    "memberName": "Rifat Ruba",
+    "facebookUserId": "100013768209864",
+    "memberUserId": "100013768209864",
+    "memberPhone": "01534406606",
+    "memberTrxId": "b41da9d5-dae7-4540-a347-55833d5e0343",
+    "memberQA": {
+      "তোমার নাম": "shafique mazed chowdhury",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01534406606",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b41da9d5-dae7-4540-a347-55833d5e0343"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

@@ -3382,5 +3382,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-21T12:55:05.610Z",
+    "date": "10/21/2025, 6:55:05 PM",
+    "className": "Class 8",
+    "memberName": "Abu Bakar Siddique",
+    "facebookUserId": "100089227507841",
+    "memberUserId": "100089227507841",
+    "memberPhone": "01948303128",
+    "memberTrxId": "dde8871d-253e-43b7-9be9-3b346ad70ce3",
+    "memberQA": {
+      "তোমার নাম": "Abu bakr siddiq",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01948303128",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dde8871d-253e-43b7-9be9-3b346ad70ce3"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

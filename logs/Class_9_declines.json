@@ -9294,5 +9294,94 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-21T12:03:49.406Z",
+    "date": "10/21/2025, 6:03:49 PM",
+    "className": "Class 9",
+    "memberName": "Din Mohammed",
+    "facebookUserId": "100002962600540",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-21T12:17:48.828Z",
+    "date": "10/21/2025, 6:17:48 PM",
+    "className": "Class 9",
+    "memberName": "Shariyan Shah",
+    "facebookUserId": "100073391468102",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-21T12:17:55.304Z",
+    "date": "10/21/2025, 6:17:55 PM",
+    "className": "Class 9",
+    "memberName": "Shahida Akther",
+    "facebookUserId": "100022873569645",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-21T12:55:06.995Z",
+    "date": "10/21/2025, 6:55:06 PM",
+    "className": "Class 9",
+    "memberName": "Din Mohammed",
+    "facebookUserId": "100002962600540",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "A"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-21T12:55:11.806Z",
+    "date": "10/21/2025, 6:55:11 PM",
+    "className": "Class 9",
+    "memberName": "মোছলিমা আক্তার",
+    "facebookUserId": "100032578122354",
+    "memberUserId": "",
+    "memberPhone": "1c61e410-18dd-42d6-9833-ab720971c96f",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Humayra tanha",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1c61e410-18dd-42d6-9833-ab720971c96f"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-21T12:55:23.044Z",
+    "date": "10/21/2025, 6:55:23 PM",
+    "className": "Class 9",
+    "memberName": "Rahima Hosrat Akhi",
+    "facebookUserId": "61572890873145",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]
