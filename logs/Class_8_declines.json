@@ -8602,5 +8602,215 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:38:11.176Z",
+    "date": "10/27/2025, 7:38:11 PM",
+    "className": "Class 8",
+    "memberName": "A M Chowdhury",
+    "facebookUserId": "61560703449109",
+    "memberUserId": "",
+    "memberPhone": "01889949562",
+    "memberTrxId": "cc22fb32-f7c9-4b6d-b04a-86975cd6a403",
+    "memberQA": {
+      "তোমার নাম": "Maria Chowdhury",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01889949562",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cc22fb32-f7c9-4b6d-b04a-86975cd6a403"
+    },
+    "approvalStatus": "database_error",
+    "declineReason": "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:38:17.377Z",
+    "date": "10/27/2025, 7:38:17 PM",
+    "className": "Class 8",
+    "memberName": "Takrim Jakaria",
+    "facebookUserId": "61553709277534",
+    "memberUserId": "",
+    "memberPhone": "01817747027",
+    "memberTrxId": "5fbea499-0e2b-4bef-ac89-04d6151302cf",
+    "memberQA": {
+      "তোমার নাম": "Marjana Alam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01817747027",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5fbea499-0e2b-4bef-ac89-04d6151302cf"
+    },
+    "approvalStatus": "database_error",
+    "declineReason": "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:38:30.190Z",
+    "date": "10/27/2025, 7:38:30 PM",
+    "className": "Class 8",
+    "memberName": "Hasibur Rahaman Rabin",
+    "facebookUserId": "61550710499757",
+    "memberUserId": "",
+    "memberPhone": "01319127390",
+    "memberTrxId": "cc7db45b-b3a5-478a-8316-e02a04616bbc",
+    "memberQA": {
+      "তোমার নাম": "Nusrat Jahan(https://www.facebook.com/share/1ZkHGGE4NE/)",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01319127390",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cc7db45b-b3a5-478a-8316-e02a04616bbc"
+    },
+    "approvalStatus": "database_error",
+    "declineReason": "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:38:36.410Z",
+    "date": "10/27/2025, 7:38:36 PM",
+    "className": "Class 8",
+    "memberName": "Rupsana Khatun",
+    "facebookUserId": "61556971508658",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:38:40.794Z",
+    "date": "10/27/2025, 7:38:40 PM",
+    "className": "Class 8",
+    "memberName": "Siyam Talokdar",
+    "facebookUserId": "61582555243631",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Siyam"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:38:47.261Z",
+    "date": "10/27/2025, 7:38:47 PM",
+    "className": "Class 8",
+    "memberName": "MD Hafijul Islam",
+    "facebookUserId": "61556156585164",
+    "memberUserId": "",
+    "memberPhone": "01931593370",
+    "memberTrxId": "NG89462025101099094",
+    "memberQA": {
+      "তোমার নাম": "হালিমা আক্তার",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01931593370",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "NG89462025101099094"
+    },
+    "approvalStatus": "database_error",
+    "declineReason": "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:38:51.981Z",
+    "date": "10/27/2025, 7:38:51 PM",
+    "className": "Class 8",
+    "memberName": "Ahmad Shoaib",
+    "facebookUserId": "61582720052884",
+    "memberUserId": "",
+    "memberPhone": "01728973081",
+    "memberTrxId": "be424955-2e9a-4c5e-a146-732cc409e7cf",
+    "memberQA": {
+      "তোমার নাম": "SABBIR AHMAD SHOAIB",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01728973081",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "be424955-2e9a-4c5e-a146-732cc409e7cf"
+    },
+    "approvalStatus": "database_error",
+    "declineReason": "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:40:08.838Z",
+    "date": "10/27/2025, 7:40:08 PM",
+    "className": "Class 8",
+    "memberName": "A M Chowdhury",
+    "facebookUserId": "61560703449109",
+    "memberUserId": "",
+    "memberPhone": "01889949562",
+    "memberTrxId": "cc22fb32-f7c9-4b6d-b04a-86975cd6a403",
+    "memberQA": {
+      "তোমার নাম": "Maria Chowdhury",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01889949562",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cc22fb32-f7c9-4b6d-b04a-86975cd6a403"
+    },
+    "approvalStatus": "database_error",
+    "declineReason": "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:40:15.304Z",
+    "date": "10/27/2025, 7:40:15 PM",
+    "className": "Class 8",
+    "memberName": "Takrim Jakaria",
+    "facebookUserId": "61553709277534",
+    "memberUserId": "",
+    "memberPhone": "01817747027",
+    "memberTrxId": "5fbea499-0e2b-4bef-ac89-04d6151302cf",
+    "memberQA": {
+      "তোমার নাম": "Marjana Alam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01817747027",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5fbea499-0e2b-4bef-ac89-04d6151302cf"
+    },
+    "approvalStatus": "database_error",
+    "declineReason": "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:40:21.500Z",
+    "date": "10/27/2025, 7:40:21 PM",
+    "className": "Class 8",
+    "memberName": "Hasibur Rahaman Rabin",
+    "facebookUserId": "61550710499757",
+    "memberUserId": "",
+    "memberPhone": "01319127390",
+    "memberTrxId": "cc7db45b-b3a5-478a-8316-e02a04616bbc",
+    "memberQA": {
+      "তোমার নাম": "Nusrat Jahan(https://www.facebook.com/share/1ZkHGGE4NE/)",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01319127390",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cc7db45b-b3a5-478a-8316-e02a04616bbc"
+    },
+    "approvalStatus": "database_error",
+    "declineReason": "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:58:57.612Z",
+    "date": "10/27/2025, 7:58:57 PM",
+    "className": "Class 8",
+    "memberName": "A M Chowdhury",
+    "facebookUserId": "61560703449109",
+    "memberUserId": "",
+    "memberPhone": "01889949562",
+    "memberTrxId": "cc22fb32-f7c9-4b6d-b04a-86975cd6a403",
+    "memberQA": {
+      "তোমার নাম": "Maria Chowdhury",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01889949562",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cc22fb32-f7c9-4b6d-b04a-86975cd6a403"
+    },
+    "approvalStatus": "database_error",
+    "declineReason": "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:59:01.390Z",
+    "date": "10/27/2025, 7:59:01 PM",
+    "className": "Class 8",
+    "memberName": "Takrim Jakaria",
+    "facebookUserId": "61553709277534",
+    "memberUserId": "",
+    "memberPhone": "01817747027",
+    "memberTrxId": "5fbea499-0e2b-4bef-ac89-04d6151302cf",
+    "memberQA": {
+      "তোমার নাম": "Marjana Alam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01817747027",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5fbea499-0e2b-4bef-ac89-04d6151302cf"
+    },
+    "approvalStatus": "database_error",
+    "declineReason": "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও",
+    "processedBy": "FB-Automation"
   }
 ]

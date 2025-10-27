@@ -4357,5 +4357,89 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:38:35.266Z",
+    "date": "10/27/2025, 7:38:35 PM",
+    "className": "Class 10 Commerce",
+    "memberName": "Orpon Mir",
+    "facebookUserId": "61582672570215",
+    "memberUserId": "",
+    "memberPhone": "01766155470",
+    "memberTrxId": "c462b161-ce98-403b-81ef-57e46b7e6f56",
+    "memberQA": {
+      "তোমার নাম": "orpon",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01766155470",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "c462b161-ce98-403b-81ef-57e46b7e6f56"
+    },
+    "approvalStatus": "database_error",
+    "declineReason": "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:38:38.996Z",
+    "date": "10/27/2025, 7:38:38 PM",
+    "className": "Class 10 Commerce",
+    "memberName": "Afif Hasan",
+    "facebookUserId": "100071090110674",
+    "memberUserId": "",
+    "memberPhone": "০১৭৫৬৫৩০৩৪৩",
+    "memberTrxId": "3b172415-9945-41bf-8b17-35af91d7e887",
+    "memberQA": {
+      "তোমার নাম": "আফিফ হাসান",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৭৫৬৫৩০৩৪৩",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "3b172415-9945-41bf-8b17-35af91d7e887"
+    },
+    "approvalStatus": "database_error",
+    "declineReason": "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:38:42.349Z",
+    "date": "10/27/2025, 7:38:42 PM",
+    "className": "Class 10 Commerce",
+    "memberName": "Shoronjit Debonat",
+    "facebookUserId": "100091318279931",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:38:45.919Z",
+    "date": "10/27/2025, 7:38:45 PM",
+    "className": "Class 10 Commerce",
+    "memberName": "Afifa Akter",
+    "facebookUserId": "61575885062056",
+    "memberUserId": "",
+    "memberPhone": "01319837055",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "sumiea",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01319837055"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-10-27T13:38:49.318Z",
+    "date": "10/27/2025, 7:38:49 PM",
+    "className": "Class 10 Commerce",
+    "memberName": "Neha Patwari",
+    "facebookUserId": "100057077059905",
+    "memberUserId": "",
+    "memberPhone": "01748835729",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Atika Tabassum neha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01748835729"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]
