@@ -1452,13 +1452,13 @@ async function startAutomationLoop(page) {
     }
 
     // Path to your Chrome executable (adjust if needed)
-    const chromePath = "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"; // Windows
+    const chromePath = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"; // Windows
     // macOS example:
     // const chromePath = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
 
     // Path to the user data directory where Chrome stores profiles
     // Replace with your actual path
-    const userDataDir = "C:\\Users\\This-Pc\\AppData\\Local\\Google\\Chrome\\User Data"; // Windows
+    const userDataDir = "C:\\Users\\abusa\\AppData\\Local\\Google\\Chrome\\User Data"; // Windows
     // macOS example:
     // const userDataDir = "/Users/aweshislam/Library/Application Support/Google/Chrome";
 
