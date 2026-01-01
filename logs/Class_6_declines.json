@@ -2165,5 +2165,37 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-12-06T07:09:42.655Z",
+    "date": "12/6/2025, 1:09:42 PM",
+    "className": "Class 6",
+    "memberName": "Abdullha Bin Chisty",
+    "facebookUserId": "61583149694621",
+    "memberUserId": "",
+    "memberPhone": "01715191601",
+    "memberTrxId": "42e8473b-cddc-4c64-a09a-df6c08f90cb0",
+    "memberQA": {
+      "তোমার নাম": "muntaha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01715191601",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "42e8473b-cddc-4c64-a09a-df6c08f90cb0"
+    },
+    "approvalStatus": "database_error",
+    "declineReason": "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-12-09T17:58:39.728Z",
+    "date": "12/9/2025, 11:58:39 PM",
+    "className": "Class 6",
+    "memberName": "Afra Ibnat Lamiya",
+    "facebookUserId": "61575946379079",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

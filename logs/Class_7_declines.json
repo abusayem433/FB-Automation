@@ -4030,5 +4030,51 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-12-06T07:10:18.038Z",
+    "date": "12/6/2025, 1:10:18 PM",
+    "className": "Class 7",
+    "memberName": "Muhammad Alif",
+    "facebookUserId": "61558506282001",
+    "memberUserId": "",
+    "memberPhone": "জানি না",
+    "memberTrxId": "জানি না",
+    "memberQA": {
+      "তোমার নাম": "Fabiha Alam Shimthiya",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "জানি না",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "জানি না"
+    },
+    "approvalStatus": "database_error",
+    "declineReason": "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-12-06T07:10:21.142Z",
+    "date": "12/6/2025, 1:10:21 PM",
+    "className": "Class 7",
+    "memberName": "MD Nadim",
+    "facebookUserId": "61566570330088",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2025-12-06T07:10:24.223Z",
+    "date": "12/6/2025, 1:10:24 PM",
+    "className": "Class 7",
+    "memberName": "Tasnin Kalam Nammy",
+    "facebookUserId": "100089941781847",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]
