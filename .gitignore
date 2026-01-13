@@ -3,3 +3,6 @@ node_modules
 *.log
 *.zip
 package-lock.json
+.chrome-profile
+.chrome-profile/
+FB IDS.txt

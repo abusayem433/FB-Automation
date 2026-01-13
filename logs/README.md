@@ -11,7 +11,7 @@ For each class, there are two separate JSON files:
 - `Class_7_approvals.json`
 - `Class_8_approvals.json`
 - `Class_9_approvals.json`
-- `Class_10_Science_approvals.json`
+- `Class_10_FRB_approvals.json`
 - `Class_10_Commerce_approvals.json`
 
 ### Decline Logs
@@ -19,7 +19,7 @@ For each class, there are two separate JSON files:
 - `Class_7_declines.json`
 - `Class_8_declines.json`
 - `Class_9_declines.json`
-- `Class_10_Science_declines.json`
+- `Class_10_FRB_declines.json`
 - `Class_10_Commerce_declines.json`
 
 ## Log Entry Format
@@ -30,7 +30,7 @@ Each entry in the JSON files contains the following fields:
 {
   "timestamp": "2025-10-11T12:34:56.789Z",
   "date": "10/11/2025, 12:34:56 PM",
-  "className": "Class 10 Science",
+  "className": "Class 10 FRB",
   "memberName": "John Doe",
   "facebookUserId": "100012345678901",
   "memberUserId": "159167",

@@ -1,7 +1,9 @@
 // filename: facebook-profile.js
+require("dotenv").config();
 const { chromium } = require("playwright");
 const fs = require("fs");
 const path = require("path");
+const os = require("os");
 const readline = require("readline");
 const { processPaymentApproval, saveMemberLog } = require("./db_automation.js");
 const config = require("./config.js");
@@ -30,14 +32,18 @@ function sanitizeClassName(className) {
 // Function to log approval to JSON file
 function logApprovalToJSON(className, memberData) {
   try {
-    const sanitizedClassName = sanitizeClassName(className);
+    const normalizedClassName =
+      config && typeof config.normalizeClassName === "function"
+        ? config.normalizeClassName(className)
+        : className;
+    const sanitizedClassName = sanitizeClassName(normalizedClassName);
     const logFile = path.join(logsDir, `${sanitizedClassName}_approvals.json`);
     
     // Create log entry with all available data
     const logEntry = {
       timestamp: new Date().toISOString(),
       date: new Date().toLocaleString(),
-      className: className,
+      className: normalizedClassName,
       memberName: memberData.memberName || 'Unknown',
       facebookUserId: memberData.facebookUserId || '',
       memberUserId: memberData.memberUserId || '',
@@ -73,14 +79,18 @@ function logApprovalToJSON(className, memberData) {
 // Function to log decline to JSON file
 function logDeclineToJSON(className, memberData) {
   try {
-    const sanitizedClassName = sanitizeClassName(className);
+    const normalizedClassName =
+      config && typeof config.normalizeClassName === "function"
+        ? config.normalizeClassName(className)
+        : className;
+    const sanitizedClassName = sanitizeClassName(normalizedClassName);
     const logFile = path.join(logsDir, `${sanitizedClassName}_declines.json`);
     
     // Create log entry with all available data
     const logEntry = {
       timestamp: new Date().toISOString(),
       date: new Date().toLocaleString(),
-      className: className,
+      className: normalizedClassName,
       memberName: memberData.memberName || 'Unknown',
       facebookUserId: memberData.facebookUserId || '',
       memberUserId: memberData.memberUserId || '',
@@ -123,7 +133,9 @@ function promptClassSelection() {
 
     console.log('\n🎓 FB Automation - Class Selection');
     console.log('=====================================');
-    console.log('0. 🚀 ALL CLASSES (Multi-tab processing)');
+    console.log('0. 🚀 ALL CLASSES (Sequential processing)');
+    console.log('Y25. 📅 ALL Year 2025 CLASSES (Sequential processing)');
+    console.log('Y26. 📅 ALL Year 2026 CLASSES (Sequential processing)');
     console.log('Available classes:');
     
     const availableClasses = config.getAvailableClasses();
@@ -136,9 +148,10 @@ function promptClassSelection() {
     const askForClass = () => {
       rl.question('\nWhich class do you want to start the operation for? (Enter number or class name): ', (answer) => {
         let selectedClass = null;
+        const normalizedAnswer = String(answer || '').trim().toLowerCase();
         
         // Check for option 0 (all classes)
-        if (answer === '0' || answer.toLowerCase() === 'all' || answer.toLowerCase() === 'all classes') {
+        if (answer === '0' || normalizedAnswer === 'all' || normalizedAnswer === 'all classes') {
           // Check if at least one class is configured
           const configuredClasses = availableClasses.filter(className => {
             const classConfig = config.CLASSES[className];
@@ -159,6 +172,49 @@ function promptClassSelection() {
           });
           rl.close();
           resolve('ALL_CLASSES');
+          return;
+        }
+
+        // Check for Year group selection
+        if (
+          normalizedAnswer === 'y25' ||
+          normalizedAnswer === 'year 2025' ||
+          normalizedAnswer === '2025' ||
+          normalizedAnswer === 'y2025'
+        ) {
+          const configured = config.getConfiguredClassesByYear(2025);
+          if (configured.length === 0) {
+            console.log('\n❌ Error: No Year 2025 classes are configured yet.');
+            console.log('Please configure at least one Year 2025 class before using this option.');
+            rl.close();
+            resolve(null);
+            return;
+          }
+          console.log(`\n✅ Selected: ALL Year 2025 CLASSES (${configured.length} configured classes)`);
+          configured.forEach((className) => console.log(`  - ${className}`));
+          rl.close();
+          resolve('YEAR_2025');
+          return;
+        }
+
+        if (
+          normalizedAnswer === 'y26' ||
+          normalizedAnswer === 'year 2026' ||
+          normalizedAnswer === '2026' ||
+          normalizedAnswer === 'y2026'
+        ) {
+          const configured = config.getConfiguredClassesByYear(2026);
+          if (configured.length === 0) {
+            console.log('\n❌ Error: No Year 2026 classes are configured yet.');
+            console.log('Please set Year 2026 GROUP_URL and ELIGIBLE_PRODUCT_IDS in config.js first.');
+            rl.close();
+            resolve(null);
+            return;
+          }
+          console.log(`\n✅ Selected: ALL Year 2026 CLASSES (${configured.length} configured classes)`);
+          configured.forEach((className) => console.log(`  - ${className}`));
+          rl.close();
+          resolve('YEAR_2026');
           return;
         }
         
@@ -337,166 +393,7 @@ function updateTabProcessingCount(className, current, total = null) {
   }
 }
 
-// Function to parse request time and check if it's too recent
-function isRequestTooRecent(timeText) {
-  if (!timeText) return false;
-  
-  const minAgeMinutes = config.MIN_REQUEST_AGE_MINUTES || 3;
-  
-  // Convert text to lowercase for easier matching
-  const text = timeText.toLowerCase();
-  
-  // Check for "a few seconds ago" or similar instant patterns
-  if (text.includes('few seconds') || text.includes('just now') || text.includes('seconds ago')) {
-    console.log(`⏰ Request is too recent: "${timeText}" (less than 1 minute)`);
-    return true;
-  }
-  
-  // Extract minutes from patterns like "1 minute ago", "2 minutes ago", "1m", "2m"
-  const minutePatterns = [
-    /(\d+)\s*minute[s]?\s*ago/i,
-    /(\d+)\s*min[s]?\s*ago/i,
-    /(\d+)m\s*ago/i,
-    /(\d+)\s*m$/i
-  ];
-  
-  for (const pattern of minutePatterns) {
-    const match = text.match(pattern);
-    if (match) {
-      const minutes = parseInt(match[1]);
-      if (minutes < minAgeMinutes) {
-        console.log(`⏰ Request is too recent: "${timeText}" (${minutes} minutes < ${minAgeMinutes} minutes required)`);
-        return true;
-      }
-      console.log(`✅ Request is old enough: "${timeText}" (${minutes} minutes >= ${minAgeMinutes} minutes required)`);
-      return false;
-    }
-  }
-  
-  // If we can't parse it, assume it's old enough (hours, days, weeks, etc.)
-  if (text.includes('hour') || text.includes('day') || text.includes('week') || text.includes('month') || text.includes('year')) {
-    console.log(`✅ Request is old enough: "${timeText}" (more than ${minAgeMinutes} minutes)`);
-    return false;
-  }
-  
-  // If we still can't determine, be conservative and skip it
-  console.log(`⚠️ Could not parse request time: "${timeText}" - skipping to be safe`);
-  return true;
-}
-
-// Function to extract and check request time from member card
-async function checkRequestTime(memberCard) {
-  try {
-    const requestTime = await memberCard.evaluate(el => {
-      // Look for time text in various possible locations
-      const timeSelectors = [
-        'abbr',
-        '[role="link"] span',
-        'span[class*="x193iq5w"]',
-        'span[class*="x1lliihq"]',
-        'span'
-      ];
-      
-      for (const selector of timeSelectors) {
-        const timeElements = el.querySelectorAll(selector);
-        for (const elem of timeElements) {
-          const text = elem.textContent || elem.innerText;
-          // Check if this looks like a time indicator
-          if (text && (
-            text.includes('ago') || 
-            text.includes('minute') || 
-            text.includes('hour') || 
-            text.includes('day') ||
-            text.includes('week') ||
-            text.includes('month') ||
-            /\d+[mhd]/.test(text) // Matches patterns like "3m", "2h", "1d"
-          )) {
-            return text.trim();
-          }
-        }
-      }
-      return null;
-    });
-    
-    if (!requestTime) {
-      // If we can't find the time, assume it's old enough
-      return { shouldSkip: false, requestAge: 'unknown' };
-    }
-    
-    // Parse the time text
-    const text = requestTime.toLowerCase();
-    const minAgeMinutes = config.MIN_REQUEST_AGE_MINUTES || 3;
-    
-    // Check for "a few seconds ago" or similar instant patterns
-    if (text.includes('few seconds') || text.includes('just now') || text.includes('second')) {
-      return { shouldSkip: true, requestAge: '< 1' };
-    }
-    
-    // Extract minutes
-    const minutePatterns = [
-      /(\d+)\s*minute[s]?\s*ago/i,
-      /(\d+)\s*min[s]?\s*ago/i,
-      /(\d+)m\s*ago/i,
-      /(\d+)\s*m\s/i
-    ];
-    
-    for (const pattern of minutePatterns) {
-      const match = text.match(pattern);
-      if (match) {
-        const minutes = parseInt(match[1]);
-        // Skip patterns like "0m", "0d", "0w" which are invalid
-        if (minutes === 0) {
-          console.log(`⚠️ Invalid time pattern: "${requestTime}" - treating as old enough`);
-          return { shouldSkip: false, requestAge: 'invalid-zero' };
-        }
-        if (minutes < minAgeMinutes) {
-          return { shouldSkip: true, requestAge: minutes };
-        }
-        return { shouldSkip: false, requestAge: minutes };
-      }
-    }
-    
-    // Check for hour/day/week patterns (these are definitely old enough)
-    const longTimePatterns = [
-      /(\d+)\s*hour[s]?\s*ago/i,
-      /(\d+)\s*h\s*ago/i,
-      /(\d+)\s*day[s]?\s*ago/i,
-      /(\d+)\s*d\s*ago/i,
-      /(\d+)\s*week[s]?\s*ago/i,
-      /(\d+)\s*w\s*ago/i
-    ];
-    
-    for (const pattern of longTimePatterns) {
-      const match = text.match(pattern);
-      if (match) {
-        const value = parseInt(match[1]);
-        // Skip patterns like "0h", "0d", "0w" which are invalid
-        if (value === 0) {
-          console.log(`⚠️ Invalid time pattern: "${requestTime}" - treating as old enough`);
-          return { shouldSkip: false, requestAge: 'invalid-zero' };
-        }
-        // Any hour, day, or week value >= 1 is definitely old enough
-        console.log(`✅ Request is old enough: "${requestTime}"`);
-        return { shouldSkip: false, requestAge: requestTime };
-      }
-    }
-    
-    // If it includes these words without numbers, assume it's old enough
-    if (text.includes('hour') || text.includes('day') || text.includes('week') || text.includes('month') || text.includes('year')) {
-      console.log(`✅ Request is old enough: "${requestTime}"`);
-      return { shouldSkip: false, requestAge: requestTime };
-    }
-    
-    // If we can't parse it, assume it's old enough (safer to process)
-    console.log(`⚠️ Could not parse time format: "${requestTime}" - treating as old enough`);
-    return { shouldSkip: false, requestAge: 'unknown-format' };
-    
-  } catch (error) {
-    console.log(`⚠️ Error checking request time: ${error.message}`);
-    // If there's an error, don't skip the request
-    return { shouldSkip: false, requestAge: 'error' };
-  }
-}
+// NOTE: MIN_REQUEST_AGE filtering has been removed by request.
 
 
 // Function to save member processing data to database
@@ -747,42 +644,12 @@ async function scrapeMemberRequests(page, className = null) {
       }
     }
     
-    // Filter out requests that are less than configured minimum age
-    console.log(`\n⏰ Checking request ages (minimum: ${config.MIN_REQUEST_AGE_MINUTES} minutes)...`);
-    const memberRequests = [];
-    let skippedCount = 0;
-    
-    for (const memberCard of allMemberRequests) {
-      const timeCheck = await checkRequestTime(memberCard);
-      if (!timeCheck.shouldSkip) {
-        memberRequests.push(memberCard);
-      } else {
-        skippedCount++;
-        console.log(`⏩ Skipping request (too recent: ${timeCheck.requestAge} min)`);
-      }
-    }
-    
-    console.log(`✅ Eligible requests: ${memberRequests.length}/${allMemberRequests.length} (Skipped ${skippedCount} recent requests)`);
-    
-    // If all requests were skipped due to being too recent, treat as no members
-    if (memberRequests.length === 0) {
-      console.log(`⚠️ All member requests are too recent (< ${config.MIN_REQUEST_AGE_MINUTES} minutes old)`);
-      addLogMessage(`All requests are too recent - waiting ${config.WAIT_TIME/1000} seconds`, className);
-      await showToast(page, `All requests too recent (< ${config.MIN_REQUEST_AGE_MINUTES} min), waiting...`, 'info', className);
-      return { noMembers: true };
-    }
-    
-    // Update tracking with eligible count
-    if (isMultiTabMode && className) {
-      updateTabProcessingCount(className, 0, memberRequests.length);
-    } else {
-      totalMembers = memberRequests.length;
-      currentProcessingCount = 0;
-    }
-    
-    addLogMessage(`Processing ${memberRequests.length} eligible request(s)`, className);
-    await showToast(page, `Processing ${memberRequests.length} eligible request(s)`, 'info', className);
-    
+    // MIN_REQUEST_AGE filtering removed: process all requests immediately
+    const memberRequests = allMemberRequests;
+
+    addLogMessage(`Processing ${memberRequests.length} request(s)`, className);
+    await showToast(page, `Processing ${memberRequests.length} request(s)`, 'info', className);
+
     for (let i = 0; i < memberRequests.length; i++) {
       const currentCount = i + 1;
       const totalCount = memberRequests.length;
@@ -1238,31 +1105,32 @@ async function startClassAutomationLoop(page, className) {
 }
 
 // Multi-class automation function
-async function startMultiClassAutomation(context, chromePath, userDataDir, profile) {
+async function startMultiClassAutomation(context, chromePath, userDataDir, profile, classNamesToProcess = null) {
   console.log('\n🚀 Starting Multi-Class Automation');
   console.log('===================================');
   
-  // Set multi-tab mode
+  // We still use "multi-tab mode" internals for class-specific config/logging,
+  // but we process classes SEQUENTIALLY (one tab at a time).
   isMultiTabMode = true;
   
   // Get all configured classes
   const availableClasses = config.getAvailableClasses();
-  const configuredClasses = availableClasses.filter(className => {
-    const classConfig = config.CLASSES[className];
-    return classConfig.GROUP_URL && classConfig.ELIGIBLE_PRODUCT_IDS.length > 0;
-  });
+  const configuredClasses = Array.isArray(classNamesToProcess)
+    ? classNamesToProcess
+    : availableClasses.filter(className => {
+        const classConfig = config.CLASSES[className];
+        return classConfig.GROUP_URL && classConfig.ELIGIBLE_PRODUCT_IDS.length > 0;
+      });
   
   console.log(`📋 Processing ${configuredClasses.length} configured classes:`);
   configuredClasses.forEach(className => {
     console.log(`  - ${className}`);
   });
   
-  // Create tabs and start automation for each class
-  const automationPromises = [];
-  
+  // Process ONE class at a time: open tab -> run automation loop -> tab auto-closes -> next class
   for (const className of configuredClasses) {
     try {
-      console.log(`\n🔗 Opening tab for: ${className}`);
+      console.log(`\n🔗 Opening tab for: ${className} (sequential)`);
       
       // Create new page for this class
       const page = await context.newPage();
@@ -1284,59 +1152,95 @@ async function startMultiClassAutomation(context, chromePath, userDataDir, profi
       // Wait a bit for the page to load
       await page.waitForTimeout(3000);
       
-      // Start automation loop for this class (don't await - run in parallel)
-      const automationPromise = startClassAutomationLoop(page, className);
-      automationPromises.push(automationPromise);
+      // Run automation loop for this class and WAIT until it finishes (auto-quit closes the tab)
+      await startClassAutomationLoop(page, className);
+      console.log(`🏁 Finished: ${className}`);
       
-      // Small delay between opening tabs
-      await new Promise(resolve => setTimeout(resolve, 2000));
+      // Small delay before moving to next class
+      await new Promise(resolve => setTimeout(resolve, 1500));
       
     } catch (error) {
       console.error(`❌ Error setting up automation for ${className}:`, error.message);
     }
   }
-  
-  console.log(`\n🎯 All ${configuredClasses.length} automation loops started!`);
-  console.log('Each class is now processing members in parallel.');
-  
-  // Wait for all automation loops (they may exit due to auto-quit)
+
+  console.log(`\n✅ Completed sequential processing for ${configuredClasses.length} classes.`);
+}
+
+function parseBooleanEnv(value, defaultValue = false) {
+  if (value === undefined || value === null || value === "") return defaultValue;
+  return String(value).toLowerCase() === "true";
+}
+
+function resolveDefaultChromeExecutablePath() {
+  const platform = process.platform;
+
+  if (platform === "darwin") {
+    return "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
+  }
+
+  if (platform === "win32") {
+    // Prefer standard install location. If user has a different one, set CHROME_EXECUTABLE_PATH.
+    return "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe";
+  }
+
+  // Linux/common fallback — rely on Playwright channel/bundled Chromium
+  return null;
+}
+
+function resolveUserDataDirFromEnvOrDefault() {
+  const configured = process.env.CHROME_USER_DATA_DIR;
+  if (configured && configured.trim()) {
+    // Allow relative paths in env (cross-platform friendly)
+    return path.isAbsolute(configured) ? configured : path.resolve(__dirname, configured);
+  }
+  // Cross-platform default: keep browser profile inside the repo
+  return path.resolve(__dirname, ".chrome-profile");
+}
+
+async function launchPersistentContextWithFallback({ userDataDir, headless, args, timeout }) {
+  const baseOptions = {
+    headless,
+    args,
+    timeout,
+  };
+
+  const executablePathFromEnv = (process.env.CHROME_EXECUTABLE_PATH || "").trim();
+  if (executablePathFromEnv) {
+    if (!fs.existsSync(executablePathFromEnv)) {
+      throw new Error(`CHROME_EXECUTABLE_PATH not found: ${executablePathFromEnv}`);
+    }
+    console.log("🌐 Using Chrome via CHROME_EXECUTABLE_PATH");
+    return await chromium.launchPersistentContext(userDataDir, {
+      ...baseOptions,
+      executablePath: executablePathFromEnv,
+    });
+  }
+
+  // Try Playwright "chrome" channel (uses installed Chrome on Windows/macOS)
   try {
-    await Promise.all(automationPromises);
-  } catch (error) {
-    console.log(`\n⚠️ Some automation loops ended: ${error.message}`);
+    console.log('🌐 Trying Playwright channel: "chrome"');
+    return await chromium.launchPersistentContext(userDataDir, {
+      ...baseOptions,
+      channel: "chrome",
+    });
+  } catch (e) {
+    console.warn(`⚠️ Could not launch channel "chrome": ${e.message}`);
   }
-  
-  // Check if all tabs have been closed due to auto-quit
-  const remainingPages = context.pages();
-  if (remainingPages.length === 0) {
-    console.log('\n🚪 All tabs have been closed due to auto-quit. Exiting multi-class automation.');
-    return;
+
+  // Try default Chrome path if it exists (Windows/macOS)
+  const defaultChromePath = resolveDefaultChromeExecutablePath();
+  if (defaultChromePath && fs.existsSync(defaultChromePath)) {
+    console.log("🌐 Using system Chrome from default path");
+    return await chromium.launchPersistentContext(userDataDir, {
+      ...baseOptions,
+      executablePath: defaultChromePath,
+    });
   }
-  
-  // Check if only blank tabs remain
-  const nonBlankPages = remainingPages.filter(page => {
-    try {
-      const url = page.url();
-      return url && !url.includes('about:blank') && !url.includes('chrome://');
-    } catch (error) {
-      return false;
-    }
-  });
-  
-  if (nonBlankPages.length === 0 && remainingPages.length > 0) {
-    console.log('\n🚪 Only blank tabs remain. Closing all remaining tabs and exiting.');
-    // Close all remaining pages
-    for (const page of remainingPages) {
-      try {
-        await page.close();
-      } catch (error) {
-        console.log(`⚠️ Error closing page: ${error.message}`);
-      }
-    }
-    return;
-  }
-  
-  console.log(`\n📊 ${remainingPages.length} tabs still active (${nonBlankPages.length} non-blank). Continuing monitoring...`);
+
+  // Final fallback: bundled Playwright Chromium (works everywhere after `npx playwright install`)
+  console.log("🌐 Falling back to bundled Playwright Chromium");
+  return await chromium.launchPersistentContext(userDataDir, baseOptions);
 }
 
 // Main automation loop with sleep/retry cycle (for single class)
@@ -1441,8 +1345,14 @@ async function startAutomationLoop(page) {
     }
     
     // Handle multi-class selection
-    if (selectedClass === 'ALL_CLASSES') {
-      console.log(`\n🎯 Starting automation for: ALL CLASSES (Multi-tab mode)`);
+    if (selectedClass === 'ALL_CLASSES' || selectedClass === 'YEAR_2025' || selectedClass === 'YEAR_2026') {
+      const label =
+        selectedClass === 'ALL_CLASSES'
+          ? 'ALL CLASSES'
+          : selectedClass === 'YEAR_2025'
+            ? 'ALL Year 2025 CLASSES'
+            : 'ALL Year 2026 CLASSES';
+      console.log(`\n🎯 Starting automation for: ${label} (Multi-tab mode)`);
       console.log("======================================\n");
     } else {
       console.log(`\n🎯 Starting automation for: ${selectedClass}`);
@@ -1451,85 +1361,54 @@ async function startAutomationLoop(page) {
       console.log("======================================\n");
     }
 
-    // Path to your Chrome executable (adjust if needed)
-    const chromePath = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"; // Windows
-    // macOS example:
-    // const chromePath = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
+    const headless = parseBooleanEnv(process.env.HEADLESS, false);
+    const userDataDir = resolveUserDataDirFromEnvOrDefault();
+    const chromeProfileDir = (process.env.CHROME_PROFILE_DIR || "").trim(); // Optional: "Default", "Profile 1", etc.
 
-    // Path to the user data directory where Chrome stores profiles
-    // Replace with your actual path
-    const userDataDir = "C:\\Users\\abusa\\AppData\\Local\\Google\\Chrome\\User Data"; // Windows
-    // macOS example:
-    // const userDataDir = "/Users/aweshislam/Library/Application Support/Google/Chrome";
-
-    // The profile you want to use (e.g., "Default", "Profile 1", "Profile 2")
-    let profile = "afs"; // Changed to Default to avoid profile conflicts
+    // Ensure user data dir exists (Playwright will create, but making it explicit is clearer)
+    fs.mkdirSync(userDataDir, { recursive: true });
 
     console.log("Starting Facebook automation...");
-    console.log("Chrome path:", chromePath);
+    console.log("OS:", `${os.platform()} (${process.platform})`);
     console.log("User data directory:", userDataDir);
-    console.log("Profile:", profile);
+    if (chromeProfileDir) console.log("Chrome profile dir:", chromeProfileDir);
+    console.log("Headless:", headless);
 
-    // Check if Chrome executable exists
-    if (!fs.existsSync(chromePath)) {
-      throw new Error(`Chrome executable not found at: ${chromePath}`);
+    const launchArgs = [
+      "--disable-web-security",
+      "--disable-features=VizDisplayCompositor",
+      "--no-first-run",
+      "--no-default-browser-check",
+      "--disable-blink-features=AutomationControlled",
+      "--disable-dev-shm-usage",
+    ];
+
+    // If the user points to their real Chrome User Data folder, allow selecting a profile directory
+    if (chromeProfileDir) {
+      launchArgs.push(`--profile-directory=${chromeProfileDir}`);
     }
 
-    // Check if user data directory exists
-    if (!fs.existsSync(userDataDir)) {
-      throw new Error(`User data directory not found at: ${userDataDir}`);
-    }
+    console.log("Launching browser...");
 
-    // Check if profile directory exists
-    const profilePath = `${userDataDir}/${profile}`;
-    if (!fs.existsSync(profilePath)) {
-      console.warn(`Profile directory not found: ${profilePath}`);
-      console.log("Available profiles:");
-      const profiles = fs.readdirSync(userDataDir).filter(item => 
-        fs.statSync(`${userDataDir}/${item}`).isDirectory() && 
-        (item.startsWith('Profile') || item === 'Default')
-      );
-      profiles.forEach(p => console.log(`  - ${p}`));
-      
-      // Try with Default profile as fallback
-      console.log("Trying with Default profile instead...");
-      const fallbackProfile = "Default";
-      const fallbackProfilePath = `${userDataDir}/${fallbackProfile}`;
-      if (fs.existsSync(fallbackProfilePath)) {
-        console.log(`Using fallback profile: ${fallbackProfile}`);
-        profile = fallbackProfile; // Update the profile variable
-      } else {
-        throw new Error("No valid profile found. Please check your Chrome profile setup.");
-      }
-    }
-
-    console.log("Launching Chrome...");
-    console.log("Using profile:", profile);
-
-    // Launch Chrome with Playwright using the specific profile
-    console.log("Profile path:", profilePath);
-    console.log("Profile exists:", fs.existsSync(profilePath));
-    
-    const context = await chromium.launchPersistentContext(profilePath, {
-      headless: false, // so you can see the browser
-      executablePath: chromePath,
-      args: [
-        '--disable-web-security',
-        '--disable-features=VizDisplayCompositor',
-        '--no-first-run',
-        '--no-default-browser-check',
-        '--disable-blink-features=AutomationControlled',
-        '--disable-dev-shm-usage'
-      ],
-      timeout: 30000, // 30 second timeout
+    const context = await launchPersistentContextWithFallback({
+      userDataDir,
+      headless,
+      args: launchArgs,
+      timeout: 30000,
     });
 
     console.log("Chrome launched successfully!");
 
     // Handle multi-class vs single class automation
-    if (selectedClass === 'ALL_CLASSES') {
-      // Start multi-class automation
-      await startMultiClassAutomation(context, chromePath, userDataDir, profile);
+    if (selectedClass === 'ALL_CLASSES' || selectedClass === 'YEAR_2025' || selectedClass === 'YEAR_2026') {
+      const classList =
+        selectedClass === 'YEAR_2025'
+          ? config.getConfiguredClassesByYear(2025)
+          : selectedClass === 'YEAR_2026'
+            ? config.getConfiguredClassesByYear(2026)
+            : null;
+      // Start multi-class automation (optionally filtered)
+      await startMultiClassAutomation(context, null, userDataDir, chromeProfileDir, classList);
     } else {
       // Single class automation - use existing logic
       

@@ -21,6 +21,24 @@ Database connection settings are in the `.env` file. You can edit this file to c
 - Database username
 - Database password
 
+## One-time Setup (Mac + Windows)
+
+1. Install dependencies:
+
+```bash
+npm install
+```
+
+2. Install Playwright browsers:
+
+```bash
+npm run install:browsers
+```
+
+3. Create your `.env` file:
+- Copy `env.example` → `.env`
+- Update DB settings (if you use database features)
+
 ## How to Edit
 
 ### Application Settings (`config.js`)
@@ -31,7 +49,7 @@ Database connection settings are in the `.env` file. You can edit this file to c
 5. Restart the automation script
 
 ### Database Settings (`.env`)
-1. Copy `.env.example` to `.env` (if `.env` doesn't exist)
+1. Copy `env.example` to `.env` (if `.env` doesn't exist)
 2. Open `.env` in any text editor
 3. Update the database connection values
 4. Save the file
@@ -65,6 +83,13 @@ Database connection settings are in the `.env` file. You can edit this file to c
 - `DB_USER` - Database username
 - `DB_PASSWORD` - Database password
 
+### Browser Settings (`.env`)
+- `CHROME_USER_DATA_DIR` - Where the persistent browser profile is stored.
+  - Default is `.chrome-profile` inside this project (works the same on Mac + Windows).
+- `CHROME_PROFILE_DIR` - Optional. Only needed if you set `CHROME_USER_DATA_DIR` to your real Chrome “User Data” folder (use values like `Default`, `Profile 1`).
+- `CHROME_EXECUTABLE_PATH` - Optional. Force a specific Chrome executable path (otherwise the script auto-detects / falls back).
+- `HEADLESS` - `true` or `false`
+
 ## Examples
 
 ### Change Group URL
@@ -89,6 +114,18 @@ DB_PORT=5432
 DB_NAME=your_database_name
 DB_USER=your_username
 DB_PASSWORD=your_secure_password
+```
+
+### Run the automation
+
+```bash
+npm start
+```
+
+### Test DB connection
+
+```bash
+npm run test-db
 ```
 
 ## Important Notes

@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-01-13T06:59:03.761Z",
+    "date": "1/13/2026, 12:59:03 PM",
+    "className": "Class 10 Commerce",
+    "memberName": "Bakhtiyar H. Utshob",
+    "facebookUserId": "100065800217927",
+    "memberUserId": "100065800217927",
+    "memberPhone": "01711946802",
+    "memberTrxId": "6d86b5ff-b27f-4305-ab9e-2b657a919a84",
+    "memberQA": {
+      "তোমার নাম": "Bakhtiyar H. Utshob",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711946802",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6d86b5ff-b27f-4305-ab9e-2b657a919a84"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  }
+]

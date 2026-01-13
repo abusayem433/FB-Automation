@@ -7,38 +7,51 @@ const config = require('./config.js');
 
 // Configure Class 6
 // config.updateClassConfig("Class 6", 
-//   "https://www.facebook.com/groups/YOUR_GROUP_ID/member-requests?joined_fb_recently=false&orderby=chronological&previously_removed_members=false&suggested=false",
+//   "https://www.facebook.com/groups/YOUR_GROUP_ID",
 //   ["product-id-1", "product-id-2", "product-id-3"]
 // );
 
 // Configure Class 7
 // config.updateClassConfig("Class 7", 
-//   "https://www.facebook.com/groups/YOUR_GROUP_ID/member-requests?joined_fb_recently=false&orderby=chronological&previously_removed_members=false&suggested=false",
+//   "https://www.facebook.com/groups/YOUR_GROUP_ID",
 //   ["product-id-1", "product-id-2", "product-id-3"]
 // );
 
 // Configure Class 8
 // config.updateClassConfig("Class 8", 
-//   "https://www.facebook.com/groups/YOUR_GROUP_ID/member-requests?joined_fb_recently=false&orderby=chronological&previously_removed_members=false&suggested=false",
+//   "https://www.facebook.com/groups/YOUR_GROUP_ID",
 //   ["product-id-1", "product-id-2", "product-id-3"]
 // );
 
 // Configure Class 9
 // config.updateClassConfig("Class 9", 
-//   "https://www.facebook.com/groups/YOUR_GROUP_ID/member-requests?joined_fb_recently=false&orderby=chronological&previously_removed_members=false&suggested=false",
+//   "https://www.facebook.com/groups/YOUR_GROUP_ID",
 //   ["product-id-1", "product-id-2", "product-id-3"]
 // );
 
-// Configure Class 10 Science
-// config.updateClassConfig("Class 10 Science", 
-//   "https://www.facebook.com/groups/YOUR_GROUP_ID/member-requests?joined_fb_recently=false&orderby=chronological&previously_removed_members=false&suggested=false",
+// Configure Class 10 FRB
+// config.updateClassConfig("Class 10 FRB", 
+//   "https://www.facebook.com/groups/YOUR_GROUP_ID",
 //   ["product-id-1", "product-id-2", "product-id-3"]
 // );
 
 // Configure Class 10 Commerce
 // config.updateClassConfig("Class 10 Commerce", 
-//   "https://www.facebook.com/groups/YOUR_GROUP_ID/member-requests?joined_fb_recently=false&orderby=chronological&previously_removed_members=false&suggested=false",
+//   "https://www.facebook.com/groups/YOUR_GROUP_ID",
 //   ["product-id-1", "product-id-2", "product-id-3"]
+// );
+
+// ===========================
+// Year 2026 (NEW) examples
+// ===========================
+// config.updateClassConfig("Class 6 (2026)",
+//   "https://www.facebook.com/groups/YOUR_2026_GROUP_ID",
+//   ["2026-product-id-1", "2026-product-id-2"]
+// );
+
+// config.updateClassConfig("Class 10 FRB (2026)",
+//   "https://www.facebook.com/groups/YOUR_2026_GROUP_ID",
+//   ["2026-product-id-1", "2026-product-id-2"]
 // );
 
 console.log('\n🎓 Class Configuration Helper');
