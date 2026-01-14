@@ -1,9 +1,8 @@
 {
-  "version": 2,
-  "routes": [
+  "rewrites": [
     {
-      "src": "/",
-      "dest": "/report-dashboard.html"
+      "source": "/",
+      "destination": "/report-dashboard.html"
     }
   ],
   "headers": [
