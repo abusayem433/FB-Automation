@@ -11190,5 +11190,61 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-14T18:47:02.276Z",
+    "date": "1/15/2026, 12:47:02 AM",
+    "className": "Class 8",
+    "memberName": "Sisir Veja Ghas",
+    "facebookUserId": "100062380308150",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-14T18:47:05.606Z",
+    "date": "1/15/2026, 12:47:05 AM",
+    "className": "Class 8",
+    "memberName": "LE O",
+    "facebookUserId": "61558760753190",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-14T18:47:08.883Z",
+    "date": "1/15/2026, 12:47:08 AM",
+    "className": "Class 8",
+    "memberName": "Sukla Barua",
+    "facebookUserId": "100078193594131",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-14T18:47:12.241Z",
+    "date": "1/15/2026, 12:47:12 AM",
+    "className": "Class 8",
+    "memberName": "Nizam Uddin",
+    "facebookUserId": "1761147644",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

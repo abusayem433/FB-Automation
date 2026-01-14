@@ -1,0 +1,104 @@
+[
+  {
+    "timestamp": "2026-01-14T20:20:47.116Z",
+    "date": "1/15/2026, 2:20:47 AM",
+    "className": "Class 10 Math (2026)",
+    "memberName": "Tahmid Ahmed",
+    "facebookUserId": "61561726675519",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-14T20:20:50.408Z",
+    "date": "1/15/2026, 2:20:50 AM",
+    "className": "Class 10 Math (2026)",
+    "memberName": "Suhaib Sinan Aohin",
+    "facebookUserId": "100015035884939",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-14T20:20:53.660Z",
+    "date": "1/15/2026, 2:20:53 AM",
+    "className": "Class 10 Math (2026)",
+    "memberName": "Kazi Rakibul Hasan",
+    "facebookUserId": "100025776918445",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-14T20:20:56.911Z",
+    "date": "1/15/2026, 2:20:56 AM",
+    "className": "Class 10 Math (2026)",
+    "memberName": "Md Asaduzzaman Akhil",
+    "facebookUserId": "100007729335189",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Akhil"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-14T20:21:00.217Z",
+    "date": "1/15/2026, 2:21:00 AM",
+    "className": "Class 10 Math (2026)",
+    "memberName": "Golam Sorwar Dipo",
+    "facebookUserId": "100009184997585",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "dipo"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-14T20:21:09.145Z",
+    "date": "1/15/2026, 2:21:09 AM",
+    "className": "Class 10 Math (2026)",
+    "memberName": "তোমার ইচ্ছেগুলো",
+    "facebookUserId": "61574551313146",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-14T20:21:18.040Z",
+    "date": "1/15/2026, 2:21:18 AM",
+    "className": "Class 10 Math (2026)",
+    "memberName": "MN Munna Hossen",
+    "facebookUserId": "61574726078901",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  }
+]

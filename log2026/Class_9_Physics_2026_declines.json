@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-01-14T20:34:53.209Z",
+    "date": "1/15/2026, 2:34:53 AM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Azim Khan",
+    "facebookUserId": "100006921908150",
+    "memberUserId": "",
+    "memberPhone": "01941437800",
+    "memberTrxId": "arisha",
+    "memberQA": {
+      "তোমার নাম": "arisha khanam era",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01941437800",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "arisha"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  }
+]

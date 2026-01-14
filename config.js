@@ -96,28 +96,32 @@ const config = {
       YEAR: 2026,
       GROUP_URL: "https://www.facebook.com/groups/868968296117348",
       ELIGIBLE_PRODUCT_IDS: [
-        "ac2df497-1952-489b-86ae-d2b06971b2d0"
+        "ac2df497-1952-489b-86ae-d2b06971b2d0", // All in One Diamond Pack
+        "225b3979-80ea-42d8-8aaf-17c6b611f50e"  // 1st Half Variant
       ]
     },
     "Class 7 All in One Diamond Pack (2026)": {
       YEAR: 2026,
       GROUP_URL: "https://www.facebook.com/groups/868470315809067",
       ELIGIBLE_PRODUCT_IDS: [
-        "d197edde-1214-4c5f-a985-4733606a5d41"
+        "d197edde-1214-4c5f-a985-4733606a5d41", // All in One Diamond Pack
+        "fab4550d-92f0-4ec5-b3b0-c5cbf351f3a9"  // 1st Half Variant
       ]
     },
     "Class 8 All in One Diamond Pack (2026)": {
       YEAR: 2026,
       GROUP_URL: "https://www.facebook.com/groups/1970734573863976",
       ELIGIBLE_PRODUCT_IDS: [
-        "01818359-2397-48e8-ad22-7e54231c5f55"
+        "01818359-2397-48e8-ad22-7e54231c5f55", // All in One Diamond Pack
+        "861cd588-1334-4eab-9b2c-c4af065530d5"  // 1st Half Variant
       ]
     },
     "Class 9 All in One Diamond Pack (2026)": {
       YEAR: 2026,
       GROUP_URL: "https://www.facebook.com/groups/810998795294892",
       ELIGIBLE_PRODUCT_IDS: [
-        "7dcf67d3-259c-4d90-a645-efec9c0b1f45"
+        "01f3d2e5-aa97-4b8b-8bf9-c38263fcaa90", // All in One Diamond Pack
+        "c04cd38b-ae05-4edc-967f-85f50c069ab3"  // 1st Half Variant
       ]
     },
     "Class 9 PCMMB (2026)": {
@@ -208,7 +212,8 @@ const config = {
       YEAR: 2026,
       GROUP_URL: "https://www.facebook.com/groups/890350350310388",
       ELIGIBLE_PRODUCT_IDS: [
-        "1868054c-070b-4969-a3d3-3cab944a7cc2"
+        "b46bfa87-ead0-4c07-b391-38dc21437ae8", // All in One Diamond Pack
+        "04cfec90-9c44-4a3c-a7b5-d173a2b21f5b"  // 1st Half Variant
       ]
     },
     "Class 10 PCMMB (2026)": {

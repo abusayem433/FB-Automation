@@ -1,15 +1,305 @@
 {
-  "generatedAt": "2026-01-14T18:06:32.987Z",
-  "generatedDate": "1/15/2026, 12:06:32 AM",
+  "generatedAt": "2026-01-14T20:35:53.865Z",
+  "generatedDate": "1/15/2026, 2:35:53 AM",
   "summary": {
-    "totalApprovals": 0,
-    "totalDeclines": 0,
-    "totalProcessed": 0
+    "totalApprovals": 70,
+    "totalDeclines": 69,
+    "totalProcessed": 139
   },
-  "byClass": {},
-  "declineReasons": {},
+  "byClass": {
+    "Class 10 BGS (2026)": {
+      "approvals": 2,
+      "declines": 0,
+      "total": 2,
+      "declineReasons": {}
+    },
+    "Class 10 Bangla (2026)": {
+      "approvals": 2,
+      "declines": 1,
+      "total": 3,
+      "declineReasons": {
+        "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে": 1
+      }
+    },
+    "Class 10 Biology (2026)": {
+      "approvals": 1,
+      "declines": 0,
+      "total": 1,
+      "declineReasons": {}
+    },
+    "Class 10 Chemistry (2026)": {
+      "approvals": 3,
+      "declines": 0,
+      "total": 3,
+      "declineReasons": {}
+    },
+    "Class 10 EBIB (2026)": {
+      "approvals": 1,
+      "declines": 0,
+      "total": 1,
+      "declineReasons": {}
+    },
+    "Class 10 English (2026)": {
+      "approvals": 3,
+      "declines": 2,
+      "total": 5,
+      "declineReasons": {
+        "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়": 1,
+        "ট্রানজেকশন আইডি দেওয়া হয়নি": 1
+      }
+    },
+    "Class 10 H. Math (2026)": {
+      "approvals": 4,
+      "declines": 6,
+      "total": 10,
+      "declineReasons": {
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 3,
+        "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি": 2,
+        "ট্রানজেকশন আইডি সঠিক নয়": 1
+      }
+    },
+    "Class 10 ICT (2026)": {
+      "approvals": 2,
+      "declines": 0,
+      "total": 2,
+      "declineReasons": {}
+    },
+    "Class 10 Manobik Group (2026)": {
+      "approvals": 3,
+      "declines": 0,
+      "total": 3,
+      "declineReasons": {}
+    },
+    "Class 10 Math (2026)": {
+      "approvals": 5,
+      "declines": 7,
+      "total": 12,
+      "declineReasons": {
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 5,
+        "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি": 2
+      }
+    },
+    "Class 10 PCMMB (2026)": {
+      "approvals": 9,
+      "declines": 2,
+      "total": 11,
+      "declineReasons": {
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 2
+      }
+    },
+    "Class 10 Physics (2026)": {
+      "approvals": 14,
+      "declines": 1,
+      "total": 15,
+      "declineReasons": {
+        "ট্রানজেকশন আইডি দেওয়া হয়নি": 1
+      }
+    },
+    "Class 9 Biology (2026)": {
+      "approvals": 1,
+      "declines": 4,
+      "total": 5,
+      "declineReasons": {
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 2,
+        "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি": 2
+      }
+    },
+    "Class 9 EBIB (2026)": {
+      "approvals": 2,
+      "declines": 7,
+      "total": 9,
+      "declineReasons": {
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 4,
+        "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি": 2,
+        "ট্রানজেকশন আইডি দেওয়া হয়নি": 1
+      }
+    },
+    "Class 9 English (2026)": {
+      "approvals": 1,
+      "declines": 1,
+      "total": 2,
+      "declineReasons": {
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 1
+      }
+    },
+    "Class 9 H. Math (2026)": {
+      "approvals": 1,
+      "declines": 0,
+      "total": 1,
+      "declineReasons": {}
+    },
+    "Class 9 Math (2026)": {
+      "approvals": 4,
+      "declines": 1,
+      "total": 5,
+      "declineReasons": {
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 1
+      }
+    },
+    "Class 9 PCMMB (2026)": {
+      "approvals": 8,
+      "declines": 8,
+      "total": 16,
+      "declineReasons": {
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 4,
+        "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি": 2,
+        "ট্রানজেকশন আইডি দেওয়া হয়নি": 1,
+        "ট্রানজেকশন আইডি সঠিক নয়": 1
+      }
+    },
+    "Class 9 Physics (2026)": {
+      "approvals": 4,
+      "declines": 1,
+      "total": 5,
+      "declineReasons": {
+        "ট্রানজেকশন আইডি সঠিক নয়": 1
+      }
+    },
+    "Class 10 All in One Diamond Pack (2026)": {
+      "approvals": 0,
+      "declines": 11,
+      "total": 11,
+      "declineReasons": {
+        "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়": 9,
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 2
+      }
+    },
+    "Class 9 All in One Diamond Pack (2026)": {
+      "approvals": 0,
+      "declines": 17,
+      "total": 17,
+      "declineReasons": {
+        "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়": 12,
+        "ট্রানজেকশন আইডি দেওয়া হয়নি": 1,
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 3,
+        "ট্রানজেকশন আইডি সঠিক নয়": 1
+      }
+    }
+  },
+  "byDate": {
+    "2026-01-14": {
+      "approvals": 70,
+      "declines": 69,
+      "total": 139,
+      "byClass": {
+        "Class 10 BGS (2026)": {
+          "approvals": 2,
+          "declines": 0,
+          "total": 2
+        },
+        "Class 10 Bangla (2026)": {
+          "approvals": 2,
+          "declines": 1,
+          "total": 3
+        },
+        "Class 10 Biology (2026)": {
+          "approvals": 1,
+          "declines": 0,
+          "total": 1
+        },
+        "Class 10 Chemistry (2026)": {
+          "approvals": 3,
+          "declines": 0,
+          "total": 3
+        },
+        "Class 10 EBIB (2026)": {
+          "approvals": 1,
+          "declines": 0,
+          "total": 1
+        },
+        "Class 10 English (2026)": {
+          "approvals": 3,
+          "declines": 2,
+          "total": 5
+        },
+        "Class 10 H. Math (2026)": {
+          "approvals": 4,
+          "declines": 6,
+          "total": 10
+        },
+        "Class 10 ICT (2026)": {
+          "approvals": 2,
+          "declines": 0,
+          "total": 2
+        },
+        "Class 10 Manobik Group (2026)": {
+          "approvals": 3,
+          "declines": 0,
+          "total": 3
+        },
+        "Class 10 Math (2026)": {
+          "approvals": 5,
+          "declines": 7,
+          "total": 12
+        },
+        "Class 10 PCMMB (2026)": {
+          "approvals": 9,
+          "declines": 2,
+          "total": 11
+        },
+        "Class 10 Physics (2026)": {
+          "approvals": 14,
+          "declines": 1,
+          "total": 15
+        },
+        "Class 9 Biology (2026)": {
+          "approvals": 1,
+          "declines": 4,
+          "total": 5
+        },
+        "Class 9 EBIB (2026)": {
+          "approvals": 2,
+          "declines": 7,
+          "total": 9
+        },
+        "Class 9 English (2026)": {
+          "approvals": 1,
+          "declines": 1,
+          "total": 2
+        },
+        "Class 9 H. Math (2026)": {
+          "approvals": 1,
+          "declines": 0,
+          "total": 1
+        },
+        "Class 9 Math (2026)": {
+          "approvals": 4,
+          "declines": 1,
+          "total": 5
+        },
+        "Class 9 PCMMB (2026)": {
+          "approvals": 8,
+          "declines": 8,
+          "total": 16
+        },
+        "Class 9 Physics (2026)": {
+          "approvals": 4,
+          "declines": 1,
+          "total": 5
+        },
+        "Class 10 All in One Diamond Pack (2026)": {
+          "approvals": 0,
+          "declines": 11,
+          "total": 11
+        },
+        "Class 9 All in One Diamond Pack (2026)": {
+          "approvals": 0,
+          "declines": 17,
+          "total": 17
+        }
+      }
+    }
+  },
+  "declineReasons": {
+    "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়": 22,
+    "প্রশ্নের উত্তর দেওয়া হয়নি": 27,
+    "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে": 1,
+    "ট্রানজেকশন আইডি দেওয়া হয়নি": 5,
+    "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি": 10,
+    "ট্রানজেকশন আইডি সঠিক নয়": 4
+  },
   "overallStats": {
-    "approvalRate": 0,
-    "declineRate": 0
+    "approvalRate": "50.36",
+    "declineRate": "49.64"
   }
 }

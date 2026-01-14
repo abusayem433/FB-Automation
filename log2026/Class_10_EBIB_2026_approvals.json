@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-01-14T20:16:57.845Z",
+    "date": "1/15/2026, 2:16:57 AM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Majedul Hoque",
+    "facebookUserId": "61572673015521",
+    "memberUserId": "61572673015521",
+    "memberPhone": "01705354660",
+    "memberTrxId": "7c1c64d6-7b25-47c1-9099-ff5c1067c352",
+    "memberQA": {
+      "তোমার নাম": "Majedul HOQUE",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01705354660",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7c1c64d6-7b25-47c1-9099-ff5c1067c352"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  }
+]

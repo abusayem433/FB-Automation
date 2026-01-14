@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-01-14T20:15:43.245Z",
+    "date": "1/15/2026, 2:15:43 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Zabir Al Hasan",
+    "facebookUserId": "61579418140027",
+    "memberUserId": "61579418140027",
+    "memberPhone": "01787512303",
+    "memberTrxId": "a9a298d8-d4fb-4f98-b3da-b50fcb908a3a",
+    "memberQA": {
+      "তোমার নাম": "Zabir Al Hasan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01787512303",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a9a298d8-d4fb-4f98-b3da-b50fcb908a3a"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  }
+]

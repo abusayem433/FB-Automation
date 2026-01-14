@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2026-01-14T20:17:32.750Z",
+    "date": "1/15/2026, 2:17:32 AM",
+    "className": "Class 10 English (2026)",
+    "memberName": "Khadiza Akhter",
+    "facebookUserId": "100052577198370",
+    "memberUserId": "",
+    "memberPhone": "01780260966",
+    "memberTrxId": "8027fbef-14d8-4ded-8f6d-49218e71bdd8",
+    "memberQA": {
+      "তোমার নাম": "Golam Ahad",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01780260966",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8027fbef-14d8-4ded-8f6d-49218e71bdd8"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-14T20:17:47.295Z",
+    "date": "1/15/2026, 2:17:47 AM",
+    "className": "Class 10 English (2026)",
+    "memberName": "Anamika Saha",
+    "facebookUserId": "100088874217842",
+    "memberUserId": "",
+    "memberPhone": "01405472995",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Ahana Saha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01405472995"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  }
+]

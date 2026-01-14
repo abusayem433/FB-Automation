@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-01-14T20:28:09.617Z",
+    "date": "1/15/2026, 2:28:09 AM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Suhaib Sinan Aohin",
+    "facebookUserId": "100015035884939",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-14T20:28:12.902Z",
+    "date": "1/15/2026, 2:28:12 AM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Arpita Dhar",
+    "facebookUserId": "100067746976287",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-14T20:28:16.206Z",
+    "date": "1/15/2026, 2:28:16 AM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Md Asaduzzaman Akhil",
+    "facebookUserId": "100007729335189",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Akhil"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-14T20:28:19.453Z",
+    "date": "1/15/2026, 2:28:19 AM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Golam Sorwar Dipo",
+    "facebookUserId": "100009184997585",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "dipo"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  }
+]
