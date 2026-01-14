@@ -19,7 +19,7 @@ let isMultiTabMode = false;
 
 // JSON Logging Functions
 // Create logs directory if it doesn't exist
-const logsDir = path.join(__dirname, 'logs');
+const logsDir = path.join(__dirname, 'log2026');
 if (!fs.existsSync(logsDir)) {
   fs.mkdirSync(logsDir);
 }

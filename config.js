@@ -90,37 +90,210 @@ const config = {
     },
 
     // ===========================
-    // Year 2026 (NEW) - fill these
+    // Year 2026 (NEW) - Each course has its own group and product ID
     // ===========================
-    "Class 6 (2026)": {
+    "Class 6 All in One Diamond Pack (2026)": {
       YEAR: 2026,
-      GROUP_URL: "", // TODO: put 2026 Class 6 group URL here
-      ELIGIBLE_PRODUCT_IDS: [] // TODO: put 2026 Class 6 eligible product IDs here
+      GROUP_URL: "https://www.facebook.com/groups/868968296117348",
+      ELIGIBLE_PRODUCT_IDS: [
+        "ac2df497-1952-489b-86ae-d2b06971b2d0"
+      ]
     },
-    "Class 7 (2026)": {
+    "Class 7 All in One Diamond Pack (2026)": {
       YEAR: 2026,
-      GROUP_URL: "",
-      ELIGIBLE_PRODUCT_IDS: []
+      GROUP_URL: "https://www.facebook.com/groups/868470315809067",
+      ELIGIBLE_PRODUCT_IDS: [
+        "d197edde-1214-4c5f-a985-4733606a5d41"
+      ]
     },
-    "Class 8 (2026)": {
+    "Class 8 All in One Diamond Pack (2026)": {
       YEAR: 2026,
-      GROUP_URL: "",
-      ELIGIBLE_PRODUCT_IDS: []
+      GROUP_URL: "https://www.facebook.com/groups/1970734573863976",
+      ELIGIBLE_PRODUCT_IDS: [
+        "01818359-2397-48e8-ad22-7e54231c5f55"
+      ]
     },
-    "Class 9 (2026)": {
+    "Class 9 All in One Diamond Pack (2026)": {
       YEAR: 2026,
-      GROUP_URL: "",
-      ELIGIBLE_PRODUCT_IDS: []
+      GROUP_URL: "https://www.facebook.com/groups/810998795294892",
+      ELIGIBLE_PRODUCT_IDS: [
+        "7dcf67d3-259c-4d90-a645-efec9c0b1f45"
+      ]
     },
-    "Class 10 FRB (2026)": {
+    "Class 9 PCMMB (2026)": {
       YEAR: 2026,
-      GROUP_URL: "",
-      ELIGIBLE_PRODUCT_IDS: []
+      GROUP_URL: "https://www.facebook.com/groups/1778678356659872",
+      ELIGIBLE_PRODUCT_IDS: [
+        "c5e35f9e-24e5-4109-871c-9f439edd8397"
+      ]
     },
-    "Class 10 Commerce (2026)": {
+    "Class 9 EBIB (2026)": {
       YEAR: 2026,
-      GROUP_URL: "",
-      ELIGIBLE_PRODUCT_IDS: []
+      GROUP_URL: "https://www.facebook.com/groups/1895847297683984",
+      ELIGIBLE_PRODUCT_IDS: [
+        "10225dc4-f51b-4bf7-9689-00eca46d42d3"
+      ]
+    },
+    "Class 9 Manobik Group (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/groups/1060344562904514",
+      ELIGIBLE_PRODUCT_IDS: [
+        "01f3d2e5-aa97-4b8b-8bf9-c38263fcaa90"
+      ]
+    },
+    "Class 9 Bangla (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/1BFH18dTKE/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "6c831740-db99-4d2f-82b4-ed56f9f48c96"
+      ]
+    },
+    "Class 9 English (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/1FrPcpc863/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "e562c8f7-5ad6-4a88-8304-5cbfc10d04fd"
+      ]
+    },
+    "Class 9 Math (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/1FLaBS3Jh9/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "e47fabc0-5c80-450f-96fc-5ae868cff0b5"
+      ]
+    },
+    "Class 9 H. Math (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/1AQWMJSUqr/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "65a57561-f6d5-4a3a-bcff-f65c92ea2d19"
+      ]
+    },
+    "Class 9 Chemistry (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/1CCnmkpaf3/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "edb8bc8a-f2e5-44d5-8537-0facd2ffb169"
+      ]
+    },
+    "Class 9 Physics (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/1Ku7aSXQ2J/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "a4bad5c0-8ecc-467e-9eb0-789cd8d92533"
+      ]
+    },
+    "Class 9 Biology (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/1T8K2fVRww/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "b19d80f3-c6ee-44e0-a04d-44b19eb63094"
+      ]
+    },
+    "Class 9 ICT (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/17gpYg3wG6/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "f57dfc8e-2cca-4aa0-8512-1854a936a791"
+      ]
+    },
+    "Class 9 BGS (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/1NSDjAohdH/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "18420a99-3d88-44b7-91ee-2014c2f79d09"
+      ]
+    },
+    "Class 10 All in One Diamond Pack (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/groups/890350350310388",
+      ELIGIBLE_PRODUCT_IDS: [
+        "1868054c-070b-4969-a3d3-3cab944a7cc2"
+      ]
+    },
+    "Class 10 PCMMB (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/1RfPfmemqr/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "e9bb39a3-db73-4853-a5d4-65d7c8343c99"
+      ]
+    },
+    "Class 10 EBIB (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/17q5Qavxug/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "b0273f47-08ae-457b-8740-7ac062d82e3a"
+      ]
+    },
+    "Class 10 Manobik Group (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/1ETvqfBAHw/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "cfa9442c-61cb-46cd-a833-df51c377520b"
+      ]
+    },
+    "Class 10 Bangla (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/1AmwSwmupk/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "f13885fe-3ec5-4d1f-9550-82967c480518"
+      ]
+    },
+    "Class 10 English (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/1Ap3fDKMuw/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "15856b4b-56b1-4a4d-9a58-4f3a4384771c"
+      ]
+    },
+    "Class 10 Math (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/1A4u5CrNYe/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "be2e3736-9c4f-4093-b7dd-1aa97c464541"
+      ]
+    },
+    "Class 10 H. Math (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/17B1WiLKdE/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "a3e31225-d3ce-48f5-b9d9-f69e364f2728"
+      ]
+    },
+    "Class 10 Chemistry (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/1KM89aqA6k/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "fbeecbd7-98a9-40a5-a5f5-070c9b3a0fc1"
+      ]
+    },
+    "Class 10 Physics (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/groups/1275819601043619",
+      ELIGIBLE_PRODUCT_IDS: [
+        "1e2be909-7d3d-422f-92a1-2c7b58fc8833"
+      ]
+    },
+    "Class 10 Biology (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/17r17xteuC/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "9a67df11-f3e2-4aa9-91a3-234328a2a10c"
+      ]
+    },
+    "Class 10 ICT (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/groups/1300801925419054",
+      ELIGIBLE_PRODUCT_IDS: [
+        "197030f1-24dd-48ee-9b0c-4452167d4850"
+      ]
+    },
+    "Class 10 BGS (2026)": {
+      YEAR: 2026,
+      GROUP_URL: "https://www.facebook.com/share/g/17pgtef2Fi/",
+      ELIGIBLE_PRODUCT_IDS: [
+        "e1160e9e-fe5c-4611-96ab-662a92112c4f"
+      ]
     }
   },
   // ===========================================
