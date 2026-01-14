@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-01-14T18:06:32.987Z",
+  "generatedDate": "1/15/2026, 12:06:32 AM",
+  "summary": {
+    "totalApprovals": 0,
+    "totalDeclines": 0,
+    "totalProcessed": 0
+  },
+  "byClass": {},
+  "declineReasons": {},
+  "overallStats": {
+    "approvalRate": 0,
+    "declineRate": 0
+  }
+}

@@ -18,15 +18,219 @@ let tabData = new Map(); // Map to store data for each tab (className -> {page, 
 let isMultiTabMode = false;
 
 // JSON Logging Functions
-// Create logs directory if it doesn't exist
-const logsDir = path.join(__dirname, 'log2026');
-if (!fs.existsSync(logsDir)) {
-  fs.mkdirSync(logsDir);
+// Function to get logs directory based on year
+function getLogsDir(year) {
+  const logsDir = path.join(__dirname, `log${year}`);
+  if (!fs.existsSync(logsDir)) {
+    fs.mkdirSync(logsDir, { recursive: true });
+  }
+  return logsDir;
 }
 
 // Function to sanitize class name for file naming
 function sanitizeClassName(className) {
   return className.replace(/\s+/g, '_').replace(/[^a-zA-Z0-9_]/g, '');
+}
+
+// Function to generate summary report from all log files in a directory
+function generateSummaryReport(logsDir) {
+  try {
+    const reportFile = path.join(logsDir, 'report.json');
+    const report = {
+      generatedAt: new Date().toISOString(),
+      generatedDate: new Date().toLocaleString(),
+      summary: {
+        totalApprovals: 0,
+        totalDeclines: 0,
+        totalProcessed: 0
+      },
+      byClass: {},
+      byDate: {},
+      declineReasons: {},
+      overallStats: {
+        approvalRate: 0,
+        declineRate: 0
+      }
+    };
+
+    // Helper function to extract date from timestamp
+    function extractDate(timestamp) {
+      if (!timestamp) return null;
+      try {
+        const date = new Date(timestamp);
+        return date.toISOString().split('T')[0]; // Returns YYYY-MM-DD
+      } catch (e) {
+        return null;
+      }
+    }
+
+    // Read all files in the logs directory
+    if (!fs.existsSync(logsDir)) {
+      console.log(`⚠️ Logs directory does not exist: ${logsDir}`);
+      return;
+    }
+
+    const files = fs.readdirSync(logsDir);
+    const approvalFiles = files.filter(f => f.endsWith('_approvals.json') && f !== 'report.json');
+    const declineFiles = files.filter(f => f.endsWith('_declines.json') && f !== 'report.json');
+
+    // Process approval files
+    approvalFiles.forEach(file => {
+      try {
+        const filePath = path.join(logsDir, file);
+        const content = fs.readFileSync(filePath, 'utf8');
+        if (content.trim()) {
+          const approvals = JSON.parse(content);
+          const className = approvals[0]?.className || file.replace('_approvals.json', '').replace(/_/g, ' ');
+          
+          if (!report.byClass[className]) {
+            report.byClass[className] = {
+              approvals: 0,
+              declines: 0,
+              total: 0,
+              declineReasons: {}
+            };
+          }
+          
+          report.byClass[className].approvals = approvals.length;
+          report.summary.totalApprovals += approvals.length;
+          
+          // Process date-wise statistics for approvals
+          approvals.forEach(approval => {
+            const date = extractDate(approval.timestamp);
+            if (date) {
+              if (!report.byDate[date]) {
+                report.byDate[date] = {
+                  approvals: 0,
+                  declines: 0,
+                  total: 0,
+                  byClass: {}
+                };
+              }
+              report.byDate[date].approvals++;
+              report.byDate[date].total++;
+              
+              // Track by class for this date
+              if (!report.byDate[date].byClass[className]) {
+                report.byDate[date].byClass[className] = {
+                  approvals: 0,
+                  declines: 0,
+                  total: 0
+                };
+              }
+              report.byDate[date].byClass[className].approvals++;
+              report.byDate[date].byClass[className].total++;
+            }
+          });
+        }
+      } catch (error) {
+        console.error(`❌ Error reading approval file ${file}:`, error.message);
+      }
+    });
+
+    // Process decline files
+    declineFiles.forEach(file => {
+      try {
+        const filePath = path.join(logsDir, file);
+        const content = fs.readFileSync(filePath, 'utf8');
+        if (content.trim()) {
+          const declines = JSON.parse(content);
+          const className = declines[0]?.className || file.replace('_declines.json', '').replace(/_/g, ' ');
+          
+          if (!report.byClass[className]) {
+            report.byClass[className] = {
+              approvals: 0,
+              declines: 0,
+              total: 0,
+              declineReasons: {}
+            };
+          }
+          
+          report.byClass[className].declines = declines.length;
+          report.summary.totalDeclines += declines.length;
+          
+          // Count decline reasons and process date-wise statistics
+          declines.forEach(decline => {
+            const reason = decline.declineReason || 'Unknown reason';
+            if (!report.byClass[className].declineReasons[reason]) {
+              report.byClass[className].declineReasons[reason] = 0;
+            }
+            report.byClass[className].declineReasons[reason]++;
+            
+            // Overall decline reasons
+            if (!report.declineReasons[reason]) {
+              report.declineReasons[reason] = 0;
+            }
+            report.declineReasons[reason]++;
+            
+            // Process date-wise statistics for declines
+            const date = extractDate(decline.timestamp);
+            if (date) {
+              if (!report.byDate[date]) {
+                report.byDate[date] = {
+                  approvals: 0,
+                  declines: 0,
+                  total: 0,
+                  byClass: {}
+                };
+              }
+              report.byDate[date].declines++;
+              report.byDate[date].total++;
+              
+              // Track by class for this date
+              if (!report.byDate[date].byClass[className]) {
+                report.byDate[date].byClass[className] = {
+                  approvals: 0,
+                  declines: 0,
+                  total: 0
+                };
+              }
+              report.byDate[date].byClass[className].declines++;
+              report.byDate[date].byClass[className].total++;
+            }
+          });
+        }
+      } catch (error) {
+        console.error(`❌ Error reading decline file ${file}:`, error.message);
+      }
+    });
+
+    // Calculate totals per class and overall
+    Object.keys(report.byClass).forEach(className => {
+      const classData = report.byClass[className];
+      classData.total = classData.approvals + classData.declines;
+    });
+
+    report.summary.totalProcessed = report.summary.totalApprovals + report.summary.totalDeclines;
+    
+    if (report.summary.totalProcessed > 0) {
+      report.overallStats.approvalRate = ((report.summary.totalApprovals / report.summary.totalProcessed) * 100).toFixed(2);
+      report.overallStats.declineRate = ((report.summary.totalDeclines / report.summary.totalProcessed) * 100).toFixed(2);
+    }
+
+    // Write report to file
+    fs.writeFileSync(reportFile, JSON.stringify(report, null, 2), 'utf8');
+    console.log(`📊 Summary report generated: ${reportFile}`);
+    
+  } catch (error) {
+    console.error('❌ Error generating summary report:', error.message);
+  }
+}
+
+// Function to initialize reports for all existing log folders
+function initializeReportsForAllLogFolders() {
+  try {
+    const years = [2025, 2026]; // Add more years as needed
+    years.forEach(year => {
+      const logsDir = getLogsDir(year);
+      if (fs.existsSync(logsDir)) {
+        console.log(`📊 Generating report for log${year}...`);
+        generateSummaryReport(logsDir);
+      }
+    });
+  } catch (error) {
+    console.error('❌ Error initializing reports:', error.message);
+  }
 }
 
 // Function to log approval to JSON file
@@ -36,6 +240,12 @@ function logApprovalToJSON(className, memberData) {
       config && typeof config.normalizeClassName === "function"
         ? config.normalizeClassName(className)
         : className;
+    
+    // Get year from class config
+    const classConfig = config.CLASSES[normalizedClassName];
+    const year = classConfig?.YEAR || 2026; // Default to 2026 if not found
+    const logsDir = getLogsDir(year);
+    
     const sanitizedClassName = sanitizeClassName(normalizedClassName);
     const logFile = path.join(logsDir, `${sanitizedClassName}_approvals.json`);
     
@@ -71,6 +281,9 @@ function logApprovalToJSON(className, memberData) {
     fs.writeFileSync(logFile, JSON.stringify(approvals, null, 2), 'utf8');
     console.log(`📝 Approval logged to: ${logFile}`);
     
+    // Generate/update summary report
+    generateSummaryReport(logsDir);
+    
   } catch (error) {
     console.error('❌ Error logging approval to JSON:', error.message);
   }
@@ -83,6 +296,12 @@ function logDeclineToJSON(className, memberData) {
       config && typeof config.normalizeClassName === "function"
         ? config.normalizeClassName(className)
         : className;
+    
+    // Get year from class config
+    const classConfig = config.CLASSES[normalizedClassName];
+    const year = classConfig?.YEAR || 2026; // Default to 2026 if not found
+    const logsDir = getLogsDir(year);
+    
     const sanitizedClassName = sanitizeClassName(normalizedClassName);
     const logFile = path.join(logsDir, `${sanitizedClassName}_declines.json`);
     
@@ -117,6 +336,9 @@ function logDeclineToJSON(className, memberData) {
     // Write back to file with pretty formatting
     fs.writeFileSync(logFile, JSON.stringify(declines, null, 2), 'utf8');
     console.log(`📝 Decline logged to: ${logFile}`);
+    
+    // Generate/update summary report
+    generateSummaryReport(logsDir);
     
   } catch (error) {
     console.error('❌ Error logging decline to JSON:', error.message);
@@ -1334,6 +1556,10 @@ async function startAutomationLoop(page) {
 
 (async () => {
   try {
+    // Initialize reports for all existing log folders
+    console.log("📊 Initializing reports for existing log folders...");
+    initializeReportsForAllLogFolders();
+    
     // First, prompt user to select a class
     console.log("🚀 Starting Facebook Automation System");
     console.log("======================================");

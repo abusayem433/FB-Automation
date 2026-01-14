@@ -7,7 +7,8 @@
     "start": "node fb_auto.js",
     "db": "node db_automation.js",
     "test-db": "node scripts/test_db.js",
-    "install:browsers": "npx playwright install"
+    "install:browsers": "npx playwright install",
+    "dashboard": "node server.js"
   },
   "dependencies": {
     "dotenv": "^17.2.2",

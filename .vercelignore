@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.local
+.chrome-profile/
+*.log
+FB IDS.txt
+scripts/
+fb_auto.js
+db_automation.js
+setup_classes.js
+server.js
+package-lock.json
+README.md
+DASHBOARD_README.md
+*.md
+!vercel.json

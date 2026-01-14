@@ -1,0 +1,776 @@
+{
+  "generatedAt": "2026-01-14T18:14:00.735Z",
+  "generatedDate": "1/15/2026, 12:14:00 AM",
+  "summary": {
+    "totalApprovals": 1254,
+    "totalDeclines": 8232,
+    "totalProcessed": 9486
+  },
+  "byClass": {
+    "Class 10 Commerce": {
+      "approvals": 1,
+      "declines": 362,
+      "total": 363,
+      "declineReasons": {
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 148,
+        "ট্রানজেকশন আইডি দেওয়া হয়নি": 29,
+        "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি": 7,
+        "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়": 78,
+        "ট্রানজেকশন আইডি সঠিক নয়": 17,
+        "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও": 83
+      }
+    },
+    "Class 10 FRB": {
+      "approvals": 579,
+      "declines": 4593,
+      "total": 5172,
+      "declineReasons": {
+        "ট্রানজেকশন আইডি দেওয়া হয়নি": 402,
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 2229,
+        "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়": 65,
+        "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে": 256,
+        "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি": 174,
+        "ট্রানজেকশন আইডি সঠিক নয়": 236,
+        "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও": 1231
+      }
+    },
+    "Class 6": {
+      "approvals": 31,
+      "declines": 135,
+      "total": 166,
+      "declineReasons": {
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 54,
+        "ট্রানজেকশন আইডি সঠিক নয়": 19,
+        "ট্রানজেকশন আইডি দেওয়া হয়নি": 9,
+        "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়": 8,
+        "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে": 1,
+        "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও": 41,
+        "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি": 3
+      }
+    },
+    "Class 7": {
+      "approvals": 53,
+      "declines": 262,
+      "total": 315,
+      "declineReasons": {
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 146,
+        "ট্রানজেকশন আইডি সঠিক নয়": 19,
+        "ট্রানজেকশন আইডি দেওয়া হয়নি": 18,
+        "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়": 17,
+        "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে": 2,
+        "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও": 56,
+        "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি": 4
+      }
+    },
+    "Class 8": {
+      "approvals": 189,
+      "declines": 685,
+      "total": 874,
+      "declineReasons": {
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 253,
+        "ট্রানজেকশন আইডি সঠিক নয়": 67,
+        "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়": 25,
+        "ট্রানজেকশন আইডি দেওয়া হয়নি": 64,
+        "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি": 31,
+        "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে": 10,
+        "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও": 235
+      }
+    },
+    "Class 9": {
+      "approvals": 401,
+      "declines": 2195,
+      "total": 2596,
+      "declineReasons": {
+        "প্রশ্নের উত্তর দেওয়া হয়নি": 722,
+        "ট্রানজেকশন আইডি দেওয়া হয়নি": 304,
+        "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়": 42,
+        "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি": 65,
+        "ট্রানজেকশন আইডি সঠিক নয়": 117,
+        "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে": 13,
+        "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও": 932
+      }
+    }
+  },
+  "byDate": {
+    "2026-01-13": {
+      "approvals": 15,
+      "declines": 62,
+      "total": 77,
+      "byClass": {
+        "Class 10 Commerce": {
+          "approvals": 1,
+          "declines": 13,
+          "total": 14
+        },
+        "Class 10 FRB": {
+          "approvals": 14,
+          "declines": 49,
+          "total": 63
+        }
+      }
+    },
+    "2025-10-11": {
+      "approvals": 412,
+      "declines": 449,
+      "total": 861,
+      "byClass": {
+        "Class 10 FRB": {
+          "approvals": 143,
+          "declines": 206,
+          "total": 349
+        },
+        "Class 6": {
+          "approvals": 11,
+          "declines": 9,
+          "total": 20
+        },
+        "Class 7": {
+          "approvals": 24,
+          "declines": 28,
+          "total": 52
+        },
+        "Class 8": {
+          "approvals": 83,
+          "declines": 64,
+          "total": 147
+        },
+        "Class 9": {
+          "approvals": 151,
+          "declines": 142,
+          "total": 293
+        }
+      }
+    },
+    "2025-10-13": {
+      "approvals": 142,
+      "declines": 228,
+      "total": 370,
+      "byClass": {
+        "Class 10 FRB": {
+          "approvals": 74,
+          "declines": 145,
+          "total": 219
+        },
+        "Class 6": {
+          "approvals": 3,
+          "declines": 4,
+          "total": 7
+        },
+        "Class 7": {
+          "approvals": 7,
+          "declines": 7,
+          "total": 14
+        },
+        "Class 8": {
+          "approvals": 9,
+          "declines": 25,
+          "total": 34
+        },
+        "Class 9": {
+          "approvals": 49,
+          "declines": 47,
+          "total": 96
+        }
+      }
+    },
+    "2025-10-14": {
+      "approvals": 55,
+      "declines": 251,
+      "total": 306,
+      "byClass": {
+        "Class 10 FRB": {
+          "approvals": 37,
+          "declines": 126,
+          "total": 163
+        },
+        "Class 7": {
+          "approvals": 1,
+          "declines": 2,
+          "total": 3
+        },
+        "Class 8": {
+          "approvals": 4,
+          "declines": 14,
+          "total": 18
+        },
+        "Class 9": {
+          "approvals": 13,
+          "declines": 21,
+          "total": 34
+        },
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 84,
+          "total": 84
+        },
+        "Class 6": {
+          "approvals": 0,
+          "declines": 4,
+          "total": 4
+        }
+      }
+    },
+    "2025-10-15": {
+      "approvals": 138,
+      "declines": 386,
+      "total": 524,
+      "byClass": {
+        "Class 10 FRB": {
+          "approvals": 43,
+          "declines": 203,
+          "total": 246
+        },
+        "Class 6": {
+          "approvals": 9,
+          "declines": 10,
+          "total": 19
+        },
+        "Class 7": {
+          "approvals": 11,
+          "declines": 19,
+          "total": 30
+        },
+        "Class 8": {
+          "approvals": 21,
+          "declines": 44,
+          "total": 65
+        },
+        "Class 9": {
+          "approvals": 54,
+          "declines": 100,
+          "total": 154
+        },
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 10,
+          "total": 10
+        }
+      }
+    },
+    "2025-10-16": {
+      "approvals": 134,
+      "declines": 255,
+      "total": 389,
+      "byClass": {
+        "Class 10 FRB": {
+          "approvals": 75,
+          "declines": 131,
+          "total": 206
+        },
+        "Class 6": {
+          "approvals": 1,
+          "declines": 8,
+          "total": 9
+        },
+        "Class 7": {
+          "approvals": 2,
+          "declines": 12,
+          "total": 14
+        },
+        "Class 8": {
+          "approvals": 21,
+          "declines": 32,
+          "total": 53
+        },
+        "Class 9": {
+          "approvals": 35,
+          "declines": 54,
+          "total": 89
+        },
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 18,
+          "total": 18
+        }
+      }
+    },
+    "2025-10-19": {
+      "approvals": 239,
+      "declines": 591,
+      "total": 830,
+      "byClass": {
+        "Class 10 FRB": {
+          "approvals": 130,
+          "declines": 301,
+          "total": 431
+        },
+        "Class 6": {
+          "approvals": 6,
+          "declines": 16,
+          "total": 22
+        },
+        "Class 7": {
+          "approvals": 5,
+          "declines": 21,
+          "total": 26
+        },
+        "Class 8": {
+          "approvals": 32,
+          "declines": 55,
+          "total": 87
+        },
+        "Class 9": {
+          "approvals": 66,
+          "declines": 154,
+          "total": 220
+        },
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 44,
+          "total": 44
+        }
+      }
+    },
+    "2025-10-20": {
+      "approvals": 65,
+      "declines": 256,
+      "total": 321,
+      "byClass": {
+        "Class 10 FRB": {
+          "approvals": 32,
+          "declines": 169,
+          "total": 201
+        },
+        "Class 6": {
+          "approvals": 1,
+          "declines": 5,
+          "total": 6
+        },
+        "Class 7": {
+          "approvals": 1,
+          "declines": 7,
+          "total": 8
+        },
+        "Class 8": {
+          "approvals": 13,
+          "declines": 17,
+          "total": 30
+        },
+        "Class 9": {
+          "approvals": 18,
+          "declines": 40,
+          "total": 58
+        },
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 18,
+          "total": 18
+        }
+      }
+    },
+    "2025-10-21": {
+      "approvals": 54,
+      "declines": 262,
+      "total": 316,
+      "byClass": {
+        "Class 10 FRB": {
+          "approvals": 31,
+          "declines": 179,
+          "total": 210
+        },
+        "Class 7": {
+          "approvals": 2,
+          "declines": 6,
+          "total": 8
+        },
+        "Class 8": {
+          "approvals": 6,
+          "declines": 21,
+          "total": 27
+        },
+        "Class 9": {
+          "approvals": 15,
+          "declines": 33,
+          "total": 48
+        },
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 21,
+          "total": 21
+        },
+        "Class 6": {
+          "approvals": 0,
+          "declines": 2,
+          "total": 2
+        }
+      }
+    },
+    "2025-10-23": {
+      "approvals": 0,
+      "declines": 506,
+      "total": 506,
+      "byClass": {
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 36,
+          "total": 36
+        },
+        "Class 10 FRB": {
+          "approvals": 0,
+          "declines": 279,
+          "total": 279
+        },
+        "Class 6": {
+          "approvals": 0,
+          "declines": 7,
+          "total": 7
+        },
+        "Class 7": {
+          "approvals": 0,
+          "declines": 56,
+          "total": 56
+        },
+        "Class 8": {
+          "approvals": 0,
+          "declines": 63,
+          "total": 63
+        },
+        "Class 9": {
+          "approvals": 0,
+          "declines": 65,
+          "total": 65
+        }
+      }
+    },
+    "2025-10-27": {
+      "approvals": 0,
+      "declines": 2795,
+      "total": 2795,
+      "byClass": {
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 45,
+          "total": 45
+        },
+        "Class 10 FRB": {
+          "approvals": 0,
+          "declines": 1118,
+          "total": 1118
+        },
+        "Class 6": {
+          "approvals": 0,
+          "declines": 36,
+          "total": 36
+        },
+        "Class 7": {
+          "approvals": 0,
+          "declines": 71,
+          "total": 71
+        },
+        "Class 8": {
+          "approvals": 0,
+          "declines": 202,
+          "total": 202
+        },
+        "Class 9": {
+          "approvals": 0,
+          "declines": 1323,
+          "total": 1323
+        }
+      }
+    },
+    "2025-11-23": {
+      "approvals": 0,
+      "declines": 434,
+      "total": 434,
+      "byClass": {
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 13,
+          "total": 13
+        },
+        "Class 10 FRB": {
+          "approvals": 0,
+          "declines": 316,
+          "total": 316
+        },
+        "Class 7": {
+          "approvals": 0,
+          "declines": 10,
+          "total": 10
+        },
+        "Class 8": {
+          "approvals": 0,
+          "declines": 29,
+          "total": 29
+        },
+        "Class 9": {
+          "approvals": 0,
+          "declines": 66,
+          "total": 66
+        }
+      }
+    },
+    "2025-11-26": {
+      "approvals": 0,
+      "declines": 271,
+      "total": 271,
+      "byClass": {
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 4,
+          "total": 4
+        },
+        "Class 10 FRB": {
+          "approvals": 0,
+          "declines": 180,
+          "total": 180
+        },
+        "Class 6": {
+          "approvals": 0,
+          "declines": 4,
+          "total": 4
+        },
+        "Class 7": {
+          "approvals": 0,
+          "declines": 5,
+          "total": 5
+        },
+        "Class 8": {
+          "approvals": 0,
+          "declines": 26,
+          "total": 26
+        },
+        "Class 9": {
+          "approvals": 0,
+          "declines": 52,
+          "total": 52
+        }
+      }
+    },
+    "2025-11-29": {
+      "approvals": 0,
+      "declines": 147,
+      "total": 147,
+      "byClass": {
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 2,
+          "total": 2
+        },
+        "Class 10 FRB": {
+          "approvals": 0,
+          "declines": 109,
+          "total": 109
+        },
+        "Class 6": {
+          "approvals": 0,
+          "declines": 1,
+          "total": 1
+        },
+        "Class 8": {
+          "approvals": 0,
+          "declines": 15,
+          "total": 15
+        },
+        "Class 9": {
+          "approvals": 0,
+          "declines": 20,
+          "total": 20
+        }
+      }
+    },
+    "2025-12-06": {
+      "approvals": 0,
+      "declines": 194,
+      "total": 194,
+      "byClass": {
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 4,
+          "total": 4
+        },
+        "Class 10 FRB": {
+          "approvals": 0,
+          "declines": 132,
+          "total": 132
+        },
+        "Class 6": {
+          "approvals": 0,
+          "declines": 1,
+          "total": 1
+        },
+        "Class 7": {
+          "approvals": 0,
+          "declines": 3,
+          "total": 3
+        },
+        "Class 8": {
+          "approvals": 0,
+          "declines": 17,
+          "total": 17
+        },
+        "Class 9": {
+          "approvals": 0,
+          "declines": 37,
+          "total": 37
+        }
+      }
+    },
+    "2025-12-09": {
+      "approvals": 0,
+      "declines": 50,
+      "total": 50,
+      "byClass": {
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 2,
+          "total": 2
+        },
+        "Class 10 FRB": {
+          "approvals": 0,
+          "declines": 40,
+          "total": 40
+        },
+        "Class 6": {
+          "approvals": 0,
+          "declines": 1,
+          "total": 1
+        },
+        "Class 8": {
+          "approvals": 0,
+          "declines": 3,
+          "total": 3
+        },
+        "Class 9": {
+          "approvals": 0,
+          "declines": 4,
+          "total": 4
+        }
+      }
+    },
+    "2025-12-15": {
+      "approvals": 0,
+      "declines": 134,
+      "total": 134,
+      "byClass": {
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 2,
+          "total": 2
+        },
+        "Class 10 FRB": {
+          "approvals": 0,
+          "declines": 120,
+          "total": 120
+        },
+        "Class 8": {
+          "approvals": 0,
+          "declines": 9,
+          "total": 9
+        },
+        "Class 9": {
+          "approvals": 0,
+          "declines": 3,
+          "total": 3
+        }
+      }
+    },
+    "2025-12-23": {
+      "approvals": 0,
+      "declines": 343,
+      "total": 343,
+      "byClass": {
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 10,
+          "total": 10
+        },
+        "Class 10 FRB": {
+          "approvals": 0,
+          "declines": 319,
+          "total": 319
+        },
+        "Class 8": {
+          "approvals": 0,
+          "declines": 7,
+          "total": 7
+        },
+        "Class 9": {
+          "approvals": 0,
+          "declines": 7,
+          "total": 7
+        }
+      }
+    },
+    "2026-01-09": {
+      "approvals": 0,
+      "declines": 547,
+      "total": 547,
+      "byClass": {
+        "Class 10 Commerce": {
+          "approvals": 0,
+          "declines": 36,
+          "total": 36
+        },
+        "Class 10 FRB": {
+          "approvals": 0,
+          "declines": 471,
+          "total": 471
+        },
+        "Class 7": {
+          "approvals": 0,
+          "declines": 2,
+          "total": 2
+        },
+        "Class 8": {
+          "approvals": 0,
+          "declines": 11,
+          "total": 11
+        },
+        "Class 9": {
+          "approvals": 0,
+          "declines": 27,
+          "total": 27
+        }
+      }
+    },
+    "2025-11-17": {
+      "approvals": 0,
+      "declines": 63,
+      "total": 63,
+      "byClass": {
+        "Class 6": {
+          "approvals": 0,
+          "declines": 19,
+          "total": 19
+        },
+        "Class 7": {
+          "approvals": 0,
+          "declines": 13,
+          "total": 13
+        },
+        "Class 8": {
+          "approvals": 0,
+          "declines": 31,
+          "total": 31
+        }
+      }
+    },
+    "2025-11-21": {
+      "approvals": 0,
+      "declines": 8,
+      "total": 8,
+      "byClass": {
+        "Class 6": {
+          "approvals": 0,
+          "declines": 8,
+          "total": 8
+        }
+      }
+    }
+  },
+  "declineReasons": {
+    "প্রশ্নের উত্তর দেওয়া হয়নি": 3552,
+    "ট্রানজেকশন আইডি দেওয়া হয়নি": 826,
+    "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি": 284,
+    "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়": 235,
+    "ট্রানজেকশন আইডি সঠিক নয়": 475,
+    "সঠিক তথ্য প্রদান করে আবার রিকোয়েস্ট দাও": 2578,
+    "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে": 282
+  },
+  "overallStats": {
+    "approvalRate": "13.22",
+    "declineRate": "86.78"
+  }
+}
