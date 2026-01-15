@@ -14,10 +14,5 @@ Pass: kamaliyaalom@ace
 
 
 
-env
-
-DB_HOST=codervaidb.cqhmggfpizrl.ap-southeast-2.rds.amazonaws.com
-DB_PORT=5432
-DB_NAME=afs_production
-DB_USER=deep
-DB_PASSWORD=deep_password
+classroom@acsfutureschool.com
+Pass: TEAMACSFS24@

@@ -12,5 +12,23 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T09:30:50.193Z",
+    "date": "1/15/2026, 3:30:50 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Jidni Niam",
+    "facebookUserId": "61586647703115",
+    "memberUserId": "",
+    "memberPhone": "01745765971",
+    "memberTrxId": "7fed8b65-5DC8-46f8-b708-e0744b837712",
+    "memberQA": {
+      "তোমার নাম": "jidni Naim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01745765971",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7fed8b65-5DC8-46f8-b708-e0744b837712"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

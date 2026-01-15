@@ -11734,5 +11734,41 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T09:57:38.431Z",
+    "date": "1/15/2026, 3:57:38 PM",
+    "className": "Class 10 FRB",
+    "memberName": "Afsa Jannat",
+    "facebookUserId": "100056623876865",
+    "memberUserId": "100056623876865",
+    "memberPhone": "01703083311",
+    "memberTrxId": "85e39931-9c48-461e-a698-132cec8d7b48",
+    "memberQA": {
+      "তোমার নাম": "Afsa Jannat Sara",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01703083311",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "85e39931-9c48-461e-a698-132cec8d7b48"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T09:57:44.203Z",
+    "date": "1/15/2026, 3:57:44 PM",
+    "className": "Class 10 FRB",
+    "memberName": "Tanha Tanvir",
+    "facebookUserId": "100086212893786",
+    "memberUserId": "100086212893786",
+    "memberPhone": "01962710884",
+    "memberTrxId": "8a707e05-889e-46d1-8b2a-c1d5abafb3bd",
+    "memberQA": {
+      "তোমার নাম": "Zayed Jarir",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01962710884",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8a707e05-889e-46d1-8b2a-c1d5abafb3bd"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

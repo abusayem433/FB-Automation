@@ -1402,6 +1402,9 @@ async function startMultiClassAutomation(context, chromePath, userDataDir, profi
     }
   }
   console.log('✅ All tabs closed after multi-class automation.');
+  
+  // Wait a bit for cleanup before closing context
+  await new Promise(resolve => setTimeout(resolve, 1000));
 }
 
 function parseBooleanEnv(value, defaultValue = false) {
@@ -1665,12 +1668,20 @@ async function startAutomationLoop(page) {
         }
       }
       
-      // Close the browser context
+      // Wait for cleanup before closing context gracefully
+      console.log('⏳ Waiting for cleanup...');
+      await new Promise(resolve => setTimeout(resolve, 2000));
+      
+      // Close the browser context gracefully
+      // For persistent contexts, we close gracefully to avoid macOS crash reports
       try {
+        // Give the browser a moment to finish any pending operations
+        await new Promise(resolve => setTimeout(resolve, 500));
         await context.close();
-        console.log('✅ Browser context closed.');
+        console.log('✅ Browser context closed gracefully.');
       } catch (error) {
         console.log(`⚠️ Error closing context: ${error.message}`);
+        // If close fails, the process will exit naturally and context will close
       }
       
       console.log('✅ All tasks completed. Process ended successfully.');
@@ -1735,12 +1746,20 @@ async function startAutomationLoop(page) {
             }
           }
           
-          // Close the browser context
+          // Wait for cleanup before closing context gracefully
+          console.log('⏳ Waiting for cleanup...');
+          await new Promise(resolve => setTimeout(resolve, 2000));
+          
+          // Close the browser context gracefully
+          // For persistent contexts, we close gracefully to avoid macOS crash reports
           try {
+            // Give the browser a moment to finish any pending operations
+            await new Promise(resolve => setTimeout(resolve, 500));
             await context.close();
-            console.log('✅ Browser context closed.');
+            console.log('✅ Browser context closed gracefully.');
           } catch (error) {
             console.log(`⚠️ Error closing context: ${error.message}`);
+            // If close fails, the process will exit naturally and context will close
           }
           
           console.log('✅ All tabs closed. Process ended successfully.');
@@ -1785,10 +1804,14 @@ async function startAutomationLoop(page) {
               }
             }
             
-            // Close the browser context
+            // Wait for cleanup before closing context gracefully
+            console.log('⏳ Waiting for cleanup...');
+            await new Promise(resolve => setTimeout(resolve, 2000));
+            
+            // Close the browser context gracefully
             try {
-              await context.close();
-              console.log('✅ Browser context closed.');
+              await context.close({ reason: 'Automation completed successfully' });
+              console.log('✅ Browser context closed gracefully.');
             } catch (error) {
               console.log(`⚠️ Error closing context: ${error.message}`);
             }

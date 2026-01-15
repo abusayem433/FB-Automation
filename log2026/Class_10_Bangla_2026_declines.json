@@ -16,5 +16,37 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T09:14:46.315Z",
+    "date": "1/15/2026, 3:14:46 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Tasmia Chowdhury",
+    "facebookUserId": "100029593725130",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T09:14:49.849Z",
+    "date": "1/15/2026, 3:14:49 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "MD Muzahid Hasan Rasel",
+    "facebookUserId": "61562431763874",
+    "memberUserId": "",
+    "memberPhone": "01758171890",
+    "memberTrxId": "567f99d1-a52f-4c7c-b882-41e7e875e685",
+    "memberQA": {
+      "তোমার নাম": "Md Muzahid Hasan Rasel",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01758171890",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "567f99d1-a52f-4c7c-b882-41e7e875e685"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

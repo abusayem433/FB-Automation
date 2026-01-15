@@ -52,5 +52,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T09:19:24.269Z",
+    "date": "1/15/2026, 3:19:24 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Mijbaul Hossen",
+    "facebookUserId": "61564265747915",
+    "memberUserId": "61564265747915",
+    "memberPhone": "01915165784",
+    "memberTrxId": "584a2224-32f3-45bd-87d5-17fb7c9721b5",
+    "memberQA": {
+      "তোমার নাম": "Mijbaul Hossain",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01915165784",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "584a2224-32f3-45bd-87d5-17fb7c9721b5"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

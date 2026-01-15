@@ -21,7 +21,7 @@ async function processPaymentApproval(phone = '', transactionId = '', approvedId
       SELECT pp.*, u.phone, u.id as user_id 
       FROM product_payment pp 
       JOIN "User" u ON pp.user_id = u.id
-      WHERE (pp.transaction_id = $1 OR pp.id::text = $1)
+      WHERE (pp.transaction_id = $1 OR pp.id::text = $1) and pp.payment_status IN ('success','half_paid')
     `;
     
     const transactionResult = await client.query(transactionCheckQuery, [transactionId]);

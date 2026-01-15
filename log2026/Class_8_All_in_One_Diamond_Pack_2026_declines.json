@@ -1,0 +1,76 @@
+[
+  {
+    "timestamp": "2026-01-15T09:24:12.061Z",
+    "date": "1/15/2026, 3:24:12 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Md Asraful Karim Nayon",
+    "facebookUserId": "100071852444797",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T09:24:20.966Z",
+    "date": "1/15/2026, 3:24:20 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "So Han",
+    "facebookUserId": "100017955007851",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T09:24:46.877Z",
+    "date": "1/15/2026, 3:24:46 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Sabiqun Nahar Sabiha",
+    "facebookUserId": "100052200463227",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T09:25:01.551Z",
+    "date": "1/15/2026, 3:25:01 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Ap Ur Ba",
+    "facebookUserId": "61571868815105",
+    "memberUserId": "",
+    "memberPhone": "01911564086",
+    "memberTrxId": "0896bc7b-7b25-428d-8535-1d2b563654de",
+    "memberQA": {
+      "তোমার নাম": "Md.Harun Or Rashid Apurba",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01911564086",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0896bc7b-7b25-428d-8535-1d2b563654de"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T09:25:04.847Z",
+    "date": "1/15/2026, 3:25:04 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Evana Islam",
+    "facebookUserId": "61579712919032",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  }
+]
