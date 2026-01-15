@@ -302,6 +302,20 @@ const config = {
     }
   },
   // ===========================================
+  // DATABASE CONFIGURATION
+  // ===========================================
+  DATABASE_CONFIG: {
+    host: "codervaidb.cqhmggfpizrl.ap-southeast-2.rds.amazonaws.com",
+    port: 5432,
+    database: "afs_production",
+    user: "deep",
+    password: "deep_password",
+    ssl: {
+      rejectUnauthorized: false // Required for AWS RDS
+    }
+  },
+
+  // ===========================================
   // CURRENT SELECTED CLASS (will be set at runtime)
   // ===========================================
   SELECTED_CLASS: null,

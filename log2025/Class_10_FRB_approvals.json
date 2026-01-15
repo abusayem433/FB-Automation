@@ -11680,5 +11680,59 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T06:19:15.985Z",
+    "date": "1/15/2026, 12:19:15 PM",
+    "className": "Class 10 FRB",
+    "memberName": "হেনা",
+    "facebookUserId": "100008081015864",
+    "memberUserId": "100008081015864",
+    "memberPhone": "01675418918",
+    "memberTrxId": "3f513ff1-ee7c-4d62-8874-6de00c230ee6",
+    "memberQA": {
+      "তোমার নাম": "Snato rozario",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01675418918",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "3f513ff1-ee7c-4d62-8874-6de00c230ee6"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T06:19:39.743Z",
+    "date": "1/15/2026, 12:19:39 PM",
+    "className": "Class 10 FRB",
+    "memberName": "Rafid Mia",
+    "facebookUserId": "61570913363102",
+    "memberUserId": "61570913363102",
+    "memberPhone": "01857146811",
+    "memberTrxId": "fccef4f1-9e96-4728-81be-7d5fc542b31e",
+    "memberQA": {
+      "তোমার নাম": "মুন্নি আক্তার",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01857146811",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "fccef4f1-9e96-4728-81be-7d5fc542b31e"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T06:19:45.591Z",
+    "date": "1/15/2026, 12:19:45 PM",
+    "className": "Class 10 FRB",
+    "memberName": "Thomas Shelby",
+    "facebookUserId": "61576619018161",
+    "memberUserId": "61576619018161",
+    "memberPhone": "01300791961",
+    "memberTrxId": "3ee1161f-1cc3-4d07-87e1-2427d552313d",
+    "memberQA": {
+      "তোমার নাম": "মোঃ মুহসিনুর রহমান শুভ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01300791961",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "3ee1161f-1cc3-4d07-87e1-2427d552313d"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

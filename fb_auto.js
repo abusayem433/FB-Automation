@@ -1387,6 +1387,21 @@ async function startMultiClassAutomation(context, chromePath, userDataDir, profi
   }
 
   console.log(`\n✅ Completed sequential processing for ${configuredClasses.length} classes.`);
+  
+  // Cleanup: Close all remaining tabs (including about:blank)
+  console.log('\n🚪 Cleaning up remaining tabs after all classes completed...');
+  const remainingPages = context.pages();
+  for (const remainingPage of remainingPages) {
+    try {
+      const url = remainingPage.url();
+      console.log(`🔍 Closing tab: ${url}`);
+      await remainingPage.close();
+      console.log('✅ Closed tab');
+    } catch (error) {
+      console.log(`⚠️ Error closing tab: ${error.message}`);
+    }
+  }
+  console.log('✅ All tabs closed after multi-class automation.');
 }
 
 function parseBooleanEnv(value, defaultValue = false) {
@@ -1635,6 +1650,30 @@ async function startAutomationLoop(page) {
             : null;
       // Start multi-class automation (optionally filtered)
       await startMultiClassAutomation(context, null, userDataDir, chromeProfileDir, classList);
+      
+      // Cleanup after multi-class automation completes
+      console.log('\n🚪 Cleaning up after all classes completed...');
+      const finalPages = context.pages();
+      for (const finalPage of finalPages) {
+        try {
+          const url = finalPage.url();
+          console.log(`🔍 Closing tab: ${url}`);
+          await finalPage.close();
+          console.log('✅ Closed tab');
+        } catch (error) {
+          console.log(`⚠️ Error closing tab: ${error.message}`);
+        }
+      }
+      
+      // Close the browser context
+      try {
+        await context.close();
+        console.log('✅ Browser context closed.');
+      } catch (error) {
+        console.log(`⚠️ Error closing context: ${error.message}`);
+      }
+      
+      console.log('✅ All tasks completed. Process ended successfully.');
     } else {
       // Single class automation - use existing logic
       
@@ -1684,17 +1723,27 @@ async function startAutomationLoop(page) {
           console.log('\n🚪 Automation loop ended. Cleaning up remaining tabs...');
           const remainingPages = context.pages();
           
-          // Close all remaining pages (including blank tabs)
+          // Close all remaining pages (including about:blank tabs)
           for (const remainingPage of remainingPages) {
             try {
+              const url = remainingPage.url();
+              console.log(`🔍 Closing tab: ${url}`);
               await remainingPage.close();
-              console.log('✅ Closed remaining tab');
+              console.log('✅ Closed tab');
             } catch (error) {
-              console.log(`⚠️ Error closing remaining tab: ${error.message}`);
+              console.log(`⚠️ Error closing tab: ${error.message}`);
             }
           }
           
-          console.log('✅ All tabs closed. Exiting single class automation.');
+          // Close the browser context
+          try {
+            await context.close();
+            console.log('✅ Browser context closed.');
+          } catch (error) {
+            console.log(`⚠️ Error closing context: ${error.message}`);
+          }
+          
+          console.log('✅ All tabs closed. Process ended successfully.');
           return;
           
         } else {
@@ -1724,17 +1773,27 @@ async function startAutomationLoop(page) {
             console.log('\n🚪 Automation loop ended. Cleaning up remaining tabs...');
             const remainingPages = context.pages();
             
-            // Close all remaining pages (including blank tabs)
+            // Close all remaining pages (including about:blank tabs)
             for (const remainingPage of remainingPages) {
               try {
+                const url = remainingPage.url();
+                console.log(`🔍 Closing tab: ${url}`);
                 await remainingPage.close();
-                console.log('✅ Closed remaining tab');
+                console.log('✅ Closed tab');
               } catch (error) {
-                console.log(`⚠️ Error closing remaining tab: ${error.message}`);
+                console.log(`⚠️ Error closing tab: ${error.message}`);
               }
             }
             
-            console.log('✅ All tabs closed. Exiting single class automation.');
+            // Close the browser context
+            try {
+              await context.close();
+              console.log('✅ Browser context closed.');
+            } catch (error) {
+              console.log(`⚠️ Error closing context: ${error.message}`);
+            }
+            
+            console.log('✅ All tabs closed. Process ended successfully.');
             return;
           }
         } catch (titleError) {

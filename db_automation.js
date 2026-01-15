@@ -1,20 +1,10 @@
-require('dotenv').config();
 const { Pool } = require('pg');
 const fs = require('fs');
 const config = require('./config.js');
 const path = require('path');
 
-// Database configuration from environment variables
-const dbConfig = {
-  user: process.env.DB_USER || 'root',
-  host: process.env.DB_HOST || 'localhost',
-  port: parseInt(process.env.DB_PORT) || 5432,
-  database: process.env.DB_NAME || 'db_name',
-  password: process.env.DB_PASSWORD || 'db_pass',
-  ssl: {
-    rejectUnauthorized: false // Required for AWS RDS
-  }
-};
+// Database configuration from config.js
+const dbConfig = config.DATABASE_CONFIG;
 
 // Create connection pool
 const pool = new Pool(dbConfig);
