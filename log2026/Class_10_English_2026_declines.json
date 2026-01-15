@@ -65,5 +65,67 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:40:23.658Z",
+    "date": "1/15/2026, 7:40:23 PM",
+    "className": "Class 10 English (2026)",
+    "memberName": "Shorifa Eshita",
+    "facebookUserId": "100007133804786",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Eshita"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T18:46:12.200Z",
+    "date": "1/16/2026, 12:46:12 AM",
+    "className": "Class 10 English (2026)",
+    "memberName": "Shamima Nasrin",
+    "facebookUserId": "100005205275419",
+    "memberUserId": "",
+    "memberPhone": "01711430765",
+    "memberTrxId": "a6ba4c38-ef40-4139-a844-90d5f5c41fab",
+    "memberQA": {
+      "তোমার নাম": "Ziana Subah Haque",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711430765",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a6ba4c38-ef40-4139-a844-90d5f5c41fab"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T18:46:15.448Z",
+    "date": "1/16/2026, 12:46:15 AM",
+    "className": "Class 10 English (2026)",
+    "memberName": "Samir Sahabuddin",
+    "facebookUserId": "100052101259497",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T18:46:30.071Z",
+    "date": "1/16/2026, 12:46:30 AM",
+    "className": "Class 10 English (2026)",
+    "memberName": "Jarif Joarder",
+    "facebookUserId": "100003909868405",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

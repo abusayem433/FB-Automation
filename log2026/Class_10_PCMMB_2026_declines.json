@@ -44,5 +44,186 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:46:33.524Z",
+    "date": "1/15/2026, 7:46:33 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "সাজিদ আহমেদ",
+    "facebookUserId": "100088925745560",
+    "memberUserId": "",
+    "memberPhone": "01709113077",
+    "memberTrxId": "e8f2fc45-7dad-4528-a7c7-c319d4edc92b",
+    "memberQA": {
+      "তোমার নাম": "Sadikur Rahman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01709113077",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e8f2fc45-7dad-4528-a7c7-c319d4edc92b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:46:36.814Z",
+    "date": "1/15/2026, 7:46:36 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "MD Newaj Shanu",
+    "facebookUserId": "100066852770442",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:46:40.069Z",
+    "date": "1/15/2026, 7:46:40 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "সাখাওয়াত কামাল",
+    "facebookUserId": "100051672316984",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:46:43.490Z",
+    "date": "1/15/2026, 7:46:43 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Shorifa Eshita",
+    "facebookUserId": "100007133804786",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Eshita"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:46:52.924Z",
+    "date": "1/15/2026, 7:46:52 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Rukshana Afroz",
+    "facebookUserId": "61552651831831",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:47:19.450Z",
+    "date": "1/15/2026, 7:47:19 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Mahbubur Rahman",
+    "facebookUserId": "61556436741913",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:47:22.807Z",
+    "date": "1/15/2026, 7:47:22 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Mahim Hasan",
+    "facebookUserId": "61554942786518",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T18:50:34.942Z",
+    "date": "1/16/2026, 12:50:34 AM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Ruma Akter",
+    "facebookUserId": "61551107934665",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T18:50:38.212Z",
+    "date": "1/16/2026, 12:50:38 AM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Borhan Fardin",
+    "facebookUserId": "100005441536055",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Fardin"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T18:50:58.371Z",
+    "date": "1/16/2026, 12:50:58 AM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Mizanul Islam",
+    "facebookUserId": "100022396996224",
+    "memberUserId": "",
+    "memberPhone": "01344233777",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Najdan Mahfuj (nirob)",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01344233777"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T18:51:23.979Z",
+    "date": "1/16/2026, 12:51:23 AM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Ruma Akter",
+    "facebookUserId": "61551107934665",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T18:51:27.298Z",
+    "date": "1/16/2026, 12:51:27 AM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Borhan Fardin",
+    "facebookUserId": "100005441536055",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Fardin"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

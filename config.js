@@ -325,7 +325,7 @@ const config = {
   // ===========================================
   // DECLINE SETTINGS
   // ===========================================
-  DECLINE_WITH_FEEDBACK: false, // Set to false for direct decline without feedback
+  DECLINE_WITH_FEEDBACK: true, // Set to false for direct decline without feedback
 
   // ===========================================
   // DECLINE MESSAGES (in Bangla)

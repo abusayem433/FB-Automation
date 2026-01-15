@@ -16,5 +16,57 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:42:00.662Z",
+    "date": "1/15/2026, 7:42:00 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Afren Waqas",
+    "facebookUserId": "100088237403750",
+    "memberUserId": "",
+    "memberPhone": "01868460437",
+    "memberTrxId": "ACS Future School Academic Program 2026 এর সকল ক্লাস আমরা App এবং Website এর পাশাপাশি Facebook Group এও নিবো। পাশপাশি গ্রুপে টিচারদের সাথেও কানেক্টেড থাকতে এখনি জয়েন হয়ে যাও তোমার গ্রুপে!\n\nGroup Link:  https://acsfs.com/hICcW\nগ্রুপে জয়েনের সময় অবশ্যই এই ট্রানজেকশন আইডিটি সঠিকভাবে কপি করে দিবে:  8c86aad1-8ead-4370-ba8d-5ade975ae6e7",
+    "memberQA": {
+      "তোমার নাম": "Alisha waqas",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01868460437",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ACS Future School Academic Program 2026 এর সকল ক্লাস আমরা App এবং Website এর পাশাপাশি Facebook Group এও নিবো। পাশপাশি গ্রুপে টিচারদের সাথেও কানেক্টেড থাকতে এখনি জয়েন হয়ে যাও তোমার গ্রুপে!\n\nGroup Link:  https://acsfs.com/hICcW\nগ্রুপে জয়েনের সময় অবশ্যই এই ট্রানজেকশন আইডিটি সঠিকভাবে কপি করে দিবে:  8c86aad1-8ead-4370-ba8d-5ade975ae6e7"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T18:48:01.596Z",
+    "date": "1/16/2026, 12:48:01 AM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Borhan Fardin",
+    "facebookUserId": "100005441536055",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Fardin"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T18:48:10.675Z",
+    "date": "1/16/2026, 12:48:10 AM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Shamima Nasrin",
+    "facebookUserId": "100005205275419",
+    "memberUserId": "",
+    "memberPhone": "01711430765",
+    "memberTrxId": "a6ba4c38-ef40-4139-a844-90d5f5c41fab",
+    "memberQA": {
+      "তোমার নাম": "Ziana Subah Haque",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711430765",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a6ba4c38-ef40-4139-a844-90d5f5c41fab"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

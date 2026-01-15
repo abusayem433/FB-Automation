@@ -593,5 +593,73 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T14:04:00.291Z",
+    "date": "1/15/2026, 8:04:00 PM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Md Monir Hossain",
+    "facebookUserId": "100014617362137",
+    "memberUserId": "",
+    "memberPhone": "01828019382",
+    "memberTrxId": "210701",
+    "memberQA": {
+      "তোমার নাম": "MD Mahmudul Hasan Hojifa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01828019382",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "210701"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T14:04:03.940Z",
+    "date": "1/15/2026, 8:04:03 PM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Anisha Siyam",
+    "facebookUserId": "100080242062458",
+    "memberUserId": "",
+    "memberPhone": "01826476062",
+    "memberTrxId": "c25f0936-40b0-4527-85be-26b7bfa39398",
+    "memberQA": {
+      "তোমার নাম": "Anisa Tasnim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01826476062",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "c25f0936-40b0-4527-85be-26b7bfa39398"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T14:04:07.448Z",
+    "date": "1/15/2026, 8:04:07 PM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Sumaiya Habib Noissho",
+    "facebookUserId": "61585769523210",
+    "memberUserId": "",
+    "memberPhone": "01930279729",
+    "memberTrxId": "774baebc-33a8-4719-ba68-fbbd720941c8",
+    "memberQA": {
+      "তোমার নাম": "Sumaiya Habib Noissho",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01930279729",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "774baebc-33a8-4719-ba68-fbbd720941c8"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T14:04:10.746Z",
+    "date": "1/15/2026, 8:04:10 PM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Arnob Chowdhury",
+    "facebookUserId": "61555922108907",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -1,0 +1,216 @@
+[
+  {
+    "timestamp": "2026-01-15T13:50:03.251Z",
+    "date": "1/15/2026, 7:50:03 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Faisal Ahmed",
+    "facebookUserId": "61586336968156",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:50:06.536Z",
+    "date": "1/15/2026, 7:50:06 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Farzana Hoque",
+    "facebookUserId": "100016998347622",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:50:09.798Z",
+    "date": "1/15/2026, 7:50:09 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Shikha Paul",
+    "facebookUserId": "61584119916678",
+    "memberUserId": "",
+    "memberPhone": "01747466434",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Toma",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01747466434"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:50:13.213Z",
+    "date": "1/15/2026, 7:50:13 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Faria Farha",
+    "facebookUserId": "100079897587004",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:50:28.227Z",
+    "date": "1/15/2026, 7:50:28 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Shammi Akter Brishty",
+    "facebookUserId": "100060389988917",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:50:49.400Z",
+    "date": "1/15/2026, 7:50:49 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Rabeya Akter",
+    "facebookUserId": "100008390400744",
+    "memberUserId": "",
+    "memberPhone": "01718156656",
+    "memberTrxId": "08644bd0-c5cc-4f2a-8223-7b78bb3bc79b",
+    "memberQA": {
+      "তোমার নাম": "Mohammed Rayat Rakim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718156656",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "08644bd0-c5cc-4f2a-8223-7b78bb3bc79b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:51:17.218Z",
+    "date": "1/15/2026, 7:51:17 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Tusmim Bushra",
+    "facebookUserId": "1491542108",
+    "memberUserId": "",
+    "memberPhone": "01717065235",
+    "memberTrxId": "3583-4625-93",
+    "memberQA": {
+      "তোমার নাম": "Ahmad abdullah",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01717065235",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "3583-4625-93"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:51:32.033Z",
+    "date": "1/15/2026, 7:51:32 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Shorifa Eshita",
+    "facebookUserId": "100007133804786",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Eshita"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:51:35.327Z",
+    "date": "1/15/2026, 7:51:35 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Lubaina Talha",
+    "facebookUserId": "100053672176654",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:51:50.106Z",
+    "date": "1/15/2026, 7:51:50 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Toyaba Pervin Rumi",
+    "facebookUserId": "100093273954986",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:51:59.315Z",
+    "date": "1/15/2026, 7:51:59 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Farhana Akter Liza",
+    "facebookUserId": "100012649427075",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:52:02.599Z",
+    "date": "1/15/2026, 7:52:02 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Borhan Fardin",
+    "facebookUserId": "100005441536055",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "na"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:52:11.906Z",
+    "date": "1/15/2026, 7:52:11 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Afruja Aziz",
+    "facebookUserId": "100005011957670",
+    "memberUserId": "",
+    "memberPhone": "01759263723",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Ashabul Tawhid",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01759263723"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-15T13:52:31.420Z",
+    "date": "1/15/2026, 7:52:31 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Sneha Moni",
+    "facebookUserId": "100075321597183",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {},
+    "approvalStatus": "no_answers",
+    "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  }
+]
