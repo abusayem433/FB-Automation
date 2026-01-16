@@ -30,5 +30,39 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T10:33:00.403Z",
+    "date": "1/16/2026, 4:33:00 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Shorifa Eshita",
+    "facebookUserId": "100007133804786",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Eshita"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T10:33:05.951Z",
+    "date": "1/16/2026, 4:33:05 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Asiya Akter Asha",
+    "facebookUserId": "100086502570631",
+    "memberUserId": "",
+    "memberPhone": "01772244809",
+    "memberTrxId": "DAF661U5AO",
+    "memberQA": {
+      "তোমার নাম": "Md.Abdullah",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01772244809",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAF661U5AO"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

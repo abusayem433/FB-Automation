@@ -135,5 +135,74 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T10:34:42.893Z",
+    "date": "1/16/2026, 4:34:42 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Sanda Khan",
+    "facebookUserId": "100009536805766",
+    "memberUserId": "",
+    "memberPhone": "01729462109",
+    "memberTrxId": "d04534f4-000b-4351-af75-7475250459b6",
+    "memberQA": {
+      "তোমার নাম": "Gargi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01729462109",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d04534f4-000b-4351-af75-7475250459b6"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T10:34:48.187Z",
+    "date": "1/16/2026, 4:34:48 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Shorifa Eshita",
+    "facebookUserId": "100007133804786",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Eshita"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T10:36:50.850Z",
+    "date": "1/16/2026, 4:36:50 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Afsana Milon",
+    "facebookUserId": "100013749253223",
+    "memberUserId": "",
+    "memberPhone": "01673651419",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Jannatul Mawa Oishi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01673651419"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T10:39:07.807Z",
+    "date": "1/16/2026, 4:39:07 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Rahima Khanom",
+    "facebookUserId": "100065019450150",
+    "memberUserId": "",
+    "memberPhone": "01703187260",
+    "memberTrxId": "DAF76BX5T3",
+    "memberQA": {
+      "তোমার নাম": "Fatima Jahan Tasmim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01703187260",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAF76BX5T3"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

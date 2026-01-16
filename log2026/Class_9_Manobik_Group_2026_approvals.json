@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2026-01-16T10:31:28.606Z",
+    "date": "1/16/2026, 4:31:28 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Mithila Fariha Rafa",
+    "facebookUserId": "61554597993576",
+    "memberUserId": "61554597993576",
+    "memberPhone": "01814210016",
+    "memberTrxId": "a95e1a63-f3d1-429d-b20e-1ac60fa303f1",
+    "memberQA": {
+      "তোমার নাম": "Mithila Fariha Rafa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01814210016",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a95e1a63-f3d1-429d-b20e-1ac60fa303f1"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T10:31:50.212Z",
+    "date": "1/16/2026, 4:31:50 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Shirin Akther",
+    "facebookUserId": "100082944836532",
+    "memberUserId": "100082944836532",
+    "memberPhone": "01754479660",
+    "memberTrxId": "aa8db80c-7257-40b5-beaa-f885a6146418",
+    "memberQA": {
+      "তোমার নাম": "Jannatul Ferdous Fariha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01754479660",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "aa8db80c-7257-40b5-beaa-f885a6146418"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T10:32:00.888Z",
+    "date": "1/16/2026, 4:32:00 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Saima Akter Habiba",
+    "facebookUserId": "100089387962197",
+    "memberUserId": "100089387962197",
+    "memberPhone": "01755389959",
+    "memberTrxId": "de37c129-89ce-4e66-b947-cb56df500bca",
+    "memberQA": {
+      "তোমার নাম": "Rahima Akter Lipi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01755389959",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "de37c129-89ce-4e66-b947-cb56df500bca"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T10:32:16.951Z",
+    "date": "1/16/2026, 4:32:16 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "নৌরিন জাহান মারুফা",
+    "facebookUserId": "100078990104753",
+    "memberUserId": "100078990104753",
+    "memberPhone": "01705251942",
+    "memberTrxId": "a4dcb5c8-098f-4d5b-95cd-397f94c3b35d",
+    "memberQA": {
+      "তোমার নাম": "নৌরিন জাহান মারুফা।",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01705251942",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a4dcb5c8-098f-4d5b-95cd-397f94c3b35d"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  }
+]

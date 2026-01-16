@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-01-16T10:20:59.015Z",
+    "date": "1/16/2026, 4:20:59 PM",
+    "className": "Class 9 Bangla (2026)",
+    "memberName": "Rahima Khanom",
+    "facebookUserId": "100065019450150",
+    "memberUserId": "",
+    "memberPhone": "01703187260",
+    "memberTrxId": "DAG76RQV1L",
+    "memberQA": {
+      "তোমার নাম": "Fatima Jahan Tasmim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01703187260",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAG76RQV1L"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  }
+]

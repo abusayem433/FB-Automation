@@ -358,6 +358,7 @@ function promptClassSelection() {
     console.log('0. 🚀 ALL CLASSES (Sequential processing)');
     console.log('Y25. 📅 ALL Year 2025 CLASSES (Sequential processing)');
     console.log('Y26. 📅 ALL Year 2026 CLASSES (Sequential processing)');
+    console.log('FB. 🌐 Open Facebook.com (Personal use - no automation)');
     console.log('Available classes:');
     
     const availableClasses = config.getAvailableClasses();
@@ -437,6 +438,19 @@ function promptClassSelection() {
           configured.forEach((className) => console.log(`  - ${className}`));
           rl.close();
           resolve('YEAR_2026');
+          return;
+        }
+
+        // Check for Facebook.com option (personal use)
+        if (
+          normalizedAnswer === 'fb' ||
+          normalizedAnswer === 'facebook' ||
+          normalizedAnswer === 'facebook.com' ||
+          normalizedAnswer === 'personal'
+        ) {
+          console.log('\n✅ Selected: Open Facebook.com (Personal use)');
+          rl.close();
+          resolve('FACEBOOK_PERSONAL');
           return;
         }
         
@@ -573,6 +587,40 @@ async function showToast(page, message, type = 'info', className = null) {
   }
 }
 
+// Function to wait with visual countdown timer
+async function waitWithCountdown(page, waitTimeMs, message, className = null) {
+  const waitTimeSeconds = Math.ceil(waitTimeMs / 1000);
+  const startTime = Date.now();
+  
+  console.log(`⏳ ${message} - Starting ${waitTimeSeconds} second countdown...`);
+  
+  for (let remaining = waitTimeSeconds; remaining > 0; remaining--) {
+    const countdownMessage = `${message} (${remaining}...)`;
+    console.log(`⏳ ${countdownMessage}`);
+    
+    // Update toast with countdown
+    if (page && !page.isClosed()) {
+      try {
+        await showToast(page, countdownMessage, 'info', className);
+      } catch (e) {
+        // Toast update failed, continue anyway
+      }
+    }
+    
+    // Wait for exactly 1 second
+    await new Promise(resolve => setTimeout(resolve, 1000));
+  }
+  
+  // Calculate remaining time to ensure exact wait duration
+  const elapsed = Date.now() - startTime;
+  const remaining = waitTimeMs - elapsed;
+  if (remaining > 0) {
+    await new Promise(resolve => setTimeout(resolve, remaining));
+  }
+  
+  console.log(`✅ ${message} - Wait completed (${waitTimeMs/1000}s)`);
+}
+
 // Function to add log message
 function addLogMessage(message, className = null) {
   const timestamp = new Date().toLocaleTimeString();
@@ -631,7 +679,7 @@ async function saveMemberProcessingData(page, memberData, className = null) {
   }
 }
 // Function to decline member directly without feedback
-async function declineDirectly(page, memberCard) {
+async function declineDirectly(page, memberCard, className = null) {
   try {
     console.log("🔄 Starting direct decline process...");
     
@@ -640,6 +688,9 @@ async function declineDirectly(page, memberCard) {
     if (declineButton) {
       await declineButton.click();
       console.log("✅ Direct decline button clicked");
+      
+      // Wait after decline click with countdown
+      await waitWithCountdown(page, config.getWaitTime(config.DECLINE_WAIT), `Waiting after decline`, className);
     } else {
       console.log("❌ Decline button not found");
     }
@@ -649,7 +700,7 @@ async function declineDirectly(page, memberCard) {
 }
 
 // Function to decline member with feedback
-async function declineWithFeedback(page, memberCard, declineReason) {
+async function declineWithFeedback(page, memberCard, declineReason, className = null) {
   try {
     console.log("🔄 Starting decline with feedback process...");
     
@@ -668,7 +719,7 @@ async function declineWithFeedback(page, memberCard, declineReason) {
     await moreOptionsButton.click();
     
     // Wait for the menu to appear
-    await page.waitForTimeout(2000);
+    await page.waitForTimeout(config.getWaitTime(config.DECLINE_MODAL_WAIT));
     
     // Look for "Decline with feedback" option
     console.log("🔍 Looking for 'Decline with feedback' option...");
@@ -694,7 +745,7 @@ async function declineWithFeedback(page, memberCard, declineReason) {
     
     // Wait for the feedback modal to appear
     console.log("⏳ Waiting for feedback modal...");
-    await page.waitForTimeout(3000);
+    await page.waitForTimeout(config.getWaitTime(config.DECLINE_MODAL_WAIT));
   
     // Select "Issue with answer to questions" radio button
     console.log("🔍 Selecting 'Issue with answer to questions' radio button...");
@@ -745,7 +796,7 @@ async function declineWithFeedback(page, memberCard, declineReason) {
     
     // Click the final decline button
     console.log("🔍 Looking for final decline button...");
-    await page.waitForTimeout(2000); // Increased wait time for modal to fully load
+    await page.waitForTimeout(config.getWaitTime(config.DECLINE_MODAL_WAIT)); // Wait for modal to fully load
     
     // Try the exact selector from the HTML structure
     let finalDeclineButton = await page.$('[aria-label="Decline"][role="button"]');
@@ -784,7 +835,7 @@ async function declineWithFeedback(page, memberCard, declineReason) {
           console.log("❌ JavaScript click also failed:", jsError.message);
           // Try scrolling and clicking again
           await finalDeclineButton.scrollIntoViewIfNeeded();
-          await page.waitForTimeout(500);
+          await page.waitForTimeout(config.getWaitTime(config.UI_SHORT_WAIT));
           await finalDeclineButton.click();
           console.log("✅ Final decline button clicked after scroll");
         }
@@ -795,6 +846,9 @@ async function declineWithFeedback(page, memberCard, declineReason) {
     
     console.log("✅ Decline with feedback process completed");
     
+    // Wait after decline click with countdown
+    await waitWithCountdown(page, config.getWaitTime(config.DECLINE_WAIT), `Waiting after decline`, className);
+    
   } catch (error) {
     console.error("❌ Error in decline with feedback:", error.message);
     // Fallback to simple decline
@@ -803,6 +857,9 @@ async function declineWithFeedback(page, memberCard, declineReason) {
       if (declineButton) {
         await declineButton.click();
         console.log("✅ Fallback: Simple decline button clicked");
+        
+        // Wait after fallback decline click with countdown
+        await waitWithCountdown(page, config.getWaitTime(config.DECLINE_WAIT), `Waiting after decline`, className);
       }
     } catch (fallbackError) {
       console.error("❌ Fallback decline also failed:", fallbackError.message);
@@ -811,13 +868,13 @@ async function declineWithFeedback(page, memberCard, declineReason) {
 }
 
 // Function to decline member based on configuration
-async function declineMember(page, memberCard, declineReason) {
+async function declineMember(page, memberCard, declineReason, className = null) {
   if (config.DECLINE_WITH_FEEDBACK) {
     console.log("📝 Using decline with feedback (config: DECLINE_WITH_FEEDBACK = true)");
-    await declineWithFeedback(page, memberCard, declineReason);
+    await declineWithFeedback(page, memberCard, declineReason, className);
   } else {
     console.log("⚡ Using direct decline (config: DECLINE_WITH_FEEDBACK = false)");
-    await declineDirectly(page, memberCard);
+    await declineDirectly(page, memberCard, className);
   }
 }
 
@@ -1079,6 +1136,9 @@ async function scrapeMemberRequests(page, className = null) {
                   
                   await approveButton.click();
                   console.log("✅ Member approved and payment confirmed");
+                  
+                  // Wait after approval with countdown
+      await waitWithCountdown(page, config.getWaitTime(config.APPROVAL_WAIT), `Waiting after approval`, className);
                 } else {
                   console.log("❌ Payment not found or not approved in database - DECLINING member");
                   if (dbResult.declineReason) {
@@ -1100,11 +1160,14 @@ async function scrapeMemberRequests(page, className = null) {
                     }
                     
                     // Use configured decline method
-                    await declineMember(page, memberRequests[i], dbResult.declineReason);
+                    await declineMember(page, memberRequests[i], dbResult.declineReason, className);
                   } else {
                     // Fallback to simple decline
                   await declineButton.click();
                     console.log("✅ Fallback: Simple decline button clicked");
+                    
+                    // Wait after decline with countdown
+                    await waitWithCountdown(page, config.getWaitTime(config.DECLINE_WAIT), `Waiting after decline`, className);
                     addLogMessage(`❌ DECLINE FAILED: ${memberName}`, className);
                     await showToast(page, `❌ DECLINE FAILED: ${memberName}`, 'error', className);
                     
@@ -1138,7 +1201,7 @@ async function scrapeMemberRequests(page, className = null) {
                   logDeclineToJSON(dbErrorClassName, memberData);
                 }
                 
-                await declineMember(page, memberRequests[i], dbErrorMessage);
+                await declineMember(page, memberRequests[i], dbErrorMessage, className);
               }
             } else {
               console.log("❌ Missing transaction ID or phone number - DECLINING");
@@ -1171,7 +1234,7 @@ async function scrapeMemberRequests(page, className = null) {
                 logDeclineToJSON(missingInfoClassName, memberData);
               }
               
-              await declineMember(page, memberRequests[i], dbErrorMessage);
+              await declineMember(page, memberRequests[i], dbErrorMessage, className);
               console.log("❌ Decline button clicked");
             }
           } else {
@@ -1193,13 +1256,9 @@ async function scrapeMemberRequests(page, className = null) {
             }
             
             const dbErrorMessage = memberData.declineReason;
-            await declineMember(page, memberRequests[i], dbErrorMessage);
+            await declineMember(page, memberRequests[i], dbErrorMessage, className);
             console.log("❌ Decline button clicked");
           }
-          
-          // Wait a bit between actions and before next member
-          console.log(`⏳ Waiting ${config.WAIT_TIME/1000} seconds before processing next member...`);
-          await page.waitForTimeout(config.WAIT_TIME);
         } else {
           console.log("⚠️ Could not find approve/decline buttons for this member");
           addLogMessage(`⚠️ NO BUTTONS: ${memberName}`, className);
@@ -1286,11 +1345,12 @@ async function startClassAutomationLoop(page, className) {
           await showToast(page, "No members found, sleeping...", 'info', className);
         }
         
-        console.log(`💤 [${className}] Sleeping for ${config.WAIT_TIME/1000} seconds...`);
-        addLogMessage(`Sleeping for ${config.WAIT_TIME/1000} seconds...`, className);
+        const noMembersWait = config.getWaitTime(config.NO_MEMBERS_WAIT);
+        console.log(`💤 [${className}] Sleeping for ${noMembersWait/1000} seconds...`);
+        addLogMessage(`Sleeping for ${noMembersWait/1000} seconds...`, className);
         
         // Sleep for configured time
-        await page.waitForTimeout(config.WAIT_TIME);
+        await page.waitForTimeout(noMembersWait);
         
         console.log(`⏰ [${className}] Sleep period ended, checking for new members...`);
         addLogMessage("Sleep period ended, checking for new members...", className);
@@ -1298,20 +1358,21 @@ async function startClassAutomationLoop(page, className) {
         
         // Refresh the page to check for new members
         await page.reload({ waitUntil: 'domcontentloaded' });
-        await page.waitForTimeout(5000);
+        await page.waitForTimeout(config.getWaitTime(config.PAGE_RELOAD_WAIT));
       } else {
         // Members were processed, reset no-members counter
         noMembersCycleCount = 0;
         
         // Members were processed, wait a bit before next cycle
-        console.log(`⏳ [${className}] Waiting ${config.WAIT_TIME/1000} seconds before next check...`);
-        addLogMessage(`Waiting ${config.WAIT_TIME/1000} seconds before next check...`, className);
+        const betweenMembersWait = config.getWaitTime(config.BETWEEN_MEMBERS_WAIT);
+        console.log(`⏳ [${className}] Waiting ${betweenMembersWait/1000} seconds before next check...`);
+        addLogMessage(`Waiting ${betweenMembersWait/1000} seconds before next check...`, className);
         await showToast(page, config.INFO_WAITING, 'info', className);
-        await page.waitForTimeout(config.WAIT_TIME);
+        await page.waitForTimeout(betweenMembersWait);
         
         // Refresh the page to check for new members
         await page.reload({ waitUntil: 'domcontentloaded' });
-        await page.waitForTimeout(5000);
+        await page.waitForTimeout(config.getWaitTime(config.PAGE_RELOAD_WAIT));
       }
       
     } catch (error) {
@@ -1320,8 +1381,9 @@ async function startClassAutomationLoop(page, className) {
       await showToast(page, `❌ Automation loop error`, 'error', className);
       
       // Wait configured time before retrying
-      console.log(`⏳ [${className}] Waiting ${config.WAIT_TIME/1000} seconds before retrying...`);
-      await page.waitForTimeout(config.WAIT_TIME);
+      const retryWait = config.getWaitTime(config.RETRY_WAIT);
+      console.log(`⏳ [${className}] Waiting ${retryWait/1000} seconds before retrying...`);
+      await page.waitForTimeout(retryWait);
     }
   }
 }
@@ -1372,14 +1434,14 @@ async function startMultiClassAutomation(context, chromePath, userDataDir, profi
       console.log(`✅ [${className}] Tab opened and navigated successfully`);
       
       // Wait a bit for the page to load
-      await page.waitForTimeout(3000);
+      await page.waitForTimeout(config.getWaitTime(config.PAGE_LOAD_WAIT));
       
       // Run automation loop for this class and WAIT until it finishes (auto-quit closes the tab)
       await startClassAutomationLoop(page, className);
       console.log(`🏁 Finished: ${className}`);
       
       // Small delay before moving to next class
-      await new Promise(resolve => setTimeout(resolve, 1500));
+      await new Promise(resolve => setTimeout(resolve, config.getWaitTime(config.CLASS_SWITCH_WAIT)));
       
     } catch (error) {
       console.error(`❌ Error setting up automation for ${className}:`, error.message);
@@ -1404,7 +1466,7 @@ async function startMultiClassAutomation(context, chromePath, userDataDir, profi
   console.log('✅ All tabs closed after multi-class automation.');
   
   // Wait a bit for cleanup before closing context
-  await new Promise(resolve => setTimeout(resolve, 1000));
+  await new Promise(resolve => setTimeout(resolve, config.getWaitTime(config.CLEANUP_WAIT) / 2));
 }
 
 function parseBooleanEnv(value, defaultValue = false) {
@@ -1532,11 +1594,12 @@ async function startAutomationLoop(page) {
           await showToast(page, "No members found, sleeping...", 'info');
         }
         
-        console.log(`💤 Sleeping for ${config.WAIT_TIME/1000} seconds...`);
-        addLogMessage(`Sleeping for ${config.WAIT_TIME/1000} seconds...`);
+        const noMembersWait = config.getWaitTime(config.NO_MEMBERS_WAIT);
+        console.log(`💤 Sleeping for ${noMembersWait/1000} seconds...`);
+        addLogMessage(`Sleeping for ${noMembersWait/1000} seconds...`);
         
         // Sleep for configured time
-        await page.waitForTimeout(config.WAIT_TIME);
+        await page.waitForTimeout(noMembersWait);
         
         console.log("⏰ Sleep period ended, checking for new members...");
         addLogMessage("Sleep period ended, checking for new members...");
@@ -1544,20 +1607,21 @@ async function startAutomationLoop(page) {
         
         // Refresh the page to check for new members
         await page.reload({ waitUntil: 'domcontentloaded' });
-        await page.waitForTimeout(5000);
+        await page.waitForTimeout(config.getWaitTime(config.PAGE_RELOAD_WAIT));
       } else {
         // Members were processed, reset no-members counter
         noMembersCycleCount = 0;
         
         // Members were processed, wait a bit before next cycle
-        console.log(`⏳ Waiting ${config.WAIT_TIME/1000} seconds before next check...`);
-        addLogMessage(`Waiting ${config.WAIT_TIME/1000} seconds before next check...`);
+        const betweenMembersWait = config.getWaitTime(config.BETWEEN_MEMBERS_WAIT);
+        console.log(`⏳ Waiting ${betweenMembersWait/1000} seconds before next check...`);
+        addLogMessage(`Waiting ${betweenMembersWait/1000} seconds before next check...`);
         await showToast(page, config.INFO_WAITING, 'info');
-        await page.waitForTimeout(config.WAIT_TIME);
+        await page.waitForTimeout(betweenMembersWait);
         
         // Refresh the page to check for new members
         await page.reload({ waitUntil: 'domcontentloaded' });
-        await page.waitForTimeout(5000);
+        await page.waitForTimeout(config.getWaitTime(config.PAGE_RELOAD_WAIT));
       }
       
     } catch (error) {
@@ -1566,8 +1630,9 @@ async function startAutomationLoop(page) {
       await showToast(page, `❌ Automation loop error`, 'error');
       
       // Wait configured time before retrying
-      console.log(`⏳ Waiting ${config.WAIT_TIME/1000} seconds before retrying...`);
-      await page.waitForTimeout(config.WAIT_TIME);
+      const retryWait = config.getWaitTime(config.RETRY_WAIT);
+      console.log(`⏳ Waiting ${retryWait/1000} seconds before retrying...`);
+      await page.waitForTimeout(retryWait);
     }
   }
 }
@@ -1588,8 +1653,13 @@ async function startAutomationLoop(page) {
       process.exit(1);
     }
     
+    // Handle Facebook personal use (just open browser, no automation)
+    if (selectedClass === 'FACEBOOK_PERSONAL') {
+      console.log(`\n🌐 Opening Facebook.com for personal use`);
+      console.log("======================================\n");
+    }
     // Handle multi-class selection
-    if (selectedClass === 'ALL_CLASSES' || selectedClass === 'YEAR_2025' || selectedClass === 'YEAR_2026') {
+    else if (selectedClass === 'ALL_CLASSES' || selectedClass === 'YEAR_2025' || selectedClass === 'YEAR_2026') {
       const label =
         selectedClass === 'ALL_CLASSES'
           ? 'ALL CLASSES'
@@ -1643,6 +1713,41 @@ async function startAutomationLoop(page) {
 
     console.log("Chrome launched successfully!");
 
+    // Handle Facebook personal use (just open browser, no automation)
+    if (selectedClass === 'FACEBOOK_PERSONAL') {
+      // Check existing pages
+      const pages = context.pages();
+      let page;
+      if (pages.length > 0) {
+        page = pages[0];
+        console.log("Using existing page");
+      } else {
+        page = await context.newPage();
+        console.log("Created new page");
+      }
+
+      // Navigate to Facebook.com
+      console.log("Navigating to Facebook.com...");
+      try {
+        await page.goto('https://www.facebook.com', {
+          waitUntil: "domcontentloaded",
+          timeout: 30000,
+        });
+        console.log("✅ Facebook.com opened successfully!");
+        console.log("🌐 Browser is open. You can now use it for personal use.");
+        console.log("📝 Script will exit, but browser will remain open.");
+        console.log("======================================\n");
+        
+        // Exit the script, but keep the browser open
+        // The persistent context will keep the browser running
+        return;
+      } catch (error) {
+        console.error("❌ Error navigating to Facebook.com:", error.message);
+        console.log("📝 Script will exit, but browser will remain open.");
+        return;
+      }
+    }
+
     // Handle multi-class vs single class automation
     if (selectedClass === 'ALL_CLASSES' || selectedClass === 'YEAR_2025' || selectedClass === 'YEAR_2026') {
       const classList =
@@ -1670,13 +1775,13 @@ async function startAutomationLoop(page) {
       
       // Wait for cleanup before closing context gracefully
       console.log('⏳ Waiting for cleanup...');
-      await new Promise(resolve => setTimeout(resolve, 2000));
+      await new Promise(resolve => setTimeout(resolve, config.getWaitTime(config.CLEANUP_WAIT)));
       
       // Close the browser context gracefully
       // For persistent contexts, we close gracefully to avoid macOS crash reports
       try {
         // Give the browser a moment to finish any pending operations
-        await new Promise(resolve => setTimeout(resolve, 500));
+        await new Promise(resolve => setTimeout(resolve, config.getWaitTime(config.UI_SHORT_WAIT)));
         await context.close();
         console.log('✅ Browser context closed gracefully.');
       } catch (error) {
@@ -1715,7 +1820,7 @@ async function startAutomationLoop(page) {
         console.log("Facebook opened successfully with profile:", profile);
         
         // Wait a bit to see the page
-        await page.waitForTimeout(3000);
+        await page.waitForTimeout(config.getWaitTime(config.PAGE_LOAD_WAIT));
         
         // Check if we're actually on Facebook
         const currentUrl = page.url();
@@ -1725,7 +1830,7 @@ async function startAutomationLoop(page) {
           console.log("✅ Successfully navigated to Facebook!");
           
           // Wait for the page to fully load
-          await page.waitForTimeout(5000);
+          await page.waitForTimeout(config.getWaitTime(config.INITIAL_PAGE_LOAD_WAIT));
           
           // Start the main automation loop
           await startAutomationLoop(page);
@@ -1748,7 +1853,7 @@ async function startAutomationLoop(page) {
           
           // Wait for cleanup before closing context gracefully
           console.log('⏳ Waiting for cleanup...');
-          await new Promise(resolve => setTimeout(resolve, 2000));
+          await new Promise(resolve => setTimeout(resolve, config.getWaitTime(config.CLEANUP_WAIT)));
           
           // Close the browser context gracefully
           // For persistent contexts, we close gracefully to avoid macOS crash reports
@@ -1783,7 +1888,7 @@ async function startAutomationLoop(page) {
             console.log("✅ Page loaded successfully, continuing with automation...");
             
             // Wait for the page to fully load
-            await page.waitForTimeout(5000);
+            await page.waitForTimeout(config.getWaitTime(config.INITIAL_PAGE_LOAD_WAIT));
             
             // Start the main automation loop
             await startAutomationLoop(page);
@@ -1806,7 +1911,7 @@ async function startAutomationLoop(page) {
             
             // Wait for cleanup before closing context gracefully
             console.log('⏳ Waiting for cleanup...');
-            await new Promise(resolve => setTimeout(resolve, 2000));
+            await new Promise(resolve => setTimeout(resolve, config.getWaitTime(config.CLEANUP_WAIT)));
             
             // Close the browser context gracefully
             try {

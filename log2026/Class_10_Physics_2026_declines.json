@@ -224,5 +224,113 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T07:57:12.774Z",
+    "date": "1/16/2026, 1:57:12 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Lili Saiyara",
+    "facebookUserId": "100086114095927",
+    "memberUserId": "",
+    "memberPhone": "01728421896",
+    "memberTrxId": "e29affca-9356-4f19-ab2e-3cdf1c8bc9e2",
+    "memberQA": {
+      "তোমার নাম": "Hafsa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01728421896",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e29affca-9356-4f19-ab2e-3cdf1c8bc9e2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T07:57:16.231Z",
+    "date": "1/16/2026, 1:57:16 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Shohijol Hoq",
+    "facebookUserId": "61574718697233",
+    "memberUserId": "",
+    "memberPhone": "01921999410",
+    "memberTrxId": "f32c4bc7-9d55-48c9-b968-25e3e7c55947",
+    "memberQA": {
+      "তোমার নাম": "Riyan Ahemmed Sojib",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01921999410",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f32c4bc7-9d55-48c9-b968-25e3e7c55947"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T07:57:26.404Z",
+    "date": "1/16/2026, 1:57:26 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Anamika Rani",
+    "facebookUserId": "61572232948938",
+    "memberUserId": "",
+    "memberPhone": "01898468387",
+    "memberTrxId": "74R3ZRY6",
+    "memberQA": {
+      "তোমার নাম": "Anamika",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01898468387",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "74R3ZRY6"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T08:59:52.075Z",
+    "date": "1/16/2026, 2:59:52 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Lili Saiyara",
+    "facebookUserId": "100086114095927",
+    "memberUserId": "",
+    "memberPhone": "01728421896",
+    "memberTrxId": "e29affca-9356-4f19-ab2e-3cdf1c8bc9e2",
+    "memberQA": {
+      "তোমার নাম": "Hafsa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01728421896",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e29affca-9356-4f19-ab2e-3cdf1c8bc9e2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T08:59:57.598Z",
+    "date": "1/16/2026, 2:59:57 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Shohijol Hoq",
+    "facebookUserId": "61574718697233",
+    "memberUserId": "",
+    "memberPhone": "01921999410",
+    "memberTrxId": "f32c4bc7-9d55-48c9-b968-25e3e7c55947",
+    "memberQA": {
+      "তোমার নাম": "Riyan Ahemmed Sojib",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01921999410",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f32c4bc7-9d55-48c9-b968-25e3e7c55947"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T09:00:03.085Z",
+    "date": "1/16/2026, 3:00:03 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Anamika Rani",
+    "facebookUserId": "61572232948938",
+    "memberUserId": "",
+    "memberPhone": "01898468387",
+    "memberTrxId": "74R3ZRY6",
+    "memberQA": {
+      "তোমার নাম": "Anamika",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01898468387",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "74R3ZRY6"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -7796,5 +7796,41 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T08:51:42.023Z",
+    "date": "1/16/2026, 2:51:42 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Tds Fahim",
+    "facebookUserId": "61577101782251",
+    "memberUserId": "",
+    "memberPhone": "01758287063",
+    "memberTrxId": "81fda500-7ac3-4bfb-9ff1-58a83d790de281fda500-7ac3-4bfb-9ff1-58a83d790de2",
+    "memberQA": {
+      "তোমার নাম": "sohidur Rahman Fahim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01758287063",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "81fda500-7ac3-4bfb-9ff1-58a83d790de281fda500-7ac3-4bfb-9ff1-58a83d790de2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T09:47:22.585Z",
+    "date": "1/16/2026, 3:47:22 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Se Ju Ty",
+    "facebookUserId": "61556223172957",
+    "memberUserId": "",
+    "memberPhone": "01948612881",
+    "memberTrxId": "b5b413f9-f668-4543-a60f-95e4b9c6214f",
+    "memberQA": {
+      "তোমার নাম": "Sejuti",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01948612881",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b5b413f9-f668-4543-a60f-95e4b9c6214f"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-01-16T10:30:40.292Z",
+    "date": "1/16/2026, 4:30:40 PM",
+    "className": "Class 9 ICT (2026)",
+    "memberName": "Sabrina Akter Naima",
+    "facebookUserId": "100023842772551",
+    "memberUserId": "100023842772551",
+    "memberPhone": "01912828383",
+    "memberTrxId": "2567ceed-75c2-444d-8b78-c79a477a2fe7",
+    "memberQA": {
+      "তোমার নাম": "সাবরিনা আক্তার নাঈমা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01912828383",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "2567ceed-75c2-444d-8b78-c79a477a2fe7"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  }
+]

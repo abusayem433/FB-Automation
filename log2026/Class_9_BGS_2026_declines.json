@@ -12,5 +12,21 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T10:21:39.745Z",
+    "date": "1/16/2026, 4:21:39 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Shorifa Eshita",
+    "facebookUserId": "100007133804786",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Eshita"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -14,7 +14,7 @@ const config = {
   // System will use:
   //   https://www.facebook.com/groups/1234567890/member-requests?joined_fb_recently=false&orderby=chronological&previously_removed_members=false&suggested=false
   GROUP_URL_EXTENSION:
-    "/member-requests?joined_fb_recently=false&orderby=chronological&previously_removed_members=false&suggested=false",
+    "/member-requests?invited=not_invited&joined_fb_recently=false&membership_questions=answered_questions&orderby=chronological&previously_removed_members=false&profile_type=person&saved_filter=&suggested=false",
 
   // Build the full member-requests URL from a base group URL.
   // If the provided URL already contains "/member-requests", it is returned as-is.
@@ -120,8 +120,10 @@ const config = {
       YEAR: 2026,
       GROUP_URL: "https://www.facebook.com/groups/810998795294892",
       ELIGIBLE_PRODUCT_IDS: [
-        "01f3d2e5-aa97-4b8b-8bf9-c38263fcaa90", // All in One Diamond Pack
-        "c04cd38b-ae05-4edc-967f-85f50c069ab3"  // 1st Half Variant
+        "c87961ad-c154-489b-b365-aec359ca4cf7", // All in One Diamond Pack
+        "c04cd38b-ae05-4edc-967f-85f50c069ab3",  // 1st Half Variant
+        "01f3d2e5-aa97-4b8b-8bf9-c38263fcaa90",  // All in One Diamond Pack
+        "7dcf67d3-259c-4d90-a645-efec9c0b1f45"  // All in One Package
       ]
     },
     "Class 9 PCMMB (2026)": {
@@ -213,7 +215,9 @@ const config = {
       GROUP_URL: "https://www.facebook.com/groups/890350350310388",
       ELIGIBLE_PRODUCT_IDS: [
         "b46bfa87-ead0-4c07-b391-38dc21437ae8", // All in One Diamond Pack
-        "04cfec90-9c44-4a3c-a7b5-d173a2b21f5b"  // 1st Half Variant
+        "04cfec90-9c44-4a3c-a7b5-d173a2b21f5b",  // 1st Half Variant
+        "cfa9442c-61cb-46cd-a833-df51c377520b",  // All in One Diamond Pack
+        "1868054c-070b-4969-a3d3-3cab944a7cc2"  // All in One Package
       ]
     },
     "Class 10 PCMMB (2026)": {
@@ -325,7 +329,7 @@ const config = {
   // ===========================================
   // DECLINE SETTINGS
   // ===========================================
-  DECLINE_WITH_FEEDBACK: true, // Set to false for direct decline without feedback
+  DECLINE_WITH_FEEDBACK: false, // Set to false for direct decline without feedback
 
   // ===========================================
   // DECLINE MESSAGES (in Bangla)
@@ -360,7 +364,23 @@ const config = {
   // ===========================================
   // TIMING SETTINGS (in milliseconds)
   // ===========================================
-  WAIT_TIME: 3000, // Single wait time for all operations (3 seconds)
+  // Default wait time - if set, applies to all wait operations
+  // If blank/null, individual wait times below will be used
+  DEFAULT_WAIT_TIME: null, // Set a value (e.g., 3000) to use for all operations, or null to use specific times below
+  
+  APPROVAL_WAIT: 5000, // Wait time after approval operations (3 seconds)
+  DECLINE_WAIT: 5000, // Wait time after decline operations (3 seconds)
+  DECLINE_MODAL_WAIT: 5000, // Wait time for decline modal operations (menu, feedback modal) (3 seconds)
+  NO_MEMBERS_WAIT: 5000, // Wait time when no members found before retry (3 seconds)
+  BETWEEN_MEMBERS_WAIT: 5000, // Wait time between processing different members (3 seconds)
+  RETRY_WAIT: 5000, // Wait time before retrying after error (3 seconds)
+  PAGE_LOAD_WAIT: 5000, // Wait time for page loads (3 seconds)
+  DATABASE_WAIT: 5000, // Wait time after database operations (3 seconds)
+  PAGE_RELOAD_WAIT: 5000, // Wait time after page reload to ensure full load (5 seconds)
+  UI_SHORT_WAIT: 5000, // Short wait for UI interactions like scroll (0.5 seconds)
+  CLEANUP_WAIT: 5000, // Wait time for cleanup operations (2 seconds)
+  CLASS_SWITCH_WAIT: 5000, // Wait time between processing different classes (1.5 seconds)
+  INITIAL_PAGE_LOAD_WAIT: 5000, // Wait time for initial page load (3 seconds)
   
   // ===========================================
   // AUTO-QUIT SETTINGS
@@ -440,6 +460,15 @@ const config = {
       console.error(`❌ Class "${className}" not found`);
       return false;
     }
+  },
+
+  // Helper function to get effective wait time
+  // If DEFAULT_WAIT_TIME is set, use it; otherwise use the specific wait time
+  getWaitTime: function(specificWaitTime) {
+    if (this.DEFAULT_WAIT_TIME !== null && this.DEFAULT_WAIT_TIME !== undefined && this.DEFAULT_WAIT_TIME !== '') {
+      return this.DEFAULT_WAIT_TIME;
+    }
+    return specificWaitTime;
   }
 };
 

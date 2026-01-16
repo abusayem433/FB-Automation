@@ -79,8 +79,9 @@ async function processPaymentApproval(phone = '', transactionId = '', approvedId
       console.log(`✅ Payment approved and updated with approved_id: ${approvedId}. Rows affected: ${updateResult.rowCount}`);
       
       // Add delay after approval to prevent overwhelming the database
-      console.log('⏳ Waiting 2 seconds before next operation...');
-      await new Promise(resolve => setTimeout(resolve, 2000));
+      const databaseWait = config.getWaitTime(config.DATABASE_WAIT);
+      console.log(`⏳ Waiting ${databaseWait/1000} seconds before next operation...`);
+      await new Promise(resolve => setTimeout(resolve, databaseWait));
       
       return { status: 'approved', rowCount: updateResult.rowCount, approvedId: approvedId };
             } else {

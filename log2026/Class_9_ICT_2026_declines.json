@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2026-01-16T10:30:29.574Z",
+    "date": "1/16/2026, 4:30:29 PM",
+    "className": "Class 9 ICT (2026)",
+    "memberName": "Shorifa Eshita",
+    "facebookUserId": "100007133804786",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Eshita"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  }
+]

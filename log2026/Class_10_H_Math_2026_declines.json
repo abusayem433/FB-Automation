@@ -212,5 +212,37 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T07:49:12.525Z",
+    "date": "1/16/2026, 1:49:12 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Abdullah Al Hisham",
+    "facebookUserId": "100073313238555",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "মো: তাওছিফুল হুদা\n\n\nনাম্বার: 01951311871\n\nইউনিক আইডি: 15be9fe7-4af9-4753-bcc9-64efb71095a8"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T08:39:59.167Z",
+    "date": "1/16/2026, 2:39:59 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Abdullah Al Hisham",
+    "facebookUserId": "100073313238555",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "মো: তাওছিফুল হুদা\n\n\nনাম্বার: 01951311871\n\nইউনিক আইডি: 15be9fe7-4af9-4753-bcc9-64efb71095a8"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

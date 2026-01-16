@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2026-01-16T10:31:34.149Z",
+    "date": "1/16/2026, 4:31:34 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Golam Kibria",
+    "facebookUserId": "100009383885360",
+    "memberUserId": "",
+    "memberPhone": "01718716207",
+    "memberTrxId": "f8bdb4ec-8264-45b8-aa45-f5dfe",
+    "memberQA": {
+      "তোমার নাম": "Zubayer Mubin Akanda",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718716207",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f8bdb4ec-8264-45b8-aa45-f5dfe"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T10:31:39.595Z",
+    "date": "1/16/2026, 4:31:39 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Tasfia Ahmed",
+    "facebookUserId": "100089543197143",
+    "memberUserId": "",
+    "memberPhone": "01328871801",
+    "memberTrxId": "7917",
+    "memberQA": {
+      "তোমার নাম": "Tasfia Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01328871801",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7917"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T10:32:06.332Z",
+    "date": "1/16/2026, 4:32:06 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Sharmin Akter",
+    "facebookUserId": "100006502073219",
+    "memberUserId": "",
+    "memberPhone": "01632668865",
+    "memberTrxId": "CLT5KCE79X",
+    "memberQA": {
+      "তোমার নাম": "Sabah Alam Jakiya",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01632668865",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "CLT5KCE79X"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  }
+]

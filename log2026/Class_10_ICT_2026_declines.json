@@ -68,5 +68,41 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T07:50:00.532Z",
+    "date": "1/16/2026, 1:50:00 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Anisa Chowdhury",
+    "facebookUserId": "100094451604039",
+    "memberUserId": "",
+    "memberPhone": "01846828088",
+    "memberTrxId": "107188252091056",
+    "memberQA": {
+      "তোমার নাম": "Anisa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01846828088",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "107188252091056"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T08:54:39.234Z",
+    "date": "1/16/2026, 2:54:39 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Anisa Chowdhury",
+    "facebookUserId": "100094451604039",
+    "memberUserId": "",
+    "memberPhone": "01846828088",
+    "memberTrxId": "107188252091056",
+    "memberQA": {
+      "তোমার নাম": "Anisa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01846828088",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "107188252091056"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

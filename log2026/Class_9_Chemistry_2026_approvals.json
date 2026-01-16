@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-01-16T10:24:30.296Z",
+    "date": "1/16/2026, 4:24:30 PM",
+    "className": "Class 9 Chemistry (2026)",
+    "memberName": "Happy Nandy",
+    "facebookUserId": "100052781565671",
+    "memberUserId": "100052781565671",
+    "memberPhone": "01859589437",
+    "memberTrxId": "f3da46db-b95a-40e9-9fcb-6e3968d254fb",
+    "memberQA": {
+      "তোমার নাম": "Mrittika Nandy",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01859589437",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f3da46db-b95a-40e9-9fcb-6e3968d254fb"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  }
+]
