@@ -114,5 +114,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T12:04:45.174Z",
+    "date": "1/16/2026, 6:04:45 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Shaikh Wayes Uddin",
+    "facebookUserId": "562340237",
+    "memberUserId": "",
+    "memberPhone": "01712744161",
+    "memberTrxId": "a76b3d20-7a1b-4d28-8287-a0e5aecf2c72",
+    "memberQA": {
+      "তোমার নাম": "Shaikh Zimraan Bin Wayes",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01712744161",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a76b3d20-7a1b-4d28-8287-a0e5aecf2c72"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -244,5 +244,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T12:07:41.483Z",
+    "date": "1/16/2026, 6:07:41 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Sushil Kundu",
+    "facebookUserId": "100055681644038",
+    "memberUserId": "",
+    "memberPhone": "01758766134",
+    "memberTrxId": "ecde336e-2d4b-4887-afb6-d85e0011f67f",
+    "memberQA": {
+      "তোমার নাম": "Shreya kundu",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01758766134",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ecde336e-2d4b-4887-afb6-d85e0011f67f"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

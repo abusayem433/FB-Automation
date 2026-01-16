@@ -44,5 +44,74 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T13:05:24.796Z",
+    "date": "1/16/2026, 7:05:24 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Rahima Khanom",
+    "facebookUserId": "100065019450150",
+    "memberUserId": "",
+    "memberPhone": "01718648385",
+    "memberTrxId": "DAG46RW7WA",
+    "memberQA": {
+      "তোমার নাম": "Fatima Jahan Tasmim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718648385",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAG46RW7WA"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T13:05:30.174Z",
+    "date": "1/16/2026, 7:05:30 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Miratul Aklima",
+    "facebookUserId": "100063697865580",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "f9717558-5a03-4f5f-a4c0-f3c581ea01a7"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T13:05:35.447Z",
+    "date": "1/16/2026, 7:05:35 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Saiful Islam",
+    "facebookUserId": "61571484283329",
+    "memberUserId": "",
+    "memberPhone": "01764702694",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Farvez",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01764702694"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T13:05:51.687Z",
+    "date": "1/16/2026, 7:05:51 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Taslima Akter Khanom",
+    "facebookUserId": "100034764462854",
+    "memberUserId": "",
+    "memberPhone": "01726693904",
+    "memberTrxId": "1077cde8-4498-4970-bec7-137562d90b14",
+    "memberQA": {
+      "তোমার নাম": "Farhan Imtiaz Adib",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01726693904",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1077cde8-4498-4970-bec7-137562d90b14"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

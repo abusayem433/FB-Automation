@@ -52,5 +52,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T13:02:41.648Z",
+    "date": "1/16/2026, 7:02:41 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Snigdha Islam",
+    "facebookUserId": "100025735458002",
+    "memberUserId": "100025735458002",
+    "memberPhone": "01921972316",
+    "memberTrxId": "54d07cee-882a-4cff-9dc4-216a4304209c",
+    "memberQA": {
+      "তোমার নাম": "Maisha Akter",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01921972316",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "54d07cee-882a-4cff-9dc4-216a4304209c"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

@@ -200,5 +200,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T12:01:09.903Z",
+    "date": "1/16/2026, 6:01:09 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Md Hannan",
+    "facebookUserId": "100041012250649",
+    "memberUserId": "",
+    "memberPhone": "01759769574",
+    "memberTrxId": "c7b39005-7408-46e8-9633-0109cc1d5483",
+    "memberQA": {
+      "তোমার নাম": "Sadia Tabassum",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01759769574",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "c7b39005-7408-46e8-9633-0109cc1d5483"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

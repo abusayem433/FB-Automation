@@ -528,5 +528,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T12:21:58.547Z",
+    "date": "1/16/2026, 6:21:58 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Mustakim Azadi",
+    "facebookUserId": "100026474100821",
+    "memberUserId": "",
+    "memberPhone": "০১৭১৯৫০৩০৫১",
+    "memberTrxId": "৫৭৬৩৩",
+    "memberQA": {
+      "তোমার নাম": "আদীবা বিনতে আজাদী",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৭১৯৫০৩০৫১",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "৫৭৬৩৩"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

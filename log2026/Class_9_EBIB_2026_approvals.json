@@ -160,5 +160,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T13:04:44.650Z",
+    "date": "1/16/2026, 7:04:44 PM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Aziz Efty",
+    "facebookUserId": "61573136528368",
+    "memberUserId": "61573136528368",
+    "memberPhone": "01884544547",
+    "memberTrxId": "fa6b66ea-cffd-4beb-b847-4674c267d3e6",
+    "memberQA": {
+      "তোমার নাম": "Efty",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01884544547",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "fa6b66ea-cffd-4beb-b847-4674c267d3e6"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

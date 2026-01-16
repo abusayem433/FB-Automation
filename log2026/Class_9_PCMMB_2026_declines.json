@@ -204,5 +204,93 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T13:10:50.177Z",
+    "date": "1/16/2026, 7:10:50 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Naznin Nahar",
+    "facebookUserId": "100012890680724",
+    "memberUserId": "",
+    "memberPhone": "01609582728",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Afra Anjum",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01609582728"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T13:10:55.801Z",
+    "date": "1/16/2026, 7:10:55 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Mahmudul Hasan Mishkat",
+    "facebookUserId": "100040563711144",
+    "memberUserId": "",
+    "memberPhone": "01612132829",
+    "memberTrxId": "199bbd0a-63bc-4fb7-bcc8-84e2d2a8deca199bbd0a-63bc-4fb7-bcc8-84e2d2a8deca",
+    "memberQA": {
+      "তোমার নাম": "Mahmudul Hasan Mishkat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01612132829",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "199bbd0a-63bc-4fb7-bcc8-84e2d2a8deca199bbd0a-63bc-4fb7-bcc8-84e2d2a8deca"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T13:11:01.108Z",
+    "date": "1/16/2026, 7:11:01 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Shahariar Arpon",
+    "facebookUserId": "100082221033003",
+    "memberUserId": "",
+    "memberPhone": "01717657385\n\nTransaction ID - febf98d7-4273-4958-a7b0-c5aed9ffc78c\n\nNicher box e transaction id lekha jacchilo na",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sadat Shahariar Arpon",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01717657385\n\nTransaction ID - febf98d7-4273-4958-a7b0-c5aed9ffc78c\n\nNicher box e transaction id lekha jacchilo na"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T13:11:06.622Z",
+    "date": "1/16/2026, 7:11:06 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Rahima Khanom",
+    "facebookUserId": "100065019450150",
+    "memberUserId": "",
+    "memberPhone": "01718648385",
+    "memberTrxId": "DAF76BX5T3",
+    "memberQA": {
+      "তোমার নাম": "Fatima Jahan Tasmim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718648385",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAF76BX5T3"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T13:12:37.573Z",
+    "date": "1/16/2026, 7:12:37 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Hasina Akhter",
+    "facebookUserId": "100061447047185",
+    "memberUserId": "",
+    "memberPhone": "01892432526",
+    "memberTrxId": "b093f53c-94e0-4083-9695-d335c779a5cey",
+    "memberQA": {
+      "তোমার নাম": "Sazid",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01892432526",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b093f53c-94e0-4083-9695-d335c779a5cey"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

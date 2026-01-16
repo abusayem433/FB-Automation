@@ -92,5 +92,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T13:14:23.484Z",
+    "date": "1/16/2026, 7:14:23 PM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Nazmul Huda",
+    "facebookUserId": "100007972178848",
+    "memberUserId": "",
+    "memberPhone": "01714549960",
+    "memberTrxId": "Riazul Arafat",
+    "memberQA": {
+      "তোমার নাম": "Riazul Arafat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01714549960",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Riazul Arafat"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]
