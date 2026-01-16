@@ -64,5 +64,41 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T20:40:26.096Z",
+    "date": "1/17/2026, 2:40:26 AM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Abdullah Al Mamun",
+    "facebookUserId": "100073392265691",
+    "memberUserId": "",
+    "memberPhone": "01304747733",
+    "memberTrxId": "293971c6-e3f5-4236-8151-fe21ae53680d",
+    "memberQA": {
+      "তোমার নাম": "Abdullah Al Mamun",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01304747733",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "293971c6-e3f5-4236-8151-fe21ae53680d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T20:41:35.914Z",
+    "date": "1/17/2026, 2:41:35 AM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Momotaz Begum",
+    "facebookUserId": "100011447103270",
+    "memberUserId": "",
+    "memberPhone": "০১৮৫০০৬৬৬৮৯",
+    "memberTrxId": "059ecaf9-87aa-4444-96cc-7c0dacf55480",
+    "memberQA": {
+      "তোমার নাম": "তাসীন মাহমুদ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৮৫০০৬৬৬৮৯",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "059ecaf9-87aa-4444-96cc-7c0dacf55480"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

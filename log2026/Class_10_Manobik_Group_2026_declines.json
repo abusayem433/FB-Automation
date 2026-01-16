@@ -546,5 +546,39 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T19:30:03.266Z",
+    "date": "1/17/2026, 1:30:03 AM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Sumaiya Jannat",
+    "facebookUserId": "61585530748304",
+    "memberUserId": "",
+    "memberPhone": "01317604435",
+    "memberTrxId": "ACS Future School Academic Program 2026 এর সকল ক্লাস আমরা App এবং Website এর পাশাপাশি Facebook Group এও নিবো। ক্লাসের পাশাপাশি গ্রুপে টিচারদের সাথে কানেক্টেড থাকতে এখনি জয়েন হয়ে যাও তোমার গ্রুপে!\n\nGroup Link:  https://acsfs.com/hICcW\nগ্রুপে জয়েনের সময় অবশ্যই এই ট্রানজেকশন আইডিটি সঠিকভাবে কপ:  909bec8e-6e51-4e60-be9e-0cf0d8a260",
+    "memberQA": {
+      "তোমার নাম": "Sumaiya Jannat Fahima",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01317604435",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ACS Future School Academic Program 2026 এর সকল ক্লাস আমরা App এবং Website এর পাশাপাশি Facebook Group এও নিবো। ক্লাসের পাশাপাশি গ্রুপে টিচারদের সাথে কানেক্টেড থাকতে এখনি জয়েন হয়ে যাও তোমার গ্রুপে!\n\nGroup Link:  https://acsfs.com/hICcW\nগ্রুপে জয়েনের সময় অবশ্যই এই ট্রানজেকশন আইডিটি সঠিকভাবে কপ:  909bec8e-6e51-4e60-be9e-0cf0d8a260"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T19:30:51.553Z",
+    "date": "1/17/2026, 1:30:51 AM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Sarmin Sultana",
+    "facebookUserId": "100059402408672",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Juairia Houqe"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -151,5 +151,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T20:35:06.904Z",
+    "date": "1/17/2026, 2:35:06 AM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Abrar Bin Absar",
+    "facebookUserId": "100035102888591",
+    "memberUserId": "",
+    "memberPhone": "01825777476",
+    "memberTrxId": "abrar",
+    "memberQA": {
+      "তোমার নাম": "ayyan bin absar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01825777476",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "abrar"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

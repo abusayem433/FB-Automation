@@ -60,5 +60,23 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T19:11:53.063Z",
+    "date": "1/17/2026, 1:11:53 AM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Abdul Khalek",
+    "facebookUserId": "100010439865573",
+    "memberUserId": "",
+    "memberPhone": "01743895693",
+    "memberTrxId": "DAG276CPV6",
+    "memberQA": {
+      "তোমার নাম": "Ayesha Tasnin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01743895693",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAG276CPV6"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

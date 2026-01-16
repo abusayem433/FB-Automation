@@ -332,5 +332,128 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T19:45:48.563Z",
+    "date": "1/17/2026, 1:45:48 AM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Ragib Mahtab",
+    "facebookUserId": "61581735204370",
+    "memberUserId": "",
+    "memberPhone": "01816800054",
+    "memberTrxId": "904dca42-ed6b-4074-87be-3ffe0a487f67",
+    "memberQA": {
+      "তোমার নাম": "Ragib Mahtab",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816800054",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "904dca42-ed6b-4074-87be-3ffe0a487f67"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T19:46:15.124Z",
+    "date": "1/17/2026, 1:46:15 AM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Farin Ahmed Babuni",
+    "facebookUserId": "100069402382360",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Farin Ahmed babuni"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T19:50:30.976Z",
+    "date": "1/17/2026, 1:50:30 AM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Ayesha Rahman",
+    "facebookUserId": "100046541703034",
+    "memberUserId": "",
+    "memberPhone": "01407531913",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Siamur Rahman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01407531913"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T19:51:29.869Z",
+    "date": "1/17/2026, 1:51:29 AM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Jannat Ferdoushi",
+    "facebookUserId": "100064191260939",
+    "memberUserId": "",
+    "memberPhone": "01771997584",
+    "memberTrxId": "DAB41VAGJ2",
+    "memberQA": {
+      "তোমার নাম": "maisha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01771997584",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAB41VAGJ2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T19:52:07.096Z",
+    "date": "1/17/2026, 1:52:07 AM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Jannatul Mawa",
+    "facebookUserId": "61553569937181",
+    "memberUserId": "",
+    "memberPhone": "01766555702",
+    "memberTrxId": "248209",
+    "memberQA": {
+      "তোমার নাম": "Jannatul Mawa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01766555702",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "248209"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T19:53:08.264Z",
+    "date": "1/17/2026, 1:53:08 AM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Jhuma Akther",
+    "facebookUserId": "61552601395073",
+    "memberUserId": "",
+    "memberPhone": "01814783976",
+    "memberTrxId": "b97e68ca-2f65-4b58-a3de-4a1701bd92e8b97e68ca-2f65-4b58-a3de-4a1701bd92e8",
+    "memberQA": {
+      "তোমার নাম": "Samiha Siddika Aifa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01814783976",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b97e68ca-2f65-4b58-a3de-4a1701bd92e8b97e68ca-2f65-4b58-a3de-4a1701bd92e8"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T19:54:18.347Z",
+    "date": "1/17/2026, 1:54:18 AM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Bijoy Majumder",
+    "facebookUserId": "100014413004171",
+    "memberUserId": "",
+    "memberPhone": "01792423980",
+    "memberTrxId": "858f4127-f048-47c7-bc84-f89411c5c374",
+    "memberQA": {
+      "তোমার নাম": "Bijoy Majumder",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01792423980",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "858f4127-f048-47c7-bc84-f89411c5c374"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

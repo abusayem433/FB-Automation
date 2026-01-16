@@ -389,5 +389,58 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T19:55:31.096Z",
+    "date": "1/17/2026, 1:55:31 AM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Kamrunnahar Kona",
+    "facebookUserId": "100057107205367",
+    "memberUserId": "",
+    "memberPhone": "01737613733",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "মুমতাহিনা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01737613733"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T19:55:36.582Z",
+    "date": "1/17/2026, 1:55:36 AM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Bushra Salsabil",
+    "facebookUserId": "100056122021031",
+    "memberUserId": "",
+    "memberPhone": "01319441291",
+    "memberTrxId": "b712d741-1fa8-4668-b231-36d31be6701f",
+    "memberQA": {
+      "তোমার নাম": "Jannatul Mawa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01319441291",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b712d741-1fa8-4668-b231-36d31be6701f"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T19:56:03.357Z",
+    "date": "1/17/2026, 1:56:03 AM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Japamala Japo",
+    "facebookUserId": "100010471507506",
+    "memberUserId": "",
+    "memberPhone": "01718072210",
+    "memberTrxId": "01912516038",
+    "memberQA": {
+      "তোমার নাম": "Jisnu",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718072210",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "01912516038"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-01-16T20:32:48.850Z",
+    "date": "1/17/2026, 2:32:48 AM",
+    "className": "Class 9 Bangla (2026)",
+    "memberName": "Zarin Tabassum",
+    "facebookUserId": "61559644446619",
+    "memberUserId": "61559644446619",
+    "memberPhone": "01568374210",
+    "memberTrxId": "7b03d005-3cff-4f23-983a-680a553e62b1",
+    "memberQA": {
+      "তোমার নাম": "Zarin Tabassum",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01568374210",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7b03d005-3cff-4f23-983a-680a553e62b1"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T20:32:59.481Z",
+    "date": "1/17/2026, 2:32:59 AM",
+    "className": "Class 9 Bangla (2026)",
+    "memberName": "Rahima Khanom",
+    "facebookUserId": "100065019450150",
+    "memberUserId": "100065019450150",
+    "memberPhone": "01703187270",
+    "memberTrxId": "1d691d05-6aa3-492c-8f86-169f36f0136c",
+    "memberQA": {
+      "তোমার নাম": "Fatima Jahan Tasmim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01703187270",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1d691d05-6aa3-492c-8f86-169f36f0136c"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  }
+]

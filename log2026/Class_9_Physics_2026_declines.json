@@ -110,5 +110,39 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T20:49:28.746Z",
+    "date": "1/17/2026, 2:49:28 AM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Humaira Rashid Hriddo",
+    "facebookUserId": "61586592032244",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Humaira Rashid Hriddo"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-16T20:50:06.427Z",
+    "date": "1/17/2026, 2:50:06 AM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Tamim Ahmed",
+    "facebookUserId": "61578488734509",
+    "memberUserId": "",
+    "memberPhone": "01771460008",
+    "memberTrxId": "6d508c30-5757-4bab-9bb5-029a29ca5ee06d508c30-5757-4bab-9bb5-029a29ca5ee06d508c30-5757-4bab-9bb5-029a29ca5ee06d508c30-5757-4bab-9bb5-029a29ca5ee06d508c30-5757-4bab-9bb5-029a29ca5ee06d508c30-5757-4bab-9bb5-029a29ca5ee06d508c30-5757-4bab-9bb5-029a29ca5ee06d508c30-5757-4bab-9bb5-029a29ca5ee0",
+    "memberQA": {
+      "তোমার নাম": "Tamim Iqbal",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01771460008",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6d508c30-5757-4bab-9bb5-029a29ca5ee06d508c30-5757-4bab-9bb5-029a29ca5ee06d508c30-5757-4bab-9bb5-029a29ca5ee06d508c30-5757-4bab-9bb5-029a29ca5ee06d508c30-5757-4bab-9bb5-029a29ca5ee06d508c30-5757-4bab-9bb5-029a29ca5ee06d508c30-5757-4bab-9bb5-029a29ca5ee06d508c30-5757-4bab-9bb5-029a29ca5ee0"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]
