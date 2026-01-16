@@ -35,7 +35,7 @@ const config = {
   // CLASS CONFIGURATIONS
   // ===========================================
   CLASSES: {
-    "Class 6": {
+    "Class 6 FRB": {
       YEAR: 2025,
       GROUP_URL: "https://www.facebook.com/groups/1473078223944296",
       ELIGIBLE_PRODUCT_IDS: [
@@ -44,7 +44,7 @@ const config = {
         "dd2fc129-e625-4c3c-be8f-245a1b48ea76"  // Class 6 (General)
       ]
     },
-    "Class 7": {
+    "Class 7 FRB": {
       YEAR: 2025,
       GROUP_URL: "https://www.facebook.com/groups/1490409665507110",
       ELIGIBLE_PRODUCT_IDS: [
@@ -53,7 +53,7 @@ const config = {
         "87a81016-10a8-4814-9234-77146db0ecae"  // Class 7 (General)
       ]
     },
-    "Class 8": {
+    "Class 8 FRB": {
       YEAR: 2025,
       GROUP_URL: "https://www.facebook.com/groups/1234825928691234",
       ELIGIBLE_PRODUCT_IDS: [
@@ -62,7 +62,7 @@ const config = {
         "3ff37b15-50b1-4b68-b6c2-7ffe3ba03e48"  // Class 8 (General)
       ]
     },
-    "Class 9": {
+    "Class 9 FRB": {
       YEAR: 2025,
       GROUP_URL: "https://www.facebook.com/groups/1895113984369381",
       ELIGIBLE_PRODUCT_IDS: [
@@ -72,7 +72,7 @@ const config = {
         "1c7b7206-bdca-400c-924d-630bc83d2aaf"  // Class 9 (Commerce)
       ]
     },
-    "Class 10 FRB": {
+    "Class 10 FRB Science": {
       YEAR: 2025,
       GROUP_URL: "https://www.facebook.com/groups/2499286187104014",
       ELIGIBLE_PRODUCT_IDS: [
@@ -81,7 +81,7 @@ const config = {
         "d8787524-8ef5-4a22-a605-8d9a5a75eee4"
       ]
     },
-    "Class 10 Commerce": {
+    "Class 10 FRB Commerce": {
       YEAR: 2025,
       GROUP_URL: "https://www.facebook.com/groups/1383777663750752",
       ELIGIBLE_PRODUCT_IDS: [
@@ -394,7 +394,13 @@ const config = {
   normalizeClassName: function (className) {
     const name = String(className || "").trim();
     // Backward-compat: old label -> new label
-    if (name === "Class 10 Science") return "Class 10 FRB";
+    if (name === "Class 10 Science") return "Class 10 FRB Science";
+    if (name === "Class 10 FRB") return "Class 10 FRB Science";
+    if (name === "Class 10 Commerce") return "Class 10 FRB Commerce";
+    if (name === "Class 6") return "Class 6 FRB";
+    if (name === "Class 7") return "Class 7 FRB";
+    if (name === "Class 8") return "Class 8 FRB";
+    if (name === "Class 9") return "Class 9 FRB";
     return name;
   },
 
