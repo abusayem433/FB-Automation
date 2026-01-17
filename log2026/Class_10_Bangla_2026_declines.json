@@ -341,5 +341,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:15:01.777Z",
+    "date": "1/17/2026, 2:15:01 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Nafiza Akter Asfi",
+    "facebookUserId": "61569777020924",
+    "memberUserId": "",
+    "memberPhone": "01618504094",
+    "memberTrxId": "DAE24SQ8WO",
+    "memberQA": {
+      "তোমার নাম": "Nafiza Akter Asfi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01618504094",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAE24SQ8WO"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -1042,5 +1042,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:36:37.116Z",
+    "date": "1/17/2026, 2:36:37 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Abu Sayeed Jobayer",
+    "facebookUserId": "100079977283138",
+    "memberUserId": "100079977283138",
+    "memberPhone": "01865387908",
+    "memberTrxId": "12fd0a11-6c3e-4b8b-968d-3e046fe3230d",
+    "memberQA": {
+      "তোমার নাম": "Mehzabin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01865387908",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "12fd0a11-6c3e-4b8b-968d-3e046fe3230d"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

@@ -232,5 +232,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:52:59.613Z",
+    "date": "1/17/2026, 2:52:59 PM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Rickta Sarkar",
+    "facebookUserId": "100058577529620",
+    "memberUserId": "100058577529620",
+    "memberPhone": "01972738586",
+    "memberTrxId": "8caf05ef-7f9f-4281-8a48-01ab3676f7a0",
+    "memberQA": {
+      "তোমার নাম": "Marwa Sultana",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01972738586",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8caf05ef-7f9f-4281-8a48-01ab3676f7a0"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

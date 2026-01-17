@@ -95,5 +95,22 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:19:09.592Z",
+    "date": "1/17/2026, 2:19:09 PM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Nasir Uddin",
+    "facebookUserId": "100006669730231",
+    "memberUserId": "",
+    "memberPhone": "01724717456",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Maliha Tahsin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01724717456"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

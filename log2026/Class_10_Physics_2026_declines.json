@@ -473,5 +473,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:32:17.301Z",
+    "date": "1/17/2026, 2:32:17 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Mithila Akther",
+    "facebookUserId": "61576168124752",
+    "memberUserId": "",
+    "memberPhone": "01717317059",
+    "memberTrxId": "bfbee24d-fe68-4752-9c46-843a30e72edo",
+    "memberQA": {
+      "তোমার নাম": "Mithila akter",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01717317059",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "bfbee24d-fe68-4752-9c46-843a30e72edo"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

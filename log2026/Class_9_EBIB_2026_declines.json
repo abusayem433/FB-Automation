@@ -169,5 +169,21 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:52:48.917Z",
+    "date": "1/17/2026, 2:52:48 PM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Jarif Joarder",
+    "facebookUserId": "100003909868405",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Jarif Joarder"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

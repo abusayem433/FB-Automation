@@ -68,5 +68,38 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:56:14.798Z",
+    "date": "1/17/2026, 2:56:14 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Syeda Hamida",
+    "facebookUserId": "100070607821018",
+    "memberUserId": "",
+    "memberPhone": "01832265195",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Simrin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01832265195"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:56:20.143Z",
+    "date": "1/17/2026, 2:56:20 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Jarif Joarder",
+    "facebookUserId": "100003909868405",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Jarif Joarder"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

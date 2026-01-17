@@ -614,5 +614,76 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:25:11.575Z",
+    "date": "1/17/2026, 2:25:11 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Maisha Jahan",
+    "facebookUserId": "61573820639869",
+    "memberUserId": "",
+    "memberPhone": "01615037961",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Tasnim Fatema",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01615037961"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:25:38.616Z",
+    "date": "1/17/2026, 2:25:38 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Afrah Anwar",
+    "facebookUserId": "100003198395945",
+    "memberUserId": "",
+    "memberPhone": "01320392006",
+    "memberTrxId": "b8692322-3412-427b-b4d2-3085-c6f8c438",
+    "memberQA": {
+      "তোমার নাম": "Afrah Ahna",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01320392006",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b8692322-3412-427b-b4d2-3085-c6f8c438"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:25:44.074Z",
+    "date": "1/17/2026, 2:25:44 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Md Zulfikkar Alam",
+    "facebookUserId": "61564045007484",
+    "memberUserId": "",
+    "memberPhone": "01315861798",
+    "memberTrxId": "960886",
+    "memberQA": {
+      "তোমার নাম": "Mehejabin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01315861798",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "960886"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:25:49.623Z",
+    "date": "1/17/2026, 2:25:49 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Mofizur Tito",
+    "facebookUserId": "100025330276298",
+    "memberUserId": "",
+    "memberPhone": "01924004444",
+    "memberTrxId": "555555",
+    "memberQA": {
+      "তোমার নাম": "Araf Rahman Ayon",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01924004444",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "555555"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

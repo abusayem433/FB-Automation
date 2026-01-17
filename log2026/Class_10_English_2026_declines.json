@@ -197,5 +197,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:20:42.765Z",
+    "date": "1/17/2026, 2:20:42 PM",
+    "className": "Class 10 English (2026)",
+    "memberName": "MD Newaj Shanu",
+    "facebookUserId": "100066852770442",
+    "memberUserId": "",
+    "memberPhone": "01721721130",
+    "memberTrxId": "5386ce01-5630-4247-923b-09c7cdb644e1",
+    "memberQA": {
+      "তোমার নাম": "Abu Masad Sayeef",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01721721130",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5386ce01-5630-4247-923b-09c7cdb644e1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

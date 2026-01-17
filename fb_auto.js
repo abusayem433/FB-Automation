@@ -1726,6 +1726,52 @@ async function startAutomationLoop(page) {
         console.log("Created new page");
       }
 
+      // Function to check if browser is closed and exit if so
+      const checkAndExitIfClosed = async () => {
+        try {
+          const currentPages = context.pages();
+          const activePages = currentPages.filter(p => !p.isClosed());
+          
+          // If no active pages remain, the browser was closed
+          if (activePages.length === 0) {
+            console.log('\n🚪 Browser closed by user. Exiting...');
+            try {
+              await context.close();
+            } catch (e) {
+              // Context might already be closed
+            }
+            console.log('✅ Process terminated.');
+            process.exit(0);
+          }
+        } catch (error) {
+          // Context might be closed, exit
+          console.log('\n🚪 Browser closed. Exiting...');
+          process.exit(0);
+        }
+      };
+
+      // Listen for browser context close event to exit process
+      context.on('close', () => {
+        console.log('\n🚪 Browser context closed. Exiting...');
+        console.log('✅ Process terminated.');
+        process.exit(0);
+      });
+
+      // Listen for page close events - if all pages are closed, exit
+      page.on('close', async () => {
+        await checkAndExitIfClosed();
+      });
+
+      // Poll periodically to check if browser is closed (fallback for manual closes)
+      const checkInterval = setInterval(async () => {
+        await checkAndExitIfClosed();
+      }, 1000); // Check every second
+
+      // Clean up interval on process exit
+      process.on('exit', () => {
+        clearInterval(checkInterval);
+      });
+
       // Navigate to Facebook.com
       console.log("Navigating to Facebook.com...");
       try {
@@ -1735,16 +1781,15 @@ async function startAutomationLoop(page) {
         });
         console.log("✅ Facebook.com opened successfully!");
         console.log("🌐 Browser is open. You can now use it for personal use.");
-        console.log("📝 Script will exit, but browser will remain open.");
+        console.log("📝 Script will terminate when you close the browser.");
         console.log("======================================\n");
         
-        // Exit the script, but keep the browser open
-        // The persistent context will keep the browser running
-        return;
+        // Keep the process running until browser is closed
+        // The event listeners and polling above will handle cleanup and exit
       } catch (error) {
         console.error("❌ Error navigating to Facebook.com:", error.message);
-        console.log("📝 Script will exit, but browser will remain open.");
-        return;
+        console.log("📝 Script will terminate when you close the browser.");
+        // Still set up event listeners for cleanup
       }
     }
 

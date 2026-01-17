@@ -460,5 +460,56 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:34:33.406Z",
+    "date": "1/17/2026, 2:34:33 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Monowarul Islam",
+    "facebookUserId": "100013454160851",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sidratul  Muntaha"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:35:01.901Z",
+    "date": "1/17/2026, 2:35:01 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Ruhena Begum",
+    "facebookUserId": "61550888861950",
+    "memberUserId": "",
+    "memberPhone": "01880566744",
+    "memberTrxId": "ACS Future School Academic Program 2026 এর সকল ক্লাস আমরা App এবং Website এর পাশাপাশি Facebook Group এও নিবো। ক্লাসের পাশাপাশি গ্রুপে টিচারদের সাথে কানেক্টেড থাকতে এখনি জয়েন হয়ে যাও তোমার গ্রুপে!\n\nGroup Link:  https://acsfs.com/JICbH\nগ্রুপে জয়েনের সময় অবশ্যই এই ট্রানজেকশন আইডিটি সঠিকভাবে কপি করে দিবে:  ad72a06d-85f2-42df-be20-9b8487bec002\n\nApp অথবা Website এর লাইব্রেরী অপশনে গেলেও পেয়ে যাবে গ্রুপে জয়েন হবার সকল তথ্য।",
+    "memberQA": {
+      "তোমার নাম": "তানজিলা ইসলাম",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01880566744",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ACS Future School Academic Program 2026 এর সকল ক্লাস আমরা App এবং Website এর পাশাপাশি Facebook Group এও নিবো। ক্লাসের পাশাপাশি গ্রুপে টিচারদের সাথে কানেক্টেড থাকতে এখনি জয়েন হয়ে যাও তোমার গ্রুপে!\n\nGroup Link:  https://acsfs.com/JICbH\nগ্রুপে জয়েনের সময় অবশ্যই এই ট্রানজেকশন আইডিটি সঠিকভাবে কপি করে দিবে:  ad72a06d-85f2-42df-be20-9b8487bec002\n\nApp অথবা Website এর লাইব্রেরী অপশনে গেলেও পেয়ে যাবে গ্রুপে জয়েন হবার সকল তথ্য।"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:35:18.026Z",
+    "date": "1/17/2026, 2:35:18 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Jarif Joarder",
+    "facebookUserId": "100003909868405",
+    "memberUserId": "",
+    "memberPhone": "01306917882",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Jarif Joarder",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01306917882"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

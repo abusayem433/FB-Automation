@@ -188,5 +188,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:23:37.660Z",
+    "date": "1/17/2026, 2:23:37 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Nafiza Akter Asfi",
+    "facebookUserId": "61569777020924",
+    "memberUserId": "",
+    "memberPhone": "01618504094",
+    "memberTrxId": "DAE04T389W",
+    "memberQA": {
+      "তোমার নাম": "Nafiza Akter Asfi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01618504094",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAE04T389W"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

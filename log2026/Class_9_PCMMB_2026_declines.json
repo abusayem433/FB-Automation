@@ -380,5 +380,41 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:58:46.477Z",
+    "date": "1/17/2026, 2:58:46 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Murshalin Biswas",
+    "facebookUserId": "61585506650320",
+    "memberUserId": "",
+    "memberPhone": "01711357717",
+    "memberTrxId": "2ba4cf35-09dc-4772-a18d-1079796ab018",
+    "memberQA": {
+      "তোমার নাম": "মুরছালিন",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711357717",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "2ba4cf35-09dc-4772-a18d-1079796ab018"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:58:51.968Z",
+    "date": "1/17/2026, 2:58:51 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "SO AD",
+    "facebookUserId": "100066023262612",
+    "memberUserId": "",
+    "memberPhone": "766cd60a-890f-4f93-8213-f4d70d8c3f01",
+    "memberTrxId": "01632333855",
+    "memberQA": {
+      "তোমার নাম": "Soad Akhand",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "766cd60a-890f-4f93-8213-f4d70d8c3f01",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "01632333855"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

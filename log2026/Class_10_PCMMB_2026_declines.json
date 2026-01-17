@@ -1306,5 +1306,58 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:28:24.958Z",
+    "date": "1/17/2026, 2:28:24 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Mukarrama Methila",
+    "facebookUserId": "61551130986945",
+    "memberUserId": "",
+    "memberPhone": "01752711280",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "মু্বাশশিরা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01752711280"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:29:34.760Z",
+    "date": "1/17/2026, 2:29:34 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Nafiza Akter Asfi",
+    "facebookUserId": "61569777020924",
+    "memberUserId": "",
+    "memberPhone": "01618504094",
+    "memberTrxId": "DAE54SHHWH",
+    "memberQA": {
+      "তোমার নাম": "Nafiza Akter Asfi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01618504094",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAE54SHHWH"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:30:01.655Z",
+    "date": "1/17/2026, 2:30:01 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Minhazul Islam Razin",
+    "facebookUserId": "61586004050641",
+    "memberUserId": "",
+    "memberPhone": "01314404436",
+    "memberTrxId": "858f4127-f048-47c7-bc84-f89411c5c374",
+    "memberQA": {
+      "তোমার নাম": "Minhazul Islam Razin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01314404436",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "858f4127-f048-47c7-bc84-f89411c5c374"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

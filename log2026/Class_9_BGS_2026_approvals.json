@@ -70,5 +70,41 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:51:15.949Z",
+    "date": "1/17/2026, 2:51:15 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Sadia Islam",
+    "facebookUserId": "100055972992198",
+    "memberUserId": "100055972992198",
+    "memberPhone": "01952764436",
+    "memberTrxId": "27ae1488-529b-42eb-9bd4-057a18b4b121",
+    "memberQA": {
+      "তোমার নাম": "sadia islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01952764436",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "27ae1488-529b-42eb-9bd4-057a18b4b121"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T08:51:26.595Z",
+    "date": "1/17/2026, 2:51:26 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Fairuz Faiza Rodoshi",
+    "facebookUserId": "100057754612171",
+    "memberUserId": "100057754612171",
+    "memberPhone": "01300-846565",
+    "memberTrxId": "a3780920-306b-49dc-b2dd-48c238040884",
+    "memberQA": {
+      "তোমার নাম": "ফাইরুজ ফাইজা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01300-846565",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a3780920-306b-49dc-b2dd-48c238040884"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]
