@@ -203,5 +203,56 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:58:37.575Z",
+    "date": "1/17/2026, 11:58:37 PM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Sumsunnahar Sumi",
+    "facebookUserId": "61564450290745",
+    "memberUserId": "",
+    "memberPhone": "01816246898",
+    "memberTrxId": "0f05a6ae-c54a-41c9-b370-82ea2243759b",
+    "memberQA": {
+      "তোমার নাম": "Junayed Abdulla Faruki",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816246898",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0f05a6ae-c54a-41c9-b370-82ea2243759b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:58:42.912Z",
+    "date": "1/17/2026, 11:58:42 PM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Shorifa Eshita",
+    "facebookUserId": "100007133804786",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Eshita"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:58:48.237Z",
+    "date": "1/17/2026, 11:58:48 PM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Thowai Ching Wong Marma",
+    "facebookUserId": "100073089447299",
+    "memberUserId": "",
+    "memberPhone": "01533039633",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "May May Sain",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01533039633"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -286,5 +286,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:58:58.915Z",
+    "date": "1/17/2026, 11:58:58 PM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Shafayet Khan Shafi",
+    "facebookUserId": "100093362127411",
+    "memberUserId": "100093362127411",
+    "memberPhone": "01845520975",
+    "memberTrxId": "7578c461-5ab0-4e56-8fc8-59df8a561397",
+    "memberQA": {
+      "তোমার নাম": "Shafayet khan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01845520975",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7578c461-5ab0-4e56-8fc8-59df8a561397"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

@@ -469,5 +469,39 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T18:06:17.258Z",
+    "date": "1/18/2026, 12:06:17 AM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Saima Islam",
+    "facebookUserId": "61585864084412",
+    "memberUserId": "",
+    "memberPhone": "01812256512",
+    "memberTrxId": "01812256512",
+    "memberQA": {
+      "তোমার নাম": "Saima Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01812256512",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "01812256512"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T18:06:22.604Z",
+    "date": "1/18/2026, 12:06:22 AM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Shorifa Eshita",
+    "facebookUserId": "100007133804786",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Eshita"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

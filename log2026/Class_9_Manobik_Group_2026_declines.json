@@ -117,5 +117,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T18:02:23.531Z",
+    "date": "1/18/2026, 12:02:23 AM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Nabanita Barua",
+    "facebookUserId": "61558430522680",
+    "memberUserId": "",
+    "memberPhone": "01782101127",
+    "memberTrxId": "201126",
+    "memberQA": {
+      "তোমার নাম": "Nabanita Barua",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01782101127",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "201126"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

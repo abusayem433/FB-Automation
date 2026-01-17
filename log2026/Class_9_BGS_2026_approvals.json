@@ -106,5 +106,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:55:49.783Z",
+    "date": "1/17/2026, 11:55:49 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Borshon Sen",
+    "facebookUserId": "61554162477352",
+    "memberUserId": "61554162477352",
+    "memberPhone": "01923783077",
+    "memberTrxId": "6e3eb18b-7b28-4596-81fe-949e11e15d83",
+    "memberQA": {
+      "তোমার নাম": "Borshon Sen",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01923783077",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6e3eb18b-7b28-4596-81fe-949e11e15d83"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]
