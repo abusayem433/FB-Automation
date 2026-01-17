@@ -64,5 +64,41 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:33:12.972Z",
+    "date": "1/17/2026, 6:33:12 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Madhabi Purohit",
+    "facebookUserId": "100026934466149",
+    "memberUserId": "",
+    "memberPhone": "01926825545",
+    "memberTrxId": "066abf74-16b3-4d87-82f0-7eb93029e98d",
+    "memberQA": {
+      "তোমার নাম": "PRITOM SHARMA",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01926825545",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "066abf74-16b3-4d87-82f0-7eb93029e98d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:33:18.457Z",
+    "date": "1/17/2026, 6:33:18 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Saima Akter Habiba",
+    "facebookUserId": "100089387962197",
+    "memberUserId": "",
+    "memberPhone": "01755389959",
+    "memberTrxId": "de37c129-89ce-4e66-b947-cb56df500bca",
+    "memberQA": {
+      "তোমার নাম": "Rahima Akter Lipi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01755389959",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "de37c129-89ce-4e66-b947-cb56df500bca"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

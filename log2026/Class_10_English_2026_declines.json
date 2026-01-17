@@ -215,5 +215,22 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T11:51:16.980Z",
+    "date": "1/17/2026, 5:51:16 PM",
+    "className": "Class 10 English (2026)",
+    "memberName": "Abdul Húq Safi Bajnis",
+    "facebookUserId": "100088148592069",
+    "memberUserId": "",
+    "memberPhone": "01911806074",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Fariha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01911806074"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -1183,25 +1183,12 @@ async function scrapeMemberRequests(page, className = null) {
                 }
               } catch (dbError) {
                 console.error("❌ Database error during payment check:", dbError.message);
-                console.log("❌ Declining member due to database error");
-                const dbErrorMessage = config.DECLINE_DATABASE_ERROR;
-                addLogMessage(`❌ DB ERROR: ${memberName}`, className);
-                await showToast(page, `❌ DB ERROR: ${memberName}`, 'error', className);
+                console.log("❌ Terminating execution due to database error");
+                addLogMessage(`❌ DB ERROR: ${memberName} - Terminating execution`, className);
+                await showToast(page, `❌ DB ERROR: Terminating execution`, 'error', className);
                 
-                // Update member data for database error
-                memberData.approvalStatus = 'database_error';
-                memberData.declineReason = dbErrorMessage;
-                
-                // Save member data to database
-                await saveMemberProcessingData(page, memberData, className);
-                
-                // Log decline to JSON file
-                const dbErrorClassName = isMultiTabMode && className ? className : config.SELECTED_CLASS;
-                if (dbErrorClassName) {
-                  logDeclineToJSON(dbErrorClassName, memberData);
-                }
-                
-                await declineMember(page, memberRequests[i], dbErrorMessage, className);
+                // Terminate execution - return early from function
+                return { error: true, message: 'Database error - execution terminated' };
               }
             } else {
               console.log("❌ Missing transaction ID or phone number - DECLINING");

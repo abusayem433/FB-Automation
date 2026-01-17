@@ -416,5 +416,58 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:44:16.881Z",
+    "date": "1/17/2026, 6:44:16 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Madhabi Purohit",
+    "facebookUserId": "100026934466149",
+    "memberUserId": "",
+    "memberPhone": "01926825545",
+    "memberTrxId": "066abf74-16b3-4d87-82f0-7eb93029e98d",
+    "memberQA": {
+      "তোমার নাম": "PRITOM SHARMA",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01926825545",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "066abf74-16b3-4d87-82f0-7eb93029e98d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:45:06.545Z",
+    "date": "1/17/2026, 6:45:06 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "U　J　J　 A　L　ツ",
+    "facebookUserId": "100064357563499",
+    "memberUserId": "",
+    "memberPhone": "01560053572",
+    "memberTrxId": "d7386287-2529-4da2-9056-1394625e6dacd7386287-2529-4da2-9056-1394625e6dac",
+    "memberQA": {
+      "তোমার নাম": "Angkon Roy",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01560053572",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d7386287-2529-4da2-9056-1394625e6dacd7386287-2529-4da2-9056-1394625e6dac"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:46:19.838Z",
+    "date": "1/17/2026, 6:46:19 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Nusaiba Jahin",
+    "facebookUserId": "100070970298696",
+    "memberUserId": "",
+    "memberPhone": "01917946250",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "lubaba jafna4",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01917946250"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -685,5 +685,40 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T11:57:43.683Z",
+    "date": "1/17/2026, 5:57:43 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Shamima Yesmin Mitu",
+    "facebookUserId": "100028639203170",
+    "memberUserId": "",
+    "memberPhone": "01978836607",
+    "memberTrxId": "99724",
+    "memberQA": {
+      "তোমার নাম": "Apon(Charter accountant)",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01978836607",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "99724"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T11:58:10.448Z",
+    "date": "1/17/2026, 5:58:10 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Sana Ullah",
+    "facebookUserId": "61585877391929",
+    "memberUserId": "",
+    "memberPhone": "01845933108",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "সোমাইয়া আক্তার জান্নাতি",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01845933108"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

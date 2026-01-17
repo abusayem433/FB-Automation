@@ -491,5 +491,90 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:05:34.799Z",
+    "date": "1/17/2026, 6:05:34 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Sonia Akter",
+    "facebookUserId": "100054642063010",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Fatima Rahaman Safa"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:06:59.179Z",
+    "date": "1/17/2026, 6:06:59 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Ashraful Haque",
+    "facebookUserId": "61577631566486",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Ashraful Haque"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:07:47.839Z",
+    "date": "1/17/2026, 6:07:47 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Ayesha Rahman",
+    "facebookUserId": "100046541703034",
+    "memberUserId": "",
+    "memberPhone": "01407531913",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Siamur Rahman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01407531913"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:08:42.041Z",
+    "date": "1/17/2026, 6:08:42 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Bably Chakraborty",
+    "facebookUserId": "100080315813823",
+    "memberUserId": "",
+    "memberPhone": "01716425805",
+    "memberTrxId": "921e",
+    "memberQA": {
+      "তোমার নাম": "dipannita parial",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01716425805",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "921e"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:09:09.301Z",
+    "date": "1/17/2026, 6:09:09 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Poritosh Sarkar",
+    "facebookUserId": "61581948128737",
+    "memberUserId": "",
+    "memberPhone": "01825723740",
+    "memberTrxId": "112233",
+    "memberQA": {
+      "তোমার নাম": "Sorna sarkar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01825723740",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "112233"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

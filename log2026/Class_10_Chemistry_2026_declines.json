@@ -186,5 +186,22 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T11:48:41.333Z",
+    "date": "1/17/2026, 5:48:41 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Suhaib Adnan",
+    "facebookUserId": "100071183888874",
+    "memberUserId": "",
+    "memberPhone": "7993893c-c6a3-4694-bbcd-10e691816edb",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01959519225",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7993893c-c6a3-4694-bbcd-10e691816edb"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -196,5 +196,95 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:40:48.135Z",
+    "date": "1/17/2026, 6:40:48 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Taniza Rahman",
+    "facebookUserId": "1645344891",
+    "memberUserId": "1645344891",
+    "memberPhone": "01715430275",
+    "memberTrxId": "4a5ae816-3650-4e22-a94c-2eb85bed9c05",
+    "memberQA": {
+      "তোমার নাম": "Raifah Rahman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01715430275",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "4a5ae816-3650-4e22-a94c-2eb85bed9c05"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:40:58.911Z",
+    "date": "1/17/2026, 6:40:58 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Ismotara Khatun",
+    "facebookUserId": "100025653110252",
+    "memberUserId": "100025653110252",
+    "memberPhone": "01989637447",
+    "memberTrxId": "06592ee4-c8f9-46b1-870a-f47c271939ea",
+    "memberQA": {
+      "তোমার নাম": "Kaji Tasniya Alim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01989637447",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "06592ee4-c8f9-46b1-870a-f47c271939ea"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:41:09.626Z",
+    "date": "1/17/2026, 6:41:09 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Lima Khan",
+    "facebookUserId": "100082133815639",
+    "memberUserId": "100082133815639",
+    "memberPhone": "01731348638",
+    "memberTrxId": "92a34c6f-a4a5-4178-9f31-f59b57ca7a0d",
+    "memberQA": {
+      "তোমার নাম": "Nusrat Jahan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01731348638",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "92a34c6f-a4a5-4178-9f31-f59b57ca7a0d"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:41:20.320Z",
+    "date": "1/17/2026, 6:41:20 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "S B Shefa",
+    "facebookUserId": "100086887988072",
+    "memberUserId": "100086887988072",
+    "memberPhone": "01712798036",
+    "memberTrxId": "25bc9d23-5fa3-4303-9f4b-0d3a2eeb1abd",
+    "memberQA": {
+      "তোমার নাম": "Angkita",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01712798036",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "25bc9d23-5fa3-4303-9f4b-0d3a2eeb1abd"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:41:36.360Z",
+    "date": "1/17/2026, 6:41:36 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Maharunnesa Chowdhury Maharunnesa Chowdhury",
+    "facebookUserId": "100032452191881",
+    "memberUserId": "100032452191881",
+    "memberPhone": "01690100312",
+    "memberTrxId": "066b7f42-b99a-4fcc-9857-991771fc3c1a",
+    "memberQA": {
+      "তোমার নাম": "Marjyn",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01690100312",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "066b7f42-b99a-4fcc-9857-991771fc3c1a"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

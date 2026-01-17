@@ -144,5 +144,41 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:47:23.744Z",
+    "date": "1/17/2026, 6:47:23 PM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Madhabi Purohit",
+    "facebookUserId": "100026934466149",
+    "memberUserId": "",
+    "memberPhone": "01926825545",
+    "memberTrxId": "066abf74-16b3-4d87-82f0-7eb93029e98d",
+    "memberQA": {
+      "তোমার নাম": "PRITOM SHARMA",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01926825545",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "066abf74-16b3-4d87-82f0-7eb93029e98d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:48:23.193Z",
+    "date": "1/17/2026, 6:48:23 PM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Arpon Kumar",
+    "facebookUserId": "100094069101782",
+    "memberUserId": "",
+    "memberPhone": "01719166045",
+    "memberTrxId": "201060",
+    "memberQA": {
+      "তোমার নাম": "arpon",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01719166045",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "201060"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

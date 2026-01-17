@@ -118,5 +118,41 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:42:15.989Z",
+    "date": "1/17/2026, 6:42:15 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Madhabi Purohit",
+    "facebookUserId": "100026934466149",
+    "memberUserId": "",
+    "memberPhone": "01926825545",
+    "memberTrxId": "066abf74-16b3-4d87-82f0-7eb93029e98d",
+    "memberQA": {
+      "তোমার নাম": "PRITOM SHARMA",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01926825545",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "066abf74-16b3-4d87-82f0-7eb93029e98d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:42:43.044Z",
+    "date": "1/17/2026, 6:42:43 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Jidni Niam",
+    "facebookUserId": "61586647703115",
+    "memberUserId": "",
+    "memberPhone": "01745765971",
+    "memberTrxId": "78bb4d6a-c8ee-40d8-8e32-f328b4b1df0c",
+    "memberQA": {
+      "তোমার নাম": "jidni Naim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01745765971",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "78bb4d6a-c8ee-40d8-8e32-f328b4b1df0c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

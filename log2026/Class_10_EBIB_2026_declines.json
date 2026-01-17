@@ -112,5 +112,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T11:50:16.356Z",
+    "date": "1/17/2026, 5:50:16 PM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Abdul Khalek",
+    "facebookUserId": "100010439865573",
+    "memberUserId": "",
+    "memberPhone": "01743895693",
+    "memberTrxId": "DAG276CPV6",
+    "memberQA": {
+      "তোমার নাম": "Ayesha Tasnin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01743895693",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAG276CPV6"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

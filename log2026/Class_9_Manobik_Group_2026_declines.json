@@ -101,5 +101,21 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T12:41:25.653Z",
+    "date": "1/17/2026, 6:41:25 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Halima Khatun",
+    "facebookUserId": "100090422084401",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Borsha Lota"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]
