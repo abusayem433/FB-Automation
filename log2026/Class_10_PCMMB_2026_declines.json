@@ -1288,5 +1288,23 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T05:44:55.348Z",
+    "date": "1/17/2026, 11:44:55 AM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Bithy Khatun",
+    "facebookUserId": "100008367518252",
+    "memberUserId": "",
+    "memberPhone": "০১৭২৮৬৮৯৫৯৩",
+    "memberTrxId": "501a8403-d712-4014-ad9c-bc7f46a",
+    "memberQA": {
+      "তোমার নাম": "জুবাইদা রাসেল জয়া",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৭২৮৬৮৯৫৯৩",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "501a8403-d712-4014-ad9c-bc7f46a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

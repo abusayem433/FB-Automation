@@ -149,5 +149,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T06:02:34.261Z",
+    "date": "1/17/2026, 12:02:34 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Rahima Khanom",
+    "facebookUserId": "100065019450150",
+    "memberUserId": "",
+    "memberPhone": "01703187260",
+    "memberTrxId": "da6e7f67-9445-4cd0-9fa8-cb43e33f578c",
+    "memberQA": {
+      "তোমার নাম": "Fatima Jahan Tasmim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01703187260",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "da6e7f67-9445-4cd0-9fa8-cb43e33f578c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

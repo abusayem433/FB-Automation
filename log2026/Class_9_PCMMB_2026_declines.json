@@ -328,5 +328,57 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T06:05:11.372Z",
+    "date": "1/17/2026, 12:05:11 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Sajid Mahamud",
+    "facebookUserId": "61586891000531",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "সাজিদ মাহমুদ সিজান"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T06:05:16.942Z",
+    "date": "1/17/2026, 12:05:16 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Farzana Naznin",
+    "facebookUserId": "100027284212685",
+    "memberUserId": "",
+    "memberPhone": "01713164758",
+    "memberTrxId": "d26f700e-289c-4452-8ecb-902359683bfe",
+    "memberQA": {
+      "তোমার নাম": "Fadilah Ibnat Naveen",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01713164758",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d26f700e-289c-4452-8ecb-902359683bfe"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T06:05:54.763Z",
+    "date": "1/17/2026, 12:05:54 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "فضل نور سامي",
+    "facebookUserId": "61572463685881",
+    "memberUserId": "",
+    "memberPhone": "01644161797",
+    "memberTrxId": "74U45Q5I",
+    "memberQA": {
+      "তোমার নাম": "M.Fojle Nur Sami Rahman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01644161797",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "74U45Q5I"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

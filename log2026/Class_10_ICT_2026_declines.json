@@ -153,5 +153,40 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T05:41:16.344Z",
+    "date": "1/17/2026, 11:41:16 AM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Santona Begum",
+    "facebookUserId": "61563916121787",
+    "memberUserId": "",
+    "memberPhone": "01723523064",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "sazzad",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01723523064"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T05:41:32.447Z",
+    "date": "1/17/2026, 11:41:32 AM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Papia Dey",
+    "facebookUserId": "100031672757324",
+    "memberUserId": "",
+    "memberPhone": "01718321625",
+    "memberTrxId": "123456",
+    "memberQA": {
+      "তোমার নাম": "Rishiraj Das Gupta",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718321625",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "123456"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

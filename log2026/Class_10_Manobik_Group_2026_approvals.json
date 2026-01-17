@@ -790,5 +790,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T05:42:27.500Z",
+    "date": "1/17/2026, 11:42:27 AM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Labib Hasan",
+    "facebookUserId": "100063026948513",
+    "memberUserId": "100063026948513",
+    "memberPhone": "01608428064",
+    "memberTrxId": "a19389f6-3508-4757-ad14-7d31f3852d2b",
+    "memberQA": {
+      "তোমার নাম": "Labib Nur",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01608428064",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a19389f6-3508-4757-ad14-7d31f3852d2b"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

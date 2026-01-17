@@ -448,5 +448,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T05:41:26.962Z",
+    "date": "1/17/2026, 11:41:26 AM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Avik Saha",
+    "facebookUserId": "100082301294351",
+    "memberUserId": "100082301294351",
+    "memberPhone": "01711347288",
+    "memberTrxId": "a1fbebd2-1fb6-4a84-b13c-20badc83f3aa",
+    "memberQA": {
+      "তোমার নাম": "Avik saha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711347288",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a1fbebd2-1fb6-4a84-b13c-20badc83f3aa"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

@@ -168,5 +168,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T05:37:09.602Z",
+    "date": "1/17/2026, 11:37:09 AM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Papia Dey",
+    "facebookUserId": "100031672757324",
+    "memberUserId": "",
+    "memberPhone": "01718321625",
+    "memberTrxId": "123456",
+    "memberQA": {
+      "তোমার নাম": "Rishiraj Das Gupta",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718321625",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "123456"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

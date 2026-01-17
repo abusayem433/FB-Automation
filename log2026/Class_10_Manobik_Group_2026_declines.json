@@ -580,5 +580,39 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T05:42:11.308Z",
+    "date": "1/17/2026, 11:42:11 AM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Ayma Binte Imam",
+    "facebookUserId": "100080813907700",
+    "memberUserId": "",
+    "memberPhone": "01888137901",
+    "memberTrxId": "DA15NMCTBX",
+    "memberQA": {
+      "তোমার নাম": "Aemmah Binte Imam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01888137901",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DA15NMCTBX"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T05:42:16.666Z",
+    "date": "1/17/2026, 11:42:16 AM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Suraya Jabin",
+    "facebookUserId": "100042852782235",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "মোঃ হাদী উজ জামান"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

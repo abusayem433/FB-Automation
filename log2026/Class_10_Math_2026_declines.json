@@ -582,5 +582,75 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T05:43:16.990Z",
+    "date": "1/17/2026, 11:43:16 AM",
+    "className": "Class 10 Math (2026)",
+    "memberName": "Saqlain Ahamed",
+    "facebookUserId": "61551118141684",
+    "memberUserId": "",
+    "memberPhone": "01717048749",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Siam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01717048749"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T05:43:22.435Z",
+    "date": "1/17/2026, 11:43:22 AM",
+    "className": "Class 10 Math (2026)",
+    "memberName": "Apurbo Bormon Antor",
+    "facebookUserId": "61586820681510",
+    "memberUserId": "",
+    "memberPhone": "01752759771",
+    "memberTrxId": "f580fbac-cde1-4f0e-99ca-4c0a6907ea89",
+    "memberQA": {
+      "তোমার নাম": "Apurbo Bormon Antor",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01752759771",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f580fbac-cde1-4f0e-99ca-4c0a6907ea89"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T05:43:38.589Z",
+    "date": "1/17/2026, 11:43:38 AM",
+    "className": "Class 10 Math (2026)",
+    "memberName": "Papia Dey",
+    "facebookUserId": "100031672757324",
+    "memberUserId": "",
+    "memberPhone": "01718321625",
+    "memberTrxId": "123456",
+    "memberQA": {
+      "তোমার নাম": "Rishiraj Das Gupta",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718321625",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "123456"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T05:43:54.579Z",
+    "date": "1/17/2026, 11:43:54 AM",
+    "className": "Class 10 Math (2026)",
+    "memberName": "Sabiha Moni",
+    "facebookUserId": "61566784864901",
+    "memberUserId": "",
+    "memberPhone": "01746359595",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sadia Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01746359595"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

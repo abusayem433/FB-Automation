@@ -287,5 +287,59 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T05:22:55.191Z",
+    "date": "1/17/2026, 11:22:55 AM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Papia Dey",
+    "facebookUserId": "100031672757324",
+    "memberUserId": "",
+    "memberPhone": "01718321625",
+    "memberTrxId": "123456",
+    "memberQA": {
+      "তোমার নাম": "Rishiraj Das Gupta",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718321625",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "123456"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T05:23:13.319Z",
+    "date": "1/17/2026, 11:23:13 AM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Papia Dey",
+    "facebookUserId": "100031672757324",
+    "memberUserId": "",
+    "memberPhone": "01718321625",
+    "memberTrxId": "123456",
+    "memberQA": {
+      "তোমার নাম": "Rishiraj Das Gupta",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718321625",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "123456"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T05:34:18.904Z",
+    "date": "1/17/2026, 11:34:18 AM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Papia Dey",
+    "facebookUserId": "100031672757324",
+    "memberUserId": "",
+    "memberPhone": "01718321625",
+    "memberTrxId": "123456",
+    "memberQA": {
+      "তোমার নাম": "Rishiraj Das Gupta",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718321625",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "123456"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]
