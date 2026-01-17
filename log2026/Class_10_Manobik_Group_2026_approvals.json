@@ -952,5 +952,95 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:25:47.043Z",
+    "date": "1/17/2026, 7:25:47 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Al Abid",
+    "facebookUserId": "100049207081410",
+    "memberUserId": "100049207081410",
+    "memberPhone": "01729655576",
+    "memberTrxId": "183a29f0-d9a4-4c4e-af4e-1efbc174883a",
+    "memberQA": {
+      "তোমার নাম": "মোঃ আল আবিদ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01729655576",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "183a29f0-d9a4-4c4e-af4e-1efbc174883a"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:26:03.545Z",
+    "date": "1/17/2026, 7:26:03 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Sumaiya Jannat",
+    "facebookUserId": "61585530748304",
+    "memberUserId": "61585530748304",
+    "memberPhone": "01317604435",
+    "memberTrxId": "909bec8e-6e51-4e60-be9e-0cf0d8a26085",
+    "memberQA": {
+      "তোমার নাম": "Sumaiya Jannat Fahima",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01317604435",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "909bec8e-6e51-4e60-be9e-0cf0d8a26085"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:26:14.410Z",
+    "date": "1/17/2026, 7:26:14 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Ela Moni",
+    "facebookUserId": "100035196181416",
+    "memberUserId": "100035196181416",
+    "memberPhone": "01793680124",
+    "memberTrxId": "096b8c07-f8f8-4a8c-9875-645ec505a42d",
+    "memberQA": {
+      "তোমার নাম": "Sinthiya Rahman Sinha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01793680124",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "096b8c07-f8f8-4a8c-9875-645ec505a42d"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:26:31.131Z",
+    "date": "1/17/2026, 7:26:31 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Samapti Saha",
+    "facebookUserId": "61581637264863",
+    "memberUserId": "61581637264863",
+    "memberPhone": "01400642950",
+    "memberTrxId": "df638f31-40c7-4989-bf41-b81d90b220ea",
+    "memberQA": {
+      "তোমার নাম": "সমাপ্তি সাহা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01400642950",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "df638f31-40c7-4989-bf41-b81d90b220ea"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:26:47.624Z",
+    "date": "1/17/2026, 7:26:47 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Nure Jannat Kotowal",
+    "facebookUserId": "100015687156596",
+    "memberUserId": "100015687156596",
+    "memberPhone": "01917662914",
+    "memberTrxId": "9ec2ca48-5398-4963-8644-8ea83d76db0e",
+    "memberQA": {
+      "তোমার নাম": "Nure Jannat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01917662914",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "9ec2ca48-5398-4963-8644-8ea83d76db0e"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

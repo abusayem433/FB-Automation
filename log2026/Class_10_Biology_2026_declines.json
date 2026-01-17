@@ -204,5 +204,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:17:49.163Z",
+    "date": "1/17/2026, 7:17:49 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Moazzema Khatun",
+    "facebookUserId": "61558800555006",
+    "memberUserId": "",
+    "memberPhone": "01727475284",
+    "memberTrxId": "e5a3e5bd-8377-445c-b39c-145690a490bc",
+    "memberQA": {
+      "তোমার নাম": "Barira Tabassum",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01727475284",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e5a3e5bd-8377-445c-b39c-145690a490bc"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

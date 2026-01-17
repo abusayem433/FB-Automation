@@ -412,5 +412,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:15:26.931Z",
+    "date": "1/17/2026, 7:15:26 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Shakhawat Hossain",
+    "facebookUserId": "1375855892",
+    "memberUserId": "1375855892",
+    "memberPhone": "01621822752",
+    "memberTrxId": "cdc1c659-e941-43ff-a7b9-6f3df054eec8",
+    "memberQA": {
+      "তোমার নাম": "junaira shamim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01621822752",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cdc1c659-e941-43ff-a7b9-6f3df054eec8"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

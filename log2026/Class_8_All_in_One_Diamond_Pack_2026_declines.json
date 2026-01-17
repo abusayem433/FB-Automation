@@ -1431,5 +1431,112 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:39:54.684Z",
+    "date": "1/17/2026, 7:39:54 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Saleyha Khatun",
+    "facebookUserId": "61576361872440",
+    "memberUserId": "",
+    "memberPhone": "01731008514",
+    "memberTrxId": "6fd71bcb-df7e-4fb0-b0c7-c31e5e95aecb",
+    "memberQA": {
+      "তোমার নাম": "ওমর খৈয়াম",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01731008514",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6fd71bcb-df7e-4fb0-b0c7-c31e5e95aecb"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:40:21.542Z",
+    "date": "1/17/2026, 7:40:21 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Sumaya Akter",
+    "facebookUserId": "100054642912437",
+    "memberUserId": "",
+    "memberPhone": "০১৭৯৭৭৯৪৩৭৮",
+    "memberTrxId": "sumaya Akter",
+    "memberQA": {
+      "তোমার নাম": "সুমাইয়া আক্তার",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৭৯৭৭৯৪৩৭৮",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "sumaya Akter"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:40:48.135Z",
+    "date": "1/17/2026, 7:40:48 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Shahidur Rahman Rupam",
+    "facebookUserId": "100003017356575",
+    "memberUserId": "",
+    "memberPhone": "01717294686",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Raifa Rahman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01717294686"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:41:25.535Z",
+    "date": "1/17/2026, 7:41:25 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Ajay Kumar Biswas",
+    "facebookUserId": "100035577813824",
+    "memberUserId": "",
+    "memberPhone": "01789018645",
+    "memberTrxId": "200431",
+    "memberQA": {
+      "তোমার নাম": "Himidri Biswas",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01789018645",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "200431"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:41:52.324Z",
+    "date": "1/17/2026, 7:41:52 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Abrar Fayaz",
+    "facebookUserId": "61584622124324",
+    "memberUserId": "",
+    "memberPhone": "01930131899",
+    "memberTrxId": "d4989f47-1c6b-4443-9ea9-5f9c1432358e",
+    "memberQA": {
+      "তোমার নাম": "Abrar Fayaj",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01930131899",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d4989f47-1c6b-4443-9ea9-5f9c1432358e"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:41:57.782Z",
+    "date": "1/17/2026, 7:41:57 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Antora Haque",
+    "facebookUserId": "100076964867446",
+    "memberUserId": "",
+    "memberPhone": "01746231601",
+    "memberTrxId": "e4ebee54-451b-40ba-ad35-69c52e2b318",
+    "memberQA": {
+      "তোমার নাম": "Tasnia Haque",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01746231601",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e4ebee54-451b-40ba-ad35-69c52e2b318"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

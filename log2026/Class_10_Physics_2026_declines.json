@@ -576,5 +576,41 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:33:15.743Z",
+    "date": "1/17/2026, 7:33:15 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Dipa Islam",
+    "facebookUserId": "100022724627392",
+    "memberUserId": "",
+    "memberPhone": "01629297244",
+    "memberTrxId": "945776bf-68d6-4640-a311-9e1fb92a5ee",
+    "memberQA": {
+      "তোমার নাম": "Raisa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01629297244",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "945776bf-68d6-4640-a311-9e1fb92a5ee"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:34:04.443Z",
+    "date": "1/17/2026, 7:34:04 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Moazzema Khatun",
+    "facebookUserId": "61558800555006",
+    "memberUserId": "",
+    "memberPhone": "01727475284",
+    "memberTrxId": "Cae31cf1-e71c-41b0-88oa-c188783b2aa7",
+    "memberQA": {
+      "তোমার নাম": "Barira Tabassum",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01727475284",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Cae31cf1-e71c-41b0-88oa-c188783b2aa7"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -304,5 +304,41 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:20:16.383Z",
+    "date": "1/17/2026, 7:20:16 PM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Syeda Tania Khatun",
+    "facebookUserId": "100035497264984",
+    "memberUserId": "100035497264984",
+    "memberPhone": "01305464822",
+    "memberTrxId": "8e076aa4-a31b-4aa4-996d-c68da17b2f7c",
+    "memberQA": {
+      "তোমার নাম": "Noshin Anika",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01305464822",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8e076aa4-a31b-4aa4-996d-c68da17b2f7c"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:20:27.125Z",
+    "date": "1/17/2026, 7:20:27 PM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Israt Israt",
+    "facebookUserId": "100065510974821",
+    "memberUserId": "100065510974821",
+    "memberPhone": "01890284742",
+    "memberTrxId": "174a2463-76a2-4c63-9ff5-941ce47f0988",
+    "memberQA": {
+      "তোমার নাম": "Safwat Sajid",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01890284742",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "174a2463-76a2-4c63-9ff5-941ce47f0988"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

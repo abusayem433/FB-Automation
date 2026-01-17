@@ -100,5 +100,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:50:29.306Z",
+    "date": "1/17/2026, 7:50:29 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Lima Khan",
+    "facebookUserId": "100082133815639",
+    "memberUserId": "",
+    "memberPhone": "01731348638",
+    "memberTrxId": "92a34c6f-a4a5-4178-9f31-f59b57ca7a0d",
+    "memberQA": {
+      "তোমার নাম": "Nusrat Jahan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01731348638",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "92a34c6f-a4a5-4178-9f31-f59b57ca7a0d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

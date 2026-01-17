@@ -359,5 +359,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:14:20.120Z",
+    "date": "1/17/2026, 7:14:20 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "H M Zafar Ullah",
+    "facebookUserId": "100006285764038",
+    "memberUserId": "",
+    "memberPhone": "01923018187",
+    "memberTrxId": "66af981c-9eea-499b-a859-d92f4aed6af5",
+    "memberQA": {
+      "তোমার নাম": "Jarif Ibn Zafar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01923018187",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "66af981c-9eea-499b-a859-d92f4aed6af5"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

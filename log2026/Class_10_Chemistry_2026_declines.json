@@ -203,5 +203,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:19:21.592Z",
+    "date": "1/17/2026, 7:19:21 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Dipa Islam",
+    "facebookUserId": "100022724627392",
+    "memberUserId": "",
+    "memberPhone": "01629297244",
+    "memberTrxId": "24e0de8a-daa7-4bae-b40a-dcb4d972cef",
+    "memberQA": {
+      "তোমার নাম": "Riasa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01629297244",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "24e0de8a-daa7-4bae-b40a-dcb4d972cef"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

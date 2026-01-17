@@ -639,5 +639,58 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:38:07.024Z",
+    "date": "1/17/2026, 7:38:07 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Jalal Ahmmed",
+    "facebookUserId": "100047234473432",
+    "memberUserId": "",
+    "memberPhone": "01716470519",
+    "memberTrxId": "4996530e-4e97-4dcc-a9ca-ddd55d363e0d",
+    "memberQA": {
+      "তোমার নাম": "তাফান্নুম আহাম্মদ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01716470519",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "4996530e-4e97-4dcc-a9ca-ddd55d363e0d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:38:23.327Z",
+    "date": "1/17/2026, 7:38:23 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Faisal Ahmed",
+    "facebookUserId": "100002369253844",
+    "memberUserId": "",
+    "memberPhone": "017187590000",
+    "memberTrxId": "Transaction ID\n17455432-25e3-4cbd-80a5-126aca90c15b",
+    "memberQA": {
+      "তোমার নাম": "Radwa Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "017187590000",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Transaction ID\n17455432-25e3-4cbd-80a5-126aca90c15b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:39:13.935Z",
+    "date": "1/17/2026, 7:39:13 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Sayeda Jainab Rukhsana Rukhsana",
+    "facebookUserId": "100026766540987",
+    "memberUserId": "",
+    "memberPhone": "01829733748",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "sayeda Jainab Rukhsana",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01829733748"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

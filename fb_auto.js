@@ -16,6 +16,9 @@ let logMessages = [];
 // Multi-tab tracking system
 let tabData = new Map(); // Map to store data for each tab (className -> {page, currentCount, totalMembers, logMessages})
 let isMultiTabMode = false;
+// Multi-class group completion tracking
+let completedClasses = 0;
+let totalClasses = 0;
 
 // JSON Logging Functions
 // Function to get logs directory based on year
@@ -540,16 +543,17 @@ async function showToast(page, message, type = 'info', className = null) {
     });
 
     // Update toast content
-    await page.evaluate(({ msg, msgType, progress, total, logs, className, isMultiTab }) => {
+    await page.evaluate(({ msg, msgType, progress, total, logs, className, isMultiTab, completedGroups, totalGroups }) => {
       const toast = document.getElementById('fb-automation-toast');
       if (toast) {
         const timestamp = new Date().toLocaleTimeString();
         const progressText = total > 0 ? `Processing ${progress}/${total}` : 'Processing...';
         const classText = isMultiTab && className ? ` - ${className}` : '';
+        const groupStatusText = isMultiTab && totalGroups > 0 ? ` | Groups: ${completedGroups}/${totalGroups} completed` : '';
         
         toast.innerHTML = `
           <div style="font-weight: bold; margin-bottom: 8px; font-size: 16px;">
-            🤖 FB Automation${classText} - ${progressText}
+            🤖 FB Automation${classText} - ${progressText}${groupStatusText}
           </div>
           <div style="margin-bottom: 8px; font-size: 15px; color: ${msgType === 'error' ? '#ff6b6b' : msgType === 'success' ? '#51cf66' : '#74c0fc'};">
             ${msg}
@@ -579,7 +583,9 @@ async function showToast(page, message, type = 'info', className = null) {
       total: total, 
       logs: logs,
       className: className,
-      isMultiTab: isMultiTabMode
+      isMultiTab: isMultiTabMode,
+      completedGroups: completedClasses,
+      totalGroups: totalClasses
     });
 
   } catch (error) {
@@ -1393,6 +1399,10 @@ async function startMultiClassAutomation(context, chromePath, userDataDir, profi
         return classConfig.GROUP_URL && classConfig.ELIGIBLE_PRODUCT_IDS.length > 0;
       });
   
+  // Initialize group completion tracking
+  totalClasses = configuredClasses.length;
+  completedClasses = 0;
+  
   console.log(`📋 Processing ${configuredClasses.length} configured classes:`);
   configuredClasses.forEach(className => {
     console.log(`  - ${className}`);
@@ -1426,6 +1436,10 @@ async function startMultiClassAutomation(context, chromePath, userDataDir, profi
       // Run automation loop for this class and WAIT until it finishes (auto-quit closes the tab)
       await startClassAutomationLoop(page, className);
       console.log(`🏁 Finished: ${className}`);
+      
+      // Update completed classes count
+      completedClasses++;
+      console.log(`📊 Progress: ${completedClasses}/${totalClasses} groups completed`);
       
       // Small delay before moving to next class
       await new Promise(resolve => setTimeout(resolve, config.getWaitTime(config.CLASS_SWITCH_WAIT)));

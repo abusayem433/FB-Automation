@@ -224,5 +224,22 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T13:24:54.802Z",
+    "date": "1/17/2026, 7:24:54 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "MD Rähåt Islam",
+    "facebookUserId": "100078697459317",
+    "memberUserId": "",
+    "memberPhone": "01725788400\nd8643ce2-1c55-4b28-b76e-be237c2f982e",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Rahat Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01725788400\nd8643ce2-1c55-4b28-b76e-be237c2f982e"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]
