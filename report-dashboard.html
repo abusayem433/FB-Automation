@@ -44,34 +44,6 @@
             font-size: 1.1em;
         }
 
-        .year-selector {
-            display: flex;
-            gap: 15px;
-            justify-content: center;
-            margin-top: 20px;
-        }
-
-        .year-btn {
-            padding: 12px 30px;
-            background: #667eea;
-            color: white;
-            border: none;
-            border-radius: 8px;
-            cursor: pointer;
-            font-size: 1em;
-            font-weight: 600;
-            transition: all 0.3s;
-        }
-
-        .year-btn:hover {
-            background: #5568d3;
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-        }
-
-        .year-btn.active {
-            background: #764ba2;
-        }
 
         .stats-grid {
             display: grid;
@@ -245,12 +217,7 @@
     <div class="container">
         <div class="header">
             <h1>📊 FB Automation Dashboard</h1>
-            <p>Summary Reports Visualization</p>
-            <div class="year-selector">
-                <button class="year-btn" onclick="loadReport(2025)">2025</button>
-                <button class="year-btn active" onclick="loadReport(2026)">2026</button>
-                <button class="year-btn" onclick="loadAllReports()">All Years</button>
-            </div>
+            <p>Summary Reports Visualization - 2026</p>
         </div>
 
         <div id="content">
@@ -260,145 +227,22 @@
 
     <script>
         let charts = [];
-        let currentYear = 2026;
 
-        async function loadReport(year) {
-            currentYear = year;
-            updateYearButtons();
-            
+        async function loadReport() {
             try {
-                const response = await fetch(`log${year}/report.json`);
+                const response = await fetch('log2026/report.json');
                 if (!response.ok) throw new Error('Report not found');
                 
                 const report = await response.json();
-                displayReport(report, year);
+                displayReport(report, 2026);
             } catch (error) {
                 document.getElementById('content').innerHTML = `
                     <div class="error">
-                        ❌ Error loading report for ${year}: ${error.message}
+                        ❌ Error loading report for 2026: ${error.message}
                         <br><small>Make sure you're opening this file from the project directory</small>
                     </div>
                 `;
             }
-        }
-
-        async function loadAllReports() {
-            currentYear = 'all';
-            updateYearButtons();
-            
-            try {
-                const [report2025, report2026] = await Promise.all([
-                    fetch('log2025/report.json').then(r => r.ok ? r.json() : null).catch(() => null),
-                    fetch('log2026/report.json').then(r => r.ok ? r.json() : null).catch(() => null)
-                ]);
-
-                const combinedReport = combineReports(report2025, report2026);
-                displayReport(combinedReport, 'All Years');
-            } catch (error) {
-                document.getElementById('content').innerHTML = `
-                    <div class="error">
-                        ❌ Error loading reports: ${error.message}
-                    </div>
-                `;
-            }
-        }
-
-        function combineReports(report2025, report2026) {
-            const combined = {
-                generatedAt: new Date().toISOString(),
-                generatedDate: new Date().toLocaleString(),
-                summary: {
-                    totalApprovals: 0,
-                    totalDeclines: 0,
-                    totalProcessed: 0
-                },
-                byClass: {},
-                byDate: {},
-                declineReasons: {},
-                overallStats: {
-                    approvalRate: 0,
-                    declineRate: 0
-                }
-            };
-
-            [report2025, report2026].forEach(report => {
-                if (!report) return;
-                
-                combined.summary.totalApprovals += report.summary.totalApprovals || 0;
-                combined.summary.totalDeclines += report.summary.totalDeclines || 0;
-                combined.summary.totalProcessed += report.summary.totalProcessed || 0;
-
-                Object.keys(report.byClass || {}).forEach(className => {
-                    if (!combined.byClass[className]) {
-                        combined.byClass[className] = {
-                            approvals: 0,
-                            declines: 0,
-                            total: 0,
-                            declineReasons: {}
-                        };
-                    }
-                    combined.byClass[className].approvals += report.byClass[className].approvals || 0;
-                    combined.byClass[className].declines += report.byClass[className].declines || 0;
-                    combined.byClass[className].total += (report.byClass[className].approvals || 0) + (report.byClass[className].declines || 0);
-
-                    Object.keys(report.byClass[className].declineReasons || {}).forEach(reason => {
-                        if (!combined.byClass[className].declineReasons[reason]) {
-                            combined.byClass[className].declineReasons[reason] = 0;
-                        }
-                        combined.byClass[className].declineReasons[reason] += report.byClass[className].declineReasons[reason] || 0;
-                    });
-                });
-
-                Object.keys(report.declineReasons || {}).forEach(reason => {
-                    if (!combined.declineReasons[reason]) {
-                        combined.declineReasons[reason] = 0;
-                    }
-                    combined.declineReasons[reason] += report.declineReasons[reason] || 0;
-                });
-
-                // Combine date-wise data
-                Object.keys(report.byDate || {}).forEach(date => {
-                    if (!combined.byDate[date]) {
-                        combined.byDate[date] = {
-                            approvals: 0,
-                            declines: 0,
-                            total: 0,
-                            byClass: {}
-                        };
-                    }
-                    combined.byDate[date].approvals += report.byDate[date].approvals || 0;
-                    combined.byDate[date].declines += report.byDate[date].declines || 0;
-                    combined.byDate[date].total += report.byDate[date].total || 0;
-
-                    // Combine by class for each date
-                    Object.keys(report.byDate[date].byClass || {}).forEach(className => {
-                        if (!combined.byDate[date].byClass[className]) {
-                            combined.byDate[date].byClass[className] = {
-                                approvals: 0,
-                                declines: 0,
-                                total: 0
-                            };
-                        }
-                        combined.byDate[date].byClass[className].approvals += report.byDate[date].byClass[className].approvals || 0;
-                        combined.byDate[date].byClass[className].declines += report.byDate[date].byClass[className].declines || 0;
-                        combined.byDate[date].byClass[className].total += report.byDate[date].byClass[className].total || 0;
-                    });
-                });
-            });
-
-            if (combined.summary.totalProcessed > 0) {
-                combined.overallStats.approvalRate = ((combined.summary.totalApprovals / combined.summary.totalProcessed) * 100).toFixed(2);
-                combined.overallStats.declineRate = ((combined.summary.totalDeclines / combined.summary.totalProcessed) * 100).toFixed(2);
-            }
-
-            return combined;
-        }
-
-        function updateYearButtons() {
-            document.querySelectorAll('.year-btn').forEach(btn => {
-                btn.classList.remove('active');
-            });
-            event?.target?.classList.add('active');
         }
 
         function displayReport(report, yearLabel) {
@@ -779,9 +623,9 @@
             charts.push(chart);
         }
 
-        // Load default report on page load
+        // Load 2026 report on page load
         window.addEventListener('DOMContentLoaded', () => {
-            loadReport(2026);
+            loadReport();
         });
     </script>
 </body>

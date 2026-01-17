@@ -430,5 +430,77 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:14:11.025Z",
+    "date": "1/17/2026, 11:14:11 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Jannatul Ferdaus",
+    "facebookUserId": "61562424222339",
+    "memberUserId": "61562424222339",
+    "memberPhone": "01866313421",
+    "memberTrxId": "442e53b5-512d-442a-8532-7da8373b01ae",
+    "memberQA": {
+      "তোমার নাম": "Jannatul Ferdaus Ruhi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01866313421",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "442e53b5-512d-442a-8532-7da8373b01ae"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:14:27.286Z",
+    "date": "1/17/2026, 11:14:27 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Roksana Masud",
+    "facebookUserId": "100023777933347",
+    "memberUserId": "100023777933347",
+    "memberPhone": "01815386302",
+    "memberTrxId": "c4d635bf-a369-420a-a321-d725de95bf61",
+    "memberQA": {
+      "তোমার নাম": "Jannatul Mashiyat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01815386302",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "c4d635bf-a369-420a-a321-d725de95bf61"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:14:43.522Z",
+    "date": "1/17/2026, 11:14:43 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Raiyan Mugdho",
+    "facebookUserId": "100071857447315",
+    "memberUserId": "100071857447315",
+    "memberPhone": "01886355817",
+    "memberTrxId": "ee817813-52f9-42c0-9f7f-130f387e7fa0",
+    "memberQA": {
+      "তোমার নাম": "RAIYAN MUGDHO",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01886355817",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ee817813-52f9-42c0-9f7f-130f387e7fa0"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:14:54.161Z",
+    "date": "1/17/2026, 11:14:54 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Mohammad Idris",
+    "facebookUserId": "100005416307588",
+    "memberUserId": "100005416307588",
+    "memberPhone": "01819630966",
+    "memberTrxId": "dcf5001d-c6a0-4031-8281-214bc8808c27",
+    "memberQA": {
+      "তোমার নাম": "Sohail Bin Idris Wahab",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01819630966",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dcf5001d-c6a0-4031-8281-214bc8808c27"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

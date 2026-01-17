@@ -232,5 +232,41 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:18:55.568Z",
+    "date": "1/17/2026, 11:18:55 PM",
+    "className": "Class 10 English (2026)",
+    "memberName": "Sumsunnahar Sumi",
+    "facebookUserId": "61564450290745",
+    "memberUserId": "",
+    "memberPhone": "01816246898",
+    "memberTrxId": "0f05a6ae-c54a-41c9-b370-82ea2243759b",
+    "memberQA": {
+      "তোমার নাম": "Junayed Abdulla Faruki",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816246898",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0f05a6ae-c54a-41c9-b370-82ea2243759b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:19:01.109Z",
+    "date": "1/17/2026, 11:19:01 PM",
+    "className": "Class 10 English (2026)",
+    "memberName": "Faiza Fariha",
+    "facebookUserId": "61582963499899",
+    "memberUserId": "",
+    "memberPhone": "01796324131",
+    "memberTrxId": "b94dcba3-750c-40e6-b494-9f7f6d788562",
+    "memberQA": {
+      "তোমার নাম": "তামান্না আক্তার ছামিরা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01796324131",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b94dcba3-750c-40e6-b494-9f7f6d788562"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

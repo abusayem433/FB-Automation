@@ -241,5 +241,41 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:24:59.440Z",
+    "date": "1/17/2026, 11:24:59 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Sumsunnahar Sumi",
+    "facebookUserId": "61564450290745",
+    "memberUserId": "",
+    "memberPhone": "01816246898",
+    "memberTrxId": "0f05a6ae-c54a-41c9-b370-82ea2243759b",
+    "memberQA": {
+      "তোমার নাম": "Junayed Abdulla Faruki",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816246898",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0f05a6ae-c54a-41c9-b370-82ea2243759b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:25:05.042Z",
+    "date": "1/17/2026, 11:25:05 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Nafiza Akter Asfi",
+    "facebookUserId": "61569777020924",
+    "memberUserId": "",
+    "memberPhone": "01618504094",
+    "memberTrxId": "DAE04T389W",
+    "memberQA": {
+      "তোমার নাম": "Nafiza Akter Asfi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01618504094",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAE04T389W"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

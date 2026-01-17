@@ -377,5 +377,77 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:12:47.665Z",
+    "date": "1/17/2026, 11:12:47 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Sumsunnahar Sumi",
+    "facebookUserId": "61564450290745",
+    "memberUserId": "",
+    "memberPhone": "01816246898",
+    "memberTrxId": "0f05a6ae-c54a-41c9-b370-82ea2243759b",
+    "memberQA": {
+      "তোমার নাম": "Junayed Abdulla Faruki",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816246898",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0f05a6ae-c54a-41c9-b370-82ea2243759b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:12:53.189Z",
+    "date": "1/17/2026, 11:12:53 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Nafiza Akter Asfi",
+    "facebookUserId": "61569777020924",
+    "memberUserId": "",
+    "memberPhone": "01618504094",
+    "memberTrxId": "DAE24SQ8WO",
+    "memberQA": {
+      "তোমার নাম": "Nafiza Akter Asfi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01618504094",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAE24SQ8WO"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:12:58.685Z",
+    "date": "1/17/2026, 11:12:58 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Faiza Fariha",
+    "facebookUserId": "61582963499899",
+    "memberUserId": "",
+    "memberPhone": "01796324131",
+    "memberTrxId": "b94dcba3-750c-40e6-b494-9f7f6d788562",
+    "memberQA": {
+      "তোমার নাম": "তামান্না আক্তার ছামিরা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01796324131",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b94dcba3-750c-40e6-b494-9f7f6d788562"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:13:04.162Z",
+    "date": "1/17/2026, 11:13:04 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Maherun Nessa",
+    "facebookUserId": "100075817254734",
+    "memberUserId": "",
+    "memberPhone": "01923018187",
+    "memberTrxId": "66af981c-9eea-499b-a859-d92f4aed6af5",
+    "memberQA": {
+      "তোমার নাম": "Jarif Ibn Zafar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01923018187",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "66af981c-9eea-499b-a859-d92f4aed6af5"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

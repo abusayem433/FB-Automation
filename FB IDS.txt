@@ -23,3 +23,12 @@ DB_PORT=5432
 DB_NAME=afs_production
 DB_USER=deep
 DB_PASSWORD=deep_password
+
+
+
+gmail 	password 	2fa		https://2fa.cn/
+susg7elmwo@gmail.com	rabbi12	675Z HO4O ZTK5 QOVJ VI2E 3BDN CFZ4 3SR6	6.15831E+13	281897
+claytong4f5a4@gmail.com	rabbi12	OXKG 6VDB 6VDQ DJPC IEBV 6UWC 52R3 ZJTR	6.15833E+13	
+andrew9lkpczmalone@gmail.com	rabbi12	JDRM PKKQ ODC4 53AY S54U 7RJO 5P5R 7YC2	6.15832E+13	
+brandoniljyfwrangel@gmail.com	rabbi12	3KSB 2NOU SC4L DSEK 53IP C2YZ RWYH KNUS	6.15831E+13	
+fatemaak020@gmail.com	rabbi12	B2KZ VJMH HLJ4 25RR O4MQ PWJM BKYJ FLBN	6.15834E+13

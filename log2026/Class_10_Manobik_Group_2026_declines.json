@@ -808,5 +808,57 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:26:09.465Z",
+    "date": "1/17/2026, 11:26:09 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Mustakim Azadi",
+    "facebookUserId": "100026474100821",
+    "memberUserId": "",
+    "memberPhone": "01719503051",
+    "memberTrxId": "CLV2MH706U",
+    "memberQA": {
+      "তোমার নাম": "Adiba Binte Azadi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01719503051",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "CLV2MH706U"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:26:47.044Z",
+    "date": "1/17/2026, 11:26:47 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Shorifa Eshita",
+    "facebookUserId": "100007133804786",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Eshita"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:26:52.518Z",
+    "date": "1/17/2026, 11:26:52 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "MU R AD",
+    "facebookUserId": "100079039242603",
+    "memberUserId": "",
+    "memberPhone": "01723820705",
+    "memberTrxId": "3009bd06-56bf-4de2-9\nOcf-16b49846ed3e",
+    "memberQA": {
+      "তোমার নাম": "Masud Ikbal",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01723820705",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "3009bd06-56bf-4de2-9\nOcf-16b49846ed3e"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

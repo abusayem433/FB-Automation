@@ -612,5 +612,59 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:36:31.112Z",
+    "date": "1/17/2026, 11:36:31 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Faiza Fariha",
+    "facebookUserId": "61582963499899",
+    "memberUserId": "",
+    "memberPhone": "01796324131",
+    "memberTrxId": "b94dcba3-750c-40e6-b494-9f7f6d788562",
+    "memberQA": {
+      "তোমার নাম": "তামান্না আক্তার ছামিরা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01796324131",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b94dcba3-750c-40e6-b494-9f7f6d788562"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:37:19.506Z",
+    "date": "1/17/2026, 11:37:19 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Nusrat Jahan Rupa",
+    "facebookUserId": "61577025926952",
+    "memberUserId": "",
+    "memberPhone": "01778441284",
+    "memberTrxId": "595b72a4-61ff-45b0-b29f-477af2dacccb",
+    "memberQA": {
+      "তোমার নাম": "Nusrat Jahan Rupa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01778441284",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "595b72a4-61ff-45b0-b29f-477af2dacccb"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:38:07.954Z",
+    "date": "1/17/2026, 11:38:07 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Shouherdo Ahmed",
+    "facebookUserId": "100056790761385",
+    "memberUserId": "",
+    "memberPhone": "01975759633",
+    "memberTrxId": "8f75d6e9-8095-4edb-9816-755eebcc53b2",
+    "memberQA": {
+      "তোমার নাম": "সৌহার্দ্য",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01975759633",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8f75d6e9-8095-4edb-9816-755eebcc53b2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

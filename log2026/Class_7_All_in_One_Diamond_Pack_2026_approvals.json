@@ -1402,5 +1402,41 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:40:45.383Z",
+    "date": "1/17/2026, 11:40:45 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Alamgir Hossen",
+    "facebookUserId": "61584607282375",
+    "memberUserId": "61584607282375",
+    "memberPhone": "01325959120",
+    "memberTrxId": "a5294753-06ae-451f-8548-9b5006918b82",
+    "memberQA": {
+      "তোমার নাম": "Fariha Afroj",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01325959120",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a5294753-06ae-451f-8548-9b5006918b82"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:41:07.168Z",
+    "date": "1/17/2026, 11:41:07 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Syeda Muslima Afreen",
+    "facebookUserId": "100001691814399",
+    "memberUserId": "100001691814399",
+    "memberPhone": "01892945006",
+    "memberTrxId": "30e33c4a-b8c1-4f9a-9580-2d5850e01b33",
+    "memberQA": {
+      "তোমার নাম": "Mahdia Nur Uzaiha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01892945006",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "30e33c4a-b8c1-4f9a-9580-2d5850e01b33"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

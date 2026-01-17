@@ -1168,5 +1168,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-17T17:39:58.725Z",
+    "date": "1/17/2026, 11:39:58 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Bushra Salsabil",
+    "facebookUserId": "100056122021031",
+    "memberUserId": "100056122021031",
+    "memberPhone": "01319441291",
+    "memberTrxId": "b712d741-1fa8-4b68-b231-36d31be6701f",
+    "memberQA": {
+      "তোমার নাম": "Zannatul Mawa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01319441291",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b712d741-1fa8-4b68-b231-36d31be6701f"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]
