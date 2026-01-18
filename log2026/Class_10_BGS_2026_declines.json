@@ -8295,5 +8295,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:26:45.166Z",
+    "date": "1/18/2026, 11:26:45 AM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Tanvir Ahmed Sifat",
+    "facebookUserId": "61576801880285",
+    "memberUserId": "",
+    "memberPhone": "01818895384",
+    "memberTrxId": "4b46d627-6d9a-4ddb-908e-a3ee29a61982",
+    "memberQA": {
+      "তোমার নাম": "Billal Hossain Tanvir",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01818895384",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "4b46d627-6d9a-4ddb-908e-a3ee29a61982"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

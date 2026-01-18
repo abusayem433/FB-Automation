@@ -322,5 +322,41 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:49:28.843Z",
+    "date": "1/18/2026, 11:49:28 AM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Nabanita Barua",
+    "facebookUserId": "61558430522680",
+    "memberUserId": "61558430522680",
+    "memberPhone": "01782101127",
+    "memberTrxId": "a19450e4-dff0-4cff-a07a-84c26c629a9a",
+    "memberQA": {
+      "তোমার নাম": "Nabanita Barua",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01782101127",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a19450e4-dff0-4cff-a07a-84c26c629a9a"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:49:39.550Z",
+    "date": "1/18/2026, 11:49:39 AM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Tajbir Imtiaz",
+    "facebookUserId": "61586918902729",
+    "memberUserId": "61586918902729",
+    "memberPhone": "01874240543",
+    "memberTrxId": "075dbc7b-e35c-471c-b920-020d9044081f",
+    "memberQA": {
+      "তোমার নাম": "Jannatul kaonaen tahin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01874240543",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "075dbc7b-e35c-471c-b920-020d9044081f"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

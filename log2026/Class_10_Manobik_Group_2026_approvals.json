@@ -1132,5 +1132,59 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:32:39.855Z",
+    "date": "1/18/2026, 11:32:39 AM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Taufikur Rip Tamim",
+    "facebookUserId": "61586224139048",
+    "memberUserId": "61586224139048",
+    "memberPhone": "01332910999",
+    "memberTrxId": "7d03242c-ee62-4703-8deb-c3e377cf4ff6",
+    "memberQA": {
+      "তোমার নাম": "MD Taufikur",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01332910999",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7d03242c-ee62-4703-8deb-c3e377cf4ff6"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:32:50.592Z",
+    "date": "1/18/2026, 11:32:50 AM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Uzzal Ghosh",
+    "facebookUserId": "61583455382859",
+    "memberUserId": "61583455382859",
+    "memberPhone": "01753908929",
+    "memberTrxId": "65ca6a0f-27ef-43fc-a113-9ad499cddfc5",
+    "memberQA": {
+      "তোমার নাম": "Uzzal Ghosh",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01753908929",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "65ca6a0f-27ef-43fc-a113-9ad499cddfc5"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:33:12.406Z",
+    "date": "1/18/2026, 11:33:12 AM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Maisha Jahan",
+    "facebookUserId": "61573820639869",
+    "memberUserId": "61573820639869",
+    "memberPhone": "01615037961",
+    "memberTrxId": "c88fc40d-b27e-44ba-bc3e-21ab4f7522ff",
+    "memberQA": {
+      "তোমার নাম": "Tasnim Fatema",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01615037961",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "c88fc40d-b27e-44ba-bc3e-21ab4f7522ff"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

@@ -449,5 +449,23 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:26:05.481Z",
+    "date": "1/18/2026, 11:26:05 AM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Kh Muhammad Ali Hemel",
+    "facebookUserId": "100077511667396",
+    "memberUserId": "",
+    "memberPhone": "01721717480",
+    "memberTrxId": "bf95baf8-e647-473a-8d4a-b911007f0534",
+    "memberQA": {
+      "তোমার নাম": "Kh Muhammad Ali Hemel",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01721717480",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "bf95baf8-e647-473a-8d4a-b911007f0534"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

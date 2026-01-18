@@ -376,5 +376,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:29:19.566Z",
+    "date": "1/18/2026, 11:29:19 AM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Adil Araf",
+    "facebookUserId": "100008305865583",
+    "memberUserId": "100008305865583",
+    "memberPhone": "01829466212",
+    "memberTrxId": "71ad2cff-77fa-4626-ace0-9e3ed65debc4",
+    "memberQA": {
+      "তোমার নাম": "Nafij Uddin Adil",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01829466212",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "71ad2cff-77fa-4626-ace0-9e3ed65debc4"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

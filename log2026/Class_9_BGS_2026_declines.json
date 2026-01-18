@@ -118,5 +118,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:44:36.291Z",
+    "date": "1/18/2026, 11:44:36 AM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Shamima Nasrin",
+    "facebookUserId": "100044803974290",
+    "memberUserId": "",
+    "memberPhone": "01687042720",
+    "memberTrxId": "6570baaa-9bd1-4ea0-bc3d-b62d74883748",
+    "memberQA": {
+      "তোমার নাম": "Shayan Mahmud alvi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01687042720",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6570baaa-9bd1-4ea0-bc3d-b62d74883748"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

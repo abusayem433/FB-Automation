@@ -1060,5 +1060,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:52:24.104Z",
+    "date": "1/18/2026, 11:52:24 AM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Safowan Hossain",
+    "facebookUserId": "100066204889510",
+    "memberUserId": "100066204889510",
+    "memberPhone": "01839552890",
+    "memberTrxId": "1911f04a-809a-4f67-83a2-be164989accf",
+    "memberQA": {
+      "তোমার নাম": "Md.Safowan Hosen Chowdhury",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01839552890",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1911f04a-809a-4f67-83a2-be164989accf"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

@@ -702,5 +702,41 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:30:43.863Z",
+    "date": "1/18/2026, 11:30:43 AM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Nur Mohammad",
+    "facebookUserId": "61558181438874",
+    "memberUserId": "",
+    "memberPhone": "01970353345",
+    "memberTrxId": "3fb3cfc3-29c3-4a93-85a2-84d91ac00438",
+    "memberQA": {
+      "তোমার নাম": "Nur Mohammad Maher",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01970353345",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "3fb3cfc3-29c3-4a93-85a2-84d91ac00438"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:31:32.376Z",
+    "date": "1/18/2026, 11:31:32 AM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Setara Parvin",
+    "facebookUserId": "100031159714461",
+    "memberUserId": "",
+    "memberPhone": "01918828328",
+    "memberTrxId": "fe45f4f6-c22b-4bc5-8b9d-0a97270617e8",
+    "memberQA": {
+      "তোমার নাম": "সানজিদা সুলতানা পুষ্প",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01918828328",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "fe45f4f6-c22b-4bc5-8b9d-0a97270617e8"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

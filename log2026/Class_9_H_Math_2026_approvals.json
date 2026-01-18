@@ -592,5 +592,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:48:22.394Z",
+    "date": "1/18/2026, 11:48:22 AM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Safowan Hossain",
+    "facebookUserId": "100066204889510",
+    "memberUserId": "100066204889510",
+    "memberPhone": "01839552890",
+    "memberTrxId": "16bc5eab-e788-4627-a975-eea48c3bb363",
+    "memberQA": {
+      "তোমার নাম": "Md.Safowan Hosen Chowdhury",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01839552890",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "16bc5eab-e788-4627-a975-eea48c3bb363"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

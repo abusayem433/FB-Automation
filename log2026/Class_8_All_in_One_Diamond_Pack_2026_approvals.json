@@ -3958,5 +3958,95 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:39:29.724Z",
+    "date": "1/18/2026, 11:39:29 AM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Syeda Abeda Monsura",
+    "facebookUserId": "100001563586242",
+    "memberUserId": "100001563586242",
+    "memberPhone": "01715614621",
+    "memberTrxId": "cb5dfa48-5e9e-4feb-8aec-1c2d480fe6fa",
+    "memberQA": {
+      "তোমার নাম": "Adiba Fahmida",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01715614621",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cb5dfa48-5e9e-4feb-8aec-1c2d480fe6fa"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:39:45.970Z",
+    "date": "1/18/2026, 11:39:45 AM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Suman Basak",
+    "facebookUserId": "100049168732473",
+    "memberUserId": "100049168732473",
+    "memberPhone": "01716836840",
+    "memberTrxId": "f4ee0586-8362-4dd2-8b44-bfbd974d00b9",
+    "memberQA": {
+      "তোমার নাম": "Soumya Basak",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01716836840",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f4ee0586-8362-4dd2-8b44-bfbd974d00b9"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:39:56.637Z",
+    "date": "1/18/2026, 11:39:56 AM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Mst Lutfun Naher",
+    "facebookUserId": "100010417956066",
+    "memberUserId": "100010417956066",
+    "memberPhone": "01790936162",
+    "memberTrxId": "b329df64-06fe-4ee9-92ee-0924923d0cb6",
+    "memberQA": {
+      "তোমার নাম": "Md LAFIF ZAHIN",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01790936162",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b329df64-06fe-4ee9-92ee-0924923d0cb6"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:40:07.325Z",
+    "date": "1/18/2026, 11:40:07 AM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Mst Sabikunnahar Shoshi",
+    "facebookUserId": "61585765562592",
+    "memberUserId": "61585765562592",
+    "memberPhone": "01712337719",
+    "memberTrxId": "405256cb-f6ff-4359-923f-e051bbb9f185",
+    "memberQA": {
+      "তোমার নাম": "Mst Sabikunnahar Shoshi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01712337719",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "405256cb-f6ff-4359-923f-e051bbb9f185"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:40:18.045Z",
+    "date": "1/18/2026, 11:40:18 AM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Abdullah Al Siam",
+    "facebookUserId": "61567248518694",
+    "memberUserId": "61567248518694",
+    "memberPhone": "01829754801",
+    "memberTrxId": "b5994ffa-5419-4165-85a4-a5572a202b17",
+    "memberQA": {
+      "তোমার নাম": "Abdullah Al siam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01829754801",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b5994ffa-5419-4165-85a4-a5572a202b17"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

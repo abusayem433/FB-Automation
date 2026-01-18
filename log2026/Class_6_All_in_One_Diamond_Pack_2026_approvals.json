@@ -1186,5 +1186,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T05:37:48.539Z",
+    "date": "1/18/2026, 11:37:48 AM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Mustafizur Rahman",
+    "facebookUserId": "100070869588160",
+    "memberUserId": "100070869588160",
+    "memberPhone": "01978840480",
+    "memberTrxId": "5cfe14b1-964a-46e1-9f01-ff07d6a9f7ad",
+    "memberQA": {
+      "তোমার নাম": "Ramisha Reza",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01978840480",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5cfe14b1-964a-46e1-9f01-ff07d6a9f7ad"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]
