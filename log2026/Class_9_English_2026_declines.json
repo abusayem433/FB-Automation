@@ -203,5 +203,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T12:13:15.329Z",
+    "date": "1/18/2026, 6:13:15 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Dina Aktar",
+    "facebookUserId": "61585928000510",
+    "memberUserId": "",
+    "memberPhone": "01540179739",
+    "memberTrxId": "6edb45cf-818b-4a3d-8a89-02ee053bbc2b",
+    "memberQA": {
+      "তোমার নাম": "Dina Akter",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01540179739",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6edb45cf-818b-4a3d-8a89-02ee053bbc2b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

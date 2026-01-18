@@ -502,5 +502,95 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T11:34:39.757Z",
+    "date": "1/18/2026, 5:34:39 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "MD Rähåt Islam",
+    "facebookUserId": "100078697459317",
+    "memberUserId": "100078697459317",
+    "memberPhone": "01725788400",
+    "memberTrxId": "d05b832a-45c8-4491-a24a-9b2788d263a7",
+    "memberQA": {
+      "তোমার নাম": "Rahat Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01725788400",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d05b832a-45c8-4491-a24a-9b2788d263a7"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T11:34:50.438Z",
+    "date": "1/18/2026, 5:34:50 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Nafiza Akter Asfi",
+    "facebookUserId": "61569777020924",
+    "memberUserId": "61569777020924",
+    "memberPhone": "01618504094",
+    "memberTrxId": "dca3670b-1b44-4fe9-b514-c7f76eae0202",
+    "memberQA": {
+      "তোমার নাম": "Nafiza Akter Asfi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01618504094",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dca3670b-1b44-4fe9-b514-c7f76eae0202"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T11:35:06.564Z",
+    "date": "1/18/2026, 5:35:06 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Rajin Abrar Riad",
+    "facebookUserId": "100051856699037",
+    "memberUserId": "100051856699037",
+    "memberPhone": "01744393418",
+    "memberTrxId": "05c570fc-80cc-4e3e-a733-1566ec6db8c0",
+    "memberQA": {
+      "তোমার নাম": "Md.Rajin Abrar Riad",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01744393418",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "05c570fc-80cc-4e3e-a733-1566ec6db8c0"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T11:35:22.650Z",
+    "date": "1/18/2026, 5:35:22 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Mozahid Mahin",
+    "facebookUserId": "100071840030080",
+    "memberUserId": "100071840030080",
+    "memberPhone": "01731218561",
+    "memberTrxId": "4c19cccf-c359-4821-a89c-9a5243269da6",
+    "memberQA": {
+      "তোমার নাম": "mahin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01731218561",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "4c19cccf-c359-4821-a89c-9a5243269da6"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T11:35:33.277Z",
+    "date": "1/18/2026, 5:35:33 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Yaman Rahman",
+    "facebookUserId": "61584584160650",
+    "memberUserId": "61584584160650",
+    "memberPhone": "01747818584",
+    "memberTrxId": "fdda430d-1a49-47d7-b839-caa845018fd0",
+    "memberQA": {
+      "তোমার নাম": "tawhi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01747818584",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "fdda430d-1a49-47d7-b839-caa845018fd0"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

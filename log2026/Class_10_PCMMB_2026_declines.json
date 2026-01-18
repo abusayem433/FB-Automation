@@ -1709,5 +1709,59 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T11:50:06.789Z",
+    "date": "1/18/2026, 5:50:06 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Tahsin Hasan",
+    "facebookUserId": "61577806082375",
+    "memberUserId": "",
+    "memberPhone": "01339819989",
+    "memberTrxId": "dc218d8d-9d4e-4f52-ae18-6528ee351035",
+    "memberQA": {
+      "তোমার নাম": "Tahsin Hasan Snigdho",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01339819989",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dc218d8d-9d4e-4f52-ae18-6528ee351035"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T11:50:44.113Z",
+    "date": "1/18/2026, 5:50:44 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Abdul Húq Safi Bajnis",
+    "facebookUserId": "100088148592069",
+    "memberUserId": "",
+    "memberPhone": "01911807074",
+    "memberTrxId": "Abdul Huq Shafi Bajnis",
+    "memberQA": {
+      "তোমার নাম": "Fariha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01911807074",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Abdul Huq Shafi Bajnis"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T11:51:01.784Z",
+    "date": "1/18/2026, 5:51:01 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Razia Sultana",
+    "facebookUserId": "100011414226545",
+    "memberUserId": "",
+    "memberPhone": "01745336830",
+    "memberTrxId": "78b186a8-b233-4880-aa44-0ee44e1e94c0",
+    "memberQA": {
+      "তোমার নাম": "Najla Binte Aziz",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01745336830",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "78b186a8-b233-4880-aa44-0ee44e1e94c0"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

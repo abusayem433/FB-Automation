@@ -1186,5 +1186,59 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T11:45:40.879Z",
+    "date": "1/18/2026, 5:45:40 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Israt Jahan Tamanna",
+    "facebookUserId": "61558995510679",
+    "memberUserId": "61558995510679",
+    "memberPhone": "01620329709",
+    "memberTrxId": "d9f3a50c-446d-4b46-a28d-87eeb7090560",
+    "memberQA": {
+      "তোমার নাম": "নুসরাত জাহান নীরা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01620329709",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d9f3a50c-446d-4b46-a28d-87eeb7090560"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T11:46:02.667Z",
+    "date": "1/18/2026, 5:46:02 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Maeen Uddin",
+    "facebookUserId": "100034923863749",
+    "memberUserId": "100034923863749",
+    "memberPhone": "01815798968",
+    "memberTrxId": "4b05ff76-758b-4e2a-bf9f-e62c77f3f825",
+    "memberQA": {
+      "তোমার নাম": "Israt ara nuha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01815798968",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "4b05ff76-758b-4e2a-bf9f-e62c77f3f825"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T11:46:13.376Z",
+    "date": "1/18/2026, 5:46:13 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Mahfujur Rahman",
+    "facebookUserId": "100010155455617",
+    "memberUserId": "100010155455617",
+    "memberPhone": "01642207994",
+    "memberTrxId": "1d3df1f1-1d47-4369-9e6c-44f9ecb8aabd",
+    "memberQA": {
+      "তোমার নাম": "maksud",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01642207994",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1d3df1f1-1d47-4369-9e6c-44f9ecb8aabd"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

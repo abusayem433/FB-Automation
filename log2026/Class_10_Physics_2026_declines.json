@@ -666,5 +666,40 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T11:51:52.055Z",
+    "date": "1/18/2026, 5:51:52 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Zara Ayan",
+    "facebookUserId": "61561798769436",
+    "memberUserId": "",
+    "memberPhone": "01718105872",
+    "memberTrxId": "https://facebook.com/groups/1275819601043619/",
+    "memberQA": {
+      "তোমার নাম": "Redoan khan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718105872",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "https://facebook.com/groups/1275819601043619/"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T11:55:01.760Z",
+    "date": "1/18/2026, 5:55:01 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Shopno Tds",
+    "facebookUserId": "61586751001246",
+    "memberUserId": "",
+    "memberPhone": "O1333114872",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Dipawan Das",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "O1333114872"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

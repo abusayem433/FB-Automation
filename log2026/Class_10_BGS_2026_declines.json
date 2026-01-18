@@ -8313,5 +8313,40 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T11:34:55.921Z",
+    "date": "1/18/2026, 5:34:55 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Nahida Ireen",
+    "facebookUserId": "100078926176265",
+    "memberUserId": "",
+    "memberPhone": "01753335708",
+    "memberTrxId": "f290e5b8-2810-43cd-9280-41e89709dd36",
+    "memberQA": {
+      "তোমার নাম": "A B M Afik",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01753335708",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f290e5b8-2810-43cd-9280-41e89709dd36"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T11:35:11.917Z",
+    "date": "1/18/2026, 5:35:11 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Sana Ullah",
+    "facebookUserId": "61585877391929",
+    "memberUserId": "",
+    "memberPhone": "01845933108",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "সোমাইয়া আক্তার জান্নাতি",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01845933108"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

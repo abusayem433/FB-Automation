@@ -136,5 +136,41 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T12:10:52.199Z",
+    "date": "1/18/2026, 6:10:52 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Tajbir Imtiaz",
+    "facebookUserId": "61586918902729",
+    "memberUserId": "",
+    "memberPhone": "01874240543",
+    "memberTrxId": "075dbc7b-e35c-471c-b920-020d9044081f",
+    "memberQA": {
+      "তোমার নাম": "Jannatul kaonaen tahin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01874240543",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "075dbc7b-e35c-471c-b920-020d9044081f"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T12:10:57.693Z",
+    "date": "1/18/2026, 6:10:57 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Lima Khan",
+    "facebookUserId": "100082133815639",
+    "memberUserId": "",
+    "memberPhone": "01731348638",
+    "memberTrxId": "92a34c6f-a4a5-4178-9f31-f59b57ca7a0d",
+    "memberQA": {
+      "তোমার নাম": "Nusrat Jahan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01731348638",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "92a34c6f-a4a5-4178-9f31-f59b57ca7a0d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

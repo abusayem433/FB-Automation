@@ -135,5 +135,39 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T12:15:03.490Z",
+    "date": "1/18/2026, 6:15:03 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Halima Khatun",
+    "facebookUserId": "100090422084401",
+    "memberUserId": "",
+    "memberPhone": "01761095506",
+    "memberTrxId": "7f54ec07- 4a10-4237-ab59-35f74922085f",
+    "memberQA": {
+      "তোমার নাম": "Borsha Lota",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01761095506",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7f54ec07- 4a10-4237-ab59-35f74922085f"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T12:15:08.798Z",
+    "date": "1/18/2026, 6:15:08 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Jannat Ahmed",
+    "facebookUserId": "61582695111754",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Jannatul ferdosi mukti"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]
