@@ -358,5 +358,59 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:34:41.324Z",
+    "date": "1/18/2026, 10:34:41 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Anshi Chen",
+    "facebookUserId": "61578408853779",
+    "memberUserId": "61578408853779",
+    "memberPhone": "01301364970",
+    "memberTrxId": "6400b5cf-7af3-45e5-8e3f-983e23366f6c",
+    "memberQA": {
+      "তোমার নাম": "MD. Xayed Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01301364970",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6400b5cf-7af3-45e5-8e3f-983e23366f6c"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:34:51.965Z",
+    "date": "1/18/2026, 10:34:51 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Halima Khatun",
+    "facebookUserId": "100090422084401",
+    "memberUserId": "100090422084401",
+    "memberPhone": "01761095506",
+    "memberTrxId": "7f54ec07-4a10-4237-ab59-35f74922085f",
+    "memberQA": {
+      "তোমার নাম": "Borsha Lota",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01761095506",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7f54ec07-4a10-4237-ab59-35f74922085f"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:35:02.602Z",
+    "date": "1/18/2026, 10:35:02 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Mehe Jabin",
+    "facebookUserId": "61578180005681",
+    "memberUserId": "61578180005681",
+    "memberPhone": "01812274186",
+    "memberTrxId": "d68116b9-2a3b-4aeb-8f5c-ca4b13ad3c92",
+    "memberQA": {
+      "তোমার নাম": "M T",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01812274186",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d68116b9-2a3b-4aeb-8f5c-ca4b13ad3c92"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

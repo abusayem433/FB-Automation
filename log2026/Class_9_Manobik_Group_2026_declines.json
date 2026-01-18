@@ -169,5 +169,22 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:35:07.888Z",
+    "date": "1/18/2026, 10:35:07 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Sultana Daliya",
+    "facebookUserId": "100009467353045",
+    "memberUserId": "",
+    "memberPhone": "01306163024",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "নওশীন হাবিব নূরান",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01306163024"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

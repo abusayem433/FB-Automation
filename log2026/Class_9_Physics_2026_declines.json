@@ -198,5 +198,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:40:22.353Z",
+    "date": "1/18/2026, 10:40:22 PM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Dipro S",
+    "facebookUserId": "100082581376488",
+    "memberUserId": "",
+    "memberPhone": "01930488595",
+    "memberTrxId": "5752485b-b818-444c-9032-053d65dd0bb0",
+    "memberQA": {
+      "তোমার নাম": "Dipro Sarker",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01930488595",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5752485b-b818-444c-9032-053d65dd0bb0"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

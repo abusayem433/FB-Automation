@@ -738,5 +738,74 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T15:57:37.705Z",
+    "date": "1/18/2026, 9:57:37 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Sarmin Akter",
+    "facebookUserId": "61555930370637",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Jafrin"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T15:58:26.005Z",
+    "date": "1/18/2026, 9:58:26 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Shadman Montasir",
+    "facebookUserId": "100081241170310",
+    "memberUserId": "",
+    "memberPhone": "01645038406",
+    "memberTrxId": "c337fb8f-c83a-408b-ac6d-38d8fb897944",
+    "memberQA": {
+      "তোমার নাম": "MD.Mosaddek Hossain",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01645038406",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "c337fb8f-c83a-408b-ac6d-38d8fb897944"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T15:59:03.607Z",
+    "date": "1/18/2026, 9:59:03 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Jishan Molla",
+    "facebookUserId": "100027194323808",
+    "memberUserId": "",
+    "memberPhone": "01751627708",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Jisan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01751627708"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T15:59:30.434Z",
+    "date": "1/18/2026, 9:59:30 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Maliyat Shoshi",
+    "facebookUserId": "61566196703649",
+    "memberUserId": "",
+    "memberPhone": "01722979754",
+    "memberTrxId": "ca8b2835-15ed-47be-b925-6af054a2caf4",
+    "memberQA": {
+      "তোমার নাম": "Maliyat Jannat Shoshi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01722979754",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ca8b2835-15ed-47be-b925-6af054a2caf4"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

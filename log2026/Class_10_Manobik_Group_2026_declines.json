@@ -932,5 +932,75 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:00:59.572Z",
+    "date": "1/18/2026, 10:00:59 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Mustakim Azadi",
+    "facebookUserId": "100026474100821",
+    "memberUserId": "",
+    "memberPhone": "০১৭১৯৫০৩০৫১",
+    "memberTrxId": "CLV2MH706U",
+    "memberQA": {
+      "তোমার নাম": "আদীবা বিনতে আজাদী",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৭১৯৫০৩০৫১",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "CLV2MH706U"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:01:15.571Z",
+    "date": "1/18/2026, 10:01:15 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Tahmeda Islam Tuba",
+    "facebookUserId": "61556495086725",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Tahmeda Islam Toba"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:01:31.771Z",
+    "date": "1/18/2026, 10:01:31 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Asaduzzaman Asad",
+    "facebookUserId": "100015897557936",
+    "memberUserId": "",
+    "memberPhone": "01732126861",
+    "memberTrxId": "a2918467-a4e3-4bf1-872c-995d33d3ac25",
+    "memberQA": {
+      "তোমার নাম": "safin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01732126861",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a2918467-a4e3-4bf1-872c-995d33d3ac25"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:01:37.321Z",
+    "date": "1/18/2026, 10:01:37 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Sumaita Sultana",
+    "facebookUserId": "61551997272058",
+    "memberUserId": "",
+    "memberPhone": "01711572370",
+    "memberTrxId": "496343cf-bbb4-4b75-b7e1-ad2e1e0becf0",
+    "memberQA": {
+      "তোমার নাম": "Samira Sultana",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711572370",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "496343cf-bbb4-4b75-b7e1-ad2e1e0becf0"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

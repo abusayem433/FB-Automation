@@ -124,5 +124,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:29:10.770Z",
+    "date": "1/18/2026, 10:29:10 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Seba Dash",
+    "facebookUserId": "100018872984256",
+    "memberUserId": "100018872984256",
+    "memberPhone": "01716023552",
+    "memberTrxId": "57819877-33ba-4ac2-9834-fdd1d54a92dc",
+    "memberQA": {
+      "তোমার নাম": "Souvik Choudhury",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01716023552",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "57819877-33ba-4ac2-9834-fdd1d54a92dc"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

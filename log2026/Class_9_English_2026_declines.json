@@ -221,5 +221,41 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:31:20.805Z",
+    "date": "1/18/2026, 10:31:20 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Tun Tuba",
+    "facebookUserId": "100059424167499",
+    "memberUserId": "",
+    "memberPhone": "01305278373",
+    "memberTrxId": "9435-4552",
+    "memberQA": {
+      "তোমার নাম": "jannatul Naima Tun",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01305278373",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "9435-4552"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:31:58.304Z",
+    "date": "1/18/2026, 10:31:58 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Tonima Towa",
+    "facebookUserId": "61585396048948",
+    "memberUserId": "",
+    "memberPhone": "01600163190",
+    "memberTrxId": "66468896",
+    "memberQA": {
+      "তোমার নাম": "TanimaTanzim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01600163190",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "66468896"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

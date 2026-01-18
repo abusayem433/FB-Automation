@@ -772,5 +772,41 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:35:53.611Z",
+    "date": "1/18/2026, 10:35:53 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Tasin Al Shafi",
+    "facebookUserId": "100087936480307",
+    "memberUserId": "100087936480307",
+    "memberPhone": "01981889086",
+    "memberTrxId": "8e8011e6-671f-49c6-aaca-e70010ffc46d",
+    "memberQA": {
+      "তোমার নাম": "শাফি",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01981889086",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8e8011e6-671f-49c6-aaca-e70010ffc46d"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:36:04.233Z",
+    "date": "1/18/2026, 10:36:04 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Shima Das",
+    "facebookUserId": "100042590122657",
+    "memberUserId": "100042590122657",
+    "memberPhone": "01740623768",
+    "memberTrxId": "d62562c4-4f4d-4435-8455-850799cccadb",
+    "memberQA": {
+      "তোমার নাম": "Proggya Paramita",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01740623768",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d62562c4-4f4d-4435-8455-850799cccadb"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

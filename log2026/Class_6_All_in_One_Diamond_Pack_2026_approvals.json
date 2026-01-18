@@ -1294,5 +1294,77 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:14:25.292Z",
+    "date": "1/18/2026, 10:14:25 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Ruhena Begum",
+    "facebookUserId": "61550888861950",
+    "memberUserId": "61550888861950",
+    "memberPhone": "01880566744",
+    "memberTrxId": "ad72a06d-85f2-42df-be20-9b8487bec002",
+    "memberQA": {
+      "তোমার নাম": "তানজিলা ইসলাম",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01880566744",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ad72a06d-85f2-42df-be20-9b8487bec002"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:14:36.020Z",
+    "date": "1/18/2026, 10:14:36 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Abhimunya Roy",
+    "facebookUserId": "61565664922924",
+    "memberUserId": "61565664922924",
+    "memberPhone": "01703966046",
+    "memberTrxId": "ed2669f8-ca03-44a4-9b9a-35158e5c83ac",
+    "memberQA": {
+      "তোমার নাম": "Joyanto Roy",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01703966046",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ed2669f8-ca03-44a4-9b9a-35158e5c83ac"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:14:46.732Z",
+    "date": "1/18/2026, 10:14:46 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "তহুরা রুবিনা",
+    "facebookUserId": "100008411717810",
+    "memberUserId": "100008411717810",
+    "memberPhone": "01863601349",
+    "memberTrxId": "fb79e31f-b968-44ae-86e3-46e72ee0f089",
+    "memberQA": {
+      "তোমার নাম": "Adil Ahnaf Nohel",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01863601349",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "fb79e31f-b968-44ae-86e3-46e72ee0f089"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:15:02.846Z",
+    "date": "1/18/2026, 10:15:02 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Shammi Akter Brishty",
+    "facebookUserId": "100060389988917",
+    "memberUserId": "100060389988917",
+    "memberPhone": "01771947040",
+    "memberTrxId": "b4042bfd-2264-42b1-a30f-05d2aa983723",
+    "memberQA": {
+      "তোমার নাম": "Md.Mubtasin Mahbub Arik",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01771947040",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b4042bfd-2264-42b1-a30f-05d2aa983723"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

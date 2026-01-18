@@ -154,5 +154,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:36:09.686Z",
+    "date": "1/18/2026, 10:36:09 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Sarviya Alom",
+    "facebookUserId": "61586508313239",
+    "memberUserId": "",
+    "memberPhone": "01319146241",
+    "memberTrxId": "77d71e24-5e72-4675-821b-ac6ad3d790ae77d71e24-5e72-4675-821b-ac6ad3d790ae",
+    "memberQA": {
+      "তোমার নাম": "সারভিয়া আলম",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01319146241",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "77d71e24-5e72-4675-821b-ac6ad3d790ae77d71e24-5e72-4675-821b-ac6ad3d790ae"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

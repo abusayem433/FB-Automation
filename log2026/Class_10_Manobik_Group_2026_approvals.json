@@ -1240,5 +1240,41 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:01:10.278Z",
+    "date": "1/18/2026, 10:01:10 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Muna Moon",
+    "facebookUserId": "100057912012713",
+    "memberUserId": "100057912012713",
+    "memberPhone": "01858127918",
+    "memberTrxId": "4a35bb98-840e-42cc-b789-3ce6db0635d1",
+    "memberQA": {
+      "তোমার নাম": "Sunayra siddiqua Chahat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01858127918",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "4a35bb98-840e-42cc-b789-3ce6db0635d1"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:01:26.247Z",
+    "date": "1/18/2026, 10:01:26 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "MU R AD",
+    "facebookUserId": "100079039242603",
+    "memberUserId": "100079039242603",
+    "memberPhone": "01723820705",
+    "memberTrxId": "3009bd06-56bf-4de2-90cf-16b49846ed3e",
+    "memberQA": {
+      "তোমার নাম": "Masud Ikbal",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01723820705",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "3009bd06-56bf-4de2-90cf-16b49846ed3e"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

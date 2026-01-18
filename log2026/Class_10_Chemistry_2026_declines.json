@@ -255,5 +255,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T15:52:25.606Z",
+    "date": "1/18/2026, 9:52:25 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Sariba Sakhawat",
+    "facebookUserId": "100016844808873",
+    "memberUserId": "",
+    "memberPhone": "01734912219",
+    "memberTrxId": "a08cc794-8fdd-49e4-b609-3d3838891619a08cc794-8fdd-49e4-b609-3d3838891619",
+    "memberQA": {
+      "তোমার নাম": "Sariba",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01734912219",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a08cc794-8fdd-49e4-b609-3d3838891619a08cc794-8fdd-49e4-b609-3d3838891619"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

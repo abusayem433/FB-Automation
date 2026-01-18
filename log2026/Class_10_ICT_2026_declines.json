@@ -277,5 +277,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T16:00:09.770Z",
+    "date": "1/18/2026, 10:00:09 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Irfan Salauddin",
+    "facebookUserId": "61586885302178",
+    "memberUserId": "",
+    "memberPhone": "01731303974",
+    "memberTrxId": "Irfan12390",
+    "memberQA": {
+      "তোমার নাম": "Irfan salauddin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01731303974",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Irfan12390"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -164,5 +164,59 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T15:54:19.787Z",
+    "date": "1/18/2026, 9:54:19 PM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Razia Sultana",
+    "facebookUserId": "100011414226545",
+    "memberUserId": "",
+    "memberPhone": "01745336830",
+    "memberTrxId": "78b186a8-b233-4880-aa44-0ee44e1e94c0",
+    "memberQA": {
+      "তোমার নাম": "Najla Binte Aziz",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01745336830",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "78b186a8-b233-4880-aa44-0ee44e1e94c0"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T15:54:25.297Z",
+    "date": "1/18/2026, 9:54:25 PM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Nima Shohag",
+    "facebookUserId": "100025971442063",
+    "memberUserId": "",
+    "memberPhone": "01820560335",
+    "memberTrxId": "e3874d22-c5b8-4b58-a67c-8cb781e3874d22-c5b8-4b58-a67c-8cb781d3812e",
+    "memberQA": {
+      "তোমার নাম": "Nima Shohag",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01820560335",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e3874d22-c5b8-4b58-a67c-8cb781e3874d22-c5b8-4b58-a67c-8cb781d3812e"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-18T15:54:41.450Z",
+    "date": "1/18/2026, 9:54:41 PM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Israt Israt",
+    "facebookUserId": "100065510974821",
+    "memberUserId": "",
+    "memberPhone": "01890284742",
+    "memberTrxId": "174a2463-76a2-4c63-9ff5-941ce47f0988",
+    "memberQA": {
+      "তোমার নাম": "Safwat Sajid",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01890284742",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "174a2463-76a2-4c63-9ff5-941ce47f0988"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]
