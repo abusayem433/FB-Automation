@@ -172,5 +172,59 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:47:52.144Z",
+    "date": "1/19/2026, 11:47:52 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Sarviya Alom",
+    "facebookUserId": "61586508313239",
+    "memberUserId": "",
+    "memberPhone": "01319146241",
+    "memberTrxId": "77d71e24-5e72-4675-821b-ac6ad3d790ae",
+    "memberQA": {
+      "তোমার নাম": "সারভিয়া আলম",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01319146241",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "77d71e24-5e72-4675-821b-ac6ad3d790ae"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:48:40.464Z",
+    "date": "1/19/2026, 11:48:40 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Chanda Bhattacharjee",
+    "facebookUserId": "100011001573195",
+    "memberUserId": "",
+    "memberPhone": "01585410282",
+    "memberTrxId": "fa9o-4ce5-970f-4d494833774f",
+    "memberQA": {
+      "তোমার নাম": "Eishan Chakraborty",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01585410282",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "fa9o-4ce5-970f-4d494833774f"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:48:46.012Z",
+    "date": "1/19/2026, 11:48:46 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Md Ahnaf Rashid Suhit",
+    "facebookUserId": "61562248359478",
+    "memberUserId": "",
+    "memberPhone": "01785543030",
+    "memberTrxId": "fca1abfe-b162-4364-a404-1a3cb73f3be2",
+    "memberQA": {
+      "তোমার নাম": "Md Ahnaf Rashid Suhit",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01785543030",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "fca1abfe-b162-4364-a404-1a3cb73f3be2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

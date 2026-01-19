@@ -295,5 +295,41 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T16:53:25.819Z",
+    "date": "1/19/2026, 10:53:25 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "সীমান্তের শেষ প্রহরি",
+    "facebookUserId": "100084160112550",
+    "memberUserId": "",
+    "memberPhone": "01708907937",
+    "memberTrxId": "f82ae33b-32d5-49d7-98e4-29249202c16b",
+    "memberQA": {
+      "তোমার নাম": "sifat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01708907937",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f82ae33b-32d5-49d7-98e4-29249202c16b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T16:53:52.805Z",
+    "date": "1/19/2026, 10:53:52 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Limon Ghosh",
+    "facebookUserId": "100093638246611",
+    "memberUserId": "",
+    "memberPhone": "01720054407",
+    "memberTrxId": "সপ্তর্ষি কর",
+    "memberQA": {
+      "তোমার নাম": "Shoptorshi Kar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01720054407",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "সপ্তর্ষি কর"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

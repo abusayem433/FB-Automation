@@ -146,5 +146,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:40:11.838Z",
+    "date": "1/19/2026, 11:40:11 PM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Momotaz Begum",
+    "facebookUserId": "100011447103270",
+    "memberUserId": "",
+    "memberPhone": "01850066689",
+    "memberTrxId": "059ecaf9-87aa-4444-96cc-7c0dacf55480",
+    "memberQA": {
+      "তোমার নাম": "Taseen Mahmud",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01850066689",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "059ecaf9-87aa-4444-96cc-7c0dacf55480"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

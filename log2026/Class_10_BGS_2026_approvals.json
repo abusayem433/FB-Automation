@@ -592,5 +592,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T16:41:47.377Z",
+    "date": "1/19/2026, 10:41:47 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Ahammed Hasanul Islam",
+    "facebookUserId": "100080202010298",
+    "memberUserId": "100080202010298",
+    "memberPhone": "01779427544",
+    "memberTrxId": "493a4425-1f11-46d6-9c14-9d64f8f9c9a1",
+    "memberQA": {
+      "তোমার নাম": "Nujhat Zabeen",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01779427544",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "493a4425-1f11-46d6-9c14-9d64f8f9c9a1"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

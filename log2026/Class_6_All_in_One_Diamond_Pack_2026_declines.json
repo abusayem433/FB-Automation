@@ -669,5 +669,22 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:15:37.741Z",
+    "date": "1/19/2026, 11:15:37 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Negar Smritee",
+    "facebookUserId": "100013756778782",
+    "memberUserId": "",
+    "memberPhone": "01718156656",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "MD Rayat Rakim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718156656"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

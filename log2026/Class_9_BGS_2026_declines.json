@@ -208,5 +208,149 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:38:54.080Z",
+    "date": "1/19/2026, 11:38:54 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Taniza Rahman",
+    "facebookUserId": "1645344891",
+    "memberUserId": "",
+    "memberPhone": "01715430275",
+    "memberTrxId": "4a5ae816-3650-4e22-a94c-2eb85bed9c05",
+    "memberQA": {
+      "তোমার নাম": "Raifah Rahman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01715430275",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "4a5ae816-3650-4e22-a94c-2eb85bed9c05"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:38:59.585Z",
+    "date": "1/19/2026, 11:38:59 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "নৌরিন জাহান মারুফা",
+    "facebookUserId": "100078990104753",
+    "memberUserId": "",
+    "memberPhone": "01705251942",
+    "memberTrxId": "https://www.facebook.com/share/g/1ETvqfBAHw/",
+    "memberQA": {
+      "তোমার নাম": "নৌরিন জাহান মারুফা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01705251942",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "https://www.facebook.com/share/g/1ETvqfBAHw/"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:39:05.095Z",
+    "date": "1/19/2026, 11:39:05 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "S B Shefa",
+    "facebookUserId": "100086887988072",
+    "memberUserId": "",
+    "memberPhone": "01712798036",
+    "memberTrxId": "25bc9d23-5fa3-4303-9f4b-0d3a2eeb1abd",
+    "memberQA": {
+      "তোমার নাম": "Angkita",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01712798036",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "25bc9d23-5fa3-4303-9f4b-0d3a2eeb1abd"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:39:10.558Z",
+    "date": "1/19/2026, 11:39:10 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Anshi Chen",
+    "facebookUserId": "61578408853779",
+    "memberUserId": "",
+    "memberPhone": "01301364970",
+    "memberTrxId": "6400b5cf-7af3-45e5-8e3f-983e23366f6c",
+    "memberQA": {
+      "তোমার নাম": "MD. Xayed Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01301364970",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6400b5cf-7af3-45e5-8e3f-983e23366f6c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:39:16.101Z",
+    "date": "1/19/2026, 11:39:16 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Glory As",
+    "facebookUserId": "61586346883240",
+    "memberUserId": "",
+    "memberPhone": "+8801648200650",
+    "memberTrxId": "2b181f92-8a06-405f-8c5d-d4364c58b4da",
+    "memberQA": {
+      "তোমার নাম": "Abu Bakar Rafsan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "+8801648200650",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "2b181f92-8a06-405f-8c5d-d4364c58b4da"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:39:21.560Z",
+    "date": "1/19/2026, 11:39:21 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Lima Khan",
+    "facebookUserId": "100082133815639",
+    "memberUserId": "",
+    "memberPhone": "01731348638",
+    "memberTrxId": "92a34c6f-a4a5-4178-9f31-f59b57ca7a0d",
+    "memberQA": {
+      "তোমার নাম": "Nusrat Jahan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01731348638",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "92a34c6f-a4a5-4178-9f31-f59b57ca7a0d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:39:27.120Z",
+    "date": "1/19/2026, 11:39:27 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Halima Khatun",
+    "facebookUserId": "100090422084401",
+    "memberUserId": "",
+    "memberPhone": "01761095506",
+    "memberTrxId": "7f54ec07-4a10-4237-ab59-35f74922085f",
+    "memberQA": {
+      "তোমার নাম": "Borsha Lota",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01761095506",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7f54ec07-4a10-4237-ab59-35f74922085f"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:39:32.582Z",
+    "date": "1/19/2026, 11:39:32 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Maharunnesa Chowdhury Maharunnesa Chowdhury",
+    "facebookUserId": "100032452191881",
+    "memberUserId": "",
+    "memberPhone": "01690100312",
+    "memberTrxId": "066b7f42-b99a-4fcc-9857-991771fc3c1a",
+    "memberQA": {
+      "তোমার নাম": "Marjyn",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01690100312",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "066b7f42-b99a-4fcc-9857-991771fc3c1a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

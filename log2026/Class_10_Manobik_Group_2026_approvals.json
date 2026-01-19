@@ -1276,5 +1276,77 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T16:55:11.637Z",
+    "date": "1/19/2026, 10:55:11 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Sintua Mimim",
+    "facebookUserId": "61586325623034",
+    "memberUserId": "61586325623034",
+    "memberPhone": "01306201380",
+    "memberTrxId": "71b6d666-11a3-4aed-945c-fbf27e29d2bb",
+    "memberQA": {
+      "তোমার নাম": "Sintua Binti Mimim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01306201380",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "71b6d666-11a3-4aed-945c-fbf27e29d2bb"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T16:55:22.531Z",
+    "date": "1/19/2026, 10:55:22 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Na Fiz",
+    "facebookUserId": "100091843205678",
+    "memberUserId": "100091843205678",
+    "memberPhone": "01716289826",
+    "memberTrxId": "88a9847b-3c96-475d-a9f4-4daf17f101df",
+    "memberQA": {
+      "তোমার নাম": "Md.Tanzim Biswas",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01716289826",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "88a9847b-3c96-475d-a9f4-4daf17f101df"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T16:55:55.215Z",
+    "date": "1/19/2026, 10:55:55 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Juthi Mondal",
+    "facebookUserId": "61556076884637",
+    "memberUserId": "61556076884637",
+    "memberPhone": "01971717855",
+    "memberTrxId": "c67a3421-b343-47c3-a15a-fcdb7696deed",
+    "memberQA": {
+      "তোমার নাম": "Juthi Mondal",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01971717855",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "c67a3421-b343-47c3-a15a-fcdb7696deed"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T16:56:16.960Z",
+    "date": "1/19/2026, 10:56:16 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Afroza Khanome",
+    "facebookUserId": "100082207097888",
+    "memberUserId": "100082207097888",
+    "memberPhone": "01715308498",
+    "memberTrxId": "bc7ff051-5140-4d3c-ae68-f5a312e25ad2",
+    "memberQA": {
+      "তোমার নাম": "জান্নাতুল ফেরদৌসী সাফা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01715308498",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "bc7ff051-5140-4d3c-ae68-f5a312e25ad2"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

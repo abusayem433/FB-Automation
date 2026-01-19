@@ -216,5 +216,40 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:54:49.736Z",
+    "date": "1/19/2026, 11:54:49 PM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Saad Hasan Mafi",
+    "facebookUserId": "61572225279282",
+    "memberUserId": "",
+    "memberPhone": "01911054252",
+    "memberTrxId": "Saad Hasan Mafi\n\nsaad Hasan mafi",
+    "memberQA": {
+      "তোমার নাম": "Saad",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01911054252",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Saad Hasan Mafi\n\nsaad Hasan mafi"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:55:59.195Z",
+    "date": "1/19/2026, 11:55:59 PM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "RA FI",
+    "facebookUserId": "61586200157390",
+    "memberUserId": "",
+    "memberPhone": "01744624990",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "রাফি আহমেদ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01744624990"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

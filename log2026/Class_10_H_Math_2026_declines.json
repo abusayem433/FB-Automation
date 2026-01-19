@@ -807,5 +807,95 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T16:51:09.200Z",
+    "date": "1/19/2026, 10:51:09 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Mumtahina Maowa Ayman",
+    "facebookUserId": "100035345730710",
+    "memberUserId": "",
+    "memberPhone": "01875336063",
+    "memberTrxId": "fa79ad09-a510-4d1b-be28-7e7bb5399702",
+    "memberQA": {
+      "তোমার নাম": "Muktadir Hasan Adnan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01875336063",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "fa79ad09-a510-4d1b-be28-7e7bb5399702"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T16:51:25.454Z",
+    "date": "1/19/2026, 10:51:25 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "সীমান্তের শেষ প্রহরি",
+    "facebookUserId": "100084160112550",
+    "memberUserId": "",
+    "memberPhone": "01708907937",
+    "memberTrxId": "f82ae33b-32d5-49d7-98e4-29249202c16b",
+    "memberQA": {
+      "তোমার নাম": "sifat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01708907937",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f82ae33b-32d5-49d7-98e4-29249202c16b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T16:52:03.062Z",
+    "date": "1/19/2026, 10:52:03 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Limon Ghosh",
+    "facebookUserId": "100093638246611",
+    "memberUserId": "",
+    "memberPhone": "01720054407",
+    "memberTrxId": "সপ্তর্ষি কর",
+    "memberQA": {
+      "তোমার নাম": "Shoptorshi Kar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01720054407",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "সপ্তর্ষি কর"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T16:52:29.971Z",
+    "date": "1/19/2026, 10:52:29 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Tanjim Mannan Rima",
+    "facebookUserId": "100055298898034",
+    "memberUserId": "",
+    "memberPhone": "01772137038",
+    "memberTrxId": "https://www.facebook.com/groups/1585558069427450/?ref=share&mibextid=NSMWBT",
+    "memberQA": {
+      "তোমার নাম": "Mahi Emran",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01772137038",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "https://www.facebook.com/groups/1585558069427450/?ref=share&mibextid=NSMWBT"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T16:52:46.194Z",
+    "date": "1/19/2026, 10:52:46 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Masudur Rahman",
+    "facebookUserId": "1690320268",
+    "memberUserId": "",
+    "memberPhone": "01953300303",
+    "memberTrxId": "f4d75d76-094e-442e-88cb-4d7ffc6f92ce",
+    "memberQA": {
+      "তোমার নাম": "Eshan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01953300303",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f4d75d76-094e-442e-88cb-4d7ffc6f92ce"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -257,5 +257,76 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:42:48.439Z",
+    "date": "1/19/2026, 11:42:48 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Fariha Alam Raisa",
+    "facebookUserId": "100054622007426",
+    "memberUserId": "",
+    "memberPhone": "01770877777",
+    "memberTrxId": "264279",
+    "memberQA": {
+      "তোমার নাম": "Tasnim Alam Sara",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01770877777",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "264279"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:43:15.324Z",
+    "date": "1/19/2026, 11:43:15 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Md. Hafizur Rahman",
+    "facebookUserId": "100037909140215",
+    "memberUserId": "",
+    "memberPhone": "01784591459",
+    "memberTrxId": "28570be4-bb3f-441b-95f9-d63bbeb4d5ea",
+    "memberQA": {
+      "তোমার নাম": "Mohemunnahar Ahona",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01784591459",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "28570be4-bb3f-441b-95f9-d63bbeb4d5ea"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:43:20.812Z",
+    "date": "1/19/2026, 11:43:20 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Dina Aktar",
+    "facebookUserId": "61585928000510",
+    "memberUserId": "",
+    "memberPhone": "01540179739",
+    "memberTrxId": "6edb45cf-818b-4a3d-8a89-02ee053bbc2b",
+    "memberQA": {
+      "তোমার নাম": "Dina Akhter",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01540179739",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6edb45cf-818b-4a3d-8a89-02ee053bbc2b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:43:47.672Z",
+    "date": "1/19/2026, 11:43:47 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Ikram Ahmed Efaz",
+    "facebookUserId": "61578340581220",
+    "memberUserId": "",
+    "memberPhone": "01715011051",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Ikram Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01715011051"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

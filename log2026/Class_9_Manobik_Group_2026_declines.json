@@ -186,5 +186,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:46:50.508Z",
+    "date": "1/19/2026, 11:46:50 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Kismat Jahan",
+    "facebookUserId": "100026476356972",
+    "memberUserId": "",
+    "memberPhone": "01701855415",
+    "memberTrxId": "ACS Future School Academic Program 2026 এর সকল ক্লাস আমরা App এবং Website এর পাশাপাশি Facebook Group এও নিবো। পাশপাশি গ্রুপে টিচারদের সাথেও কানেক্টেড থাকতে এখনি জয়েন হয়ে যাও তোমার গ্রুপে!\n\nGroup Link:  https://acsfs.com/eICgT\nগ্রুপে জয়েনের সময় অবশ্যই এই ট্রানজেকশন আইডিটি সঠিকভাবে কপি করে দিবে:  9e16d77f-3351-4d65-bee2-50cf99128f80",
+    "memberQA": {
+      "তোমার নাম": "নুরহান জামান",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01701855415",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ACS Future School Academic Program 2026 এর সকল ক্লাস আমরা App এবং Website এর পাশাপাশি Facebook Group এও নিবো। পাশপাশি গ্রুপে টিচারদের সাথেও কানেক্টেড থাকতে এখনি জয়েন হয়ে যাও তোমার গ্রুপে!\n\nGroup Link:  https://acsfs.com/eICgT\nগ্রুপে জয়েনের সময় অবশ্যই এই ট্রানজেকশন আইডিটি সঠিকভাবে কপি করে দিবে:  9e16d77f-3351-4d65-bee2-50cf99128f80"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -254,5 +254,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-19T17:41:58.109Z",
+    "date": "1/19/2026, 11:41:58 PM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Sakib Hossain",
+    "facebookUserId": "100051243969107",
+    "memberUserId": "",
+    "memberPhone": "০১৬৭৩৫২০৩০২",
+    "memberTrxId": "ef1fae86-9740-4e3f-8e19-60fa38d20b5f",
+    "memberQA": {
+      "তোমার নাম": "তারিফ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৬৭৩৫২০৩০২",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ef1fae86-9740-4e3f-8e19-60fa38d20b5f"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]
