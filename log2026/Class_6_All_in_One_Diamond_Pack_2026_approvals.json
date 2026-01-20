@@ -1492,5 +1492,41 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-20T12:12:33.769Z",
+    "date": "1/20/2026, 6:12:33 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Mansura Arafin",
+    "facebookUserId": "100050634854793",
+    "memberUserId": "100050634854793",
+    "memberPhone": "01735655298",
+    "memberTrxId": "f8cd9d77-b206-4440-8e4d-8b381222892f",
+    "memberQA": {
+      "তোমার নাম": "Mahira Rahman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01735655298",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f8cd9d77-b206-4440-8e4d-8b381222892f"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-20T12:12:49.780Z",
+    "date": "1/20/2026, 6:12:49 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Mohona Mole",
+    "facebookUserId": "100054086193356",
+    "memberUserId": "100054086193356",
+    "memberPhone": "01834579177",
+    "memberTrxId": "e6fa42ea-51d3-4f24-be3c-b1856f3970de",
+    "memberQA": {
+      "তোমার নাম": "Raisa Mahmud Mole",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01834579177",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e6fa42ea-51d3-4f24-be3c-b1856f3970de"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

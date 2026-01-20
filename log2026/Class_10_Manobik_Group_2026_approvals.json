@@ -1348,5 +1348,41 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-20T12:06:17.041Z",
+    "date": "1/20/2026, 6:06:17 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Mustakim Azadi",
+    "facebookUserId": "100026474100821",
+    "memberUserId": "100026474100821",
+    "memberPhone": "01719503051",
+    "memberTrxId": "7ea1fe1b-f8f0-407b-a27c-720c4ff57633",
+    "memberQA": {
+      "তোমার নাম": "Adiba Binte Azadi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01719503051",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7ea1fe1b-f8f0-407b-a27c-720c4ff57633"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-20T12:06:27.863Z",
+    "date": "1/20/2026, 6:06:27 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Ayma Binte Imam",
+    "facebookUserId": "100080813907700",
+    "memberUserId": "100080813907700",
+    "memberPhone": "01888137901",
+    "memberTrxId": "de179c9e-cf81-4135-92f4-047ca43883e9",
+    "memberQA": {
+      "তোমার নাম": "Aemmah Binte Imam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01888137901",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "de179c9e-cf81-4135-92f4-047ca43883e9"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

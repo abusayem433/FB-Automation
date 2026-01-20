@@ -897,5 +897,59 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-20T12:03:40.271Z",
+    "date": "1/20/2026, 6:03:40 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "ساقيف حسن",
+    "facebookUserId": "61575239903519",
+    "memberUserId": "",
+    "memberPhone": "01722414245",
+    "memberTrxId": "27a9981b-c9c2-451b-ab1d-16eaac87dfba",
+    "memberQA": {
+      "তোমার নাম": "Sakif Hasan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01722414245",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "27a9981b-c9c2-451b-ab1d-16eaac87dfba"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-20T12:04:07.532Z",
+    "date": "1/20/2026, 6:04:07 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Hassan Al Mahadi",
+    "facebookUserId": "61577033199171",
+    "memberUserId": "",
+    "memberPhone": "01586322660",
+    "memberTrxId": "470c6be6-a840-4928-bef7-370642c46b4d",
+    "memberQA": {
+      "তোমার নাম": "Mahadi Hassan Jim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01586322660",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "470c6be6-a840-4928-bef7-370642c46b4d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-20T12:04:45.428Z",
+    "date": "1/20/2026, 6:04:45 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Tawhid E Azam Taj",
+    "facebookUserId": "100089841490197",
+    "memberUserId": "",
+    "memberPhone": "01537203848",
+    "memberTrxId": "d826217a-2b87-4955-9aec-e091d71ecabc",
+    "memberQA": {
+      "তোমার নাম": "Taj",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01537203848",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d826217a-2b87-4955-9aec-e091d71ecabc"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

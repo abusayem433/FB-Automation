@@ -790,5 +790,41 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-20T12:24:13.889Z",
+    "date": "1/20/2026, 6:24:13 PM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Rabby Chy",
+    "facebookUserId": "61580910214248",
+    "memberUserId": "61580910214248",
+    "memberPhone": "01893033508",
+    "memberTrxId": "47701910-a645-4650-8e3d-122e6b633d9a",
+    "memberQA": {
+      "তোমার নাম": "Ali",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01893033508",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "47701910-a645-4650-8e3d-122e6b633d9a"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-20T12:24:24.729Z",
+    "date": "1/20/2026, 6:24:24 PM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Chanda Bhattacharjee",
+    "facebookUserId": "100011001573195",
+    "memberUserId": "100011001573195",
+    "memberPhone": "01585410282",
+    "memberTrxId": "3a12dc6f-9bbf-4231-b040-5678bb26c63d",
+    "memberQA": {
+      "তোমার নাম": "Eishan Chakraborty",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01585410282",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "3a12dc6f-9bbf-4231-b040-5678bb26c63d"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

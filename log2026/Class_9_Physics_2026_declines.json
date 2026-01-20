@@ -251,5 +251,41 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-20T12:28:22.462Z",
+    "date": "1/20/2026, 6:28:22 PM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Rayhan Islam",
+    "facebookUserId": "100005503531921",
+    "memberUserId": "",
+    "memberPhone": "01688163250",
+    "memberTrxId": "প্রিয় শিক্ষার্থী, তোমার একাডেমিক প্রোগ্রাম ২০২৬ টি পারচেজ সফল হয়েছে। তোমার ইনভয়েস লিঙ্কঃ https://cutt.ly/Ctl8N2T1 \n\nকোর্সের প্রাইভেট গ্রুপ এ জয়েন করতে,\n\n                ১। গ্রুপ লিঙ্কঃ https://www.facebook.com/share/g/1Ku7aSXQ2J/\n\n                ২।",
+    "memberQA": {
+      "তোমার নাম": "Ràihan akther",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01688163250",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "প্রিয় শিক্ষার্থী, তোমার একাডেমিক প্রোগ্রাম ২০২৬ টি পারচেজ সফল হয়েছে। তোমার ইনভয়েস লিঙ্কঃ https://cutt.ly/Ctl8N2T1 \n\nকোর্সের প্রাইভেট গ্রুপ এ জয়েন করতে,\n\n                ১। গ্রুপ লিঙ্কঃ https://www.facebook.com/share/g/1Ku7aSXQ2J/\n\n                ২।"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-20T12:28:38.896Z",
+    "date": "1/20/2026, 6:28:38 PM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Arpon Kumar",
+    "facebookUserId": "100094069101782",
+    "memberUserId": "",
+    "memberPhone": "01719166045",
+    "memberTrxId": "166045",
+    "memberQA": {
+      "তোমার নাম": "Arpon Kumar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01719166045",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "166045"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

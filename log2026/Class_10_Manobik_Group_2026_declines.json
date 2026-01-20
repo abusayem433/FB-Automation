@@ -1180,5 +1180,22 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-20T12:06:06.338Z",
+    "date": "1/20/2026, 6:06:06 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Maisha Jahan",
+    "facebookUserId": "100095268312542",
+    "memberUserId": "",
+    "memberPhone": "01824992330",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "MAISHA JAHAN",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01824992330"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

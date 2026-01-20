@@ -686,5 +686,39 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-20T12:12:39.149Z",
+    "date": "1/20/2026, 6:12:39 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Ismail Ahmed",
+    "facebookUserId": "61586384386774",
+    "memberUserId": "",
+    "memberPhone": "01857405454",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Ismail Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01857405454"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-20T12:12:55.085Z",
+    "date": "1/20/2026, 6:12:55 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Lipe Saha",
+    "facebookUserId": "100057519205735",
+    "memberUserId": "",
+    "memberPhone": "01822566120",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Aradhya saha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01822566120"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]
