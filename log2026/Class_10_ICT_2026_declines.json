@@ -349,5 +349,91 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:20:11.379Z",
+    "date": "1/22/2026, 12:20:11 AM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Zarin Sadaf",
+    "facebookUserId": "100067224395919",
+    "memberUserId": "",
+    "memberPhone": "01711677796",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Zarin Sadaf",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711677796"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:20:27.311Z",
+    "date": "1/22/2026, 12:20:27 AM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Md Ripon",
+    "facebookUserId": "100009797624543",
+    "memberUserId": "",
+    "memberPhone": "01910280742",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Farhana Hasan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01910280742"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:20:32.868Z",
+    "date": "1/22/2026, 12:20:32 AM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Rabeya Munni",
+    "facebookUserId": "100013503182646",
+    "memberUserId": "",
+    "memberPhone": "01747457560",
+    "memberTrxId": "a92a0cae-dd74-40af-ae39-b271739dc9c3",
+    "memberQA": {
+      "তোমার নাম": "Rabeya Munni",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01747457560",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a92a0cae-dd74-40af-ae39-b271739dc9c3"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:20:38.150Z",
+    "date": "1/22/2026, 12:20:38 AM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Rafiul Islam",
+    "facebookUserId": "61586708830178",
+    "memberUserId": "",
+    "memberPhone": "541f48da-7738-482c-9ec3-d8467c590994",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Rafiul Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "541f48da-7738-482c-9ec3-d8467c590994"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-22T05:31:54.361Z",
+    "date": "1/22/2026, 11:31:54 AM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Mahfujur Rahman",
+    "facebookUserId": "100086687424765",
+    "memberUserId": "",
+    "memberPhone": "01708696981",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Tazrian Tasmia",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01708696981"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

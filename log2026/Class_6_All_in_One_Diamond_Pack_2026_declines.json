@@ -720,5 +720,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:33:57.355Z",
+    "date": "1/22/2026, 12:33:57 AM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Nur Kaniz",
+    "facebookUserId": "100009569262522",
+    "memberUserId": "",
+    "memberPhone": "01716490480",
+    "memberTrxId": "2f551e66-590b-4754-b9e9-bdced348ed5d",
+    "memberQA": {
+      "তোমার নাম": "nushra",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01716490480",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "2f551e66-590b-4754-b9e9-bdced348ed5d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

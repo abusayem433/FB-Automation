@@ -1942,5 +1942,41 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:34:51.939Z",
+    "date": "1/22/2026, 12:34:51 AM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Raiyan Mahmud",
+    "facebookUserId": "61560935944997",
+    "memberUserId": "61560935944997",
+    "memberPhone": "01314065792",
+    "memberTrxId": "78b2aaed-a004-4673-94cb-38903afb68a8",
+    "memberQA": {
+      "তোমার নাম": "Raiyan Mahmud",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01314065792",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "78b2aaed-a004-4673-94cb-38903afb68a8"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:35:13.525Z",
+    "date": "1/22/2026, 12:35:13 AM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Jaheda Begum",
+    "facebookUserId": "61586977347141",
+    "memberUserId": "61586977347141",
+    "memberPhone": "01620841694",
+    "memberTrxId": "639c391e-709c-43ad-9911-6e1e98ce156a",
+    "memberQA": {
+      "তোমার নাম": "Tanfika Binte Jabed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01620841694",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "639c391e-709c-43ad-9911-6e1e98ce156a"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

@@ -287,5 +287,111 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-22T05:46:06.042Z",
+    "date": "1/22/2026, 11:46:06 AM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "মুহাম্মদ আবদুল্লাহ",
+    "facebookUserId": "61556301595621",
+    "memberUserId": "",
+    "memberPhone": "01971531671",
+    "memberTrxId": "9479697",
+    "memberQA": {
+      "তোমার নাম": "Muhammad Samiul Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01971531671",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "9479697"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-22T05:46:11.599Z",
+    "date": "1/22/2026, 11:46:11 AM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Mst Jannatul",
+    "facebookUserId": "100046344043955",
+    "memberUserId": "",
+    "memberPhone": "01647601484",
+    "memberTrxId": "e9605a3b-2c4e-4e6d-9f27-828aaab89448",
+    "memberQA": {
+      "তোমার নাম": "Jaber Alam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01647601484",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e9605a3b-2c4e-4e6d-9f27-828aaab89448"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-22T05:46:38.315Z",
+    "date": "1/22/2026, 11:46:38 AM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Rokeya Akter Keya",
+    "facebookUserId": "61553183136801",
+    "memberUserId": "",
+    "memberPhone": "01748115986",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Rahima Amin Toushi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01748115986"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-22T05:46:43.636Z",
+    "date": "1/22/2026, 11:46:43 AM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "G. M. Ahsanul Haque",
+    "facebookUserId": "61555631124950",
+    "memberUserId": "",
+    "memberPhone": "01782929173",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "G.M.Ahsanul haque",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01782929173"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-22T05:46:49.190Z",
+    "date": "1/22/2026, 11:46:49 AM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Wamika Tashfi",
+    "facebookUserId": "61571858925865",
+    "memberUserId": "",
+    "memberPhone": "01883504628",
+    "memberTrxId": "521b68a1-6bec-4421-8293-c86ee3952d6b",
+    "memberQA": {
+      "তোমার নাম": "wamika tashfi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01883504628",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "521b68a1-6bec-4421-8293-c86ee3952d6b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-22T05:47:05.313Z",
+    "date": "1/22/2026, 11:47:05 AM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Mahdi Khan",
+    "facebookUserId": "61550634975462",
+    "memberUserId": "",
+    "memberPhone": "01921185605",
+    "memberTrxId": "9d354d1e-728b-433d-9087-6dfcddeb9f26",
+    "memberQA": {
+      "তোমার নাম": "K.M Mahdi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01921185605",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "9d354d1e-728b-433d-9087-6dfcddeb9f26"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

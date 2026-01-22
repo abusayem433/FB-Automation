@@ -8600,5 +8600,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:11:41.095Z",
+    "date": "1/22/2026, 12:11:41 AM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Sahidur Rahman",
+    "facebookUserId": "61581011483804",
+    "memberUserId": "",
+    "memberPhone": "01894022497",
+    "memberTrxId": "1ae7570a-8db8-4965-8f2b-9ea8001c",
+    "memberQA": {
+      "তোমার নাম": "সাহিদুর রহমান",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01894022497",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1ae7570a-8db8-4965-8f2b-9ea8001c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

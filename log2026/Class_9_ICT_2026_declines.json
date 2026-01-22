@@ -32,5 +32,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:50:25.993Z",
+    "date": "1/22/2026, 12:50:25 AM",
+    "className": "Class 9 ICT (2026)",
+    "memberName": "Mehnaz Masud",
+    "facebookUserId": "100000473278406",
+    "memberUserId": "",
+    "memberPhone": "018167633303",
+    "memberTrxId": "dcb628ce-4b86-48f4-8f96-0eb53387c6a1",
+    "memberQA": {
+      "তোমার নাম": "Mashir Raeem Masud",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "018167633303",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dcb628ce-4b86-48f4-8f96-0eb53387c6a1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

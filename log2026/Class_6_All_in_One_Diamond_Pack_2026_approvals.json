@@ -1528,5 +1528,41 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:33:51.884Z",
+    "date": "1/22/2026, 12:33:51 AM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Ismail Ahmed",
+    "facebookUserId": "61586384386774",
+    "memberUserId": "61586384386774",
+    "memberPhone": "01857405454",
+    "memberTrxId": "06082fc2-1f15-454d-a5ce-e8ae7fa77062",
+    "memberQA": {
+      "তোমার নাম": "Ismail ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01857405454",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "06082fc2-1f15-454d-a5ce-e8ae7fa77062"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:34:07.995Z",
+    "date": "1/22/2026, 12:34:07 AM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Marin Afrose",
+    "facebookUserId": "61552068452443",
+    "memberUserId": "61552068452443",
+    "memberPhone": "01772091843",
+    "memberTrxId": "ef1e17b3-425f-406f-9785-071fbf0ac666",
+    "memberQA": {
+      "তোমার নাম": "Nazifa Zaman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01772091843",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ef1e17b3-425f-406f-9785-071fbf0ac666"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

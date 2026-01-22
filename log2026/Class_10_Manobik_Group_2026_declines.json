@@ -1197,5 +1197,40 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:21:19.023Z",
+    "date": "1/22/2026, 12:21:19 AM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Niloy Mondal",
+    "facebookUserId": "61585634786181",
+    "memberUserId": "",
+    "memberPhone": "01990094171",
+    "memberTrxId": "fcb3bccd-68bb-4441-9b93-853d98cbb2ec",
+    "memberQA": {
+      "তোমার নাম": "শংকর মন্ডল",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01990094171",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "fcb3bccd-68bb-4441-9b93-853d98cbb2ec"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:21:45.623Z",
+    "date": "1/22/2026, 12:21:45 AM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Shilpi Begum",
+    "facebookUserId": "100094226536387",
+    "memberUserId": "",
+    "memberPhone": "01309795770",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Badsha Fahad",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01309795770"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

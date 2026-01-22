@@ -451,5 +451,41 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:14:53.653Z",
+    "date": "1/22/2026, 12:14:53 AM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Sajnin Islam",
+    "facebookUserId": "61579074115439",
+    "memberUserId": "",
+    "memberPhone": "01823587383",
+    "memberTrxId": "44e6e773-a1fa-45fa-b19d-ca73962afe21",
+    "memberQA": {
+      "তোমার নাম": "Rajnin Rashid Rafa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01823587383",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "44e6e773-a1fa-45fa-b19d-ca73962afe21"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-22T05:29:30.937Z",
+    "date": "1/22/2026, 11:29:30 AM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Akm Wahid",
+    "facebookUserId": "100050032185731",
+    "memberUserId": "",
+    "memberPhone": "01815449288",
+    "memberTrxId": "2e5a2c03-1946-4cac-bb2c-5622f88da6b7",
+    "memberQA": {
+      "তোমার নাম": "Anika Tasnim Nowshin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01815449288",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "2e5a2c03-1946-4cac-bb2c-5622f88da6b7"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

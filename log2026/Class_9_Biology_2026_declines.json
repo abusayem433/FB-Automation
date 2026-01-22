@@ -164,5 +164,41 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:46:47.975Z",
+    "date": "1/22/2026, 12:46:47 AM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Borshon Sen",
+    "facebookUserId": "61554162477352",
+    "memberUserId": "",
+    "memberPhone": "01920832421",
+    "memberTrxId": "6e3eb18b-7b28-4596-81fe-949e11e15d83",
+    "memberQA": {
+      "তোমার নাম": "Borshon Sen",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01920832421",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6e3eb18b-7b28-4596-81fe-949e11e15d83"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:46:53.477Z",
+    "date": "1/22/2026, 12:46:53 AM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Rakib Hossen",
+    "facebookUserId": "100093643984520",
+    "memberUserId": "",
+    "memberPhone": "01940241970",
+    "memberTrxId": "218605",
+    "memberQA": {
+      "তোমার নাম": "Md Rakib Hossen",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01940241970",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "218605"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

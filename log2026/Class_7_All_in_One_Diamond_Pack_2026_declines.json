@@ -1046,5 +1046,58 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:34:57.425Z",
+    "date": "1/22/2026, 12:34:57 AM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Jisan Mahamud",
+    "facebookUserId": "61578565023313",
+    "memberUserId": "",
+    "memberPhone": "01755875320",
+    "memberTrxId": "942a1b80-de86-4e17-A043-787819f020ba",
+    "memberQA": {
+      "তোমার নাম": "Shovon mahamud sakib",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01755875320",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "942a1b80-de86-4e17-A043-787819f020ba"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:35:02.863Z",
+    "date": "1/22/2026, 12:35:02 AM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Saif Ahmed",
+    "facebookUserId": "61586843821627",
+    "memberUserId": "",
+    "memberPhone": "01410163261",
+    "memberTrxId": "14a9e2a0-00fe-4e52-979f-2613bcfe6183",
+    "memberQA": {
+      "তোমার নাম": "Saif Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01410163261",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "14a9e2a0-00fe-4e52-979f-2613bcfe6183"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-22T05:35:12.544Z",
+    "date": "1/22/2026, 11:35:12 AM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Happy Das",
+    "facebookUserId": "100012188796327",
+    "memberUserId": "",
+    "memberPhone": "01783591149",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "সুগুপ্তা মালাকার হৃদি",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01783591149"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

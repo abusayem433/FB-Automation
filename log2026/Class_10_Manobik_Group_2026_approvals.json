@@ -1384,5 +1384,41 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:21:29.675Z",
+    "date": "1/22/2026, 12:21:29 AM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Abdul Ahad",
+    "facebookUserId": "100081887175676",
+    "memberUserId": "100081887175676",
+    "memberPhone": "01767856124",
+    "memberTrxId": "0a7f9d4b-12c4-43de-a959-e4cff6005a86",
+    "memberQA": {
+      "তোমার নাম": "Abdul Ahad",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01767856124",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0a7f9d4b-12c4-43de-a959-e4cff6005a86"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:21:40.355Z",
+    "date": "1/22/2026, 12:21:40 AM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Rina Begum",
+    "facebookUserId": "100064930520060",
+    "memberUserId": "100064930520060",
+    "memberPhone": "01929073205",
+    "memberTrxId": "8a98ea74-0841-487b-8d0a-6baaad24d4ce",
+    "memberQA": {
+      "তোমার নাম": "Dania Zaman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01929073205",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8a98ea74-0841-487b-8d0a-6baaad24d4ce"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

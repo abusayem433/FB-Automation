@@ -399,5 +399,161 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:12:21.613Z",
+    "date": "1/22/2026, 12:12:21 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Jannatul Mawa Hiya",
+    "facebookUserId": "61574692076724",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Hiya moni"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:12:26.925Z",
+    "date": "1/22/2026, 12:12:26 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Samin Samin",
+    "facebookUserId": "61580017613007",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Muhutadi Rahaman"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:12:32.213Z",
+    "date": "1/22/2026, 12:12:32 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Faria Tasnim Farin",
+    "facebookUserId": "61558752951018",
+    "memberUserId": "",
+    "memberPhone": "01913607242",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Faria Tasnim Farin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01913607242"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:12:48.349Z",
+    "date": "1/22/2026, 12:12:48 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Manika Datta",
+    "facebookUserId": "100053568727969",
+    "memberUserId": "",
+    "memberPhone": "01858269369",
+    "memberTrxId": "cc58e2bc-ca36-423c-bb4d-6767fdfcbf3e",
+    "memberQA": {
+      "তোমার নাম": "Antika Das",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01858269369",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cc58e2bc-ca36-423c-bb4d-6767fdfcbf3e"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:13:04.456Z",
+    "date": "1/22/2026, 12:13:04 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Sultana Razia",
+    "facebookUserId": "100051949823009",
+    "memberUserId": "",
+    "memberPhone": "01785989019",
+    "memberTrxId": "0412a64a-b8ec-495a-8096-2eae6126caf8",
+    "memberQA": {
+      "তোমার নাম": "Rifat shahriar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01785989019",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0412a64a-b8ec-495a-8096-2eae6126caf8"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:13:20.516Z",
+    "date": "1/22/2026, 12:13:20 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Sabrina Alam Saba",
+    "facebookUserId": "100086256985521",
+    "memberUserId": "",
+    "memberPhone": "Sabrina Alam Saba",
+    "memberTrxId": "e89bd2e0-3c15-4bec-accd-511d5a395ebd",
+    "memberQA": {
+      "তোমার নাম": "+880 1610-029143",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "Sabrina Alam Saba",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e89bd2e0-3c15-4bec-accd-511d5a395ebd"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:13:25.974Z",
+    "date": "1/22/2026, 12:13:25 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Sajnin Islam",
+    "facebookUserId": "61579074115439",
+    "memberUserId": "",
+    "memberPhone": "01823587383",
+    "memberTrxId": "44e6e773-a1fa-45fa-b19d-ca73962afe21",
+    "memberQA": {
+      "তোমার নাম": "Rajnin Rashid Rafa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01823587383",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "44e6e773-a1fa-45fa-b19d-ca73962afe21"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:13:31.328Z",
+    "date": "1/22/2026, 12:13:31 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Zarin Sadaf",
+    "facebookUserId": "100067224395919",
+    "memberUserId": "",
+    "memberPhone": "01711677796",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Zarin Sadaf",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711677796"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-22T05:28:52.025Z",
+    "date": "1/22/2026, 11:28:52 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Shanta Roy",
+    "facebookUserId": "100091466526310",
+    "memberUserId": "",
+    "memberPhone": "01826609854",
+    "memberTrxId": "bba30f99-e0fe-45b5-b002-bcc4707f6854",
+    "memberQA": {
+      "তোমার নাম": "Aritra Saha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01826609854",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "bba30f99-e0fe-45b5-b002-bcc4707f6854"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -610,5 +610,59 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:11:14.267Z",
+    "date": "1/22/2026, 12:11:14 AM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Shadoweclipse Fk",
+    "facebookUserId": "61564135136184",
+    "memberUserId": "61564135136184",
+    "memberPhone": "01312779262",
+    "memberTrxId": "f07884df-83f0-4e1a-9a3d-86bb71e917d8",
+    "memberQA": {
+      "তোমার নাম": "K.M Faik Al Tarik",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01312779262",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f07884df-83f0-4e1a-9a3d-86bb71e917d8"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:11:24.982Z",
+    "date": "1/22/2026, 12:11:24 AM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Jasia Tasmia",
+    "facebookUserId": "100076251683893",
+    "memberUserId": "100076251683893",
+    "memberPhone": "01311129329",
+    "memberTrxId": "5ec6a450-a9fb-460e-b987-b44767c6909e",
+    "memberQA": {
+      "তোমার নাম": "Jasia Tasmia",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01311129329",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5ec6a450-a9fb-460e-b987-b44767c6909e"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:11:35.599Z",
+    "date": "1/22/2026, 12:11:35 AM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "M Khanom Kabir",
+    "facebookUserId": "100048215508894",
+    "memberUserId": "100048215508894",
+    "memberPhone": "01731156556",
+    "memberTrxId": "a76248b9-aa82-43c8-9584-31850bfdfea7",
+    "memberQA": {
+      "তোমার নাম": "mariam kabir",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01731156556",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a76248b9-aa82-43c8-9584-31850bfdfea7"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

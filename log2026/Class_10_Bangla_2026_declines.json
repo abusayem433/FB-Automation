@@ -557,5 +557,41 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:10:03.358Z",
+    "date": "1/22/2026, 12:10:03 AM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Mohammad Sakib",
+    "facebookUserId": "100078435400346",
+    "memberUserId": "",
+    "memberPhone": "01898942344",
+    "memberTrxId": "ac4ed7b8-2a72-4173-b8a5-903ee609099c",
+    "memberQA": {
+      "তোমার নাম": "Mohammad Sakib",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01898942344",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ac4ed7b8-2a72-4173-b8a5-903ee609099c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-21T18:10:30.205Z",
+    "date": "1/22/2026, 12:10:30 AM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Rafiul Islam",
+    "facebookUserId": "61586708830178",
+    "memberUserId": "",
+    "memberPhone": "01307370689",
+    "memberTrxId": "541f48da-7738-482c-9ec3-d8467c590994",
+    "memberQA": {
+      "তোমার নাম": "Rafiul Isiam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01307370689",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "541f48da-7738-482c-9ec3-d8467c590994"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]
