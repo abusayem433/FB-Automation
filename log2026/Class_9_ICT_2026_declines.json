@@ -50,5 +50,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:41:23.360Z",
+    "date": "1/24/2026, 9:41:23 AM",
+    "className": "Class 9 ICT (2026)",
+    "memberName": "Abu Bakar Siddik",
+    "facebookUserId": "61586956346842",
+    "memberUserId": "",
+    "memberPhone": "01725556855",
+    "memberTrxId": "790072c6-74ab-4811-9fd9-badc8ec7924a",
+    "memberQA": {
+      "তোমার নাম": "Abu Bakar Siddik",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01725556855",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "790072c6-74ab-4811-9fd9-badc8ec7924a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

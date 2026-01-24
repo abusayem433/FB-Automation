@@ -555,5 +555,128 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:04:35.073Z",
+    "date": "1/24/2026, 9:04:35 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Habiba Aktar Banu",
+    "facebookUserId": "100086921427100",
+    "memberUserId": "",
+    "memberPhone": "01315132343",
+    "memberTrxId": "dekhte pari na",
+    "memberQA": {
+      "তোমার নাম": "maisha fahmida",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01315132343",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dekhte pari na"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:04:40.380Z",
+    "date": "1/24/2026, 9:04:40 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Morsheda Begum",
+    "facebookUserId": "100079437896215",
+    "memberUserId": "",
+    "memberPhone": "01302912083",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Zarin tasnim dina",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01302912083"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:04:45.668Z",
+    "date": "1/24/2026, 9:04:45 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Fatema Fatema",
+    "facebookUserId": "61586295453032",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "456757"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:04:51.147Z",
+    "date": "1/24/2026, 9:04:51 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Rafci Khan",
+    "facebookUserId": "61586923740915",
+    "memberUserId": "",
+    "memberPhone": "01711373508",
+    "memberTrxId": "04e50a5a-fe5d-4ca9-947c-3452c355e497",
+    "memberQA": {
+      "তোমার নাম": "Rafci Khan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711373508",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "04e50a5a-fe5d-4ca9-947c-3452c355e497"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:04:56.624Z",
+    "date": "1/24/2026, 9:04:56 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Altab Nannu",
+    "facebookUserId": "100014936771903",
+    "memberUserId": "",
+    "memberPhone": "01816623832",
+    "memberTrxId": "8bf306df- cbd4- 42d0- b5b7- 19732f03ab39",
+    "memberQA": {
+      "তোমার নাম": "মোছা: আনিসা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816623832",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8bf306df- cbd4- 42d0- b5b7- 19732f03ab39"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:05:02.180Z",
+    "date": "1/24/2026, 9:05:02 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "H.R. Alif",
+    "facebookUserId": "61577309045588",
+    "memberUserId": "",
+    "memberPhone": "01876341024",
+    "memberTrxId": "hamderabbialif1@gmail.com",
+    "memberQA": {
+      "তোমার নাম": "Md Hamde Rabbi Alif",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01876341024",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "hamderabbialif1@gmail.com"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T13:30:13.236Z",
+    "date": "1/24/2026, 7:30:13 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Altab Nannu",
+    "facebookUserId": "100014936771903",
+    "memberUserId": "",
+    "memberPhone": "01816623832",
+    "memberTrxId": "8bf306df- cbd4- 42d0- b5b7- 19732f03ab39",
+    "memberQA": {
+      "তোমার নাম": "মোছা: আনিসা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816623832",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8bf306df- cbd4- 42d0- b5b7- 19732f03ab39"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

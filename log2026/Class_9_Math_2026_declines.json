@@ -279,5 +279,111 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-22T08:54:43.389Z",
+    "date": "1/22/2026, 2:54:43 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Abu Bakar Siddik",
+    "facebookUserId": "61586956346842",
+    "memberUserId": "",
+    "memberPhone": "01725556855",
+    "memberTrxId": "790072c6-74ab-4811-9fd9-badc8ec7924a",
+    "memberQA": {
+      "তোমার নাম": "Abu Bakar Siddik",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01725556855",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "790072c6-74ab-4811-9fd9-badc8ec7924a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:42:51.804Z",
+    "date": "1/24/2026, 9:42:51 AM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Abu Bakar Siddik",
+    "facebookUserId": "61586956346842",
+    "memberUserId": "",
+    "memberPhone": "01725556855",
+    "memberTrxId": "790072c6-74ab-4811-9fd9-badc8ec7924a",
+    "memberQA": {
+      "তোমার নাম": "Abu Bakar Siddik",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01725556855",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "790072c6-74ab-4811-9fd9-badc8ec7924a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:42:57.129Z",
+    "date": "1/24/2026, 9:42:57 AM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Md Mohidul Hasan",
+    "facebookUserId": "100060689075452",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Iii"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:43:13.304Z",
+    "date": "1/24/2026, 9:43:13 AM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Shamsun Nahar",
+    "facebookUserId": "1632527624",
+    "memberUserId": "",
+    "memberPhone": "01776178787",
+    "memberTrxId": "DAN1EAE7GP",
+    "memberQA": {
+      "তোমার নাম": "Sara Mahdiya",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01776178787",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAN1EAE7GP"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:43:40.046Z",
+    "date": "1/24/2026, 9:43:40 AM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "H.R. Alif",
+    "facebookUserId": "61577309045588",
+    "memberUserId": "",
+    "memberPhone": "01876341024",
+    "memberTrxId": "hamderabbialif1@gmail.com",
+    "memberQA": {
+      "তোমার নাম": "Md Hamde Rabbi Alif",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01876341024",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "hamderabbialif1@gmail.com"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T13:50:04.955Z",
+    "date": "1/24/2026, 7:50:04 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "H.R. Alif",
+    "facebookUserId": "61577309045588",
+    "memberUserId": "",
+    "memberPhone": "01876341024",
+    "memberTrxId": "hamderabbialif1@gmail.com",
+    "memberQA": {
+      "তোমার নাম": "Md Hamde Rabbi Alif",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01876341024",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "hamderabbialif1@gmail.com"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

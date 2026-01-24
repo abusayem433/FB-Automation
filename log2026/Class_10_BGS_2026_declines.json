@@ -8618,5 +8618,59 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:03:38.278Z",
+    "date": "1/24/2026, 9:03:38 AM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Sahidur Rahman",
+    "facebookUserId": "61581011483804",
+    "memberUserId": "",
+    "memberPhone": "01894022497",
+    "memberTrxId": "1ae7570a-8db8-4965-8f2b-9ea8001c",
+    "memberQA": {
+      "তোমার নাম": "সাহিদুর রহমান",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01894022497",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1ae7570a-8db8-4965-8f2b-9ea8001c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:03:43.757Z",
+    "date": "1/24/2026, 9:03:43 AM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "TA Tamim",
+    "facebookUserId": "100090446386734",
+    "memberUserId": "",
+    "memberPhone": "01859501955",
+    "memberTrxId": "503b7f6c-22c7-47b0-8d6e-474a09f2a22b",
+    "memberQA": {
+      "তোমার নাম": "tamim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01859501955",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "503b7f6c-22c7-47b0-8d6e-474a09f2a22b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T13:29:34.304Z",
+    "date": "1/24/2026, 7:29:34 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Na Fiz",
+    "facebookUserId": "100091843205678",
+    "memberUserId": "",
+    "memberPhone": "01716289826",
+    "memberTrxId": "88a9847b-3c96-475d-a9f4-4daf17f101df",
+    "memberQA": {
+      "তোমার নাম": "মো: তানজিম বিশ্বাস",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01716289826",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "88a9847b-3c96-475d-a9f4-4daf17f101df"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -11317,5 +11317,675 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-22T08:49:04.478Z",
+    "date": "1/22/2026, 2:49:04 PM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Huzaif Haque",
+    "facebookUserId": "61558996674099",
+    "memberUserId": "",
+    "memberPhone": "01711461918",
+    "memberTrxId": "6bc91d35-2a8a-44a7-aaa9-69d508131d60",
+    "memberQA": {
+      "তোমার নাম": "Huzaif Haque Hammad",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711461918",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6bc91d35-2a8a-44a7-aaa9-69d508131d60"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-22T08:49:09.969Z",
+    "date": "1/22/2026, 2:49:09 PM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Abu Bakar Siddik",
+    "facebookUserId": "61586956346842",
+    "memberUserId": "",
+    "memberPhone": "01725556855",
+    "memberTrxId": "790072c6-74ab-4811-9fd9-badc8ec7924a",
+    "memberQA": {
+      "তোমার নাম": "Abu Bakar Siddik",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01725556855",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "790072c6-74ab-4811-9fd9-badc8ec7924a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-22T08:49:15.488Z",
+    "date": "1/22/2026, 2:49:15 PM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Oli Via",
+    "facebookUserId": "61568112156595",
+    "memberUserId": "",
+    "memberPhone": "01678704062",
+    "memberTrxId": "5e6581bf-3ea6-4eb9-b78e-44d6fa1cc3ca",
+    "memberQA": {
+      "তোমার নাম": "Tafanun",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01678704062",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5e6581bf-3ea6-4eb9-b78e-44d6fa1cc3ca"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:26:28.093Z",
+    "date": "1/24/2026, 9:26:28 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Kaynat Firoza",
+    "facebookUserId": "100002190268329",
+    "memberUserId": "",
+    "memberPhone": "01777882226",
+    "memberTrxId": "fad1cd24-f3fd-4b9b-acc2-6bf6a8b34fa2",
+    "memberQA": {
+      "তোমার নাম": "Shabib Arik Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01777882226",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "fad1cd24-f3fd-4b9b-acc2-6bf6a8b34fa2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:26:33.478Z",
+    "date": "1/24/2026, 9:26:33 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Saima Islam",
+    "facebookUserId": "61585864084412",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Saima Islam"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:26:49.590Z",
+    "date": "1/24/2026, 9:26:49 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Rai An",
+    "facebookUserId": "61575076230351",
+    "memberUserId": "",
+    "memberPhone": "01818817767",
+    "memberTrxId": "bcc12e24-d760-4b49-b072-7185ad58b7ca",
+    "memberQA": {
+      "তোমার নাম": "Raian",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01818817767",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "bcc12e24-d760-4b49-b072-7185ad58b7ca"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:27:05.586Z",
+    "date": "1/24/2026, 9:27:05 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Md Miraj Hossen",
+    "facebookUserId": "100009516923058",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Moriym"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:27:10.911Z",
+    "date": "1/24/2026, 9:27:10 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Mownota Hujyfa",
+    "facebookUserId": "61586531916178",
+    "memberUserId": "",
+    "memberPhone": "9e9348f4-fadd-4834-bd4a-de5f6b8d42fc",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01795865657",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "9e9348f4-fadd-4834-bd4a-de5f6b8d42fc"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:27:16.476Z",
+    "date": "1/24/2026, 9:27:16 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Samin Sahat",
+    "facebookUserId": "61559908568068",
+    "memberUserId": "",
+    "memberPhone": "01335692101",
+    "memberTrxId": "13834db1-c667-4a7e-aa78-0292bcdd6e56",
+    "memberQA": {
+      "তোমার নাম": "Samin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01335692101",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "13834db1-c667-4a7e-aa78-0292bcdd6e56"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:27:21.942Z",
+    "date": "1/24/2026, 9:27:21 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Huzaif Haque",
+    "facebookUserId": "61558996674099",
+    "memberUserId": "",
+    "memberPhone": "01711461918",
+    "memberTrxId": "852fd512-8aea-4447-909b-2fc492b76a9b",
+    "memberQA": {
+      "তোমার নাম": "Huzaif Haque Hammad",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711461918",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "852fd512-8aea-4447-909b-2fc492b76a9b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:27:27.486Z",
+    "date": "1/24/2026, 9:27:27 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Abu Bakar Siddik",
+    "facebookUserId": "61586956346842",
+    "memberUserId": "",
+    "memberPhone": "01725556855",
+    "memberTrxId": "790072c6-74ab-4811-9fd9-badc8ec7924a",
+    "memberQA": {
+      "তোমার নাম": "Abu Bakar Siddik",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01725556855",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "790072c6-74ab-4811-9fd9-badc8ec7924a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:27:32.947Z",
+    "date": "1/24/2026, 9:27:32 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Shahida Sultana",
+    "facebookUserId": "100075780992845",
+    "memberUserId": "",
+    "memberPhone": "01983023485",
+    "memberTrxId": "72791c93dcce42cf8296af651477cb6a",
+    "memberQA": {
+      "তোমার নাম": "Jannatul",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01983023485",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "72791c93dcce42cf8296af651477cb6a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:27:38.497Z",
+    "date": "1/24/2026, 9:27:38 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Lipi Ghosh",
+    "facebookUserId": "100039249519308",
+    "memberUserId": "",
+    "memberPhone": "01679362325",
+    "memberTrxId": "abir ghosh",
+    "memberQA": {
+      "তোমার নাম": "abir  ghosh",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01679362325",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "abir ghosh"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:27:54.643Z",
+    "date": "1/24/2026, 9:27:54 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "SikDer Biplob",
+    "facebookUserId": "100068802205117",
+    "memberUserId": "",
+    "memberPhone": "01852074261",
+    "memberTrxId": "bdb10f68-3a5e-44bb-b197-568b3d28434a",
+    "memberQA": {
+      "তোমার নাম": "Tashfia Akter Maysha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01852074261",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "bdb10f68-3a5e-44bb-b197-568b3d28434a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:27:59.984Z",
+    "date": "1/24/2026, 9:27:59 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "SH AY ON",
+    "facebookUserId": "100091360532792",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Shayon Mondol @ gmail.com"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:28:17.954Z",
+    "date": "1/24/2026, 9:28:17 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Sealina Akther",
+    "facebookUserId": "100012379387821",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Ayesha Aktar"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:28:34.231Z",
+    "date": "1/24/2026, 9:28:34 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Saima Nasrin",
+    "facebookUserId": "100022543983126",
+    "memberUserId": "",
+    "memberPhone": "01741282253",
+    "memberTrxId": "Z-090126-261008-A4-B2",
+    "memberQA": {
+      "তোমার নাম": "MUGDHO",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01741282253",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Z-090126-261008-A4-B2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:28:39.709Z",
+    "date": "1/24/2026, 9:28:39 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Tania Sultana",
+    "facebookUserId": "100052668782615",
+    "memberUserId": "",
+    "memberPhone": "01634844396",
+    "memberTrxId": "33acc173-e9dd-4450-9ad5-6bba6c4fbdce",
+    "memberQA": {
+      "তোমার নাম": "MD. Tamim Hassan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01634844396",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "33acc173-e9dd-4450-9ad5-6bba6c4fbdce"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:28:45.126Z",
+    "date": "1/24/2026, 9:28:45 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Hemen Ta",
+    "facebookUserId": "61573920601857",
+    "memberUserId": "",
+    "memberPhone": "+8801757-780721",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Lamiya",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "+8801757-780721"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:28:50.699Z",
+    "date": "1/24/2026, 9:28:50 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Morium Akter",
+    "facebookUserId": "100002443848094",
+    "memberUserId": "",
+    "memberPhone": "01717022115",
+    "memberTrxId": "116350c2-b161-40ce-bb09-fec312f8d42f",
+    "memberQA": {
+      "তোমার নাম": "Arib Sean",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01717022115",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "116350c2-b161-40ce-bb09-fec312f8d42f"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:28:56.242Z",
+    "date": "1/24/2026, 9:28:56 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Abid Jabid",
+    "facebookUserId": "61561307391744",
+    "memberUserId": "",
+    "memberPhone": "01704734666",
+    "memberTrxId": "075865e4-dc97-47a5-ab24-aaccce521d58",
+    "memberQA": {
+      "তোমার নাম": "Md. Jabid Hasan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01704734666",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "075865e4-dc97-47a5-ab24-aaccce521d58"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:29:01.711Z",
+    "date": "1/24/2026, 9:29:01 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Lipi Banik",
+    "facebookUserId": "100032784938611",
+    "memberUserId": "",
+    "memberPhone": "01317869836",
+    "memberTrxId": "c3e52d0d-5594-4ce5-ace4-8e5732b8ba3c",
+    "memberQA": {
+      "তোমার নাম": "Labonno Karmakar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01317869836",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "c3e52d0d-5594-4ce5-ace4-8e5732b8ba3c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:29:07.252Z",
+    "date": "1/24/2026, 9:29:07 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Kona Rani Paul",
+    "facebookUserId": "61586937182147",
+    "memberUserId": "",
+    "memberPhone": "01319254241",
+    "memberTrxId": "DAM7DQPALH",
+    "memberQA": {
+      "তোমার নাম": "Kona Rani Paul",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01319254241",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAM7DQPALH"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:29:12.555Z",
+    "date": "1/24/2026, 9:29:12 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Md Mohidul Hasan",
+    "facebookUserId": "100060689075452",
+    "memberUserId": "",
+    "memberPhone": "0138281351",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Kamaru Usman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "0138281351"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:29:28.749Z",
+    "date": "1/24/2026, 9:29:28 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "H.R. Alif",
+    "facebookUserId": "61577309045588",
+    "memberUserId": "",
+    "memberPhone": "01876341024",
+    "memberTrxId": "hamderabbialif1@gmail.com",
+    "memberQA": {
+      "তোমার নাম": "Md Hamde Rabbi Alif",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01876341024",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "hamderabbialif1@gmail.com"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:29:34.052Z",
+    "date": "1/24/2026, 9:29:34 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Noman Shohan",
+    "facebookUserId": "100081694303347",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Noman"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:29:39.366Z",
+    "date": "1/24/2026, 9:29:39 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Yeasmin Akter",
+    "facebookUserId": "100053181740806",
+    "memberUserId": "",
+    "memberPhone": "01951406491",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Tasfia Imroz",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01951406491"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:30:18.959Z",
+    "date": "1/24/2026, 9:30:18 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Easmin Kabir",
+    "facebookUserId": "61576735719443",
+    "memberUserId": "",
+    "memberPhone": "01756000198",
+    "memberTrxId": "491f6b29–a66f–48fd–9a3d–4db8edda2520",
+    "memberQA": {
+      "তোমার নাম": "Amena Akter Nupur",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01756000198",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "491f6b29–a66f–48fd–9a3d–4db8edda2520"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:30:24.427Z",
+    "date": "1/24/2026, 9:30:24 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Shaila Shahid",
+    "facebookUserId": "100009138878965",
+    "memberUserId": "",
+    "memberPhone": "01871773839",
+    "memberTrxId": "123456",
+    "memberQA": {
+      "তোমার নাম": "MalihaMunawara",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01871773839",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "123456"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:30:29.939Z",
+    "date": "1/24/2026, 9:30:29 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Atique Zaman",
+    "facebookUserId": "1631419388",
+    "memberUserId": "",
+    "memberPhone": "01713255612",
+    "memberTrxId": "79447d76-4778-4133-aadd-61694f1410f1",
+    "memberQA": {
+      "তোমার নাম": "* Student Name : Mohammad Mustayeen Abdullah \n* Facebook ID Name : Atique Zaman \n* Enrol Number :01713255612\n* Transaction ID :79447d76-4778-4133-aadd-61694f1410f1\n* Class : 9\n* Facebook id link :https://www.facebook.com/share/1BVmtrXy3X/\n* Group Name : Science",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01713255612",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "79447d76-4778-4133-aadd-61694f1410f1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:30:35.399Z",
+    "date": "1/24/2026, 9:30:35 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Bilkis Chaya",
+    "facebookUserId": "100009353358702",
+    "memberUserId": "",
+    "memberPhone": "01732076584",
+    "memberTrxId": "a9772e40-22e4-48d0-aaff-36c28c121c2b",
+    "memberQA": {
+      "তোমার নাম": "Tasmia",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01732076584",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a9772e40-22e4-48d0-aaff-36c28c121c2b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:30:40.949Z",
+    "date": "1/24/2026, 9:30:40 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Khadija Prity",
+    "facebookUserId": "61577133368074",
+    "memberUserId": "",
+    "memberPhone": "01339229709",
+    "memberTrxId": "510ddf3284124176baa0b7eaefe96F14",
+    "memberQA": {
+      "তোমার নাম": "Khadija Akter",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01339229709",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "510ddf3284124176baa0b7eaefe96F14"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:31:18.374Z",
+    "date": "1/24/2026, 9:31:18 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Runa Layla At Teachers",
+    "facebookUserId": "100093028923040",
+    "memberUserId": "",
+    "memberPhone": "01823709222",
+    "memberTrxId": "817ccfcc-9a98-47d6-a34e-73027f39631d",
+    "memberQA": {
+      "তোমার নাম": "Amena binta kawsar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01823709222",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "817ccfcc-9a98-47d6-a34e-73027f39631d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:31:55.931Z",
+    "date": "1/24/2026, 9:31:55 AM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Mehnaz Masud",
+    "facebookUserId": "100000473278406",
+    "memberUserId": "",
+    "memberPhone": "01816763303",
+    "memberTrxId": "dcb628ce-4b86-48f4-8f96-0eb53387c6a1",
+    "memberQA": {
+      "তোমার নাম": "Mashir Raeem Masud",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816763303",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dcb628ce-4b86-48f4-8f96-0eb53387c6a1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T13:42:49.515Z",
+    "date": "1/24/2026, 7:42:49 PM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Tania Sultana",
+    "facebookUserId": "100052668782615",
+    "memberUserId": "",
+    "memberPhone": "01634844396",
+    "memberTrxId": "488ab488-0772-4b63-8941-2418a28710cd",
+    "memberQA": {
+      "তোমার নাম": "MD.Tamim Hassan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01634844396",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "488ab488-0772-4b63-8941-2418a28710cd"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T13:42:54.996Z",
+    "date": "1/24/2026, 7:42:54 PM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Kaynat Firoza",
+    "facebookUserId": "100002190268329",
+    "memberUserId": "",
+    "memberPhone": "01777882226",
+    "memberTrxId": "fad1cd24-f3fd-4b9b-acc2-6bf6a8b34fa2",
+    "memberQA": {
+      "তোমার নাম": "Shabib Arik Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01777882226",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "fad1cd24-f3fd-4b9b-acc2-6bf6a8b34fa2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T13:43:00.477Z",
+    "date": "1/24/2026, 7:43:00 PM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Atique Zaman",
+    "facebookUserId": "1631419388",
+    "memberUserId": "",
+    "memberPhone": "01713255612",
+    "memberTrxId": "79447d76-4778-4133-aadd-61694f1410f1",
+    "memberQA": {
+      "তোমার নাম": "Mustayeen Abdullah",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01713255612",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "79447d76-4778-4133-aadd-61694f1410f1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T13:43:37.820Z",
+    "date": "1/24/2026, 7:43:37 PM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Rai An",
+    "facebookUserId": "61575076230351",
+    "memberUserId": "",
+    "memberPhone": "01818817767",
+    "memberTrxId": "bcc12e24-d760-4b49-b072-7185ad58b7ca",
+    "memberQA": {
+      "তোমার নাম": "Raian",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01818817767",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "bcc12e24-d760-4b49-b072-7185ad58b7ca"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

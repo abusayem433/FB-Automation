@@ -664,5 +664,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:03:54.516Z",
+    "date": "1/24/2026, 9:03:54 AM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Safayet Nawar",
+    "facebookUserId": "100086937127685",
+    "memberUserId": "100086937127685",
+    "memberPhone": "01721213782",
+    "memberTrxId": "eddcc442-325c-433d-8ad2-a123082b7c6b",
+    "memberQA": {
+      "তোমার নাম": "Safayet Nawar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01721213782",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "eddcc442-325c-433d-8ad2-a123082b7c6b"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

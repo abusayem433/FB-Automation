@@ -88,5 +88,58 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-22T08:49:50.867Z",
+    "date": "1/22/2026, 2:49:50 PM",
+    "className": "Class 9 Bangla (2026)",
+    "memberName": "Abu Bakar Siddik",
+    "facebookUserId": "61586956346842",
+    "memberUserId": "",
+    "memberPhone": "01725556855",
+    "memberTrxId": "790072c6-74ab-4811-9fd9-badc8ec7924a",
+    "memberQA": {
+      "তোমার নাম": "Abu Bakar Siddik",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01725556855",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "790072c6-74ab-4811-9fd9-badc8ec7924a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:32:34.857Z",
+    "date": "1/24/2026, 9:32:34 AM",
+    "className": "Class 9 Bangla (2026)",
+    "memberName": "Ore Wa Trihan",
+    "facebookUserId": "61582341775440",
+    "memberUserId": "",
+    "memberPhone": "01829608886",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Triahn",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01829608886"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:32:51.030Z",
+    "date": "1/24/2026, 9:32:51 AM",
+    "className": "Class 9 Bangla (2026)",
+    "memberName": "Mehnaz Masud",
+    "facebookUserId": "100000473278406",
+    "memberUserId": "",
+    "memberPhone": "01816763303",
+    "memberTrxId": "dcb628ce-4b86-48f4-8f96-0eb53387c6a1",
+    "memberQA": {
+      "তোমার নাম": "Mashir Raeem Masud",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816763303",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dcb628ce-4b86-48f4-8f96-0eb53387c6a1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

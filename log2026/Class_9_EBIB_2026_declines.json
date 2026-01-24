@@ -272,5 +272,40 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:37:47.719Z",
+    "date": "1/24/2026, 9:37:47 AM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Shamsun Nahar",
+    "facebookUserId": "1632527624",
+    "memberUserId": "",
+    "memberPhone": "01776178787",
+    "memberTrxId": "DAM4DRE6OK",
+    "memberQA": {
+      "তোমার নাম": "সারা মাহদীয়া",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01776178787",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAM4DRE6OK"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:37:53.032Z",
+    "date": "1/24/2026, 9:37:53 AM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Abrar Bin Absar",
+    "facebookUserId": "100035102888591",
+    "memberUserId": "",
+    "memberPhone": "01825777476",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "ayyan bin absar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01825777476"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

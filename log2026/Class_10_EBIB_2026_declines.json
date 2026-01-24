@@ -236,5 +236,57 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:07:01.549Z",
+    "date": "1/24/2026, 9:07:01 AM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "J Ryan",
+    "facebookUserId": "61553991875236",
+    "memberUserId": "",
+    "memberPhone": "01795260805",
+    "memberTrxId": "10b3001a-b06b-4de7-9dd5-57b2f0e86772",
+    "memberQA": {
+      "তোমার নাম": "Luther",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01795260805",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "10b3001a-b06b-4de7-9dd5-57b2f0e86772"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:07:06.934Z",
+    "date": "1/24/2026, 9:07:06 AM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Sumaiya Khatun",
+    "facebookUserId": "61565413492974",
+    "memberUserId": "",
+    "memberPhone": "01846906685",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sumaiya",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01846906685"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T13:31:36.210Z",
+    "date": "1/24/2026, 7:31:36 PM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Sumaiya Khatun",
+    "facebookUserId": "61565413492974",
+    "memberUserId": "",
+    "memberPhone": "01846906685",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sumaiya",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01846906685"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

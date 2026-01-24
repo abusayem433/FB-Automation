@@ -435,5 +435,119 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:10:42.427Z",
+    "date": "1/24/2026, 9:10:42 AM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Rafci Khan",
+    "facebookUserId": "61586923740915",
+    "memberUserId": "",
+    "memberPhone": "01711373508",
+    "memberTrxId": "04e50a5a-fe5d-4ca9-947c-3452c355e497",
+    "memberQA": {
+      "তোমার নাম": "Rafci Khan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711373508",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "04e50a5a-fe5d-4ca9-947c-3452c355e497"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:10:58.346Z",
+    "date": "1/24/2026, 9:10:58 AM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Oishe Oishe",
+    "facebookUserId": "61586312116781",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Oishe"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T03:11:03.640Z",
+    "date": "1/24/2026, 9:11:03 AM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Kamrul Hasan",
+    "facebookUserId": "100016453877208",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Maimunah Hasan Lameyah"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T13:34:21.795Z",
+    "date": "1/24/2026, 7:34:21 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Oishe Oishe",
+    "facebookUserId": "61586312116781",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Saima Saima"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T13:34:27.158Z",
+    "date": "1/24/2026, 7:34:27 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Saima Saima",
+    "facebookUserId": "100089580346385",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "oishe"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T13:34:32.494Z",
+    "date": "1/24/2026, 7:34:32 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Murshida Jahan Mafi",
+    "facebookUserId": "61573600689870",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Murshida jahan mafi"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-24T13:34:48.572Z",
+    "date": "1/24/2026, 7:34:48 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Kamrul Hasan",
+    "facebookUserId": "100016453877208",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Maimunah Hasan Lameyah"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]
