@@ -1322,5 +1322,23 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:22:38.305Z",
+    "date": "1/25/2026, 1:22:38 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Ajra Taskin",
+    "facebookUserId": "61572528251518",
+    "memberUserId": "",
+    "memberPhone": "01886441339",
+    "memberTrxId": "448339",
+    "memberQA": {
+      "তোমার নাম": "ajra taskin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01886441339",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "448339"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

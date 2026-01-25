@@ -680,5 +680,21 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:16:10.517Z",
+    "date": "1/25/2026, 1:16:10 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Murshida Jahan Mafi",
+    "facebookUserId": "61573600689870",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Murshida jahan mafi"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

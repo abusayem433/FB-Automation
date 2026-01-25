@@ -2405,5 +2405,58 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:24:44.045Z",
+    "date": "1/25/2026, 1:24:44 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Anisha Rahman",
+    "facebookUserId": "61585373907021",
+    "memberUserId": "",
+    "memberPhone": "01969242756",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Anisha Rahman Rupa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01969242756"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:25:01.448Z",
+    "date": "1/25/2026, 1:25:01 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Rafi Rafi",
+    "facebookUserId": "61575561242113",
+    "memberUserId": "",
+    "memberPhone": "01794889172",
+    "memberTrxId": "Transaction ID : dcce0ed1-d556-491a-ba4f-dc0eaae8fa0e",
+    "memberQA": {
+      "তোমার নাম": "Rafi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01794889172",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Transaction ID : dcce0ed1-d556-491a-ba4f-dc0eaae8fa0e"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:26:16.396Z",
+    "date": "1/25/2026, 1:26:16 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Rafi Rafi",
+    "facebookUserId": "61575561242113",
+    "memberUserId": "",
+    "memberPhone": "01794889172",
+    "memberTrxId": "Transaction ID : dcce0ed1-d556-491a-ba4f-dc0eaae8fa0e",
+    "memberQA": {
+      "তোমার নাম": "Rafi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01794889172",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Transaction ID : dcce0ed1-d556-491a-ba4f-dc0eaae8fa0e"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

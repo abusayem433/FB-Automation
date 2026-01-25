@@ -557,5 +557,39 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:18:25.982Z",
+    "date": "1/25/2026, 1:18:25 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Tasmin Sultana",
+    "facebookUserId": "100094933214084",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Tasmin"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:18:31.592Z",
+    "date": "1/25/2026, 1:18:31 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Zubayer Rahman",
+    "facebookUserId": "100066627005797",
+    "memberUserId": "",
+    "memberPhone": "01303768414",
+    "memberTrxId": "5110611d-c8de-4996-84f8-03998b91f5ab",
+    "memberQA": {
+      "তোমার নাম": "Zubayer",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01303768414",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5110611d-c8de-4996-84f8-03998b91f5ab"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

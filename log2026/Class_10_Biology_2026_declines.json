@@ -678,5 +678,58 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:17:35.533Z",
+    "date": "1/25/2026, 1:17:35 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Shajidul Islam Chowdhury",
+    "facebookUserId": "61555042241584",
+    "memberUserId": "",
+    "memberPhone": "01790812964",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Shajidul Islam Chowdhury",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01790812964"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:17:41.139Z",
+    "date": "1/25/2026, 1:17:41 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Taposi Rani Deb",
+    "facebookUserId": "100059753492502",
+    "memberUserId": "",
+    "memberPhone": "01875244503",
+    "memberTrxId": "Chitralekha",
+    "memberQA": {
+      "তোমার নাম": "Chitarlekha Debnath",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01875244503",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Chitralekha"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:17:46.876Z",
+    "date": "1/25/2026, 1:17:46 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Samim Islam",
+    "facebookUserId": "61576004181189",
+    "memberUserId": "",
+    "memberPhone": "01324014263",
+    "memberTrxId": "samim",
+    "memberQA": {
+      "তোমার নাম": "samim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01324014263",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "samim"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

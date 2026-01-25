@@ -2172,5 +2172,77 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:27:06.112Z",
+    "date": "1/25/2026, 1:27:06 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Mukta Sushil",
+    "facebookUserId": "100068383822379",
+    "memberUserId": "",
+    "memberPhone": "01815672235",
+    "memberTrxId": "70c39d61-0085-47d6-a9b8-d2da12f3d55c",
+    "memberQA": {
+      "তোমার নাম": "diptha sushil",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01815672235",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "70c39d61-0085-47d6-a9b8-d2da12f3d55c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:27:11.595Z",
+    "date": "1/25/2026, 1:27:11 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Yeasmin Jahan",
+    "facebookUserId": "100012675974568",
+    "memberUserId": "",
+    "memberPhone": "01722508942",
+    "memberTrxId": "234253",
+    "memberQA": {
+      "তোমার নাম": "Naba jahan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01722508942",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "234253"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:27:17.094Z",
+    "date": "1/25/2026, 1:27:17 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Kohinoor Akter Ripo",
+    "facebookUserId": "100029484303330",
+    "memberUserId": "",
+    "memberPhone": "01829525235",
+    "memberTrxId": "DAO6FW5TS2",
+    "memberQA": {
+      "তোমার নাম": "faria",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01829525235",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAO6FW5TS2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:27:33.275Z",
+    "date": "1/25/2026, 1:27:33 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Taposi Rani Deb",
+    "facebookUserId": "100059753492502",
+    "memberUserId": "",
+    "memberPhone": "01875244503",
+    "memberTrxId": "Chitralekha",
+    "memberQA": {
+      "তোমার নাম": "Chitralekha Debnath",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01875244503",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Chitralekha"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

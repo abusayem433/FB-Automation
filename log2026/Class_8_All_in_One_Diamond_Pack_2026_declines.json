@@ -2639,5 +2639,40 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:30:07.303Z",
+    "date": "1/25/2026, 1:30:07 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Salma Dewan",
+    "facebookUserId": "100087155958297",
+    "memberUserId": "",
+    "memberPhone": "01982200544",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Fatema mehzabin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01982200544"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:30:12.817Z",
+    "date": "1/25/2026, 1:30:12 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Atique Zaman",
+    "facebookUserId": "1631419388",
+    "memberUserId": "",
+    "memberPhone": "01713255612",
+    "memberTrxId": "79447d76-4778-4133-aadd-61694f1410f1",
+    "memberQA": {
+      "তোমার নাম": "Mohammad Mustayeen Abdullah",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01713255612",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "79447d76-4778-4133-aadd-61694f1410f1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

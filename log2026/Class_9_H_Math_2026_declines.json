@@ -414,5 +414,39 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:40:06.189Z",
+    "date": "1/25/2026, 1:40:06 PM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Shithil Shanto",
+    "facebookUserId": "61559871805648",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Shanto"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-25T07:40:32.988Z",
+    "date": "1/25/2026, 1:40:32 PM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Sajid Arfin",
+    "facebookUserId": "61558227230203",
+    "memberUserId": "",
+    "memberPhone": "01752157488",
+    "memberTrxId": "6a80e5b8-77c5-4fa8-a651-5741f1a4cbfa",
+    "memberQA": {
+      "তোমার নাম": "Shithil shanto",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01752157488",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6a80e5b8-77c5-4fa8-a651-5741f1a4cbfa"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]
