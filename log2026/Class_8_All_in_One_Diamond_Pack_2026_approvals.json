@@ -5056,5 +5056,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:33:05.484Z",
+    "date": "1/26/2026, 4:33:05 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Notthereal Sqb",
+    "facebookUserId": "61586146354825",
+    "memberUserId": "61586146354825",
+    "memberPhone": "01731969791",
+    "memberTrxId": "80dc42dd-aec3-4a24-8a1c-7850a6c48696",
+    "memberQA": {
+      "তোমার নাম": "Arjumand",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01731969791",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "80dc42dd-aec3-4a24-8a1c-7850a6c48696"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

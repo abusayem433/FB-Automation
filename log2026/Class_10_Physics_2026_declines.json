@@ -2244,5 +2244,127 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:28:07.335Z",
+    "date": "1/26/2026, 4:28:07 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Zillur Rahman",
+    "facebookUserId": "100087261169512",
+    "memberUserId": "",
+    "memberPhone": "01857747404",
+    "memberTrxId": "ce75a0e0-ed98-4c30-8dc3-122c9ebd134c",
+    "memberQA": {
+      "তোমার নাম": "Anika Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01857747404",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ce75a0e0-ed98-4c30-8dc3-122c9ebd134c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:28:34.046Z",
+    "date": "1/26/2026, 4:28:34 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Monalisa Mim Mowsumi",
+    "facebookUserId": "61560757779430",
+    "memberUserId": "",
+    "memberPhone": "01709028603",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mowsumi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01709028603"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:28:39.358Z",
+    "date": "1/26/2026, 4:28:39 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Maksudur Rahman",
+    "facebookUserId": "100061568387230",
+    "memberUserId": "",
+    "memberPhone": "01924551535",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Maksudur Rahman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01924551535"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:28:55.510Z",
+    "date": "1/26/2026, 4:28:55 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Shimla Akter",
+    "facebookUserId": "61572449033123",
+    "memberUserId": "",
+    "memberPhone": "01928142379",
+    "memberTrxId": "518e1f70-3bdf-4455-9293-d364fe071686",
+    "memberQA": {
+      "তোমার নাম": "Shimla",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01928142379",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "518e1f70-3bdf-4455-9293-d364fe071686"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:29:00.987Z",
+    "date": "1/26/2026, 4:29:00 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Jahidul Islam",
+    "facebookUserId": "61586790375663",
+    "memberUserId": "",
+    "memberPhone": "01855258233",
+    "memberTrxId": "e3723b2d-a008-4b9b-827e-8eb0aa711460",
+    "memberQA": {
+      "তোমার নাম": "Jahidul IslamJahidul Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01855258233",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e3723b2d-a008-4b9b-827e-8eb0aa711460"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:29:27.595Z",
+    "date": "1/26/2026, 4:29:27 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Nowshin",
+    "facebookUserId": "61577216685466",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Nowshin"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:29:54.342Z",
+    "date": "1/26/2026, 4:29:54 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Abbas Aly",
+    "facebookUserId": "61586826433800",
+    "memberUserId": "",
+    "memberPhone": "01971854958",
+    "memberTrxId": "DAQ3HJQD21",
+    "memberQA": {
+      "তোমার নাম": "ABBAS ALY",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01971854958",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAQ3HJQD21"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

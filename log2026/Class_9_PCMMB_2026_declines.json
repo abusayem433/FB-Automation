@@ -1330,5 +1330,73 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:45:56.841Z",
+    "date": "1/26/2026, 4:45:56 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Israt Jahan",
+    "facebookUserId": "100080159617091",
+    "memberUserId": "",
+    "memberPhone": "01847012070",
+    "memberTrxId": "01833157429",
+    "memberQA": {
+      "তোমার নাম": "Alifa Ahamed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01847012070",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "01833157429"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:46:55.409Z",
+    "date": "1/26/2026, 4:46:55 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Saima Islam",
+    "facebookUserId": "61585864084412",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Saima Islam"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:47:00.726Z",
+    "date": "1/26/2026, 4:47:00 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Misty Meye",
+    "facebookUserId": "61575703951854",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Moyna"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:47:06.202Z",
+    "date": "1/26/2026, 4:47:06 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Mahbuba Akter Anika",
+    "facebookUserId": "61568443890468",
+    "memberUserId": "",
+    "memberPhone": "01720324824",
+    "memberTrxId": "e4dbfbd8-6fba-4aea-9a0e-39791e217398",
+    "memberQA": {
+      "তোমার নাম": "Mahbuba Akter",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01720324824",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e4dbfbd8-6fba-4aea-9a0e-39791e217398"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

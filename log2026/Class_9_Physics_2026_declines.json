@@ -568,5 +568,21 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:47:45.849Z",
+    "date": "1/26/2026, 4:47:45 PM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Wasi Hasan",
+    "facebookUserId": "61579375570807",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "ওয়াসি"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

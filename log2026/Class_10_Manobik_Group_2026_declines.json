@@ -1340,5 +1340,40 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:23:32.889Z",
+    "date": "1/26/2026, 4:23:32 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Emoti ON",
+    "facebookUserId": "61581199136072",
+    "memberUserId": "",
+    "memberPhone": "01728195843",
+    "memberTrxId": "a2918467-a4e3-4bf1-872c-995d33d3ac25",
+    "memberQA": {
+      "তোমার নাম": "Abdullah Zaman safin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01728195843",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a2918467-a4e3-4bf1-872c-995d33d3ac25"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:23:38.242Z",
+    "date": "1/26/2026, 4:23:38 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Akhi Sarkar",
+    "facebookUserId": "100078163485012",
+    "memberUserId": "",
+    "memberPhone": "01307510733",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Chaiti Sarker Mim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01307510733"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

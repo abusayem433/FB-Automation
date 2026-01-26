@@ -426,5 +426,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:38:46.579Z",
+    "date": "1/26/2026, 4:38:46 PM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Afroza Bulbul",
+    "facebookUserId": "61553848260032",
+    "memberUserId": "",
+    "memberPhone": "01912949470",
+    "memberTrxId": "9c-fe9e-4901-bc06-38c3e51681fO",
+    "memberQA": {
+      "তোমার নাম": "Md Rimon rana",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01912949470",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "9c-fe9e-4901-bc06-38c3e51681fO"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

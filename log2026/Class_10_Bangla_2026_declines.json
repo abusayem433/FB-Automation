@@ -696,5 +696,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:15:51.995Z",
+    "date": "1/26/2026, 4:15:51 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Jahidul Islam",
+    "facebookUserId": "61586790375663",
+    "memberUserId": "",
+    "memberPhone": "01855258233",
+    "memberTrxId": "e3723b2d-a008-4b9b-827e-8eb0aa711460v",
+    "memberQA": {
+      "তোমার নাম": "Jahidul Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01855258233",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e3723b2d-a008-4b9b-827e-8eb0aa711460v"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

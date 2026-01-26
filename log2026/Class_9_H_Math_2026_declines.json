@@ -448,5 +448,74 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:42:08.431Z",
+    "date": "1/26/2026, 4:42:08 PM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Mira Ly",
+    "facebookUserId": "61582777726984",
+    "memberUserId": "",
+    "memberPhone": "01731504325",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Jerin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01731504325"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:42:13.813Z",
+    "date": "1/26/2026, 4:42:13 PM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Mahadi Bhuiyan",
+    "facebookUserId": "61571514398267",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mahadi"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:42:19.279Z",
+    "date": "1/26/2026, 4:42:19 PM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Runa Kar",
+    "facebookUserId": "100050538432223",
+    "memberUserId": "",
+    "memberPhone": "01308054290",
+    "memberTrxId": "Plato",
+    "memberQA": {
+      "তোমার নাম": "Plato",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01308054290",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Plato"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:42:35.407Z",
+    "date": "1/26/2026, 4:42:35 PM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Mahbuba Akter Anika",
+    "facebookUserId": "61568443890468",
+    "memberUserId": "",
+    "memberPhone": "01720324824",
+    "memberTrxId": "e4dbfbd8-6fba-4aea-9a0e-39791e217398",
+    "memberQA": {
+      "তোমার নাম": "Mahbuba Akter",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01720324824",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e4dbfbd8-6fba-4aea-9a0e-39791e217398"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

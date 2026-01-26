@@ -731,5 +731,59 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:17:03.424Z",
+    "date": "1/26/2026, 4:17:03 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Rafi Rafi",
+    "facebookUserId": "61575561242113",
+    "memberUserId": "",
+    "memberPhone": "01794889172",
+    "memberTrxId": "dcce0ed1-d556-491a-ba4f-dc0eaae8fa0e",
+    "memberQA": {
+      "তোমার নাম": "Rafi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01794889172",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dcce0ed1-d556-491a-ba4f-dc0eaae8fa0e"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:17:08.954Z",
+    "date": "1/26/2026, 4:17:08 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Jahidul Islam",
+    "facebookUserId": "61586790375663",
+    "memberUserId": "",
+    "memberPhone": "01855258233",
+    "memberTrxId": "e3723b2d-a008-4b9b-827e-8eb0aa711460",
+    "memberQA": {
+      "তোমার নাম": "Jahidul Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01855258233",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e3723b2d-a008-4b9b-827e-8eb0aa711460"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:17:25.075Z",
+    "date": "1/26/2026, 4:17:25 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Runa Kar",
+    "facebookUserId": "100050538432223",
+    "memberUserId": "",
+    "memberPhone": "01308054290",
+    "memberTrxId": "Plato",
+    "memberQA": {
+      "তোমার নাম": "Plato kar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01308054290",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Plato"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -586,5 +586,41 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:38:01.559Z",
+    "date": "1/26/2026, 4:38:01 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Rasheda Begum",
+    "facebookUserId": "61586870799550",
+    "memberUserId": "",
+    "memberPhone": "01306623993",
+    "memberTrxId": "38dc6e21-fc83-47fc-ac21-52604ef29325",
+    "memberQA": {
+      "তোমার নাম": "রাশেদা বেগম",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01306623993",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "38dc6e21-fc83-47fc-ac21-52604ef29325"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:38:07.124Z",
+    "date": "1/26/2026, 4:38:07 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Halima Khatun",
+    "facebookUserId": "100090422084401",
+    "memberUserId": "",
+    "memberPhone": "01761095506",
+    "memberTrxId": "মাত্র ৮৯৯ টাকায় শুরু, ৮৯৯ টাকা !!ধামাকা অফার!!\nআকর্ষণীয় 3D প্রিন্টেড ৬ পিছ চেয়ার কভার এবং ডাইনিং টেবিল কভার\nঅর্ডার করতে Order Now  তে ক্লিক করুন অথবা নিচের লিংকে ক্লিক করুন। https://www.insafbazar.xyz/category/3d-dining-table-cover",
+    "memberQA": {
+      "তোমার নাম": "Borsha Lota",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01761095506",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "মাত্র ৮৯৯ টাকায় শুরু, ৮৯৯ টাকা !!ধামাকা অফার!!\nআকর্ষণীয় 3D প্রিন্টেড ৬ পিছ চেয়ার কভার এবং ডাইনিং টেবিল কভার\nঅর্ডার করতে Order Now  তে ক্লিক করুন অথবা নিচের লিংকে ক্লিক করুন। https://www.insafbazar.xyz/category/3d-dining-table-cover"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

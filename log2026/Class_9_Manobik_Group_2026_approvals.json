@@ -466,5 +466,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-26T10:44:15.139Z",
+    "date": "1/26/2026, 4:44:15 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Antar Das",
+    "facebookUserId": "61561163217341",
+    "memberUserId": "61561163217341",
+    "memberPhone": "01760126655",
+    "memberTrxId": "051decb8-3131-4779-960e-ebf61fd90ab2",
+    "memberQA": {
+      "তোমার নাম": "Antar Das",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01760126655",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "051decb8-3131-4779-960e-ebf61fd90ab2"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]
