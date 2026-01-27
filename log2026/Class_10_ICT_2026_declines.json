@@ -549,5 +549,58 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-27T12:08:11.964Z",
+    "date": "1/27/2026, 6:08:11 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Sadananda Ghosh",
+    "facebookUserId": "100014756504319",
+    "memberUserId": "",
+    "memberPhone": "01772008844",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "স্বরূপ ঘোষ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01772008844"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-27T12:08:17.420Z",
+    "date": "1/27/2026, 6:08:17 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Nurul Islam Manik",
+    "facebookUserId": "61568813531931",
+    "memberUserId": "",
+    "memberPhone": "01346921534",
+    "memberTrxId": "প্রিয় শিক্ষার্থী, তোমার একাডেমিক প্রোগ্রাম ২০২৬ টি পারচেজ সফল হয়েছে। তোমার ইনভয়েস লিঙ্কঃ https://cutt.ly/ItxZyeZ0 \n\nকোর্সের প্রাইভেট গ্রুপ এ জয়েন করতে,\n\n                ১। গ্রুপ লিঙ্কঃ https://www.facebook.com/groups/1300801925419054\n\n                ২। এক্সেস কোডঃ ceaf7067-7772-4216-b377-57f1a6797c08\n\n                          \nতোমার গিফট  আমরা ১০-১৫ জানুয়ারি এর মধ্যে নির্দিষ্ট ঠিকানায় পাঠিয়ে দিবো।\n\n\nতুমি চাইলে তোমার বন্ধুকে রেফার করে জিতে নিতে পারো একটি আকর্ষণীয় হুডি! রেফার লিংক: https://acsfutureschool.com/claim-hoodie",
+    "memberQA": {
+      "তোমার নাম": "সাদিকা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01346921534",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "প্রিয় শিক্ষার্থী, তোমার একাডেমিক প্রোগ্রাম ২০২৬ টি পারচেজ সফল হয়েছে। তোমার ইনভয়েস লিঙ্কঃ https://cutt.ly/ItxZyeZ0 \n\nকোর্সের প্রাইভেট গ্রুপ এ জয়েন করতে,\n\n                ১। গ্রুপ লিঙ্কঃ https://www.facebook.com/groups/1300801925419054\n\n                ২। এক্সেস কোডঃ ceaf7067-7772-4216-b377-57f1a6797c08\n\n                          \nতোমার গিফট  আমরা ১০-১৫ জানুয়ারি এর মধ্যে নির্দিষ্ট ঠিকানায় পাঠিয়ে দিবো।\n\n\nতুমি চাইলে তোমার বন্ধুকে রেফার করে জিতে নিতে পারো একটি আকর্ষণীয় হুডি! রেফার লিংক: https://acsfutureschool.com/claim-hoodie"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-27T12:08:22.883Z",
+    "date": "1/27/2026, 6:08:22 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Md Zayeed",
+    "facebookUserId": "100087921072734",
+    "memberUserId": "",
+    "memberPhone": "01338907299",
+    "memberTrxId": "74VIP29R",
+    "memberQA": {
+      "তোমার নাম": "সাঈদ আবদুল্লাহ যায়িদ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01338907299",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "74VIP29R"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

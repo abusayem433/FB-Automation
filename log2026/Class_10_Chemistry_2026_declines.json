@@ -627,5 +627,75 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-27T12:02:26.897Z",
+    "date": "1/27/2026, 6:02:26 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Eserio Ryalin",
+    "facebookUserId": "61586793781973",
+    "memberUserId": "",
+    "memberPhone": "01937708840",
+    "memberTrxId": "4d396bd6-1af7-44b2-9f97-71a8a37bd5ea",
+    "memberQA": {
+      "তোমার নাম": "soha islam siza",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01937708840",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "4d396bd6-1af7-44b2-9f97-71a8a37bd5ea"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-27T12:02:32.418Z",
+    "date": "1/27/2026, 6:02:32 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "KEYA",
+    "facebookUserId": "61576923371153",
+    "memberUserId": "",
+    "memberPhone": "01865334714",
+    "memberTrxId": "86791ba5-d438-4c0b-bd50-0d4e570e3d32",
+    "memberQA": {
+      "তোমার নাম": "KEYA",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01865334714",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "86791ba5-d438-4c0b-bd50-0d4e570e3d32"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-27T12:02:37.732Z",
+    "date": "1/27/2026, 6:02:37 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "আম্মুর মিষ্টি মেয়ে",
+    "facebookUserId": "100091061570646",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Jannatul Ferdous Priya"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-27T12:02:53.901Z",
+    "date": "1/27/2026, 6:02:53 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Priyanka Barua",
+    "facebookUserId": "100053225750926",
+    "memberUserId": "",
+    "memberPhone": "01710013986",
+    "memberTrxId": "2722f400-2763-4e36-baaf-90f2b62b8480",
+    "memberQA": {
+      "তোমার নাম": "Arjyadip Barua",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01710013986",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "2722f400-2763-4e36-baaf-90f2b62b8480"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

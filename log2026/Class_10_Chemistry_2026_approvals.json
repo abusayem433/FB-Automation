@@ -1528,5 +1528,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-27T12:02:48.357Z",
+    "date": "1/27/2026, 6:02:48 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "M R Siam Khan",
+    "facebookUserId": "100091175139777",
+    "memberUserId": "100091175139777",
+    "memberPhone": "01604122367",
+    "memberTrxId": "90846dd7-27c1-4afc-9f73-81e6733696d5",
+    "memberQA": {
+      "তোমার নাম": "Siam Khan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01604122367",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "90846dd7-27c1-4afc-9f73-81e6733696d5"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

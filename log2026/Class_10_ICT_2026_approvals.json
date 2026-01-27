@@ -898,5 +898,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-27T12:08:06.528Z",
+    "date": "1/27/2026, 6:08:06 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Safayet Nawar",
+    "facebookUserId": "100086937127685",
+    "memberUserId": "100086937127685",
+    "memberPhone": "01721213782",
+    "memberTrxId": "6095f015-84c6-4ae1-8e6c-a7f3d409ebda",
+    "memberQA": {
+      "তোমার নাম": "Safayet Nawar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01721213782",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6095f015-84c6-4ae1-8e6c-a7f3d409ebda"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

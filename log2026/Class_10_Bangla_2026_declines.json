@@ -714,5 +714,22 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-27T12:00:47.765Z",
+    "date": "1/27/2026, 6:00:47 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Samia Nur",
+    "facebookUserId": "61576806764964",
+    "memberUserId": "",
+    "memberPhone": "০১৩২৫২৭২৩৯৪",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "সামিয়া সুলতানা সুইটি",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৩২৫২৭২৩৯৪"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

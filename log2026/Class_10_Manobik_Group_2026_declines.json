@@ -1375,5 +1375,41 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-27T12:09:02.025Z",
+    "date": "1/27/2026, 6:09:02 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "মো জিয়া",
+    "facebookUserId": "61581098828736",
+    "memberUserId": "",
+    "memberPhone": "01727688451",
+    "memberTrxId": "1e94a044-6690-43b9-9578-fe4d9c7c01fa",
+    "memberQA": {
+      "তোমার নাম": "sajol",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01727688451",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1e94a044-6690-43b9-9578-fe4d9c7c01fa"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-27T12:09:07.514Z",
+    "date": "1/27/2026, 6:09:07 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Imam Ali",
+    "facebookUserId": "100090980377205",
+    "memberUserId": "",
+    "memberPhone": "01935956882",
+    "memberTrxId": "dde08137-93d1-47fb-85c5-2d3492e4ba2b",
+    "memberQA": {
+      "তোমার নাম": "saima shirin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01935956882",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dde08137-93d1-47fb-85c5-2d3492e4ba2b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]
