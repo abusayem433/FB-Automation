@@ -103,5 +103,40 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T15:15:18.968Z",
+    "date": "1/28/2026, 9:15:18 PM",
+    "className": "Class 9 ICT (2026)",
+    "memberName": "Mrittik Tarafdar",
+    "facebookUserId": "100084513617924",
+    "memberUserId": "",
+    "memberPhone": "01312829898",
+    "memberTrxId": "5bd64583-304b-408c-b449-aa6237ce72ed",
+    "memberQA": {
+      "তোমার নাম": "Mrittik Tarafdar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01312829898",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5bd64583-304b-408c-b449-aa6237ce72ed"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T15:15:34.991Z",
+    "date": "1/28/2026, 9:15:34 PM",
+    "className": "Class 9 ICT (2026)",
+    "memberName": "Saikat Saikat",
+    "facebookUserId": "61554564734071",
+    "memberUserId": "",
+    "memberPhone": "0173990693",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Tajbid tajwar saikat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "0173990693"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

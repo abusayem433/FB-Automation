@@ -697,5 +697,41 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T14:43:29.313Z",
+    "date": "1/28/2026, 8:43:29 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Zubayer Rahman",
+    "facebookUserId": "100066627005797",
+    "memberUserId": "",
+    "memberPhone": "01303768414",
+    "memberTrxId": "5110611d-c8de-4996-84f8-03998b91f5ab",
+    "memberQA": {
+      "তোমার নাম": "Zubayer",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01303768414",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5110611d-c8de-4996-84f8-03998b91f5ab"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T14:43:34.808Z",
+    "date": "1/28/2026, 8:43:34 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Maisha Akther Eti",
+    "facebookUserId": "61586878005715",
+    "memberUserId": "",
+    "memberPhone": "01965464863",
+    "memberTrxId": "0990f71b-9e5d-4efe-b223-312d2cb34d72",
+    "memberQA": {
+      "তোমার নাম": "Maisha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01965464863",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0990f71b-9e5d-4efe-b223-312d2cb34d72"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

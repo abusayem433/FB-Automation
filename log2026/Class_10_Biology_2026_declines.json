@@ -802,5 +802,59 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T14:42:17.412Z",
+    "date": "1/28/2026, 8:42:17 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Raian Mostafa",
+    "facebookUserId": "100065602956576",
+    "memberUserId": "",
+    "memberPhone": "01871816194",
+    "memberTrxId": "f55ff823-e089-4e9a-b817-ea37478d45",
+    "memberQA": {
+      "তোমার নাম": "ফাউজিয়াতুল জান্নাত ছিমা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01871816194",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f55ff823-e089-4e9a-b817-ea37478d45"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T14:42:33.492Z",
+    "date": "1/28/2026, 8:42:33 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Bzs Asraful Islam",
+    "facebookUserId": "100090729702802",
+    "memberUserId": "",
+    "memberPhone": "01744102105",
+    "memberTrxId": "0e0c6a53-d12d-487e-96e2-034dcd2682f8",
+    "memberQA": {
+      "তোমার নাম": "S M NAFIM",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01744102105",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0e0c6a53-d12d-487e-96e2-034dcd2682f8"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T14:42:38.948Z",
+    "date": "1/28/2026, 8:42:38 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Maisha Akther Eti",
+    "facebookUserId": "61586878005715",
+    "memberUserId": "",
+    "memberPhone": "01965464863",
+    "memberTrxId": "0990f71b-9e5d-4efe-b223-312d2cb34d72",
+    "memberQA": {
+      "তোমার নাম": "Maisha Akther Eti",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01965464863",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0990f71b-9e5d-4efe-b223-312d2cb34d72"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -124,5 +124,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T15:15:29.612Z",
+    "date": "1/28/2026, 9:15:29 PM",
+    "className": "Class 9 ICT (2026)",
+    "memberName": "Rifat Rahat",
+    "facebookUserId": "61556089980589",
+    "memberUserId": "61556089980589",
+    "memberPhone": "01605884661",
+    "memberTrxId": "5bea2d8a-77c3-40a4-8353-3670e5c18f56",
+    "memberQA": {
+      "তোমার নাম": "Ahanaf Tahmid Rifat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01605884661",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5bea2d8a-77c3-40a4-8353-3670e5c18f56"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

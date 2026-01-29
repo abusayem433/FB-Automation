@@ -1411,5 +1411,23 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T14:49:31.947Z",
+    "date": "1/28/2026, 8:49:31 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Sabib Fahim",
+    "facebookUserId": "61566774878822",
+    "memberUserId": "",
+    "memberPhone": "01405022804",
+    "memberTrxId": "00cf1183-4d34-474c-9e1b-d3590682301d",
+    "memberQA": {
+      "তোমার নাম": "sabib ahamed fahim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01405022804",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "00cf1183-4d34-474c-9e1b-d3590682301d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

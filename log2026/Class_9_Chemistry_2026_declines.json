@@ -104,5 +104,22 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T15:11:24.903Z",
+    "date": "1/28/2026, 9:11:24 PM",
+    "className": "Class 9 Chemistry (2026)",
+    "memberName": "Md Miraj Hossen",
+    "facebookUserId": "100009516923058",
+    "memberUserId": "",
+    "memberPhone": "01612187819",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Moriym",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01612187819"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

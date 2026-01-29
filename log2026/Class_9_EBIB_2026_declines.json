@@ -307,5 +307,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T15:12:03.494Z",
+    "date": "1/28/2026, 9:12:03 PM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "M S RS",
+    "facebookUserId": "61558610470867",
+    "memberUserId": "",
+    "memberPhone": "01884544547",
+    "memberTrxId": "fa6b66ea-cffd-4beb-b847-4674c267d3e6",
+    "memberQA": {
+      "তোমার নাম": "Efty",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01884544547",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "fa6b66ea-cffd-4beb-b847-4674c267d3e6"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

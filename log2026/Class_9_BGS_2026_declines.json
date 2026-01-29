@@ -622,5 +622,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T15:09:51.970Z",
+    "date": "1/28/2026, 9:09:51 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Rasheda Begum",
+    "facebookUserId": "61586870799550",
+    "memberUserId": "",
+    "memberPhone": "01306623993",
+    "memberTrxId": "38dc6e21-fc83-47fc-ac21-52604ef29325",
+    "memberQA": {
+      "তোমার নাম": "রাশেদা বেগম",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01306623993",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "38dc6e21-fc83-47fc-ac21-52604ef29325"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

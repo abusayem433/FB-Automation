@@ -8672,5 +8672,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T14:41:37.230Z",
+    "date": "1/28/2026, 8:41:37 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Sabib Ahamed Fahim",
+    "facebookUserId": "61556684751412",
+    "memberUserId": "",
+    "memberPhone": "01405022804",
+    "memberTrxId": "00cf1183-4d34-474c-9e1b-d3590682301d",
+    "memberQA": {
+      "তোমার নাম": "sabib ahamed fahim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01405022804",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "00cf1183-4d34-474c-9e1b-d3590682301d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

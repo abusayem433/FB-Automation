@@ -418,5 +418,38 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T15:12:41.966Z",
+    "date": "1/28/2026, 9:12:41 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Rahat Kobir Mugdho",
+    "facebookUserId": "61555804659939",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mugdho"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T15:12:47.273Z",
+    "date": "1/28/2026, 9:12:47 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Umma Habiba Mariam",
+    "facebookUserId": "61556464845343",
+    "memberUserId": "",
+    "memberPhone": "01926751478",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Aliya",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01926751478"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

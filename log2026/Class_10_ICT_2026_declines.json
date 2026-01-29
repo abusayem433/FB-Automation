@@ -602,5 +602,40 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T14:48:36.888Z",
+    "date": "1/28/2026, 8:48:36 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "AL Amin Ruperber",
+    "facebookUserId": "100015206049288",
+    "memberUserId": "",
+    "memberPhone": "01912607071",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "K.M Nazmus Sakib",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01912607071"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T14:48:42.393Z",
+    "date": "1/28/2026, 8:48:42 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Md Zayeed",
+    "facebookUserId": "100087921072734",
+    "memberUserId": "",
+    "memberPhone": "01338907299",
+    "memberTrxId": "74VIP29R",
+    "memberQA": {
+      "তোমার নাম": "Said Abdullah Zayeed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01338907299",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "74VIP29R"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

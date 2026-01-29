@@ -731,5 +731,22 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T14:40:58.128Z",
+    "date": "1/28/2026, 8:40:58 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Mst Rowshan Akter",
+    "facebookUserId": "100067583272780",
+    "memberUserId": "",
+    "memberPhone": "01892550094",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Afia Oasima Sohana",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01892550094"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

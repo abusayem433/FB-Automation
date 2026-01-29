@@ -738,5 +738,58 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T14:58:09.966Z",
+    "date": "1/28/2026, 8:58:09 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "কাশেম আলি মাধ্যমিক বিদ্যালয়",
+    "facebookUserId": "100013340771224",
+    "memberUserId": "",
+    "memberPhone": "01772091843",
+    "memberTrxId": "ef1e17b3-425f-406f-9785-071fbf0ac666",
+    "memberQA": {
+      "তোমার নাম": "Nazifa Zaman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01772091843",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ef1e17b3-425f-406f-9785-071fbf0ac666"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T14:58:15.263Z",
+    "date": "1/28/2026, 8:58:15 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Lipe Saha",
+    "facebookUserId": "100057519205735",
+    "memberUserId": "",
+    "memberPhone": "01822566120",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Aradhya saha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01822566120"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T14:58:31.471Z",
+    "date": "1/28/2026, 8:58:31 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Shesera Veja Shapla",
+    "facebookUserId": "100023583711328",
+    "memberUserId": "",
+    "memberPhone": "01770852913",
+    "memberTrxId": "123456",
+    "memberQA": {
+      "তোমার নাম": "samira Tanzim Dighi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01770852913",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "123456"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

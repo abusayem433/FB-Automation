@@ -1654,5 +1654,41 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T14:58:04.499Z",
+    "date": "1/28/2026, 8:58:04 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Nur Muhammad",
+    "facebookUserId": "61585979512078",
+    "memberUserId": "61585979512078",
+    "memberPhone": "01815609920",
+    "memberTrxId": "737f3f83-4c62-430a-94c0-6b6d255e171b",
+    "memberQA": {
+      "তোমার নাম": "Walia Ahammad Rutba",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01815609920",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "737f3f83-4c62-430a-94c0-6b6d255e171b"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-28T14:58:26.010Z",
+    "date": "1/28/2026, 8:58:26 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Wahid Hasan Tamim",
+    "facebookUserId": "100076984076553",
+    "memberUserId": "100076984076553",
+    "memberPhone": "01709118785",
+    "memberTrxId": "b24c0091-c747-4083-8bcd-77552dcfe9fc",
+    "memberQA": {
+      "তোমার নাম": "Md Wahid Hasan Tamim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01709118785",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b24c0091-c747-4083-8bcd-77552dcfe9fc"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]
