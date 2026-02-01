@@ -2885,5 +2885,111 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-29T11:04:12.644Z",
+    "date": "1/29/2026, 5:04:12 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "N Nahar Islam",
+    "facebookUserId": "100009304533958",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "334cd35f-092c-4c16-92c3-62178a22aaaf"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-29T11:04:18.254Z",
+    "date": "1/29/2026, 5:04:18 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Shamim Ara Shammi",
+    "facebookUserId": "100053198932136",
+    "memberUserId": "",
+    "memberPhone": "01712644870",
+    "memberTrxId": "800000",
+    "memberQA": {
+      "তোমার নাম": "tabeeb",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01712644870",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "800000"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-29T11:04:23.791Z",
+    "date": "1/29/2026, 5:04:23 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Farida Yesmin",
+    "facebookUserId": "100050868876203",
+    "memberUserId": "",
+    "memberPhone": "01827646816",
+    "memberTrxId": "708",
+    "memberQA": {
+      "তোমার নাম": "খাদিজা আক্তার",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01827646816",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "708"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-30T12:36:02.633Z",
+    "date": "1/30/2026, 6:36:02 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Sohela Parvin",
+    "facebookUserId": "100058432791352",
+    "memberUserId": "",
+    "memberPhone": "01812343207",
+    "memberTrxId": "123456",
+    "memberQA": {
+      "তোমার নাম": "Md Safwan Al Hasan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01812343207",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "123456"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-30T12:36:18.786Z",
+    "date": "1/30/2026, 6:36:18 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Shamim Ara Shammi",
+    "facebookUserId": "100053198932136",
+    "memberUserId": "",
+    "memberPhone": "01712644870",
+    "memberTrxId": "800000",
+    "memberQA": {
+      "তোমার নাম": "tabeeb",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01712644870",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "800000"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-30T12:36:24.265Z",
+    "date": "1/30/2026, 6:36:24 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Saiful Islam",
+    "facebookUserId": "61585473630557",
+    "memberUserId": "",
+    "memberPhone": "01764348743",
+    "memberTrxId": "09617623860",
+    "memberQA": {
+      "তোমার নাম": "ইলমা ইসলাম",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01764348743",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "09617623860"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -2757,5 +2757,57 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-29T11:00:31.536Z",
+    "date": "1/29/2026, 5:00:31 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Hamim Hamim",
+    "facebookUserId": "61585536934299",
+    "memberUserId": "",
+    "memberPhone": "01794889172",
+    "memberTrxId": "dcce0ed1-d556-491a-ba4f-dc0eaae8fa0e",
+    "memberQA": {
+      "তোমার নাম": "Rafi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01794889172",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dcce0ed1-d556-491a-ba4f-dc0eaae8fa0e"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-29T11:00:36.947Z",
+    "date": "1/29/2026, 5:00:36 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Sadia Yeasmim",
+    "facebookUserId": "100079171189121",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "MD. Labib Hasnat"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-29T11:00:53.282Z",
+    "date": "1/29/2026, 5:00:53 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Giyash Uddin Ali",
+    "facebookUserId": "61552937983973",
+    "memberUserId": "",
+    "memberPhone": "01709500724",
+    "memberTrxId": "e2d5b22f-799e-429d-aa1b-c388b1672617",
+    "memberQA": {
+      "তোমার নাম": "Abu horayra",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01709500724",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e2d5b22f-799e-429d-aa1b-c388b1672617"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

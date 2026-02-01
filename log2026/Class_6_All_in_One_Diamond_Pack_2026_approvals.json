@@ -1690,5 +1690,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-29T11:02:49.311Z",
+    "date": "1/29/2026, 5:02:49 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Md Mastafijur",
+    "facebookUserId": "100009400555311",
+    "memberUserId": "100009400555311",
+    "memberPhone": "01713568596",
+    "memberTrxId": "afec6db6-897c-4e6d-b9b9-ccc2e4211190",
+    "memberQA": {
+      "তোমার নাম": "Mst. Toushi Khatun",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01713568596",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "afec6db6-897c-4e6d-b9b9-ccc2e4211190"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

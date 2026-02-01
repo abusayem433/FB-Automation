@@ -437,5 +437,76 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-30T12:45:19.487Z",
+    "date": "1/30/2026, 6:45:19 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Atikul Islam",
+    "facebookUserId": "61583011671920",
+    "memberUserId": "",
+    "memberPhone": "০১৯৫১৩৭৭৪০৩",
+    "memberTrxId": "০১৬০০৭",
+    "memberQA": {
+      "তোমার নাম": "আবু সাঈদ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৯৫১৩৭৭৪০৩",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "০১৬০০৭"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-30T12:45:35.838Z",
+    "date": "1/30/2026, 6:45:35 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Sarviya Alom",
+    "facebookUserId": "61586508313239",
+    "memberUserId": "",
+    "memberPhone": "০১৩১৯১৪৬২৪১",
+    "memberTrxId": "77d71e24-5e72-4675-821b-ac6ad3d790ae",
+    "memberQA": {
+      "তোমার নাম": "সারভিয়া আলম",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৩১৯১৪৬২৪১",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "77d71e24-5e72-4675-821b-ac6ad3d790ae"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-30T12:45:41.179Z",
+    "date": "1/30/2026, 6:45:41 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Anisur Rahman",
+    "facebookUserId": "100039990039774",
+    "memberUserId": "",
+    "memberPhone": "01302962402",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "umme Ayman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01302962402"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-30T12:45:46.717Z",
+    "date": "1/30/2026, 6:45:46 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Nahid Ahmed Nishad",
+    "facebookUserId": "61570475536386",
+    "memberUserId": "",
+    "memberPhone": "01304745660",
+    "memberTrxId": "#ef294948-1379-4554-9bbf-c36455957fb1",
+    "memberQA": {
+      "তোমার নাম": "Tuba Akter",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01304745660",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "#ef294948-1379-4554-9bbf-c36455957fb1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

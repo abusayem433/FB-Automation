@@ -682,5 +682,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-29T10:54:01.794Z",
+    "date": "1/29/2026, 4:54:01 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Partha Ghosh",
+    "facebookUserId": "61583293225552",
+    "memberUserId": "61583293225552",
+    "memberPhone": "01831056313",
+    "memberTrxId": "81a33181-7a0d-4826-9c42-42ac956d70df",
+    "memberQA": {
+      "তোমার নাম": "partha Ghosh",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01831056313",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "81a33181-7a0d-4826-9c42-42ac956d70df"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

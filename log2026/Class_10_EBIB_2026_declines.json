@@ -342,5 +342,23 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-30T12:28:26.801Z",
+    "date": "1/30/2026, 6:28:26 PM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Raf Sun",
+    "facebookUserId": "61551831976353",
+    "memberUserId": "",
+    "memberPhone": "01716812868",
+    "memberTrxId": "d70a6644-fde2-48fc-8ce7-f9e52605ace0",
+    "memberQA": {
+      "তোমার নাম": "Rafsun",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01716812868",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d70a6644-fde2-48fc-8ce7-f9e52605ace0"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

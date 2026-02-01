@@ -484,5 +484,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-30T12:44:40.203Z",
+    "date": "1/30/2026, 6:44:40 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Sarjin Ahmed",
+    "facebookUserId": "61551934419787",
+    "memberUserId": "61551934419787",
+    "memberPhone": "01825670575",
+    "memberTrxId": "e8432179-8c9a-406d-be65-942777a61357",
+    "memberQA": {
+      "তোমার নাম": "সারজিন",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01825670575",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e8432179-8c9a-406d-be65-942777a61357"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

@@ -412,5 +412,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-01-30T12:41:54.349Z",
+    "date": "1/30/2026, 6:41:54 PM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Raisa Rashma",
+    "facebookUserId": "100025359668674",
+    "memberUserId": "100025359668674",
+    "memberPhone": "01731685394",
+    "memberTrxId": "09fa4bf1-6dc2-4426-a352-71aaf33a2cb2",
+    "memberQA": {
+      "তোমার নাম": "Samina Karim Raisa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01731685394",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "09fa4bf1-6dc2-4426-a352-71aaf33a2cb2"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]
