@@ -748,5 +748,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-01T07:21:11.865Z",
+    "date": "2/1/2026, 1:21:11 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Saiful Islam",
+    "facebookUserId": "61585786449308",
+    "memberUserId": "",
+    "memberPhone": "01776340181",
+    "memberTrxId": "bc3756e8-dfd5-41bd-8551-1994a2c268b3",
+    "memberQA": {
+      "তোমার নাম": "Sadia",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01776340181",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "bc3756e8-dfd5-41bd-8551-1994a2c268b3"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

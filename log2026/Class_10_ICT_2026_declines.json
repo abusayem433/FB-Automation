@@ -724,5 +724,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-01T07:30:46.547Z",
+    "date": "2/1/2026, 1:30:46 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Anupam Bhattacharjee",
+    "facebookUserId": "100010482137822",
+    "memberUserId": "",
+    "memberPhone": "01712738647",
+    "memberTrxId": "DAV7NJPM2L",
+    "memberQA": {
+      "তোমার নাম": "Ashmit",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01712738647",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAV7NJPM2L"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

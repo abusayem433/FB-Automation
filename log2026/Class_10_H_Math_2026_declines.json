@@ -1517,5 +1517,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-01T07:29:45.791Z",
+    "date": "2/1/2026, 1:29:45 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Khadiza Akter Nipu",
+    "facebookUserId": "100045200710586",
+    "memberUserId": "",
+    "memberPhone": "01839940639",
+    "memberTrxId": "0990b7a5-1849-4fdb-b33a77ffad7862",
+    "memberQA": {
+      "তোমার নাম": "মোঃ নাসিব উল্লাহ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01839940639",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0990b7a5-1849-4fdb-b33a77ffad7862"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

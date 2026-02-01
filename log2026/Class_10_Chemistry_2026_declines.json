@@ -769,5 +769,40 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-01T07:24:08.003Z",
+    "date": "2/1/2026, 1:24:08 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Mehedi Al Mahathir",
+    "facebookUserId": "61550545628887",
+    "memberUserId": "",
+    "memberPhone": "01967444140",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mehedi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01967444140"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-01T07:24:13.571Z",
+    "date": "2/1/2026, 1:24:13 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Anik Ahmed",
+    "facebookUserId": "100090615682880",
+    "memberUserId": "",
+    "memberPhone": "01750825166",
+    "memberTrxId": "#5591d11a-0b63-4eab-b2f3-b4f61911a75d",
+    "memberQA": {
+      "তোমার নাম": "Yeafiz Mahmud Nabil",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01750825166",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "#5591d11a-0b63-4eab-b2f3-b4f61911a75d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

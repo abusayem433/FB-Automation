@@ -856,5 +856,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-01T07:23:18.015Z",
+    "date": "2/1/2026, 1:23:18 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Shirin Akter",
+    "facebookUserId": "100034554977678",
+    "memberUserId": "",
+    "memberPhone": "01842605579",
+    "memberTrxId": "30dea3b6-2e7b-4b45-8cb5-bbd646f96ccb",
+    "memberQA": {
+      "তোমার নাম": "Tuasinul Islam Zidan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01842605579",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "30dea3b6-2e7b-4b45-8cb5-bbd646f96ccb"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

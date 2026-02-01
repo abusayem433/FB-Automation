@@ -508,5 +508,40 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-01T07:54:37.857Z",
+    "date": "2/1/2026, 1:54:37 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Fardin Rahman",
+    "facebookUserId": "100082523815578",
+    "memberUserId": "",
+    "memberPhone": "06152ecc-9002-41c0-a1b1-bd1f5f26b98e",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01304270720",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "06152ecc-9002-41c0-a1b1-bd1f5f26b98e"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-01T07:54:54.054Z",
+    "date": "2/1/2026, 1:54:54 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Mahbuba Akter Anika",
+    "facebookUserId": "61568443890468",
+    "memberUserId": "",
+    "memberPhone": "01720324824",
+    "memberTrxId": "e4dbfbd8-6fba-4aea-9a0e-39791e217398",
+    "memberQA": {
+      "তোমার নাম": "Mahbuba Akter",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01720324824",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e4dbfbd8-6fba-4aea-9a0e-39791e217398"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]
