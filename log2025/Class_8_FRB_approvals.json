@@ -3400,5 +3400,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:45:35.397Z",
+    "date": "2/7/2026, 3:45:35 PM",
+    "className": "Class 8 FRB",
+    "memberName": "Moni Basak",
+    "facebookUserId": "61566877674767",
+    "memberUserId": "61566877674767",
+    "memberPhone": "01820100530",
+    "memberTrxId": "fad99fbd-3ea4-472f-a0d2-9d6d5902ff38",
+    "memberQA": {
+      "তোমার নাম": "Mun Basak",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01820100530",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "fad99fbd-3ea4-472f-a0d2-9d6d5902ff38"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

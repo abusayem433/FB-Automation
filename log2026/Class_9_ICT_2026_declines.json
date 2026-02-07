@@ -138,5 +138,40 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:52:54.946Z",
+    "date": "2/7/2026, 1:52:54 PM",
+    "className": "Class 9 ICT (2026)",
+    "memberName": "ঝিনু মল্লিক",
+    "facebookUserId": "100034019408201",
+    "memberUserId": "",
+    "memberPhone": "01824673061",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Angkita",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01824673061"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:53:00.479Z",
+    "date": "2/7/2026, 1:53:00 PM",
+    "className": "Class 9 ICT (2026)",
+    "memberName": "R K Babu",
+    "facebookUserId": "100073096607396",
+    "memberUserId": "",
+    "memberPhone": "RSL",
+    "memberTrxId": "RSL",
+    "memberQA": {
+      "তোমার নাম": "RSL",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "RSL",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "RSL"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

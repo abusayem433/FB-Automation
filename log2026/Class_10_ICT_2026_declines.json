@@ -742,5 +742,41 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:08:55.305Z",
+    "date": "2/7/2026, 1:08:55 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "R K Babu",
+    "facebookUserId": "100073096607396",
+    "memberUserId": "",
+    "memberPhone": "RSL",
+    "memberTrxId": "RSL",
+    "memberQA": {
+      "তোমার নাম": "RSL",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "RSL",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "RSL"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:09:22.155Z",
+    "date": "2/7/2026, 1:09:22 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Tania Parveen Munni",
+    "facebookUserId": "100029222136883",
+    "memberUserId": "",
+    "memberPhone": "01716966538",
+    "memberTrxId": "DB58SS29JM",
+    "memberQA": {
+      "তোমার নাম": "মিহুশী মেহজাবিন মিথি",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01716966538",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DB58SS29JM"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

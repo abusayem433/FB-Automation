@@ -1447,5 +1447,57 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:10:11.793Z",
+    "date": "2/7/2026, 1:10:11 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "R K Babu",
+    "facebookUserId": "100073096607396",
+    "memberUserId": "",
+    "memberPhone": "RSL",
+    "memberTrxId": "RSL",
+    "memberQA": {
+      "তোমার নাম": "RSL",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "RSL",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "RSL"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:10:17.122Z",
+    "date": "2/7/2026, 1:10:17 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Shorifa Eshita",
+    "facebookUserId": "100007133804786",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Eshita"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:10:22.588Z",
+    "date": "2/7/2026, 1:10:22 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Tasnim Fatema",
+    "facebookUserId": "61587116326826",
+    "memberUserId": "",
+    "memberPhone": "01615037961",
+    "memberTrxId": "c88fc40d-b27e-44ba-bc3e-21ab4f7522ff",
+    "memberQA": {
+      "তোমার নাম": "Tasnim fatema",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01615037961",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "c88fc40d-b27e-44ba-bc3e-21ab4f7522ff"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

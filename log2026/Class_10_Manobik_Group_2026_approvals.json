@@ -1492,5 +1492,77 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:10:06.258Z",
+    "date": "2/7/2026, 1:10:06 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Maisha Jahan",
+    "facebookUserId": "100095268312542",
+    "memberUserId": "100095268312542",
+    "memberPhone": "01824992330",
+    "memberTrxId": "f8842c2c-4364-40ae-a305-cb301493edfc",
+    "memberQA": {
+      "তোমার নাম": "Maisha Jahan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01824992330",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f8842c2c-4364-40ae-a305-cb301493edfc"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:10:33.236Z",
+    "date": "2/7/2026, 1:10:33 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Moriom Ainul",
+    "facebookUserId": "61553522470118",
+    "memberUserId": "61553522470118",
+    "memberPhone": "01711659577",
+    "memberTrxId": "341de5a6-f5a3-4c8a-865e-6370ca664639",
+    "memberQA": {
+      "তোমার নাম": "তাহমিনা আক্তার অনামিকা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711659577",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "341de5a6-f5a3-4c8a-865e-6370ca664639"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:10:43.887Z",
+    "date": "2/7/2026, 1:10:43 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Ainul Moriom",
+    "facebookUserId": "61564666002862",
+    "memberUserId": "61564666002862",
+    "memberPhone": "01711659577",
+    "memberTrxId": "1dc828ba-880d-4759-927e-9c98f951de2a",
+    "memberQA": {
+      "তোমার নাম": "তাহমিনা আক্তার অনামিকা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711659577",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1dc828ba-880d-4759-927e-9c98f951de2a"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:10:54.505Z",
+    "date": "2/7/2026, 1:10:54 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Aleya Begum",
+    "facebookUserId": "100075232803087",
+    "memberUserId": "100075232803087",
+    "memberPhone": "01860497384",
+    "memberTrxId": "da904a2b-003b-47a5-bb2a-e7847311c4dd",
+    "memberQA": {
+      "তোমার নাম": "Humayra Nusaiba",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01860497384",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "da904a2b-003b-47a5-bb2a-e7847311c4dd"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

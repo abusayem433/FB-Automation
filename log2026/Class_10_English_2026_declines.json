@@ -1061,5 +1061,77 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:05:01.271Z",
+    "date": "2/7/2026, 1:05:01 PM",
+    "className": "Class 10 English (2026)",
+    "memberName": "R K Babu",
+    "facebookUserId": "100073096607396",
+    "memberUserId": "",
+    "memberPhone": "RSL",
+    "memberTrxId": "RSL",
+    "memberQA": {
+      "তোমার নাম": "RSL",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "RSL",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "RSL"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:05:49.366Z",
+    "date": "2/7/2026, 1:05:49 PM",
+    "className": "Class 10 English (2026)",
+    "memberName": "Hamida Sultana",
+    "facebookUserId": "100023661547077",
+    "memberUserId": "",
+    "memberPhone": "01988301005",
+    "memberTrxId": "d995e69e-9a68-47 1f-964a-c8879d2abf5c",
+    "memberQA": {
+      "তোমার নাম": "Jannatul Mawa Nafisa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01988301005",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d995e69e-9a68-47 1f-964a-c8879d2abf5c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:05:54.873Z",
+    "date": "2/7/2026, 1:05:54 PM",
+    "className": "Class 10 English (2026)",
+    "memberName": "Nesar Uddin Lasker",
+    "facebookUserId": "100081260163550",
+    "memberUserId": "",
+    "memberPhone": "01734525049",
+    "memberTrxId": "e50869e9-520a-41a8-9e2a-c514100da7ee",
+    "memberQA": {
+      "তোমার নাম": "Nesar Uddin Lasker",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01734525049",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e50869e9-520a-41a8-9e2a-c514100da7ee"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:06:00.339Z",
+    "date": "2/7/2026, 1:06:00 PM",
+    "className": "Class 10 English (2026)",
+    "memberName": "Rina Akther",
+    "facebookUserId": "61552143614793",
+    "memberUserId": "",
+    "memberPhone": "01617775874",
+    "memberTrxId": "DB69U9O9H5",
+    "memberQA": {
+      "তোমার নাম": "Majna",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01617775874",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DB69U9O9H5"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

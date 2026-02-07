@@ -718,5 +718,77 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T06:57:44.511Z",
+    "date": "2/7/2026, 12:57:44 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Farzana Akter Sumi",
+    "facebookUserId": "61574285760069",
+    "memberUserId": "61574285760069",
+    "memberPhone": "01813086820",
+    "memberTrxId": "52b15458-c767-423b-810e-8bba5b3bf6e2",
+    "memberQA": {
+      "তোমার নাম": "Saba",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01813086820",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "52b15458-c767-423b-810e-8bba5b3bf6e2"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T06:58:06.046Z",
+    "date": "2/7/2026, 12:58:06 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Murad Chowdhury",
+    "facebookUserId": "100051874283713",
+    "memberUserId": "100051874283713",
+    "memberPhone": "01811685639",
+    "memberTrxId": "bf07a931-c5f8-4010-bf4d-a4fe70c9e26e",
+    "memberQA": {
+      "তোমার নাম": "Wahiba Murad",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01811685639",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "bf07a931-c5f8-4010-bf4d-a4fe70c9e26e"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T06:58:16.721Z",
+    "date": "2/7/2026, 12:58:16 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Adiyan Ahmed",
+    "facebookUserId": "61579753561370",
+    "memberUserId": "61579753561370",
+    "memberPhone": "01709099311",
+    "memberTrxId": "503d2d5f-d7a9-44f8-8623-7aee3b690eb2",
+    "memberQA": {
+      "তোমার নাম": "said",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01709099311",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "503d2d5f-d7a9-44f8-8623-7aee3b690eb2"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T06:58:32.840Z",
+    "date": "2/7/2026, 12:58:32 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Hasanur Rahman",
+    "facebookUserId": "61568958396673",
+    "memberUserId": "61568958396673",
+    "memberPhone": "01714331989",
+    "memberTrxId": "da6e4ec8-0721-41ef-a543-f9825d61bb6e",
+    "memberQA": {
+      "তোমার নাম": "hasanur rahman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01714331989",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "da6e4ec8-0721-41ef-a543-f9825d61bb6e"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

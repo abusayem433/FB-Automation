@@ -543,5 +543,58 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:54:55.672Z",
+    "date": "2/7/2026, 1:54:55 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "R K Babu",
+    "facebookUserId": "100073096607396",
+    "memberUserId": "",
+    "memberPhone": "RSL",
+    "memberTrxId": "RSL",
+    "memberQA": {
+      "তোমার নাম": "RSL",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "RSL",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "RSL"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:55:01.158Z",
+    "date": "2/7/2026, 1:55:01 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Mahmudul Munïm",
+    "facebookUserId": "100089064726821",
+    "memberUserId": "",
+    "memberPhone": "01301485233",
+    "memberTrxId": "762fb734-d8a6-44b3-9297-fe0dd070a7a6",
+    "memberQA": {
+      "তোমার নাম": "Mahmudul",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01301485233",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "762fb734-d8a6-44b3-9297-fe0dd070a7a6"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:55:49.036Z",
+    "date": "2/7/2026, 1:55:49 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Aaryan Ahmed",
+    "facebookUserId": "100040647908496",
+    "memberUserId": "",
+    "memberPhone": "null",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Aaryan Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "null"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -178,5 +178,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:43:41.085Z",
+    "date": "2/7/2026, 1:43:41 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Dillruba Ruba",
+    "facebookUserId": "100014584868666",
+    "memberUserId": "100014584868666",
+    "memberPhone": "01816235201",
+    "memberTrxId": "aed4dc45-b219-4528-bd58-b6d0d04709b0",
+    "memberQA": {
+      "তোমার নাম": "Ruhaba",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816235201",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "aed4dc45-b219-4528-bd58-b6d0d04709b0"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

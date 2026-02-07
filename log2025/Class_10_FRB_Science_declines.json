@@ -76104,5 +76104,3458 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:51:52.760Z",
+    "date": "2/7/2026, 2:51:52 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Umme Salina",
+    "facebookUserId": "61550080060691",
+    "memberUserId": "",
+    "memberPhone": "01799957295",
+    "memberTrxId": "ceba97d7-a4d5-4a97-a9f5-375b61e56e40",
+    "memberQA": {
+      "তোমার নাম": "Takiya Jannat Mim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01799957295",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ceba97d7-a4d5-4a97-a9f5-375b61e56e40"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:51:58.281Z",
+    "date": "2/7/2026, 2:51:58 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Hamida Akter",
+    "facebookUserId": "100062420948188",
+    "memberUserId": "",
+    "memberPhone": "01608059130",
+    "memberTrxId": "b3624659-6679-4d54-91f7-070a856fa47c",
+    "memberQA": {
+      "তোমার নাম": "Hiya Anan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01608059130",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b3624659-6679-4d54-91f7-070a856fa47c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:52:03.622Z",
+    "date": "2/7/2026, 2:52:03 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Md Pritom",
+    "facebookUserId": "61581290604819",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Md.Pritom"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:52:09.107Z",
+    "date": "2/7/2026, 2:52:09 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Sarmin Akter",
+    "facebookUserId": "100074722580861",
+    "memberUserId": "",
+    "memberPhone": "01716520356",
+    "memberTrxId": "2a96fca5-4816-4585-bef2-27321b255d9d",
+    "memberQA": {
+      "তোমার নাম": "Faija Arabi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01716520356",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "2a96fca5-4816-4585-bef2-27321b255d9d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:52:14.598Z",
+    "date": "2/7/2026, 2:52:14 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Md. Kamal",
+    "facebookUserId": "100057236801821",
+    "memberUserId": "",
+    "memberPhone": "01876806641",
+    "memberTrxId": "0d593390-f144-45f1-8c10-887922d28760",
+    "memberQA": {
+      "তোমার নাম": "Faria akther",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01876806641",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0d593390-f144-45f1-8c10-887922d28760"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:52:30.623Z",
+    "date": "2/7/2026, 2:52:30 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Sree Likhon Biswas",
+    "facebookUserId": "61565158410339",
+    "memberUserId": "",
+    "memberPhone": "h",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Likhon  Biswas",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "h"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:52:36.108Z",
+    "date": "2/7/2026, 2:52:36 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Rummanul Tiha",
+    "facebookUserId": "61560550377503",
+    "memberUserId": "",
+    "memberPhone": "01881472767",
+    "memberTrxId": "96a8f0ad-d9c5-4d58-acd4-b0f214cddecf",
+    "memberQA": {
+      "তোমার নাম": "tanzia tarannum tahi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01881472767",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "96a8f0ad-d9c5-4d58-acd4-b0f214cddecf"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:53:02.884Z",
+    "date": "2/7/2026, 2:53:02 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Rahima Akter",
+    "facebookUserId": "100044917278044",
+    "memberUserId": "",
+    "memberPhone": "01648003953",
+    "memberTrxId": "309b0fd4-c081-4720-90ec-209631fdbc6e",
+    "memberQA": {
+      "তোমার নাম": "Niaz Adnan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01648003953",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "309b0fd4-c081-4720-90ec-209631fdbc6e"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:53:29.484Z",
+    "date": "2/7/2026, 2:53:29 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Ew R Nilu",
+    "facebookUserId": "100088563020682",
+    "memberUserId": "",
+    "memberPhone": "01301335355",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "nela",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01301335355"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:53:57.915Z",
+    "date": "2/7/2026, 2:53:57 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mîs Khãdîzâtul Kôbrã",
+    "facebookUserId": "61560382295165",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Khadiza"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:54:03.475Z",
+    "date": "2/7/2026, 2:54:03 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Ronjon Roy",
+    "facebookUserId": "61551083306699",
+    "memberUserId": "",
+    "memberPhone": "01612019136",
+    "memberTrxId": "224466",
+    "memberQA": {
+      "তোমার নাম": "Ronjon Roy",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01612019136",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "224466"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:54:09.008Z",
+    "date": "2/7/2026, 2:54:09 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "NI JH UM",
+    "facebookUserId": "61571058086342",
+    "memberUserId": "",
+    "memberPhone": "01816726124",
+    "memberTrxId": "Nijhum",
+    "memberQA": {
+      "তোমার নাম": "Nijhum",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816726124",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Nijhum"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:54:14.516Z",
+    "date": "2/7/2026, 2:54:14 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Musa Kalimulla",
+    "facebookUserId": "100094537929218",
+    "memberUserId": "",
+    "memberPhone": "01932418853",
+    "memberTrxId": "b5f6c47d-1d7c-425f-9414-6de84724b9c2",
+    "memberQA": {
+      "তোমার নাম": "Musa Kalimullah",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01932418853",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b5f6c47d-1d7c-425f-9414-6de84724b9c2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:55:13.211Z",
+    "date": "2/7/2026, 2:55:13 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Tasnuva Nijhu",
+    "facebookUserId": "61586229580481",
+    "memberUserId": "",
+    "memberPhone": "01765879939",
+    "memberTrxId": "tasnuva  Nijhu",
+    "memberQA": {
+      "তোমার নাম": "tasnuva Islam Nijhu",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01765879939",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "tasnuva  Nijhu"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:55:18.587Z",
+    "date": "2/7/2026, 2:55:18 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Murshida Akter",
+    "facebookUserId": "100054295776975",
+    "memberUserId": "",
+    "memberPhone": "01913719781",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Radiah",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01913719781"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:55:45.321Z",
+    "date": "2/7/2026, 2:55:45 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Rihan Khan",
+    "facebookUserId": "61585656183812",
+    "memberUserId": "",
+    "memberPhone": "01988468056",
+    "memberTrxId": "278826",
+    "memberQA": {
+      "তোমার নাম": "Roshni",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01988468056",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "278826"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:55:50.899Z",
+    "date": "2/7/2026, 2:55:50 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Ahasan Mahi",
+    "facebookUserId": "100092718692729",
+    "memberUserId": "",
+    "memberPhone": "01320673257",
+    "memberTrxId": "a7f3f4b1-7c26-4844-a999-ab49fd3ce914",
+    "memberQA": {
+      "তোমার নাম": "arni shome",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01320673257",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a7f3f4b1-7c26-4844-a999-ab49fd3ce914"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:56:08.886Z",
+    "date": "2/7/2026, 2:56:08 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Anaya Islam",
+    "facebookUserId": "61562698983220",
+    "memberUserId": "",
+    "memberPhone": "01870417985",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "মোঃ মহিউদ্দিন মারুফ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01870417985"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:56:14.236Z",
+    "date": "2/7/2026, 2:56:14 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Umme Hamida Nuha Nuha",
+    "facebookUserId": "61581034029888",
+    "memberUserId": "",
+    "memberPhone": "০১৮১৬৫৯১৯০১",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "উম্মে হামিদা নুহা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৮১৬৫৯১৯০১"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:56:30.396Z",
+    "date": "2/7/2026, 2:56:30 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Tisha Akter",
+    "facebookUserId": "61555824215472",
+    "memberUserId": "",
+    "memberPhone": "01816011056",
+    "memberTrxId": "a3805a2a-5079-4fbc-8c61-6b2b38f76e13",
+    "memberQA": {
+      "তোমার নাম": "Aysha Akter Tisha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816011056",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a3805a2a-5079-4fbc-8c61-6b2b38f76e13"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:56:35.912Z",
+    "date": "2/7/2026, 2:56:35 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Surovi Islam",
+    "facebookUserId": "100055466341783",
+    "memberUserId": "",
+    "memberPhone": "01336132363",
+    "memberTrxId": "83871f4a-9f96-4954-8ad0-c5a26f6a2dec",
+    "memberQA": {
+      "তোমার নাম": "Mahima Afroj Mou",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01336132363",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "83871f4a-9f96-4954-8ad0-c5a26f6a2dec"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:56:41.426Z",
+    "date": "2/7/2026, 2:56:41 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "মায়াবী শহর",
+    "facebookUserId": "61566360997611",
+    "memberUserId": "",
+    "memberPhone": "01690000163",
+    "memberTrxId": "মায়াবী শহর",
+    "memberQA": {
+      "তোমার নাম": "Taznora Sultana Nury",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01690000163",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "মায়াবী শহর"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:56:57.620Z",
+    "date": "2/7/2026, 2:56:57 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Lutu Putu",
+    "facebookUserId": "61586502245209",
+    "memberUserId": "",
+    "memberPhone": "01834355049",
+    "memberTrxId": "1f32dbc1-82c4-45bb-9de2-84926a17aeed",
+    "memberQA": {
+      "তোমার নাম": "Md.Korishin Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01834355049",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1f32dbc1-82c4-45bb-9de2-84926a17aeed"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:57:02.946Z",
+    "date": "2/7/2026, 2:57:02 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Zika Rulnaz Kurtha",
+    "facebookUserId": "61579113615575",
+    "memberUserId": "",
+    "memberPhone": "01705107705",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Safim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01705107705"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:57:08.444Z",
+    "date": "2/7/2026, 2:57:08 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mst Akhi Akther",
+    "facebookUserId": "61583660971962",
+    "memberUserId": "",
+    "memberPhone": "01346528394",
+    "memberTrxId": "Mst Akhi",
+    "memberQA": {
+      "তোমার নাম": "Mst Akhi.",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01346528394",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Mst Akhi"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:57:13.916Z",
+    "date": "2/7/2026, 2:57:13 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mohamed Hashem",
+    "facebookUserId": "100075534562625",
+    "memberUserId": "",
+    "memberPhone": "01845914674",
+    "memberTrxId": "5ae041f8-7e8a-4f35-a026-134100f44ae1",
+    "memberQA": {
+      "তোমার নাম": "সাইফা ছিদ্দিকা কলি",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01845914674",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5ae041f8-7e8a-4f35-a026-134100f44ae1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:57:19.230Z",
+    "date": "2/7/2026, 2:57:19 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Saif Mahmud",
+    "facebookUserId": "61551408925245",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Saif Mahmud"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:57:45.799Z",
+    "date": "2/7/2026, 2:57:45 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Israt Jahan",
+    "facebookUserId": "61581394295218",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Israt Jahan Mahi"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:58:03.955Z",
+    "date": "2/7/2026, 2:58:03 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mashrafe Haque",
+    "facebookUserId": "61579723096061",
+    "memberUserId": "",
+    "memberPhone": "01784576300",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mashrafe",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01784576300"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:58:20.141Z",
+    "date": "2/7/2026, 2:58:20 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Nafis Hasan",
+    "facebookUserId": "100079279641102",
+    "memberUserId": "",
+    "memberPhone": "01618653583",
+    "memberTrxId": "77e9463c-b914-490d-81a7-f4cd32fbc738",
+    "memberQA": {
+      "তোমার নাম": "Nafis",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01618653583",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "77e9463c-b914-490d-81a7-f4cd32fbc738"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:58:25.486Z",
+    "date": "2/7/2026, 2:58:25 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mihadul Islam",
+    "facebookUserId": "100067839514515",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mihad"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:58:30.996Z",
+    "date": "2/7/2026, 2:58:30 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Rabeya Khatun Ruby",
+    "facebookUserId": "100050986132099",
+    "memberUserId": "",
+    "memberPhone": "01767077017",
+    "memberTrxId": "123456",
+    "memberQA": {
+      "তোমার নাম": "Ruhi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01767077017",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "123456"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:58:36.519Z",
+    "date": "2/7/2026, 2:58:36 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Jannatul Fardoshi",
+    "facebookUserId": "61553664511441",
+    "memberUserId": "",
+    "memberPhone": "01332587269",
+    "memberTrxId": "51062ea1-ba11-45e6-b404-3cb3ecc9cb5d",
+    "memberQA": {
+      "তোমার নাম": "Faymon Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01332587269",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "51062ea1-ba11-45e6-b404-3cb3ecc9cb5d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:59:03.824Z",
+    "date": "2/7/2026, 2:59:03 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Nargis Sultana",
+    "facebookUserId": "61551787865005",
+    "memberUserId": "",
+    "memberPhone": "01758497696",
+    "memberTrxId": "ইউনিক ট্রানজেকশন id কোনটা? রেজিস্ট্রারকৃত I'd নাকি? সেই id এর নাম - Obito x Minato",
+    "memberQA": {
+      "তোমার নাম": "Akib",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01758497696",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ইউনিক ট্রানজেকশন id কোনটা? রেজিস্ট্রারকৃত I'd নাকি? সেই id এর নাম - Obito x Minato"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:59:09.323Z",
+    "date": "2/7/2026, 2:59:09 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Akhi JF",
+    "facebookUserId": "100094903841975",
+    "memberUserId": "",
+    "memberPhone": "01813205896",
+    "memberTrxId": "d9e2cb85-b29b-4415-a0be-bedbf5b3308a",
+    "memberQA": {
+      "তোমার নাম": "Akhi JF",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01813205896",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d9e2cb85-b29b-4415-a0be-bedbf5b3308a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:59:14.896Z",
+    "date": "2/7/2026, 2:59:14 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Shawpnil Barua",
+    "facebookUserId": "61586276182704",
+    "memberUserId": "",
+    "memberPhone": "01859364482",
+    "memberTrxId": "cbec8cf4-35e6-4c74-ad0b-60ee0c50a552",
+    "memberQA": {
+      "তোমার নাম": "SHAWPNIL Barua",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01859364482",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cbec8cf4-35e6-4c74-ad0b-60ee0c50a552"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:59:30.849Z",
+    "date": "2/7/2026, 2:59:30 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Ayesha Siddika",
+    "facebookUserId": "100058275279736",
+    "memberUserId": "",
+    "memberPhone": "01722464890",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Ayesha Siddika",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01722464890"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:00:21.077Z",
+    "date": "2/7/2026, 3:00:21 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Ja Ya",
+    "facebookUserId": "61583513125830",
+    "memberUserId": "",
+    "memberPhone": "01628551813",
+    "memberTrxId": "cbb1734b-83d4-4645-b0b0-fa70f79dce82",
+    "memberQA": {
+      "তোমার নাম": "Joya pal",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01628551813",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cbb1734b-83d4-4645-b0b0-fa70f79dce82"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:00:37.096Z",
+    "date": "2/7/2026, 3:00:37 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mujibor Rohman",
+    "facebookUserId": "100083750947056",
+    "memberUserId": "",
+    "memberPhone": "01961507526",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sakiba Rahman Sara",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01961507526"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:00:53.239Z",
+    "date": "2/7/2026, 3:00:53 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Alve Mahamud",
+    "facebookUserId": "61556132064952",
+    "memberUserId": "",
+    "memberPhone": "01310986868",
+    "memberTrxId": "2b598d66-85cd-4e82-8792-2d8594d18895",
+    "memberQA": {
+      "তোমার নাম": "Adib Mahamud",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01310986868",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "2b598d66-85cd-4e82-8792-2d8594d18895"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:01:30.486Z",
+    "date": "2/7/2026, 3:01:30 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Amatullah Toyiba",
+    "facebookUserId": "61581913806391",
+    "memberUserId": "",
+    "memberPhone": "01315073696",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mahid Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01315073696"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:01:35.968Z",
+    "date": "2/7/2026, 3:01:35 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Tu Hin",
+    "facebookUserId": "100066971404583",
+    "memberUserId": "",
+    "memberPhone": "+8801857449707",
+    "memberTrxId": "74TB4N5U",
+    "memberQA": {
+      "তোমার নাম": "Kamruzzaman Tuhin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "+8801857449707",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "74TB4N5U"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:01:41.469Z",
+    "date": "2/7/2026, 3:01:41 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Shahel Ahmed",
+    "facebookUserId": "61585722346652",
+    "memberUserId": "",
+    "memberPhone": "01848368719",
+    "memberTrxId": "0011c681-0bae-442b-ab58-f8fa070dbc92",
+    "memberQA": {
+      "তোমার নাম": "shalim mia",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01848368719",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0011c681-0bae-442b-ab58-f8fa070dbc92"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:01:57.608Z",
+    "date": "2/7/2026, 3:01:57 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Phyilosopher Man",
+    "facebookUserId": "61580616393157",
+    "memberUserId": "",
+    "memberPhone": "01714644397",
+    "memberTrxId": "d3b125e9-96f1-4b13-a6f4-e23912bc271b",
+    "memberQA": {
+      "তোমার নাম": "???",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01714644397",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d3b125e9-96f1-4b13-a6f4-e23912bc271b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:02:03.094Z",
+    "date": "2/7/2026, 3:02:03 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Tashreefa Jahan",
+    "facebookUserId": "61586928442543",
+    "memberUserId": "",
+    "memberPhone": "01727983331",
+    "memberTrxId": "cbc6878d-aca5-4681-a6ed-99678d474b5e",
+    "memberQA": {
+      "তোমার নাম": "sworna",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01727983331",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cbc6878d-aca5-4681-a6ed-99678d474b5e"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:02:21.256Z",
+    "date": "2/7/2026, 3:02:21 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "এম. মুশফিক",
+    "facebookUserId": "61583563868082",
+    "memberUserId": "",
+    "memberPhone": "01785404488",
+    "memberTrxId": "0e7c0244-5bcc-4b0b-87f0-1519ca4b9211",
+    "memberQA": {
+      "তোমার নাম": "Ajajullah khan Mushfiq",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01785404488",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0e7c0244-5bcc-4b0b-87f0-1519ca4b9211"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:02:26.660Z",
+    "date": "2/7/2026, 3:02:26 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Al Amin Islam",
+    "facebookUserId": "61573053397659",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mardiya"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:02:32.180Z",
+    "date": "2/7/2026, 3:02:32 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "MD Shamsul Hoque",
+    "facebookUserId": "61553777462975",
+    "memberUserId": "",
+    "memberPhone": "01810721162",
+    "memberTrxId": "39372bcb-08da-41dd-a57d-7ed29a9d2ef7",
+    "memberQA": {
+      "তোমার নাম": "tanshir",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01810721162",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "39372bcb-08da-41dd-a57d-7ed29a9d2ef7"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:02:58.816Z",
+    "date": "2/7/2026, 3:02:58 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Sabitry Kirity",
+    "facebookUserId": "61583294582097",
+    "memberUserId": "",
+    "memberPhone": "01953296383",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Tonnika",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01953296383"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:03:04.148Z",
+    "date": "2/7/2026, 3:03:04 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Sharmin Aktar Sathi",
+    "facebookUserId": "61580541903492",
+    "memberUserId": "",
+    "memberPhone": "01774621602",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sharmin Aktar Sathi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01774621602"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:03:09.489Z",
+    "date": "2/7/2026, 3:03:09 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Jannatul Ferdush",
+    "facebookUserId": "100090044502236",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Jannatul ferdush"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:03:15.159Z",
+    "date": "2/7/2026, 3:03:15 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Monjor Alam",
+    "facebookUserId": "100060711910509",
+    "memberUserId": "",
+    "memberPhone": "01648089262",
+    "memberTrxId": "1c3144a8-540f-40b3-8fd9-fe2f054d3340",
+    "memberQA": {
+      "তোমার নাম": "Sattik",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01648089262",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1c3144a8-540f-40b3-8fd9-fe2f054d3340"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:03:20.674Z",
+    "date": "2/7/2026, 3:03:20 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Safiat Islam",
+    "facebookUserId": "61561829215105",
+    "memberUserId": "",
+    "memberPhone": "01590061666",
+    "memberTrxId": "780b3f50-d39d-4b11-991f-48f582bf810b",
+    "memberQA": {
+      "তোমার নাম": "শাখাওয়াত হোসেন",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01590061666",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "780b3f50-d39d-4b11-991f-48f582bf810b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:03:26.020Z",
+    "date": "2/7/2026, 3:03:26 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Rabeya Akter",
+    "facebookUserId": "61550186783827",
+    "memberUserId": "",
+    "memberPhone": "73cb6a02-0641-4ec1-b44e-662c1046e5c8",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01339263062",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "73cb6a02-0641-4ec1-b44e-662c1046e5c8"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:03:31.333Z",
+    "date": "2/7/2026, 3:03:31 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "শাকিলা আকতার শিমু",
+    "facebookUserId": "100017207502922",
+    "memberUserId": "",
+    "memberPhone": "01721266163",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "tahira mahfuz",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01721266163"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:03:36.681Z",
+    "date": "2/7/2026, 3:03:36 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Tonima Rahman",
+    "facebookUserId": "61585123239293",
+    "memberUserId": "",
+    "memberPhone": "01818258600",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Tonima Rahman Eva",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01818258600"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:03:42.181Z",
+    "date": "2/7/2026, 3:03:42 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Faymon Islam",
+    "facebookUserId": "61586831605562",
+    "memberUserId": "",
+    "memberPhone": "01332587269",
+    "memberTrxId": "51062ea1-ba11-45e6-b404-3cb3ecc9cb5d",
+    "memberQA": {
+      "তোমার নাম": "Faymon Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01332587269",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "51062ea1-ba11-45e6-b404-3cb3ecc9cb5d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:04:22.350Z",
+    "date": "2/7/2026, 3:04:22 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Shakib Ahmed Khan",
+    "facebookUserId": "61557029252055",
+    "memberUserId": "",
+    "memberPhone": "01636916807",
+    "memberTrxId": "8a173f95-0fbc-4579-9501-d584d3ebdc11",
+    "memberQA": {
+      "তোমার নাম": "Momo",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01636916807",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8a173f95-0fbc-4579-9501-d584d3ebdc11"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:04:38.570Z",
+    "date": "2/7/2026, 3:04:38 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Abrar Mansur",
+    "facebookUserId": "61585167856470",
+    "memberUserId": "",
+    "memberPhone": "01840008961",
+    "memberTrxId": "95e9b5cb-9ee7-48a7-b0ae-a6f9689b9b8e",
+    "memberQA": {
+      "তোমার নাম": "Abrar Mansur",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01840008961",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "95e9b5cb-9ee7-48a7-b0ae-a6f9689b9b8e"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:05:05.395Z",
+    "date": "2/7/2026, 3:05:05 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Bimugdho Das Monthon",
+    "facebookUserId": "100053753291273",
+    "memberUserId": "",
+    "memberPhone": "01805120175",
+    "memberTrxId": "7ee155da-a4be-4c15-9c20-375e16fa5e09",
+    "memberQA": {
+      "তোমার নাম": "Bimugdho Das",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01805120175",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7ee155da-a4be-4c15-9c20-375e16fa5e09"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:05:21.406Z",
+    "date": "2/7/2026, 3:05:21 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Nujaifa Nawar",
+    "facebookUserId": "61581838635344",
+    "memberUserId": "",
+    "memberPhone": "01806-979038",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Nujaifa Nawar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01806-979038"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:05:58.799Z",
+    "date": "2/7/2026, 3:05:58 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "A. Nezad",
+    "facebookUserId": "61578400430726",
+    "memberUserId": "",
+    "memberPhone": "01798945211",
+    "memberTrxId": "0c19c4b0-73ae-44ad-9150-e1b8ea1432f1",
+    "memberQA": {
+      "তোমার নাম": "Nezad",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01798945211",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0c19c4b0-73ae-44ad-9150-e1b8ea1432f1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:06:14.803Z",
+    "date": "2/7/2026, 3:06:14 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Md Mohidul Hasan",
+    "facebookUserId": "100060689075452",
+    "memberUserId": "",
+    "memberPhone": "57778",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Fuck",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "57778"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:06:54.323Z",
+    "date": "2/7/2026, 3:06:54 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Fariya Tabassum Moon",
+    "facebookUserId": "61584068265209",
+    "memberUserId": "",
+    "memberPhone": "01928969096",
+    "memberTrxId": "9788db85-d506-4090-81e8-b4b88aa576f7",
+    "memberQA": {
+      "তোমার নাম": "Faria Tabassum Moon",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01928969096",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "9788db85-d506-4090-81e8-b4b88aa576f7"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:06:59.833Z",
+    "date": "2/7/2026, 3:06:59 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Afra Noor",
+    "facebookUserId": "61585302644391",
+    "memberUserId": "",
+    "memberPhone": "01338337485",
+    "memberTrxId": "2f99bb8b-21af-405b-952a-f356695a43b8",
+    "memberQA": {
+      "তোমার নাম": "Aifa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01338337485",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "2f99bb8b-21af-405b-952a-f356695a43b8"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:07:26.626Z",
+    "date": "2/7/2026, 3:07:26 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Naymur Haque Sharkar Ananta",
+    "facebookUserId": "100093406719646",
+    "memberUserId": "",
+    "memberPhone": "01977185425",
+    "memberTrxId": "8ef5085c-3ba0-4d3c-88ff-4118d55c1fc1",
+    "memberQA": {
+      "তোমার নাম": "Naymur Haque",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01977185425",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8ef5085c-3ba0-4d3c-88ff-4118d55c1fc1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:07:32.149Z",
+    "date": "2/7/2026, 3:07:32 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Krishna Bishas",
+    "facebookUserId": "100089853771357",
+    "memberUserId": "",
+    "memberPhone": "০১৭২৯১৬৯২৪৪",
+    "memberTrxId": "3ad2bc67-9459-4a28-aba6-ca3f30a8598d",
+    "memberQA": {
+      "তোমার নাম": "অনামিকা বিশ্বাস অদিতি",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৭২৯১৬৯২৪৪",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "3ad2bc67-9459-4a28-aba6-ca3f30a8598d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:07:48.250Z",
+    "date": "2/7/2026, 3:07:48 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Sakibul Islam",
+    "facebookUserId": "61552571085042",
+    "memberUserId": "",
+    "memberPhone": "01781516176",
+    "memberTrxId": "d1b804f3-9633-47e4-86f0-ce42e4e594e1",
+    "memberQA": {
+      "তোমার নাম": "Sakibul islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01781516176",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d1b804f3-9633-47e4-86f0-ce42e4e594e1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:08:04.223Z",
+    "date": "2/7/2026, 3:08:04 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Fatama Tuj Johora Liza",
+    "facebookUserId": "100014028754420",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Efad"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:08:09.733Z",
+    "date": "2/7/2026, 3:08:09 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Faiza Fariha",
+    "facebookUserId": "61582963499899",
+    "memberUserId": "",
+    "memberPhone": "০১৭৯৬৩২৪১৩১",
+    "memberTrxId": "40c2e147- a156-4e03- 95c1- b4e37653af16",
+    "memberQA": {
+      "তোমার নাম": "তামান্না আক্তার ছামিরা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৭৯৬৩২৪১৩১",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "40c2e147- a156-4e03- 95c1- b4e37653af16"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:08:49.044Z",
+    "date": "2/7/2026, 3:08:49 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Misti Meye",
+    "facebookUserId": "61556691773568",
+    "memberUserId": "",
+    "memberPhone": "01897317417855ec9a2-c95a-47b5-976a-ef65c871a2ed",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sumaiya",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01897317417855ec9a2-c95a-47b5-976a-ef65c871a2ed"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:08:54.469Z",
+    "date": "2/7/2026, 3:08:54 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Sumaiya Jannat",
+    "facebookUserId": "61565814065389",
+    "memberUserId": "",
+    "memberPhone": "01887317417855ec9a2-c95a-47b5-976a-ef65c871a2ed",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sumaiya",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01887317417855ec9a2-c95a-47b5-976a-ef65c871a2ed"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:09:10.661Z",
+    "date": "2/7/2026, 3:09:10 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Fahmida Khanom",
+    "facebookUserId": "61581367542162",
+    "memberUserId": "",
+    "memberPhone": "01715095933",
+    "memberTrxId": "TXN-ACSFS-2603019988",
+    "memberQA": {
+      "তোমার নাম": "Fahmida",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01715095933",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "TXN-ACSFS-2603019988"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:09:26.817Z",
+    "date": "2/7/2026, 3:09:26 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Kafi Ahmed",
+    "facebookUserId": "61558754595972",
+    "memberUserId": "",
+    "memberPhone": "01322370399",
+    "memberTrxId": "358df8f3-1349-4389-8a07-b679f07e67a0",
+    "memberQA": {
+      "তোমার নাম": "kafi Ahmed Prodhan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01322370399",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "358df8f3-1349-4389-8a07-b679f07e67a0"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:09:32.311Z",
+    "date": "2/7/2026, 3:09:32 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Arko Mukherjee",
+    "facebookUserId": "61557572703850",
+    "memberUserId": "",
+    "memberPhone": "01723041227",
+    "memberTrxId": "c76e1714-afba-4ac5-ae75-99605237402d",
+    "memberQA": {
+      "তোমার নাম": "Arko mukherjee",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01723041227",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "c76e1714-afba-4ac5-ae75-99605237402d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:09:37.805Z",
+    "date": "2/7/2026, 3:09:37 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mohammed Shahnawaj Sumon",
+    "facebookUserId": "100003793489393",
+    "memberUserId": "",
+    "memberPhone": "01718274544",
+    "memberTrxId": "474406",
+    "memberQA": {
+      "তোমার নাম": "Faria Tasnim Sara",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718274544",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "474406"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:09:43.135Z",
+    "date": "2/7/2026, 3:09:43 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mustak Tahmid Rahi",
+    "facebookUserId": "61573149501146",
+    "memberUserId": "",
+    "memberPhone": "01600058021",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "MustakThamidRahi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01600058021"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:09:48.627Z",
+    "date": "2/7/2026, 3:09:48 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Rayeba Bushra",
+    "facebookUserId": "61584961977199",
+    "memberUserId": "",
+    "memberPhone": "01838772070",
+    "memberTrxId": "976f8cf7-6eef-4c6b-be38-4a2fc9d87816",
+    "memberQA": {
+      "তোমার নাম": "Rabeya Bosri Sumaiya",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01838772070",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "976f8cf7-6eef-4c6b-be38-4a2fc9d87816"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:09:54.093Z",
+    "date": "2/7/2026, 3:09:54 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mahia Zannat",
+    "facebookUserId": "61553034989428",
+    "memberUserId": "",
+    "memberPhone": "01833901147",
+    "memberTrxId": "2072",
+    "memberQA": {
+      "তোমার নাম": "mahia",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01833901147",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "2072"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:10:10.204Z",
+    "date": "2/7/2026, 3:10:10 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Afm Shamshuzoha",
+    "facebookUserId": "61563500230336",
+    "memberUserId": "",
+    "memberPhone": "01749244124",
+    "memberTrxId": "b235655a-da90-4d53-8fcd-bd48ffc6f48c",
+    "memberQA": {
+      "তোমার নাম": "abu hurayra",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01749244124",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b235655a-da90-4d53-8fcd-bd48ffc6f48c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:10:15.691Z",
+    "date": "2/7/2026, 3:10:15 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Cristiano Rolando",
+    "facebookUserId": "61581685314070",
+    "memberUserId": "",
+    "memberPhone": "01887301128",
+    "memberTrxId": "dbad1e62-6b4a-4c4d-b48e-e5eb9a5d991d",
+    "memberQA": {
+      "তোমার নাম": "Saif Uddin Habib",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01887301128",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dbad1e62-6b4a-4c4d-b48e-e5eb9a5d991d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:10:21.002Z",
+    "date": "2/7/2026, 3:10:21 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Jihan Hasan",
+    "facebookUserId": "61583100410268",
+    "memberUserId": "",
+    "memberPhone": "01734661145",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Jihan hasan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01734661145"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:11:00.456Z",
+    "date": "2/7/2026, 3:11:00 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "আগন্তুক মুসাফির",
+    "facebookUserId": "61586127733331",
+    "memberUserId": "",
+    "memberPhone": "718218c2-8a50-4949-84f2-4b6595d716ef",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "asma",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "718218c2-8a50-4949-84f2-4b6595d716ef"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:11:16.616Z",
+    "date": "2/7/2026, 3:11:16 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Habiba Khatun",
+    "facebookUserId": "100001317264157",
+    "memberUserId": "",
+    "memberPhone": "01988908834",
+    "memberTrxId": "5d43e1cb-0fbc-425a-9c13-efd12ce8b48f90",
+    "memberQA": {
+      "তোমার নাম": "Israt Jahan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01988908834",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5d43e1cb-0fbc-425a-9c13-efd12ce8b48f90"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:11:32.626Z",
+    "date": "2/7/2026, 3:11:32 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Rukaiya Khan",
+    "facebookUserId": "61573211650328",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Rukaiya Khan"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:11:48.802Z",
+    "date": "2/7/2026, 3:11:48 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "মোঃ সেনারুল ইসলাম",
+    "facebookUserId": "100051702857517",
+    "memberUserId": "",
+    "memberPhone": "01751533149",
+    "memberTrxId": "a459bf89-0861-466f-be3d-9e1c48223051a459bf89-0861-466f-be3d-9e1c48223051",
+    "memberQA": {
+      "তোমার নাম": "sanjida",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01751533149",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a459bf89-0861-466f-be3d-9e1c48223051a459bf89-0861-466f-be3d-9e1c48223051"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:12:37.010Z",
+    "date": "2/7/2026, 3:12:37 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Omlan Vk",
+    "facebookUserId": "61586082772441",
+    "memberUserId": "",
+    "memberPhone": "01712540022",
+    "memberTrxId": "8332e085-cb92-4863-b333-62ea821b1215",
+    "memberQA": {
+      "তোমার নাম": "Argha Banik",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01712540022",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8332e085-cb92-4863-b333-62ea821b1215"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:13:06.849Z",
+    "date": "2/7/2026, 3:13:06 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "NA BI L",
+    "facebookUserId": "100052263225000",
+    "memberUserId": "",
+    "memberPhone": "016002671223",
+    "memberTrxId": "73",
+    "memberQA": {
+      "তোমার নাম": "Nafisa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "016002671223",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "73"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:13:12.374Z",
+    "date": "2/7/2026, 3:13:12 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mubtasin Al Mahir Rafid",
+    "facebookUserId": "100011472638938",
+    "memberUserId": "",
+    "memberPhone": "01629183242",
+    "memberTrxId": "220044",
+    "memberQA": {
+      "তোমার নাম": "Md Rafid",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01629183242",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "220044"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:13:28.382Z",
+    "date": "2/7/2026, 3:13:28 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Ashraful Islam",
+    "facebookUserId": "61574998442149",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Muntaha"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:14:27.121Z",
+    "date": "2/7/2026, 3:14:27 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Md. Mahfuzar Rahman",
+    "facebookUserId": "100069714302639",
+    "memberUserId": "",
+    "memberPhone": "01773284935",
+    "memberTrxId": "1613519",
+    "memberQA": {
+      "তোমার নাম": "enam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01773284935",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1613519"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:14:43.231Z",
+    "date": "2/7/2026, 3:14:43 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Arafatul Azim",
+    "facebookUserId": "61557696457860",
+    "memberUserId": "",
+    "memberPhone": "01860802064",
+    "memberTrxId": "2fb901b0-06f0-47b4-ab60-28b1495f007b",
+    "memberQA": {
+      "তোমার নাম": "mehedi hasan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01860802064",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "2fb901b0-06f0-47b4-ab60-28b1495f007b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:14:59.201Z",
+    "date": "2/7/2026, 3:14:59 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Yefi Islam Rejvee",
+    "facebookUserId": "61578275714905",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sejuti"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:15:27.847Z",
+    "date": "2/7/2026, 3:15:27 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mottasim Billah",
+    "facebookUserId": "61583632805943",
+    "memberUserId": "",
+    "memberPhone": "01334705448",
+    "memberTrxId": "695e2c781d2e678fc0c3ff6a",
+    "memberQA": {
+      "তোমার নাম": "mottasim Billah",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01334705448",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "695e2c781d2e678fc0c3ff6a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:15:44.100Z",
+    "date": "2/7/2026, 3:15:44 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Jannatun Jinia",
+    "facebookUserId": "100095162839592",
+    "memberUserId": "",
+    "memberPhone": "01726540278",
+    "memberTrxId": "b3771b1b-48ca-4df5-b7ba-e1b3f558a107",
+    "memberQA": {
+      "তোমার নাম": "Jannatun jinia",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01726540278",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b3771b1b-48ca-4df5-b7ba-e1b3f558a107"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:15:49.598Z",
+    "date": "2/7/2026, 3:15:49 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Shawon Islam",
+    "facebookUserId": "61578744684646",
+    "memberUserId": "",
+    "memberPhone": "01332053062",
+    "memberTrxId": "27a768a9de15",
+    "memberQA": {
+      "তোমার নাম": "sanjida",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01332053062",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "27a768a9de15"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:15:55.109Z",
+    "date": "2/7/2026, 3:15:55 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Nur Alom",
+    "facebookUserId": "61570581264387",
+    "memberUserId": "",
+    "memberPhone": "01601205319",
+    "memberTrxId": "e15e84209064",
+    "memberQA": {
+      "তোমার নাম": "Nur alom",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01601205319",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e15e84209064"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:16:22.587Z",
+    "date": "2/7/2026, 3:16:22 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Md Edrish",
+    "facebookUserId": "100086757957084",
+    "memberUserId": "",
+    "memberPhone": "01890997329",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Tawrat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01890997329"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:16:49.177Z",
+    "date": "2/7/2026, 3:16:49 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Sirajum Munira Nurani",
+    "facebookUserId": "61586874635227",
+    "memberUserId": "",
+    "memberPhone": "01771806619",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Nurani",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01771806619"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:16:54.675Z",
+    "date": "2/7/2026, 3:16:54 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Tanjira Mustari",
+    "facebookUserId": "100072567129842",
+    "memberUserId": "",
+    "memberPhone": "01312-576920",
+    "memberTrxId": "e450d62c-16ec-4c07-a1c3-d04490b936a7",
+    "memberQA": {
+      "তোমার নাম": "ZUBAIR TANZIR",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01312-576920",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e450d62c-16ec-4c07-a1c3-d04490b936a7"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:17:00.183Z",
+    "date": "2/7/2026, 3:17:00 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Baizidul Alam",
+    "facebookUserId": "100089435350619",
+    "memberUserId": "",
+    "memberPhone": "01758804656",
+    "memberTrxId": "3c1b2f6e-9a47-4e3a-bb5c-2d6f9e8a7c41",
+    "memberQA": {
+      "তোমার নাম": "Baizidul Alam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01758804656",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "3c1b2f6e-9a47-4e3a-bb5c-2d6f9e8a7c41"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:18:33.174Z",
+    "date": "2/7/2026, 3:18:33 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Msy Shmm",
+    "facebookUserId": "100063817924243",
+    "memberUserId": "",
+    "memberPhone": "01826136889",
+    "memberTrxId": "DAJ4ACI7D4",
+    "memberQA": {
+      "তোমার নাম": "Sarika tasnim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01826136889",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAJ4ACI7D4"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:19:10.497Z",
+    "date": "2/7/2026, 3:19:10 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Sri Jon",
+    "facebookUserId": "61561592761414",
+    "memberUserId": "",
+    "memberPhone": "01977859134",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "মিফতাহুল জান্নাত সৃষ্টি",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01977859134"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:19:47.950Z",
+    "date": "2/7/2026, 3:19:47 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Safayet Bin Shafik",
+    "facebookUserId": "61580863979993",
+    "memberUserId": "",
+    "memberPhone": "01883734180",
+    "memberTrxId": "609f3c23w67f9106975149329",
+    "memberQA": {
+      "তোমার নাম": "Adil",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01883734180",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "609f3c23w67f9106975149329"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:19:53.278Z",
+    "date": "2/7/2026, 3:19:53 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "MD Nobin",
+    "facebookUserId": "100074044091756",
+    "memberUserId": "",
+    "memberPhone": "01789301825",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "নবীন \nখাঁন",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01789301825"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:20:11.908Z",
+    "date": "2/7/2026, 3:20:11 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "সুহা সীনি",
+    "facebookUserId": "61584927516386",
+    "memberUserId": "",
+    "memberPhone": "01639388208",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sinthia Tabassum",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01639388208"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:20:28.070Z",
+    "date": "2/7/2026, 3:20:28 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Hozaifa Hozaifa",
+    "facebookUserId": "100082954137016",
+    "memberUserId": "",
+    "memberPhone": "01716003208",
+    "memberTrxId": "4403f926-322d-40cb-ba86-4a896935ab95",
+    "memberQA": {
+      "তোমার নাম": "Abdullah Al Mahmud",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01716003208",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "4403f926-322d-40cb-ba86-4a896935ab95"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:20:44.042Z",
+    "date": "2/7/2026, 3:20:44 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mofazzol Hossan Mir",
+    "facebookUserId": "100057398709249",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mobin"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:20:49.547Z",
+    "date": "2/7/2026, 3:20:49 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Rater Ondhokar",
+    "facebookUserId": "61576603611831",
+    "memberUserId": "",
+    "memberPhone": "01705824841",
+    "memberTrxId": "cc0fad82-a274-4af7-b811-14ef89f39bef",
+    "memberQA": {
+      "তোমার নাম": "Mashrafi Sahab Bhuiya",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01705824841",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cc0fad82-a274-4af7-b811-14ef89f39bef"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:20:54.886Z",
+    "date": "2/7/2026, 3:20:54 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Safa Chowdhury",
+    "facebookUserId": "61553646400015",
+    "memberUserId": "",
+    "memberPhone": "01977732272",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sadia Chowdhury",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01977732272"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:21:00.256Z",
+    "date": "2/7/2026, 3:21:00 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Abida Sultana",
+    "facebookUserId": "100092604917315",
+    "memberUserId": "",
+    "memberPhone": "01946582779",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Abida Sultana",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01946582779"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:21:05.770Z",
+    "date": "2/7/2026, 3:21:05 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Jannatul Mawa",
+    "facebookUserId": "61579621498357",
+    "memberUserId": "",
+    "memberPhone": "01990742450",
+    "memberTrxId": "mawa waha",
+    "memberQA": {
+      "তোমার নাম": "Jannatul mawa waha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01990742450",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "mawa waha"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:21:11.280Z",
+    "date": "2/7/2026, 3:21:11 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Ak Azad",
+    "facebookUserId": "100009218875235",
+    "memberUserId": "",
+    "memberPhone": "01758188890",
+    "memberTrxId": "3d3a5698-56f1-475a-af1e-49841ae8382f",
+    "memberQA": {
+      "তোমার নাম": "Mihir",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01758188890",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "3d3a5698-56f1-475a-af1e-49841ae8382f"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:21:16.792Z",
+    "date": "2/7/2026, 3:21:16 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Aroshi Hridi Jasi",
+    "facebookUserId": "61558728389778",
+    "memberUserId": "",
+    "memberPhone": "01988848773",
+    "memberTrxId": "8d5f8bd9-3970-4010-9e7a-b3722356d73d",
+    "memberQA": {
+      "তোমার নাম": "Asmaul husna jesy",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01988848773",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8d5f8bd9-3970-4010-9e7a-b3722356d73d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:21:22.110Z",
+    "date": "2/7/2026, 3:21:22 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Nishat Tasnim",
+    "facebookUserId": "61586390224212",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Nishat Tasnim"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:21:38.080Z",
+    "date": "2/7/2026, 3:21:38 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mahbuba Afroj",
+    "facebookUserId": "61579910881175",
+    "memberUserId": "",
+    "memberPhone": "০১৭৪৮১১৭০২৭",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "মাহবুবা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৭৪৮১১৭০২৭"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:22:07.350Z",
+    "date": "2/7/2026, 3:22:07 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mst Sima Khatun",
+    "facebookUserId": "100085212336181",
+    "memberUserId": "",
+    "memberPhone": "01722936657",
+    "memberTrxId": "b88168d6-31af-459a-884f-74fc2bd51456",
+    "memberQA": {
+      "তোমার নাম": "Adita Islam Saba",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01722936657",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b88168d6-31af-459a-884f-74fc2bd51456"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:22:12.730Z",
+    "date": "2/7/2026, 3:22:12 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Abdul Malek Mozumder",
+    "facebookUserId": "100092506690246",
+    "memberUserId": "",
+    "memberPhone": "01890612006",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Abdul Malek Mozumder",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01890612006"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:22:28.732Z",
+    "date": "2/7/2026, 3:22:28 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Pran Gobinda Das",
+    "facebookUserId": "100077672724620",
+    "memberUserId": "",
+    "memberPhone": "01677528747",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "রামকৃষ্ণ দাস",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01677528747"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:22:55.633Z",
+    "date": "2/7/2026, 3:22:55 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Rukaiya Sultana",
+    "facebookUserId": "61586548492273",
+    "memberUserId": "",
+    "memberPhone": "01928956873",
+    "memberTrxId": "DAR3IAMM5B",
+    "memberQA": {
+      "তোমার নাম": "Mim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01928956873",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAR3IAMM5B"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:23:01.127Z",
+    "date": "2/7/2026, 3:23:01 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Layla Nur",
+    "facebookUserId": "100073504085903",
+    "memberUserId": "",
+    "memberPhone": "01628813966",
+    "memberTrxId": "nai",
+    "memberQA": {
+      "তোমার নাম": "Mahjabin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01628813966",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "nai"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:23:06.470Z",
+    "date": "2/7/2026, 3:23:06 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Tarin Jannat Tithi",
+    "facebookUserId": "61567774954932",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "তিথি"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:23:11.797Z",
+    "date": "2/7/2026, 3:23:11 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Najmul Sakib",
+    "facebookUserId": "100093946114831",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Najmul Sakib"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:23:38.416Z",
+    "date": "2/7/2026, 3:23:38 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mostafizur Rahman",
+    "facebookUserId": "100015257354680",
+    "memberUserId": "",
+    "memberPhone": "01918054394",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mahjuja Binte Mostahid",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01918054394"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:24:17.622Z",
+    "date": "2/7/2026, 3:24:17 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Ma'ariz Prachurjo",
+    "facebookUserId": "61556131852196",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "মা'আরিজ"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:24:23.163Z",
+    "date": "2/7/2026, 3:24:23 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Ahmed Abdullah",
+    "facebookUserId": "100027677765344",
+    "memberUserId": "",
+    "memberPhone": "01882797621",
+    "memberTrxId": "8b071227-773e-41f8-bb05-4b7a739ba1dd",
+    "memberQA": {
+      "তোমার নাম": "Ahmed Abdullah",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01882797621",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8b071227-773e-41f8-bb05-4b7a739ba1dd"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:24:28.716Z",
+    "date": "2/7/2026, 3:24:28 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Isa Nawaz Yasire",
+    "facebookUserId": "100064661113277",
+    "memberUserId": "",
+    "memberPhone": "01630681853",
+    "memberTrxId": "yasire",
+    "memberQA": {
+      "তোমার নাম": "yasire",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01630681853",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "yasire"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:24:34.242Z",
+    "date": "2/7/2026, 3:24:34 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Tae's Laninahh",
+    "facebookUserId": "61560019757017",
+    "memberUserId": "",
+    "memberPhone": "01646772466",
+    "memberTrxId": "56ae81ed-9be9-467b-aeaf-e8896ea95889",
+    "memberQA": {
+      "তোমার নাম": "istiak",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01646772466",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "56ae81ed-9be9-467b-aeaf-e8896ea95889"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:24:39.774Z",
+    "date": "2/7/2026, 3:24:39 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Benita Reberio",
+    "facebookUserId": "100024531590228",
+    "memberUserId": "",
+    "memberPhone": "01675418918",
+    "memberTrxId": "3f513ff1-ee7c-4d62-8874-6de00c230ee6",
+    "memberQA": {
+      "তোমার নাম": "Byapto Rozario",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01675418918",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "3f513ff1-ee7c-4d62-8874-6de00c230ee6"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:24:45.112Z",
+    "date": "2/7/2026, 3:24:45 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Amir Hamza Hamza",
+    "facebookUserId": "61584694959141",
+    "memberUserId": "",
+    "memberPhone": "ওও",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "��",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "ওও"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:25:01.123Z",
+    "date": "2/7/2026, 3:25:01 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Md Rasel",
+    "facebookUserId": "100049844477537",
+    "memberUserId": "",
+    "memberPhone": "01820218578",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Rawzatul Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01820218578"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:25:06.632Z",
+    "date": "2/7/2026, 3:25:06 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Rayhan Raza",
+    "facebookUserId": "61562273733229",
+    "memberUserId": "",
+    "memberPhone": "01741561993",
+    "memberTrxId": "DAR0JACFXQ",
+    "memberQA": {
+      "তোমার নাম": "Nobab rayhan raza",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01741561993",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAR0JACFXQ"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:25:12.139Z",
+    "date": "2/7/2026, 3:25:12 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Zubair Akanto",
+    "facebookUserId": "61580521530872",
+    "memberUserId": "",
+    "memberPhone": "01312576920",
+    "memberTrxId": "e450d62c-16ec-4c07-a1c3-d04490b936a7",
+    "memberQA": {
+      "তোমার নাম": "ZUBAIR TANZIR",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01312576920",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e450d62c-16ec-4c07-a1c3-d04490b936a7"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:25:17.467Z",
+    "date": "2/7/2026, 3:25:17 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Farida Yasmin Parul",
+    "facebookUserId": "100083828714170",
+    "memberUserId": "",
+    "memberPhone": "01798290301",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Faiza",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01798290301"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:25:33.588Z",
+    "date": "2/7/2026, 3:25:33 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "MD.Nayem Bhuiyan",
+    "facebookUserId": "61552780881868",
+    "memberUserId": "",
+    "memberPhone": "01739560657",
+    "memberTrxId": "7a4a36e9-0619-4310-870c-7463072c0a01",
+    "memberQA": {
+      "তোমার নাম": "md Nayem Bhuiyan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01739560657",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7a4a36e9-0619-4310-870c-7463072c0a01"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:26:55.895Z",
+    "date": "2/7/2026, 3:26:55 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mohammad Rowshon",
+    "facebookUserId": "61580998051361",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mohammad Rowshon"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:27:12.053Z",
+    "date": "2/7/2026, 3:27:12 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Shipra Mondal",
+    "facebookUserId": "61560682991657",
+    "memberUserId": "",
+    "memberPhone": "01825900763",
+    "memberTrxId": "shipra mondal",
+    "memberQA": {
+      "তোমার নাম": "Trishma",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01825900763",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "shipra mondal"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:27:17.564Z",
+    "date": "2/7/2026, 3:27:17 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Yeasmin Akter",
+    "facebookUserId": "61566403329267",
+    "memberUserId": "",
+    "memberPhone": "01817383837",
+    "memberTrxId": "72ge9d92gwive9du3vw8whdri",
+    "memberQA": {
+      "তোমার নাম": "Anas Chowdhury",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01817383837",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "72ge9d92gwive9du3vw8whdri"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:27:23.048Z",
+    "date": "2/7/2026, 3:27:23 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Nusrat Fariha Nusrat",
+    "facebookUserId": "61583431601242",
+    "memberUserId": "",
+    "memberPhone": "01723890299",
+    "memberTrxId": "Ruhul",
+    "memberQA": {
+      "তোমার নাম": "Ruhul",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01723890299",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Ruhul"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:27:28.373Z",
+    "date": "2/7/2026, 3:27:28 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Afran Nirob",
+    "facebookUserId": "100092566353340",
+    "memberUserId": "",
+    "memberPhone": "01975828759",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "asraful Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01975828759"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:27:44.498Z",
+    "date": "2/7/2026, 3:27:44 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Ananda Sarkar",
+    "facebookUserId": "61559321082874",
+    "memberUserId": "",
+    "memberPhone": "01943040217",
+    "memberTrxId": "e414ff6f-00b4-467b-8d6c-dec6a444305a",
+    "memberQA": {
+      "তোমার নাম": "joy Datta",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01943040217",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e414ff6f-00b4-467b-8d6c-dec6a444305a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:27:49.861Z",
+    "date": "2/7/2026, 3:27:49 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Nafisa Nowrin",
+    "facebookUserId": "61586227568427",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Nafisa Nowrin"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:28:50.558Z",
+    "date": "2/7/2026, 3:28:50 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Walid Rahman",
+    "facebookUserId": "61566915153539",
+    "memberUserId": "",
+    "memberPhone": "Chattogram Residential high School",
+    "memberTrxId": "c27a3c51-122e-402a-8b0a-1a86c22afa00",
+    "memberQA": {
+      "তোমার নাম": "Walid Rahman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "Chattogram Residential high School",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "c27a3c51-122e-402a-8b0a-1a86c22afa00"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:28:55.902Z",
+    "date": "2/7/2026, 3:28:55 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "うまま ファティハ うめ",
+    "facebookUserId": "100085543582076",
+    "memberUserId": "",
+    "memberPhone": "01815444563",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Umama Fatiha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01815444563"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:29:33.174Z",
+    "date": "2/7/2026, 3:29:33 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Taslima Keya",
+    "facebookUserId": "61586076413152",
+    "memberUserId": "",
+    "memberPhone": "01331005297",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Taslima keya",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01331005297"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:30:42.528Z",
+    "date": "2/7/2026, 3:30:42 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mähbub Hàshãñ Ehtêshâm",
+    "facebookUserId": "100057016489093",
+    "memberUserId": "",
+    "memberPhone": "01747933329",
+    "memberTrxId": "6288e9f2-1d3d-42fe-9ba0-e1132984fbdc",
+    "memberQA": {
+      "তোমার নাম": "Mahbub Hashan Ehtesham",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01747933329",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6288e9f2-1d3d-42fe-9ba0-e1132984fbdc"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:31:00.837Z",
+    "date": "2/7/2026, 3:31:00 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Yealid Sheikh",
+    "facebookUserId": "100079828790567",
+    "memberUserId": "",
+    "memberPhone": "01741405098",
+    "memberTrxId": "ee93d2d1-fa18-4a8a-a1aa-b189bd41563d",
+    "memberQA": {
+      "তোমার নাম": "Sheikh Md Yealid",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01741405098",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ee93d2d1-fa18-4a8a-a1aa-b189bd41563d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:31:06.452Z",
+    "date": "2/7/2026, 3:31:06 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Suhada Ferdous Tushi",
+    "facebookUserId": "61587327390030",
+    "memberUserId": "",
+    "memberPhone": "01733163149",
+    "memberTrxId": "83e6456f-914d-467f-834a-906a95b5ba97",
+    "memberQA": {
+      "তোমার নাম": "Suhada Ferdous Tushi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01733163149",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "83e6456f-914d-467f-834a-906a95b5ba97"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:31:12.029Z",
+    "date": "2/7/2026, 3:31:12 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Jafrul Islam Jarif",
+    "facebookUserId": "61559964542601",
+    "memberUserId": "",
+    "memberPhone": "01798509723",
+    "memberTrxId": "ffb3c555-965c-4ed6-bab8-03f1d5bcbe98",
+    "memberQA": {
+      "তোমার নাম": "Jubaye Hossain Joni",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01798509723",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ffb3c555-965c-4ed6-bab8-03f1d5bcbe98"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:31:17.604Z",
+    "date": "2/7/2026, 3:31:17 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "MD Shahjahan",
+    "facebookUserId": "100087458625360",
+    "memberUserId": "",
+    "memberPhone": "01945133907",
+    "memberTrxId": "77813199-01e4-4f0a-9bac-fc358eb1cc5c",
+    "memberQA": {
+      "তোমার নাম": "Md Iftekhar Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01945133907",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "77813199-01e4-4f0a-9bac-fc358eb1cc5c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:31:23.165Z",
+    "date": "2/7/2026, 3:31:23 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Nayma Akter",
+    "facebookUserId": "100082154355961",
+    "memberUserId": "",
+    "memberPhone": "01678063715",
+    "memberTrxId": "#2e2c9c29-da3b-4c57-a149-04019eb5ffcf",
+    "memberQA": {
+      "তোমার নাম": "Moontaher Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01678063715",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "#2e2c9c29-da3b-4c57-a149-04019eb5ffcf"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:31:28.528Z",
+    "date": "2/7/2026, 3:31:28 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Naznin Jaman",
+    "facebookUserId": "61586718677605",
+    "memberUserId": "",
+    "memberPhone": "01883323284",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Alif rahman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01883323284"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:31:44.928Z",
+    "date": "2/7/2026, 3:31:44 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Parul Pervin",
+    "facebookUserId": "61557476004216",
+    "memberUserId": "",
+    "memberPhone": "01324310603",
+    "memberTrxId": "ইসমাত জাহান",
+    "memberQA": {
+      "তোমার নাম": "ইসমাত জাহান",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01324310603",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ইসমাত জাহান"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:31:50.292Z",
+    "date": "2/7/2026, 3:31:50 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Meher Taj Islam Sumi",
+    "facebookUserId": "61577715335008",
+    "memberUserId": "",
+    "memberPhone": "01776333130",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Omar Faruq",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01776333130"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:31:55.858Z",
+    "date": "2/7/2026, 3:31:55 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Tahsin Muhtady",
+    "facebookUserId": "100049163445361",
+    "memberUserId": "",
+    "memberPhone": "01724600261",
+    "memberTrxId": "2e2756fa-10c8-4ca8-bcbc-4f6cda114870",
+    "memberQA": {
+      "তোমার নাম": "Abu Talha Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01724600261",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "2e2756fa-10c8-4ca8-bcbc-4f6cda114870"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:32:01.435Z",
+    "date": "2/7/2026, 3:32:01 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "A.K. Azad",
+    "facebookUserId": "61552544471026",
+    "memberUserId": "",
+    "memberPhone": "01706513343",
+    "memberTrxId": "bbb5-7f7aac712311",
+    "memberQA": {
+      "তোমার নাম": "Humayra Ruponti",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01706513343",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "bbb5-7f7aac712311"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:32:28.494Z",
+    "date": "2/7/2026, 3:32:28 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Rim Aesthetician",
+    "facebookUserId": "61587381147856",
+    "memberUserId": "",
+    "memberPhone": "01734548633",
+    "memberTrxId": "02d0413a-97b2-4817-8e9c-98aa4c22cd81",
+    "memberQA": {
+      "তোমার নাম": "MUIZ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01734548633",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "02d0413a-97b2-4817-8e9c-98aa4c22cd81"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:32:57.481Z",
+    "date": "2/7/2026, 3:32:57 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Sohidul Islam",
+    "facebookUserId": "61555583856734",
+    "memberUserId": "",
+    "memberPhone": "01843753540",
+    "memberTrxId": "123@#&890()",
+    "memberQA": {
+      "তোমার নাম": "Sojib Hasan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01843753540",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "123@#&890()"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:33:13.848Z",
+    "date": "2/7/2026, 3:33:13 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Jakir Hossain",
+    "facebookUserId": "100073010031088",
+    "memberUserId": "",
+    "memberPhone": "01328895569",
+    "memberTrxId": "e2e4894d-0234-4b68-872d-912969dfb385",
+    "memberQA": {
+      "তোমার নাম": "Kotha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01328895569",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e2e4894d-0234-4b68-872d-912969dfb385"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:33:19.468Z",
+    "date": "2/7/2026, 3:33:19 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Aditto Khan",
+    "facebookUserId": "61582900942307",
+    "memberUserId": "",
+    "memberPhone": "01753378205",
+    "memberTrxId": "taka nai add Please",
+    "memberQA": {
+      "তোমার নাম": "01753378205",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01753378205",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "taka nai add Please"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:33:25.034Z",
+    "date": "2/7/2026, 3:33:25 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Tasin Molla",
+    "facebookUserId": "100061821656690",
+    "memberUserId": "",
+    "memberPhone": "01313913072",
+    "memberTrxId": "021426",
+    "memberQA": {
+      "তোমার নাম": "Tasin Molla",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01313913072",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "021426"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:33:41.345Z",
+    "date": "2/7/2026, 3:33:41 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Maisha Jahan",
+    "facebookUserId": "61587304013961",
+    "memberUserId": "",
+    "memberPhone": "01752209587",
+    "memberTrxId": "e782dec5-4b94-b622-245062ba442f",
+    "memberQA": {
+      "তোমার নাম": "Maisha Jahan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01752209587",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e782dec5-4b94-b622-245062ba442f"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:33:46.702Z",
+    "date": "2/7/2026, 3:33:46 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Far Ha N",
+    "facebookUserId": "100010144275037",
+    "memberUserId": "",
+    "memberPhone": "c6db5caf-87e1-4ff7-8105-aaf399d79a49",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01821972791",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "c6db5caf-87e1-4ff7-8105-aaf399d79a49"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:33:52.265Z",
+    "date": "2/7/2026, 3:33:52 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Al Mumit Prodhan",
+    "facebookUserId": "61558820883969",
+    "memberUserId": "",
+    "memberPhone": "01319154725",
+    "memberTrxId": "b9df0b48-955b-489d-877e-ffde8b1bc2f8",
+    "memberQA": {
+      "তোমার নাম": "AL Mumit",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01319154725",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b9df0b48-955b-489d-877e-ffde8b1bc2f8"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:35:14.934Z",
+    "date": "2/7/2026, 3:35:14 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Azadd Azadd",
+    "facebookUserId": "61559487759354",
+    "memberUserId": "",
+    "memberPhone": "01768376012",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Anita",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01768376012"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:35:20.464Z",
+    "date": "2/7/2026, 3:35:20 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Raisa Rifa",
+    "facebookUserId": "61567272325044",
+    "memberUserId": "",
+    "memberPhone": "01730185012",
+    "memberTrxId": "5e78c777-48ec-426d-820a-337acd13fb3c",
+    "memberQA": {
+      "তোমার নাম": "Raisa Khan Rifa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01730185012",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5e78c777-48ec-426d-820a-337acd13fb3c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:35:25.804Z",
+    "date": "2/7/2026, 3:35:25 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Muhammad Osman",
+    "facebookUserId": "61550365461994",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Osman"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:35:31.296Z",
+    "date": "2/7/2026, 3:35:31 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Sadia Swapna",
+    "facebookUserId": "100068234492887",
+    "memberUserId": "",
+    "memberPhone": "01730185012",
+    "memberTrxId": "5e78c777-48ec-426d-820a-337acd13fb3c",
+    "memberQA": {
+      "তোমার নাম": "Raisa Khan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01730185012",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5e78c777-48ec-426d-820a-337acd13fb3c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:35:47.449Z",
+    "date": "2/7/2026, 3:35:47 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Fahima Afra",
+    "facebookUserId": "61587188017037",
+    "memberUserId": "",
+    "memberPhone": "01302005197",
+    "memberTrxId": "Fahima",
+    "memberQA": {
+      "তোমার নাম": "Fahima Islam Afra",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01302005197",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Fahima"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:36:14.238Z",
+    "date": "2/7/2026, 3:36:14 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Musfiqur Rahman",
+    "facebookUserId": "100087683425126",
+    "memberUserId": "",
+    "memberPhone": "01731400477",
+    "memberTrxId": "aa0887e5-9e81-46f3-b0e7-88bbb44951b7",
+    "memberQA": {
+      "তোমার নাম": "Isfaqur Rahman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01731400477",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "aa0887e5-9e81-46f3-b0e7-88bbb44951b7"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:36:19.724Z",
+    "date": "2/7/2026, 3:36:19 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "To Ni Ma",
+    "facebookUserId": "100090741390479",
+    "memberUserId": "",
+    "memberPhone": "01612885291",
+    "memberTrxId": "fab99abd-bce0-4b76-b6a0-57869",
+    "memberQA": {
+      "তোমার নাম": "Tasrifa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01612885291",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "fab99abd-bce0-4b76-b6a0-57869"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:36:25.037Z",
+    "date": "2/7/2026, 3:36:25 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Muntasir Rahman Tousif",
+    "facebookUserId": "100086138324394",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Tousif"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:36:41.141Z",
+    "date": "2/7/2026, 3:36:41 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Eka Sarkar",
+    "facebookUserId": "100092033448649",
+    "memberUserId": "",
+    "memberPhone": "01732270086",
+    "memberTrxId": "Eka",
+    "memberQA": {
+      "তোমার নাম": "Eka",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01732270086",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Eka"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:36:46.629Z",
+    "date": "2/7/2026, 3:36:46 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Mst Nasima Begum",
+    "facebookUserId": "61573165896362",
+    "memberUserId": "",
+    "memberPhone": "01870339102",
+    "memberTrxId": "0a2a8af1-346b-482a-813b-9bc3406bb0c2",
+    "memberQA": {
+      "তোমার নাম": "naim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01870339102",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0a2a8af1-346b-482a-813b-9bc3406bb0c2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:36:52.090Z",
+    "date": "2/7/2026, 3:36:52 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "It'z Rafiya",
+    "facebookUserId": "61587409640610",
+    "memberUserId": "",
+    "memberPhone": "01645417835",
+    "memberTrxId": "cfaa5c4f-aa68-4b51-a52c-bbe190959d94",
+    "memberQA": {
+      "তোমার নাম": "Mazida goni pritha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01645417835",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cfaa5c4f-aa68-4b51-a52c-bbe190959d94"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:37:21.185Z",
+    "date": "2/7/2026, 3:37:21 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Ahiya Rohaman",
+    "facebookUserId": "61581372280584",
+    "memberUserId": "",
+    "memberPhone": "01863015646",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sabrina Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01863015646"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:37:58.734Z",
+    "date": "2/7/2026, 3:37:58 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "MD Afnan",
+    "facebookUserId": "100053587726234",
+    "memberUserId": "",
+    "memberPhone": "01404903250",
+    "memberTrxId": "8833e87f-9715-448b-b9d1-0f23e6272065",
+    "memberQA": {
+      "তোমার নাম": "Afnan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01404903250",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8833e87f-9715-448b-b9d1-0f23e6272065"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:38:04.254Z",
+    "date": "2/7/2026, 3:38:04 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Sabikun Nahar",
+    "facebookUserId": "61579028142194",
+    "memberUserId": "",
+    "memberPhone": "01673655191",
+    "memberTrxId": "4f246acb-85cf-4f90-ac2c-ebaa45da77f4",
+    "memberQA": {
+      "তোমার নাম": "Samin Yasar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01673655191",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "4f246acb-85cf-4f90-ac2c-ebaa45da77f4"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:38:52.417Z",
+    "date": "2/7/2026, 3:38:52 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Allahu Akbar",
+    "facebookUserId": "100089787768153",
+    "memberUserId": "",
+    "memberPhone": "01945133907",
+    "memberTrxId": "77813199-01e4-4f0a-9bac-fc358eb1cc5c",
+    "memberQA": {
+      "তোমার নাম": "samiun",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01945133907",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "77813199-01e4-4f0a-9bac-fc358eb1cc5c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:38:57.740Z",
+    "date": "2/7/2026, 3:38:57 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Afruza Akter",
+    "facebookUserId": "61582856307668",
+    "memberUserId": "",
+    "memberPhone": "01785927079",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mariya hasan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01785927079"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:39:13.849Z",
+    "date": "2/7/2026, 3:39:13 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Beli Das",
+    "facebookUserId": "61557662441186",
+    "memberUserId": "",
+    "memberPhone": "01314822245",
+    "memberTrxId": "DB44S2X06K",
+    "memberQA": {
+      "তোমার নাম": "Boishakhi Dash",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01314822245",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DB44S2X06K"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:39:42.563Z",
+    "date": "2/7/2026, 3:39:42 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Al Mahian Khan Tasin",
+    "facebookUserId": "61563200597439",
+    "memberUserId": "",
+    "memberPhone": "01973504166",
+    "memberTrxId": "0917",
+    "memberQA": {
+      "তোমার নাম": "Tasin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01973504166",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0917"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:39:48.070Z",
+    "date": "2/7/2026, 3:39:48 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Muhammed Mursalin",
+    "facebookUserId": "61577696356528",
+    "memberUserId": "",
+    "memberPhone": "01718702184",
+    "memberTrxId": "d2128db2-733c-4d9d-88b4-3f7e9fe1ca26",
+    "memberQA": {
+      "তোমার নাম": "MD.Mursalin Munna",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718702184",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d2128db2-733c-4d9d-88b4-3f7e9fe1ca26"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:39:53.410Z",
+    "date": "2/7/2026, 3:39:53 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Ifrat Jahan Jerin",
+    "facebookUserId": "61587214372482",
+    "memberUserId": "",
+    "memberPhone": "01726960792",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Ifrat jahan jerin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01726960792"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:40:09.384Z",
+    "date": "2/7/2026, 3:40:09 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "MD Sobuj Mia",
+    "facebookUserId": "100092289387979",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "মীম আক্তার"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:40:25.388Z",
+    "date": "2/7/2026, 3:40:25 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Aizah Rahman",
+    "facebookUserId": "61583773197253",
+    "memberUserId": "",
+    "memberPhone": "01772727052",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Aizah Rahman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01772727052"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:40:52.008Z",
+    "date": "2/7/2026, 3:40:52 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Pranjal Chowdhury",
+    "facebookUserId": "61558697016265",
+    "memberUserId": "",
+    "memberPhone": "01893760033",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Pranjal Chowdhurry",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01893760033"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:40:57.352Z",
+    "date": "2/7/2026, 3:40:57 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Moyna Rani Roy",
+    "facebookUserId": "61579951224115",
+    "memberUserId": "",
+    "memberPhone": "01346435062",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Suity roy",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01346435062"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:41:02.837Z",
+    "date": "2/7/2026, 3:41:02 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "HT Shuvo",
+    "facebookUserId": "61583389228199",
+    "memberUserId": "",
+    "memberPhone": "01718170682",
+    "memberTrxId": "88b4afce-033e-488e-ac7a-fd1bb2a27de5",
+    "memberQA": {
+      "তোমার নাম": "গ\nShuvo",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718170682",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "88b4afce-033e-488e-ac7a-fd1bb2a27de5"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:41:08.347Z",
+    "date": "2/7/2026, 3:41:08 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "FA Tema",
+    "facebookUserId": "61565432642519",
+    "memberUserId": "",
+    "memberPhone": "01726794925",
+    "memberTrxId": "bc6b61ef-1aeb-4eb9-930f-4447cf4ca4e4",
+    "memberQA": {
+      "তোমার নাম": "Kaniz Fatema",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01726794925",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "bc6b61ef-1aeb-4eb9-930f-4447cf4ca4e4"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:41:47.810Z",
+    "date": "2/7/2026, 3:41:47 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Sadia Khatun",
+    "facebookUserId": "61584429712232",
+    "memberUserId": "",
+    "memberPhone": "01961228455",
+    "memberTrxId": "f5ac70ed-b388-4a66-a0a9-67327accbd9e",
+    "memberQA": {
+      "তোমার নাম": "Md.Imran Hossain Nafiz",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01961228455",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f5ac70ed-b388-4a66-a0a9-67327accbd9e"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:42:04.134Z",
+    "date": "2/7/2026, 3:42:04 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Alomghir Hosin",
+    "facebookUserId": "61575887372080",
+    "memberUserId": "",
+    "memberPhone": "01788753410",
+    "memberTrxId": "cfa5bco2-15ab-4620-8bb0-872-4bd1c24d4",
+    "memberQA": {
+      "তোমার নাম": "AYESHA AKTER",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01788753410",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cfa5bco2-15ab-4620-8bb0-872-4bd1c24d4"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:42:09.644Z",
+    "date": "2/7/2026, 3:42:09 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Borhan Uddin",
+    "facebookUserId": "61577152348618",
+    "memberUserId": "",
+    "memberPhone": "01335 948426",
+    "memberTrxId": "f982b6b0-a67e-457a-b86c-c0a03527d55b",
+    "memberQA": {
+      "তোমার নাম": "তৌকি উদ্দিন",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01335 948426",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f982b6b0-a67e-457a-b86c-c0a03527d55b"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:42:36.477Z",
+    "date": "2/7/2026, 3:42:36 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Tushar Chandra Dey",
+    "facebookUserId": "61586344312152",
+    "memberUserId": "",
+    "memberPhone": "01912966521",
+    "memberTrxId": "DA69T6GVO3",
+    "memberQA": {
+      "তোমার নাম": "Tushar Chandra Dey",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01912966521",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DA69T6GVO3"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:43:35.047Z",
+    "date": "2/7/2026, 3:43:35 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Iffat Jahan",
+    "facebookUserId": "61563669551131",
+    "memberUserId": "",
+    "memberPhone": "01876649058",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Farhana",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01876649058"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:43:40.411Z",
+    "date": "2/7/2026, 3:43:40 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Salma Jahan",
+    "facebookUserId": "100077663820331",
+    "memberUserId": "",
+    "memberPhone": "01876649058",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "farhana",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01876649058"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T09:43:58.210Z",
+    "date": "2/7/2026, 3:43:58 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Raha Salohasafi",
+    "facebookUserId": "61555461680283",
+    "memberUserId": "",
+    "memberPhone": "01768296543",
+    "memberTrxId": "#ceb4e9fe-dacc-42dd-a8c3-75acafc83678",
+    "memberQA": {
+      "তোমার নাম": "Salohasafi Raha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01768296543",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "#ceb4e9fe-dacc-42dd-a8c3-75acafc83678"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

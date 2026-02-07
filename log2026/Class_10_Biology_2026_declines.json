@@ -874,5 +874,111 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T06:59:12.600Z",
+    "date": "2/7/2026, 12:59:12 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Shirin Akter",
+    "facebookUserId": "100034554977678",
+    "memberUserId": "",
+    "memberPhone": "01842605579",
+    "memberTrxId": "30dea3b6-2e7b-4b45-8cb5-bbd646f96ccb",
+    "memberQA": {
+      "তোমার নাম": "Tuasinul Islam Zidan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01842605579",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "30dea3b6-2e7b-4b45-8cb5-bbd646f96ccb"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T06:59:18.188Z",
+    "date": "2/7/2026, 12:59:18 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "R K Babu",
+    "facebookUserId": "100073096607396",
+    "memberUserId": "",
+    "memberPhone": "RSL",
+    "memberTrxId": "RSL",
+    "memberQA": {
+      "তোমার নাম": "RSL",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "RSL",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "RSL"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:00:06.377Z",
+    "date": "2/7/2026, 1:00:06 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Abdullah Al Noman",
+    "facebookUserId": "100051636903255",
+    "memberUserId": "",
+    "memberPhone": "0175528928",
+    "memberTrxId": "a79cba24-1aac-4c36-ad66-de76fc1c513c",
+    "memberQA": {
+      "তোমার নাম": "Sultan Sifat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "0175528928",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a79cba24-1aac-4c36-ad66-de76fc1c513c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:00:22.300Z",
+    "date": "2/7/2026, 1:00:22 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Farhana Shila",
+    "facebookUserId": "100013325834093",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "মুবাশ্বির উদ্দিন আলিফ"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:00:38.443Z",
+    "date": "2/7/2026, 1:00:38 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Altab Nannu",
+    "facebookUserId": "100014936771903",
+    "memberUserId": "",
+    "memberPhone": "01816623832",
+    "memberTrxId": "8bf306df-cbd4-42d0- b5b7- 19732f03ab39",
+    "memberQA": {
+      "তোমার নাম": "মোছাঃ আনিসা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816623832",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8bf306df-cbd4-42d0- b5b7- 19732f03ab39"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:00:43.920Z",
+    "date": "2/7/2026, 1:00:43 PM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Rowshon Ara",
+    "facebookUserId": "100051585354367",
+    "memberUserId": "",
+    "memberPhone": "01728888509",
+    "memberTrxId": "6f4b4416-b3f7-41ac-bfcb-e78d8ae4c147",
+    "memberQA": {
+      "তোমার নাম": "Mohsina Haque Hia",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01728888509",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6f4b4416-b3f7-41ac-bfcb-e78d8ae4c147"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

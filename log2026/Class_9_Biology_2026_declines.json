@@ -444,5 +444,57 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:44:31.004Z",
+    "date": "2/7/2026, 1:44:31 PM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "R K Babu",
+    "facebookUserId": "100073096607396",
+    "memberUserId": "",
+    "memberPhone": "RSL",
+    "memberTrxId": "RSL",
+    "memberQA": {
+      "তোমার নাম": "RSL",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "RSL",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "RSL"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:44:57.871Z",
+    "date": "2/7/2026, 1:44:57 PM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Hossian Muhammad Samiullah",
+    "facebookUserId": "100055840584429",
+    "memberUserId": "",
+    "memberPhone": "01620153076",
+    "memberTrxId": "b9061d3f-1793-4be1-8d67-6521bf1fbbba",
+    "memberQA": {
+      "তোমার নাম": "Hossian Muhammad Samiullah",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01620153076",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b9061d3f-1793-4be1-8d67-6521bf1fbbba"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:45:03.215Z",
+    "date": "2/7/2026, 1:45:03 PM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Masuda Begum",
+    "facebookUserId": "100070897155700",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "naima"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -5993,5 +5993,451 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:48:49.515Z",
+    "date": "2/7/2026, 2:48:49 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Tanveer Shariyar",
+    "facebookUserId": "61577603701544",
+    "memberUserId": "",
+    "memberPhone": "01310010059",
+    "memberTrxId": "8ecdd10e-d92e-45b9-a573-5fe10aefbdf7",
+    "memberQA": {
+      "তোমার নাম": "নাফিসা আদিবা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01310010059",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8ecdd10e-d92e-45b9-a573-5fe10aefbdf7"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:48:55.061Z",
+    "date": "2/7/2026, 2:48:55 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Yakub Ali",
+    "facebookUserId": "61564065497720",
+    "memberUserId": "",
+    "memberPhone": "01321318631",
+    "memberTrxId": "d490ef54-b810-4512-9ffa-bce4b1cce716d490ef54-b810-4512-9ffa-bce4b1cce716",
+    "memberQA": {
+      "তোমার নাম": "Hazera Jannat Taha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01321318631",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d490ef54-b810-4512-9ffa-bce4b1cce716d490ef54-b810-4512-9ffa-bce4b1cce716"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:49:00.556Z",
+    "date": "2/7/2026, 2:49:00 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "NA DI M",
+    "facebookUserId": "61585716488457",
+    "memberUserId": "",
+    "memberPhone": "01401099403",
+    "memberTrxId": "5b50d94b-8c92-4eb7-955f-f640dae50620",
+    "memberQA": {
+      "তোমার নাম": "মারিয়া",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01401099403",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5b50d94b-8c92-4eb7-955f-f640dae50620"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:49:06.040Z",
+    "date": "2/7/2026, 2:49:06 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Shoaib Hossen",
+    "facebookUserId": "100082739798951",
+    "memberUserId": "",
+    "memberPhone": "01303431858",
+    "memberTrxId": "22671376-c416-4876-af93-f70daf535821",
+    "memberQA": {
+      "তোমার নাম": "Shoaib Hossain",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01303431858",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "22671376-c416-4876-af93-f70daf535821"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:49:11.530Z",
+    "date": "2/7/2026, 2:49:11 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Khaleda Akter",
+    "facebookUserId": "100088300672469",
+    "memberUserId": "",
+    "memberPhone": "01799527036",
+    "memberTrxId": "Y",
+    "memberQA": {
+      "তোমার নাম": "Tahsinah Tabassum",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01799527036",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Y"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:49:17.029Z",
+    "date": "2/7/2026, 2:49:17 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Afroja Tabassum Salma",
+    "facebookUserId": "100086468737734",
+    "memberUserId": "",
+    "memberPhone": "01628947586",
+    "memberTrxId": "9eb86f5b-1832-47f1-8363-10c409256486",
+    "memberQA": {
+      "তোমার নাম": "আফরিন নেওয়াজ আখি",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01628947586",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "9eb86f5b-1832-47f1-8363-10c409256486"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:49:22.528Z",
+    "date": "2/7/2026, 2:49:22 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Jahidul Hasan Imon",
+    "facebookUserId": "100028006940789",
+    "memberUserId": "",
+    "memberPhone": "01887431587",
+    "memberTrxId": "44bcdb9a-eaee-4f5f-946b-00852ed35701",
+    "memberQA": {
+      "তোমার নাম": "Mariya Afrin Riya",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01887431587",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "44bcdb9a-eaee-4f5f-946b-00852ed35701"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:49:28.024Z",
+    "date": "2/7/2026, 2:49:28 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Hanan Mariya",
+    "facebookUserId": "61550844772901",
+    "memberUserId": "",
+    "memberPhone": "01891759017",
+    "memberTrxId": "6a6be5d6-71c1-4a2b-8455-6b417fab9ed7",
+    "memberQA": {
+      "তোমার নাম": "Hanan Mariya",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01891759017",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6a6be5d6-71c1-4a2b-8455-6b417fab9ed7"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:49:33.514Z",
+    "date": "2/7/2026, 2:49:33 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Ridoan Hossen",
+    "facebookUserId": "100067398772141",
+    "memberUserId": "",
+    "memberPhone": "01867892356",
+    "memberTrxId": "76b169bc-e9e3-4939-8bb3-445e5c4ead35",
+    "memberQA": {
+      "তোমার নাম": "nure jannat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01867892356",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "76b169bc-e9e3-4939-8bb3-445e5c4ead35"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:49:38.839Z",
+    "date": "2/7/2026, 2:49:38 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Sumaiya Ekra",
+    "facebookUserId": "61557347549201",
+    "memberUserId": "",
+    "memberPhone": "01860013689",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Ekra",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01860013689"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:49:44.324Z",
+    "date": "2/7/2026, 2:49:44 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Abid Bin Khaled",
+    "facebookUserId": "61573039930708",
+    "memberUserId": "",
+    "memberPhone": "0191449837",
+    "memberTrxId": "1b1f6a3b-23ff-4f37-a318-7a04c43cde02",
+    "memberQA": {
+      "তোমার নাম": "abid bin khaled",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "0191449837",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1b1f6a3b-23ff-4f37-a318-7a04c43cde02"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:49:49.790Z",
+    "date": "2/7/2026, 2:49:49 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Santa Akter",
+    "facebookUserId": "100093670395307",
+    "memberUserId": "",
+    "memberPhone": "01533502177",
+    "memberTrxId": "45182c29-b8be-435d-a9b0-3305ec6d53cb",
+    "memberQA": {
+      "তোমার নাম": "Sabrina Sultana",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01533502177",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "45182c29-b8be-435d-a9b0-3305ec6d53cb"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:49:55.269Z",
+    "date": "2/7/2026, 2:49:55 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Jan Nat",
+    "facebookUserId": "61573984711714",
+    "memberUserId": "",
+    "memberPhone": "01975458058",
+    "memberTrxId": "0458ad3f-5b9d-4775-b1c4-9ff2c2dbd4e1",
+    "memberQA": {
+      "তোমার নাম": "Abdul ahad",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01975458058",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0458ad3f-5b9d-4775-b1c4-9ff2c2dbd4e1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:50:00.729Z",
+    "date": "2/7/2026, 2:50:00 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Ahad Ishan",
+    "facebookUserId": "100063689273361",
+    "memberUserId": "",
+    "memberPhone": "01975458058",
+    "memberTrxId": "0458ad3f-5b9d-4775-b1c4-9ff2c2dbd4e1",
+    "memberQA": {
+      "তোমার নাম": "Abdul ahad",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01975458058",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0458ad3f-5b9d-4775-b1c4-9ff2c2dbd4e1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:50:06.195Z",
+    "date": "2/7/2026, 2:50:06 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Ayan Noor",
+    "facebookUserId": "100027258305839",
+    "memberUserId": "",
+    "memberPhone": "01737739321",
+    "memberTrxId": "b13bcc1c-33be-41e3-97f2-eb8f9d06a773",
+    "memberQA": {
+      "তোমার নাম": "Sadi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01737739321",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b13bcc1c-33be-41e3-97f2-eb8f9d06a773"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:50:23.963Z",
+    "date": "2/7/2026, 2:50:23 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Nasima Begum",
+    "facebookUserId": "100095080380990",
+    "memberUserId": "",
+    "memberPhone": "01673648419",
+    "memberTrxId": "a2d0bbce-1d6f-47e0-a42b-06dd08ab5b57",
+    "memberQA": {
+      "তোমার নাম": "Maimuna",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01673648419",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a2d0bbce-1d6f-47e0-a42b-06dd08ab5b57"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:50:29.280Z",
+    "date": "2/7/2026, 2:50:29 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Sidratul Muntaha",
+    "facebookUserId": "61554111363237",
+    "memberUserId": "",
+    "memberPhone": "01711656294",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "মুনতাহা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711656294"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:50:34.595Z",
+    "date": "2/7/2026, 2:50:34 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "অদৃশ্য অনুভূতি",
+    "facebookUserId": "61581342117853",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mishu"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:50:40.087Z",
+    "date": "2/7/2026, 2:50:40 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Prant Oo",
+    "facebookUserId": "61564911535909",
+    "memberUserId": "",
+    "memberPhone": "01966596598",
+    "memberTrxId": "#1ddcebc7-f1cc-4009-9fe6-905ebe7175c1",
+    "memberQA": {
+      "তোমার নাম": "dip debnath",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01966596598",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "#1ddcebc7-f1cc-4009-9fe6-905ebe7175c1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:50:45.564Z",
+    "date": "2/7/2026, 2:50:45 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Ifthakhar Ahmed",
+    "facebookUserId": "61580302013267",
+    "memberUserId": "",
+    "memberPhone": "01721441506",
+    "memberTrxId": "79bbceda-a098-42d6-9c23-565b7382bff0",
+    "memberQA": {
+      "তোমার নাম": "Ifthakhar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01721441506",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "79bbceda-a098-42d6-9c23-565b7382bff0"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:50:51.042Z",
+    "date": "2/7/2026, 2:50:51 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Soumik Mohon Biswas",
+    "facebookUserId": "100079330482376",
+    "memberUserId": "",
+    "memberPhone": "01321285844",
+    "memberTrxId": "851393",
+    "memberQA": {
+      "তোমার নাম": "Soumik Mohon Biswas",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01321285844",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "851393"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:50:56.513Z",
+    "date": "2/7/2026, 2:50:56 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Nhm Mahadi",
+    "facebookUserId": "100042673212522",
+    "memberUserId": "",
+    "memberPhone": "01317912673",
+    "memberTrxId": "f2c6c6c7-99d8-4281-97e9-3cbe6a92fadc",
+    "memberQA": {
+      "তোমার নাম": "Nabidul Hasan Mahadi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01317912673",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f2c6c6c7-99d8-4281-97e9-3cbe6a92fadc"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:51:02.000Z",
+    "date": "2/7/2026, 2:51:02 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Pranjal Chowdhury",
+    "facebookUserId": "61558697016265",
+    "memberUserId": "",
+    "memberPhone": "01878175834",
+    "memberTrxId": "efcf246c-1439-40bc-b375-833e3f41dcc2",
+    "memberQA": {
+      "তোমার নাম": "Pranajl Chowdhury",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01878175834",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "efcf246c-1439-40bc-b375-833e3f41dcc2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:51:07.478Z",
+    "date": "2/7/2026, 2:51:07 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Ahsan Ullah Hamim",
+    "facebookUserId": "100088643357086",
+    "memberUserId": "",
+    "memberPhone": "01810448737",
+    "memberTrxId": "dcde8467-2d55-4db1-b7b3-5ecdc773a9aa",
+    "memberQA": {
+      "তোমার নাম": "আহসান উল্লাহ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01810448737",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dcde8467-2d55-4db1-b7b3-5ecdc773a9aa"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T08:51:12.945Z",
+    "date": "2/7/2026, 2:51:12 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Adrita Tasnim",
+    "facebookUserId": "61574111589213",
+    "memberUserId": "",
+    "memberPhone": "01787677857",
+    "memberTrxId": "7625c807-3565-4616-8235-7ccc2bc2bac0",
+    "memberQA": {
+      "তোমার নাম": "Adrita Tasnim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01787677857",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7625c807-3565-4616-8235-7ccc2bc2bac0"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

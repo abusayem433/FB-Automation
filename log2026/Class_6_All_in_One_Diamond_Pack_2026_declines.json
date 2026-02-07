@@ -791,5 +791,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:26:21.546Z",
+    "date": "2/7/2026, 1:26:21 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Sumona Afrin",
+    "facebookUserId": "100081108785312",
+    "memberUserId": "",
+    "memberPhone": "null",
+    "memberTrxId": "24681eca6e54",
+    "memberQA": {
+      "তোমার নাম": "Abrar Jahin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "null",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "24681eca6e54"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

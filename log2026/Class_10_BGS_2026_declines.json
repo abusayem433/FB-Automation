@@ -8690,5 +8690,58 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T06:57:49.869Z",
+    "date": "2/7/2026, 12:57:49 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Shuvoshri Bhattacharjee",
+    "facebookUserId": "61565463629030",
+    "memberUserId": "",
+    "memberPhone": "51197834-7d74-4cca-b3fc-cc6c2d5661b1",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "শুভশ্রী ভট্টাচার্য্য",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "51197834-7d74-4cca-b3fc-cc6c2d5661b1"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T06:57:55.394Z",
+    "date": "2/7/2026, 12:57:55 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "R K Babu",
+    "facebookUserId": "100073096607396",
+    "memberUserId": "",
+    "memberPhone": "RSL",
+    "memberTrxId": "RSL",
+    "memberQA": {
+      "তোমার নাম": "RSL",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "RSL",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "RSL"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T06:58:22.195Z",
+    "date": "2/7/2026, 12:58:22 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Ahanaf Shahriar",
+    "facebookUserId": "100043208026564",
+    "memberUserId": "",
+    "memberPhone": "01537208462",
+    "memberTrxId": "DB63U6Y9B3",
+    "memberQA": {
+      "তোমার নাম": "Ahanaf Shahriar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01537208462",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DB63U6Y9B3"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -804,5 +804,75 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:01:23.279Z",
+    "date": "2/7/2026, 1:01:23 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "R K Babu",
+    "facebookUserId": "100073096607396",
+    "memberUserId": "",
+    "memberPhone": "RSL",
+    "memberTrxId": "RSL",
+    "memberQA": {
+      "তোমার নাম": "RSL",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "RSL",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "RSL"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:02:00.772Z",
+    "date": "2/7/2026, 1:02:00 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Rafidul Hoque",
+    "facebookUserId": "61552371314954",
+    "memberUserId": "",
+    "memberPhone": "01711069615",
+    "memberTrxId": "5bf6e367-b4c6-4686-b437-55b4eaa9a13e",
+    "memberQA": {
+      "তোমার নাম": "RAFIDUL HOQUE",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711069615",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5bf6e367-b4c6-4686-b437-55b4eaa9a13e"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:02:16.749Z",
+    "date": "2/7/2026, 1:02:16 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Farhana Shila",
+    "facebookUserId": "100013325834093",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "মুবাশ্বির উদ্দিন আলিফ"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-07T07:02:54.227Z",
+    "date": "2/7/2026, 1:02:54 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "SK Talukder",
+    "facebookUserId": "100038825572219",
+    "memberUserId": "",
+    "memberPhone": "01725724045",
+    "memberTrxId": "DB64U96MU2",
+    "memberQA": {
+      "তোমার নাম": "Dipanwita Talukder",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01725724045",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DB64U96MU2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]
