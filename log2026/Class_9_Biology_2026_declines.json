@@ -496,5 +496,59 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:47:54.561Z",
+    "date": "2/10/2026, 12:47:54 AM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Shilpi Akter",
+    "facebookUserId": "61554397785612",
+    "memberUserId": "",
+    "memberPhone": "01715562636",
+    "memberTrxId": "0cefd211-7afc-42fa-bcb8-b460f1d9b266",
+    "memberQA": {
+      "তোমার নাম": "MD SAZID MIA",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01715562636",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0cefd211-7afc-42fa-bcb8-b460f1d9b266"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:48:00.031Z",
+    "date": "2/10/2026, 12:48:00 AM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Sealina Akther",
+    "facebookUserId": "100012379387821",
+    "memberUserId": "",
+    "memberPhone": "01404916648",
+    "memberTrxId": "01404916648",
+    "memberQA": {
+      "তোমার নাম": "Ayesha Aktar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01404916648",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "01404916648"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:48:05.510Z",
+    "date": "2/10/2026, 12:48:05 AM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Hossian Muhammad Samiullah",
+    "facebookUserId": "100055840584429",
+    "memberUserId": "",
+    "memberPhone": "01620153076",
+    "memberTrxId": "b9061d3f-1793-4be1-8d67-6521bf1fbbba",
+    "memberQA": {
+      "তোমার নাম": "Hossian Muhammad Samiullah",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01620153076",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b9061d3f-1793-4be1-8d67-6521bf1fbbba"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

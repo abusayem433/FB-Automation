@@ -3090,5 +3090,57 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:32:49.114Z",
+    "date": "2/10/2026, 12:32:49 AM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Av Id",
+    "facebookUserId": "100091401170106",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Shakibul Azad Avid"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:33:26.666Z",
+    "date": "2/10/2026, 12:33:26 AM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Arifuzzaman Arif",
+    "facebookUserId": "61579342655066",
+    "memberUserId": "",
+    "memberPhone": "01872239453",
+    "memberTrxId": "dc14a2c3-d198-40ce-8839-7e30d5c0ee49",
+    "memberQA": {
+      "তোমার নাম": "MD. ARIFUZZAMAN",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01872239453",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dc14a2c3-d198-40ce-8839-7e30d5c0ee49"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:33:32.195Z",
+    "date": "2/10/2026, 12:33:32 AM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Ismail Hasan",
+    "facebookUserId": "61567403918747",
+    "memberUserId": "",
+    "memberPhone": "01759581641",
+    "memberTrxId": "6bb1b039-5d6e-4f14-89cf-9355214a21c3",
+    "memberQA": {
+      "তোমার নাম": "Nahid Uzzaman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01759581641",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6bb1b039-5d6e-4f14-89cf-9355214a21c3"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

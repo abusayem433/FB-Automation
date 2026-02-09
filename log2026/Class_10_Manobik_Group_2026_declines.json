@@ -1499,5 +1499,22 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:30:31.547Z",
+    "date": "2/10/2026, 12:30:31 AM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Ariyan Ahmed",
+    "facebookUserId": "100076613794657",
+    "memberUserId": "",
+    "memberPhone": "01329268663",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Ariyan Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01329268663"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

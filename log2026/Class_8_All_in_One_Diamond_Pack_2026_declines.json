@@ -3277,5 +3277,73 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:40:43.527Z",
+    "date": "2/10/2026, 12:40:43 AM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Sohela Parvin",
+    "facebookUserId": "100058432791352",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "jsjbqmz"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:41:10.276Z",
+    "date": "2/10/2026, 12:41:10 AM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Nargis Nahar",
+    "facebookUserId": "100067234835470",
+    "memberUserId": "",
+    "memberPhone": "01816798718",
+    "memberTrxId": "DAM0DMFF6Y",
+    "memberQA": {
+      "তোমার নাম": "Jannatun Naima Jerin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816798718",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAM0DMFF6Y"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:41:15.561Z",
+    "date": "2/10/2026, 12:41:15 AM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Mohammed Didarul Alam",
+    "facebookUserId": "100002993441176",
+    "memberUserId": "",
+    "memberPhone": "01813620150",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "jannatul ibnat tarfi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01813620150"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:41:20.856Z",
+    "date": "2/10/2026, 12:41:20 AM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Salina Khatun",
+    "facebookUserId": "100056039735700",
+    "memberUserId": "",
+    "memberPhone": "01731922667",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sabiha Islam Saba",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01731922667"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -361,5 +361,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:49:26.773Z",
+    "date": "2/10/2026, 12:49:26 AM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Aryan Khan",
+    "facebookUserId": "100069960707694",
+    "memberUserId": "",
+    "memberPhone": "01941437800",
+    "memberTrxId": "871e132c-a0a4-4927-86f0-82f43e2ee1a8",
+    "memberQA": {
+      "তোমার নাম": "arisha khanam era",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01941437800",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "871e132c-a0a4-4927-86f0-82f43e2ee1a8"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

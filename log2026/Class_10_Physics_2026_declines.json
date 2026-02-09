@@ -3068,5 +3068,72 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:34:32.710Z",
+    "date": "2/10/2026, 12:34:32 AM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "SH Tasin",
+    "facebookUserId": "61586636050898",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "রাহুল"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:35:10.140Z",
+    "date": "2/10/2026, 12:35:10 AM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Sabbir Ahmed",
+    "facebookUserId": "100031688532343",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mohammad Sabbir Ahamed"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:35:36.866Z",
+    "date": "2/10/2026, 12:35:36 AM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Annanya Kamal",
+    "facebookUserId": "61559962816084",
+    "memberUserId": "",
+    "memberPhone": "01849688748",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Anannya Kamal",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01849688748"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:35:53.236Z",
+    "date": "2/10/2026, 12:35:53 AM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Ibrahim Abrar",
+    "facebookUserId": "61587255881361",
+    "memberUserId": "",
+    "memberPhone": "01737613198",
+    "memberTrxId": "6d19620b-0101-476c-9063-ebc0399a714c",
+    "memberQA": {
+      "তোমার নাম": "Ibrahim Abrar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01737613198",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6d19620b-0101-476c-9063-ebc0399a714c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -327,5 +327,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:52:11.127Z",
+    "date": "2/10/2026, 12:52:11 AM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Kadiza Begum",
+    "facebookUserId": "100055622899307",
+    "memberUserId": "",
+    "memberPhone": "01735555458",
+    "memberTrxId": "218584",
+    "memberQA": {
+      "তোমার নাম": "Nusrat Jahan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01735555458",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "218584"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -980,5 +980,57 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:22:23.585Z",
+    "date": "2/10/2026, 12:22:23 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Sree Ashis Sarker",
+    "facebookUserId": "61587383768396",
+    "memberUserId": "",
+    "memberPhone": "01736923979",
+    "memberTrxId": "6ea5b98a-536a-4315-b70d-2e7f22a850ac",
+    "memberQA": {
+      "তোমার নাম": "Sree Ashis Sarkar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01736923979",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6ea5b98a-536a-4315-b70d-2e7f22a850ac"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:22:50.461Z",
+    "date": "2/10/2026, 12:22:50 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "Abidur Reza Arnob",
+    "facebookUserId": "100093236090725",
+    "memberUserId": "",
+    "memberPhone": "01912958333",
+    "memberTrxId": "#b9000ca9-88ea-4ee0-8314-aa4c5e58a16c",
+    "memberQA": {
+      "তোমার নাম": "Abidur Reza Arnob",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01912958333",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "#b9000ca9-88ea-4ee0-8314-aa4c5e58a16c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:23:06.416Z",
+    "date": "2/10/2026, 12:23:06 AM",
+    "className": "Class 10 Biology (2026)",
+    "memberName": "TU RFa",
+    "facebookUserId": "61557121802156",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Turfa"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

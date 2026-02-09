@@ -1443,5 +1443,58 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:38:48.410Z",
+    "date": "2/10/2026, 12:38:48 AM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Manzur Ali",
+    "facebookUserId": "100005051082217",
+    "memberUserId": "",
+    "memberPhone": "01711870665",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "jannat bint ali",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711870665"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:39:15.504Z",
+    "date": "2/10/2026, 12:39:15 AM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Abdullha Bin Chisty",
+    "facebookUserId": "61583149694621",
+    "memberUserId": "",
+    "memberPhone": "01715191601",
+    "memberTrxId": "5a2c009f-5bde-4fbd-ae70-cf792b77bbb4",
+    "memberQA": {
+      "তোমার নাম": "Muntaha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01715191601",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5a2c009f-5bde-4fbd-ae70-cf792b77bbb4"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:39:42.391Z",
+    "date": "2/10/2026, 12:39:42 AM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Jalal Ahmmed",
+    "facebookUserId": "100047234473432",
+    "memberUserId": "",
+    "memberPhone": "01716470519",
+    "memberTrxId": "4996530e-4e97-4dcc-a9ca-ddd55d363e0d",
+    "memberQA": {
+      "তোমার নাম": "তাফান্নুম আহাম্মদ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01716470519",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "4996530e-4e97-4dcc-a9ca-ddd55d363e0d"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -778,5 +778,41 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:50:55.237Z",
+    "date": "2/10/2026, 12:50:55 AM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Sahanaz Parvin",
+    "facebookUserId": "61571238749983",
+    "memberUserId": "",
+    "memberPhone": "01634498987",
+    "memberTrxId": "b23a802b-e13b-4ac6-a34a-686f66442718",
+    "memberQA": {
+      "তোমার নাম": "Tasmiya",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01634498987",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b23a802b-e13b-4ac6-a34a-686f66442718"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-09T18:51:00.780Z",
+    "date": "2/10/2026, 12:51:00 AM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Easmin Sultana",
+    "facebookUserId": "100014148271371",
+    "memberUserId": "",
+    "memberPhone": "01743664554",
+    "memberTrxId": "579549e5-6d34-402c-b6c3-4d71db16cbbf",
+    "memberQA": {
+      "তোমার নাম": "Moon",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01743664554",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "579549e5-6d34-402c-b6c3-4d71db16cbbf"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]
