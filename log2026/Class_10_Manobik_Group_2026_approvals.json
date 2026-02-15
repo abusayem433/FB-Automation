@@ -1564,5 +1564,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T08:53:00.270Z",
+    "date": "2/15/2026, 2:53:00 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Arifin Sadi",
+    "facebookUserId": "61586139225320",
+    "memberUserId": "61586139225320",
+    "memberPhone": "01636685645",
+    "memberTrxId": "0d132d08-0d45-426a-ab20-a3be47df8e05",
+    "memberQA": {
+      "তোমার নাম": "arifin sadi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01636685645",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0d132d08-0d45-426a-ab20-a3be47df8e05"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

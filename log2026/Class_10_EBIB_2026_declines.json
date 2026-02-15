@@ -396,5 +396,22 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T08:47:27.295Z",
+    "date": "2/15/2026, 2:47:27 PM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Milton Talukder",
+    "facebookUserId": "100059877286443",
+    "memberUserId": "",
+    "memberPhone": "01314350424",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Aditya Talukder",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01314350424"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -379,5 +379,23 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T09:09:44.790Z",
+    "date": "2/15/2026, 3:09:44 PM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Muhammad Atiqur Rahman Khan",
+    "facebookUserId": "100007857461115",
+    "memberUserId": "",
+    "memberPhone": "01929676207",
+    "memberTrxId": "Nafisa",
+    "memberQA": {
+      "তোমার নাম": "Nafisa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01929676207",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Nafisa"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

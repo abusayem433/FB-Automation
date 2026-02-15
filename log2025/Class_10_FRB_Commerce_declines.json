@@ -6457,5 +6457,57 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T08:33:14.725Z",
+    "date": "2/15/2026, 2:33:14 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Bondhon Kumar",
+    "facebookUserId": "61585206914569",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Bondhon Kumar"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T08:33:20.234Z",
+    "date": "2/15/2026, 2:33:20 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Sajidul Islam Sabab",
+    "facebookUserId": "100040074758309",
+    "memberUserId": "",
+    "memberPhone": "01601814625",
+    "memberTrxId": "566e1283-828f-442d-928e-af4db73ec50a",
+    "memberQA": {
+      "তোমার নাম": "sajidul islam sabab",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01601814625",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "566e1283-828f-442d-928e-af4db73ec50a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T08:33:25.706Z",
+    "date": "2/15/2026, 2:33:25 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Jannatul Fatima Kaniz",
+    "facebookUserId": "100061029294405",
+    "memberUserId": "",
+    "memberPhone": "01735156732",
+    "memberTrxId": "160c6e37-b9b7-4e5f-a06b-df8e755bb0e6",
+    "memberQA": {
+      "তোমার নাম": "Kaniz",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01735156732",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "160c6e37-b9b7-4e5f-a06b-df8e755bb0e6"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

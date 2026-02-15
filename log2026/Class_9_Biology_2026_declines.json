@@ -550,5 +550,23 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T09:08:31.938Z",
+    "date": "2/15/2026, 3:08:31 PM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Saiful Islam",
+    "facebookUserId": "100003765366013",
+    "memberUserId": "",
+    "memberPhone": "01708169807",
+    "memberTrxId": "প্রিয় শিক্ষার্থী, তোমার একাডেমিক প্রোগ্রাম ২০২৬ টি পারচেজ সফল হয়েছে। তোমার ইনভয়েস লিঙ্কঃ https://www.acsfutureschool.com/purchase-flow/payment-success?paymentId=2f04c700-b348-4b62-b80e-5ded64496918 \n\nকোর্সের প্রাইভেট গ্রুপ এ জয়েন করতে,\n\n                ১। গ্রুপ লিঙ্কঃ https://www.facebook.com/share/g/1T8K2fVRww/\n\n                ২। এক্সেস কোডঃ 2f04c700-b348-4b62-b80e-5ded64496918\n\n                          \nতোমার গিফট  আমরা ১০-১৫ জানুয়ারি এর মধ্যে নির্দিষ্ট ঠিকানায় পাঠিয়ে দিবো।\n\n\nতুমি চাইলে তোমার বন্ধুকে রেফার করে জিতে নিতে পারো একটি আকর্ষণীয় হুডি! রেফার লিংক: https://acsfutureschool.com/claim-hoodie",
+    "memberQA": {
+      "তোমার নাম": "Raiyan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01708169807",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "প্রিয় শিক্ষার্থী, তোমার একাডেমিক প্রোগ্রাম ২০২৬ টি পারচেজ সফল হয়েছে। তোমার ইনভয়েস লিঙ্কঃ https://www.acsfutureschool.com/purchase-flow/payment-success?paymentId=2f04c700-b348-4b62-b80e-5ded64496918 \n\nকোর্সের প্রাইভেট গ্রুপ এ জয়েন করতে,\n\n                ১। গ্রুপ লিঙ্কঃ https://www.facebook.com/share/g/1T8K2fVRww/\n\n                ২। এক্সেস কোডঃ 2f04c700-b348-4b62-b80e-5ded64496918\n\n                          \nতোমার গিফট  আমরা ১০-১৫ জানুয়ারি এর মধ্যে নির্দিষ্ট ঠিকানায় পাঠিয়ে দিবো।\n\n\nতুমি চাইলে তোমার বন্ধুকে রেফার করে জিতে নিতে পারো একটি আকর্ষণীয় হুডি! রেফার লিংক: https://acsfutureschool.com/claim-hoodie"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

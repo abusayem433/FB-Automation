@@ -345,5 +345,38 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T09:13:16.854Z",
+    "date": "2/15/2026, 3:13:16 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Najeha Islam",
+    "facebookUserId": "61588040616798",
+    "memberUserId": "",
+    "memberPhone": "01728520570",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Nusrat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01728520570"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T09:13:22.172Z",
+    "date": "2/15/2026, 3:13:22 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Sinthia Sayra",
+    "facebookUserId": "61569215283595",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sinthiya"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

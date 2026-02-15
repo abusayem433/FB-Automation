@@ -2662,5 +2662,59 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T09:02:27.067Z",
+    "date": "2/15/2026, 3:02:27 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Rumu Ferdous",
+    "facebookUserId": "61588089326394",
+    "memberUserId": "61588089326394",
+    "memberPhone": "01712467680",
+    "memberTrxId": "276c00ed-2f07-4a8b-b961-0ab93db065fa",
+    "memberQA": {
+      "তোমার নাম": "Rumu Ferdous",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01712467680",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "276c00ed-2f07-4a8b-b961-0ab93db065fa"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T09:02:37.756Z",
+    "date": "2/15/2026, 3:02:37 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Jisan Mahamud",
+    "facebookUserId": "61578565023313",
+    "memberUserId": "61578565023313",
+    "memberPhone": "01755875320",
+    "memberTrxId": "942a1b80-de86-4c17-a043-787819f020ba",
+    "memberQA": {
+      "তোমার নাম": "Shovon Mahamud",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01755875320",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "942a1b80-de86-4c17-a043-787819f020ba"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T09:02:59.495Z",
+    "date": "2/15/2026, 3:02:59 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Shamima Akter",
+    "facebookUserId": "100049354922965",
+    "memberUserId": "100049354922965",
+    "memberPhone": "01739106447",
+    "memberTrxId": "a346d885-64ca-403b-869b-c31a9f1ae250",
+    "memberQA": {
+      "তোমার নাম": "Zaifa Jannat Nabiha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01739106447",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a346d885-64ca-403b-869b-c31a9f1ae250"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

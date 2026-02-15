@@ -1255,5 +1255,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T08:48:38.419Z",
+    "date": "2/15/2026, 2:48:38 PM",
+    "className": "Class 10 English (2026)",
+    "memberName": "Jee Mi",
+    "facebookUserId": "61588367571190",
+    "memberUserId": "",
+    "memberPhone": "01927290631",
+    "memberTrxId": "d69bea6f-8e7c-4f19-bde6-8f964ffb6ae8",
+    "memberQA": {
+      "তোমার নাম": "Saniya Akter",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01927290631",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d69bea6f-8e7c-4f19-bde6-8f964ffb6ae8"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

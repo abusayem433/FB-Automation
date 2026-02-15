@@ -2046,5 +2046,74 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T09:15:40.533Z",
+    "date": "2/15/2026, 3:15:40 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Ibn Haisum",
+    "facebookUserId": "100075390777846",
+    "memberUserId": "",
+    "memberPhone": "01540628741",
+    "memberTrxId": "de6a3f2e-ab56-447b-875a-da50b85754d3",
+    "memberQA": {
+      "তোমার নাম": "Ibn Haisum 543",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01540628741",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "de6a3f2e-ab56-447b-875a-da50b85754d3"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T09:15:45.851Z",
+    "date": "2/15/2026, 3:15:45 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Shanta Aktar",
+    "facebookUserId": "100074648330338",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Nafisa Nafrin Pollobi"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T09:16:12.418Z",
+    "date": "2/15/2026, 3:16:12 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Mohiuddin Gazi",
+    "facebookUserId": "61586697523463",
+    "memberUserId": "",
+    "memberPhone": "01307200297",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "শিমলা আক্তার",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01307200297"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T09:16:17.884Z",
+    "date": "2/15/2026, 3:16:17 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Mst Lita Khatun",
+    "facebookUserId": "100025450838915",
+    "memberUserId": "",
+    "memberPhone": "01345865367",
+    "memberTrxId": "#f932dafd-1664-4732-a4d4-758561a0ce96",
+    "memberQA": {
+      "তোমার নাম": "এশা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01345865367",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "#f932dafd-1664-4732-a4d4-758561a0ce96"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

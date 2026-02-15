@@ -820,5 +820,76 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T08:42:47.435Z",
+    "date": "2/15/2026, 2:42:47 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Ragib Mahtab",
+    "facebookUserId": "61581735204370",
+    "memberUserId": "",
+    "memberPhone": "01816800054",
+    "memberTrxId": "904dca42-ed6b-4074-87be-3ffe0a487f67",
+    "memberQA": {
+      "তোমার নাম": "Ragib Mahtab",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816800054",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "904dca42-ed6b-4074-87be-3ffe0a487f67"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T08:42:52.786Z",
+    "date": "2/15/2026, 2:42:52 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Aditto Khan",
+    "facebookUserId": "61582900942307",
+    "memberUserId": "",
+    "memberPhone": "vaiya o apu amar baba akjon farmar corse kinte pari ni Please akta sujok den ami onek bro dream deki apnader class gula korle amar mne hoy ami amar lokhe poichate parbo",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Md Hosen Ali",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "vaiya o apu amar baba akjon farmar corse kinte pari ni Please akta sujok den ami onek bro dream deki apnader class gula korle amar mne hoy ami amar lokhe poichate parbo"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T08:42:58.256Z",
+    "date": "2/15/2026, 2:42:58 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Junayet Hasan",
+    "facebookUserId": "100087871570537",
+    "memberUserId": "",
+    "memberPhone": "01609340734",
+    "memberTrxId": "DBE03FGKSI",
+    "memberQA": {
+      "তোমার নাম": "Junayet Hasan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01609340734",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DBE03FGKSI"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T08:43:03.747Z",
+    "date": "2/15/2026, 2:43:03 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Jee Mi",
+    "facebookUserId": "61588367571190",
+    "memberUserId": "",
+    "memberPhone": "01927290631",
+    "memberTrxId": "d69bea6f-8e7c-4f19-bde6-8f964ffb6ae8",
+    "memberQA": {
+      "তোমার নাম": "Saniya Akter",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01927290631",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d69bea6f-8e7c-4f19-bde6-8f964ffb6ae8"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

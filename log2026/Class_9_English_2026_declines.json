@@ -541,5 +541,41 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T09:10:26.295Z",
+    "date": "2/15/2026, 3:10:26 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Md Rezaul",
+    "facebookUserId": "100050751127077",
+    "memberUserId": "",
+    "memberPhone": "01712538599",
+    "memberTrxId": "ae767e8f-fb7d-4494-8dcf-9905c9a2ea61",
+    "memberQA": {
+      "তোমার নাম": "Richi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01712538599",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ae767e8f-fb7d-4494-8dcf-9905c9a2ea61"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T09:10:53.126Z",
+    "date": "2/15/2026, 3:10:53 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Minhajul Rahman Jim",
+    "facebookUserId": "61572174290829",
+    "memberUserId": "",
+    "memberPhone": "01306339399",
+    "memberTrxId": "DBE749NPGF",
+    "memberQA": {
+      "তোমার নাম": "Md Minhajul Islam jim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01306339399",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DBE749NPGF"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

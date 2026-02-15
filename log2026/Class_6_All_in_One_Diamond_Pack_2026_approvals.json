@@ -1942,5 +1942,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-15T09:01:36.609Z",
+    "date": "2/15/2026, 3:01:36 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Nuha Sona",
+    "facebookUserId": "100009228446772",
+    "memberUserId": "100009228446772",
+    "memberPhone": "01721690761",
+    "memberTrxId": "5f6c4c88-5883-40b7-8608-bd0b610ac689",
+    "memberQA": {
+      "তোমার নাম": "Jannatul Mawya Rawja",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01721690761",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5f6c4c88-5883-40b7-8608-bd0b610ac689"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]
