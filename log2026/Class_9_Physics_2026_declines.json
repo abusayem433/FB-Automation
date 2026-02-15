@@ -1044,5 +1044,22 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:50:48.662Z",
+    "date": "2/11/2026, 5:50:48 PM",
+    "className": "Class 9 Physics (2026)",
+    "memberName": "Anjo Popy",
+    "facebookUserId": "100004194821263",
+    "memberUserId": "",
+    "memberPhone": "01815163137",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Tasnim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01815163137"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

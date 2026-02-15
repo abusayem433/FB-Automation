@@ -3135,5 +3135,39 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:41:14.965Z",
+    "date": "2/11/2026, 5:41:14 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Md. Anisur Rahman",
+    "facebookUserId": "100086062042633",
+    "memberUserId": "",
+    "memberPhone": "01860387497",
+    "memberTrxId": "e23438ac-9bef-4af9-bade-e6b583ed407a",
+    "memberQA": {
+      "তোমার নাম": "S.M Fahim Faysal Jisan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01860387497",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e23438ac-9bef-4af9-bade-e6b583ed407a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:41:20.295Z",
+    "date": "2/11/2026, 5:41:20 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Habiba Khandaker Rahima",
+    "facebookUserId": "100051733299023",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "790ac86a-161c-4882-a450-1ff79e82fa16"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

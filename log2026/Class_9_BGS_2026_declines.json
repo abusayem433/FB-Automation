@@ -765,5 +765,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:45:21.022Z",
+    "date": "2/11/2026, 5:45:21 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Mithila Fariha Rafa",
+    "facebookUserId": "61554597993576",
+    "memberUserId": "",
+    "memberPhone": "01814210016",
+    "memberTrxId": "a95e1a63-f3d1-429d-b20e-1ac60fa303f1",
+    "memberQA": {
+      "তোমার নাম": "Mithila",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01814210016",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a95e1a63-f3d1-429d-b20e-1ac60fa303f1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

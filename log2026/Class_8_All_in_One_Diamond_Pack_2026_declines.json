@@ -3345,5 +3345,40 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:43:33.887Z",
+    "date": "2/11/2026, 5:43:33 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Hafizur Rahman",
+    "facebookUserId": "61581624185410",
+    "memberUserId": "",
+    "memberPhone": "01997-526972",
+    "memberTrxId": "5b15860d-c3ea-4a69-a9cb-791007626efc",
+    "memberQA": {
+      "তোমার নাম": "Md Abdullah Al Labib",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01997-526972",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5b15860d-c3ea-4a69-a9cb-791007626efc"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:43:39.213Z",
+    "date": "2/11/2026, 5:43:39 PM",
+    "className": "Class 8 All in One Diamond Pack (2026)",
+    "memberName": "Tajrina Sultana Takiya",
+    "facebookUserId": "61584326184447",
+    "memberUserId": "",
+    "memberPhone": "01932732113",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "জাকিয়া সুলতানা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01932732113"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

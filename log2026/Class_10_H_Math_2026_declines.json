@@ -1795,5 +1795,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:36:57.855Z",
+    "date": "2/11/2026, 5:36:57 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Md. Anisur Rahman",
+    "facebookUserId": "100086062042633",
+    "memberUserId": "",
+    "memberPhone": "01860387497",
+    "memberTrxId": "e23438ac-9bef-4af9-bade-e6b583ed407a",
+    "memberQA": {
+      "তোমার নাম": "S.M Fahim Faysal Jisan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01860387497",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e23438ac-9bef-4af9-bade-e6b583ed407a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -6586,5 +6586,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:41:31.618Z",
+    "date": "2/11/2026, 5:41:31 PM",
+    "className": "Class 10 Physics (2026)",
+    "memberName": "Samia Sultana",
+    "facebookUserId": "61587919170610",
+    "memberUserId": "61587919170610",
+    "memberPhone": "01748663674",
+    "memberTrxId": "96c8fdbd-fb76-4fd0-b176-e1df1468ec0e",
+    "memberQA": {
+      "তোমার নাম": "Samia Sultana",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01748663674",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "96c8fdbd-fb76-4fd0-b176-e1df1468ec0e"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

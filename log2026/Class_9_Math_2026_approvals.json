@@ -1402,5 +1402,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:48:47.248Z",
+    "date": "2/11/2026, 5:48:47 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Mazeda Khatun",
+    "facebookUserId": "61581737049418",
+    "memberUserId": "61581737049418",
+    "memberPhone": "01602101232",
+    "memberTrxId": "afb814ba-4eee-43a5-ab9f-ac137714a2f6",
+    "memberQA": {
+      "তোমার নাম": "adib",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01602101232",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "afb814ba-4eee-43a5-ab9f-ac137714a2f6"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

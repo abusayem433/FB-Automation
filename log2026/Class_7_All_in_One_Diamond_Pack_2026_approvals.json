@@ -2644,5 +2644,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:42:47.955Z",
+    "date": "2/11/2026, 5:42:47 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Kushol Chakraborty",
+    "facebookUserId": "100057089125313",
+    "memberUserId": "100057089125313",
+    "memberPhone": "01704373618",
+    "memberTrxId": "8902cfa6-0e49-4763-9cda-7188afaadcac",
+    "memberQA": {
+      "তোমার নাম": "Anirban Chakrabarty",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01704373618",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8902cfa6-0e49-4763-9cda-7188afaadcac"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

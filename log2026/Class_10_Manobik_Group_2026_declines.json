@@ -1516,5 +1516,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:38:33.325Z",
+    "date": "2/11/2026, 5:38:33 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "মোঃ মিজানুল হক",
+    "facebookUserId": "61586677959489",
+    "memberUserId": "",
+    "memberPhone": "01711659577",
+    "memberTrxId": "1dc828ba-880d-4759-927e-9c98f951de2a",
+    "memberQA": {
+      "তোমার নাম": "তাহমিনা আক্তার অনামিকা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711659577",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1dc828ba-880d-4759-927e-9c98f951de2a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -2106,5 +2106,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:39:50.343Z",
+    "date": "2/11/2026, 5:39:50 PM",
+    "className": "Class 10 Math (2026)",
+    "memberName": "Pinky Saha",
+    "facebookUserId": "100036446633502",
+    "memberUserId": "",
+    "memberPhone": "01533453159",
+    "memberTrxId": "953c0d2a-22f0-4157-bf37-5091b9cef719",
+    "memberQA": {
+      "তোমার নাম": "Bipra Saha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01533453159",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "953c0d2a-22f0-4157-bf37-5091b9cef719"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

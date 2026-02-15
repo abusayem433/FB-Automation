@@ -596,5 +596,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:48:36.627Z",
+    "date": "2/11/2026, 5:48:36 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Aaryan Ahmed",
+    "facebookUserId": "100040647908496",
+    "memberUserId": "",
+    "memberPhone": "01911246651",
+    "memberTrxId": "00000000",
+    "memberQA": {
+      "তোমার নাম": "Aaryan Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01911246651",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "00000000"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

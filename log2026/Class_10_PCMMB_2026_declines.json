@@ -3142,5 +3142,23 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:40:31.262Z",
+    "date": "2/11/2026, 5:40:31 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Arifuzzaman Arif",
+    "facebookUserId": "61579342655066",
+    "memberUserId": "",
+    "memberPhone": "01872239453",
+    "memberTrxId": "dc14a2c3-d198-40ce-8839-7e30d5c0ee49",
+    "memberQA": {
+      "তোমার নাম": "MD. ARIFUZZAMAN",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01872239453",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dc14a2c3-d198-40ce-8839-7e30d5c0ee49"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

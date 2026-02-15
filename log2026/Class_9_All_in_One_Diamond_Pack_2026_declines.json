@@ -13839,5 +13839,22 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:44:19.070Z",
+    "date": "2/11/2026, 5:44:19 PM",
+    "className": "Class 9 All in One Diamond Pack (2026)",
+    "memberName": "Aye Sha",
+    "facebookUserId": "100094047428769",
+    "memberUserId": "",
+    "memberPhone": "01909693042",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Jannatul Ferdaus Toha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01909693042"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

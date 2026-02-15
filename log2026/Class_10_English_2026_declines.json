@@ -1237,5 +1237,23 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:36:05.800Z",
+    "date": "2/11/2026, 5:36:05 PM",
+    "className": "Class 10 English (2026)",
+    "memberName": "Md Rezaul",
+    "facebookUserId": "100050751127077",
+    "memberUserId": "",
+    "memberPhone": "01712538599",
+    "memberTrxId": "b5f0f132-2cae-4056-868b-e1e67327a3c1",
+    "memberQA": {
+      "তোমার নাম": "Richi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01712538599",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b5f0f132-2cae-4056-868b-e1e67327a3c1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

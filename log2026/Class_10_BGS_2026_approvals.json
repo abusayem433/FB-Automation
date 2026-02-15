@@ -808,5 +808,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:34:02.708Z",
+    "date": "2/11/2026, 5:34:02 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Md Yousuf Alam Yousuf",
+    "facebookUserId": "100094281180474",
+    "memberUserId": "100094281180474",
+    "memberPhone": "01728342309",
+    "memberTrxId": "0d4ff425-9a3c-4093-baa6-62d7880f2640",
+    "memberQA": {
+      "তোমার নাম": "Yousuf Alam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01728342309",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "0d4ff425-9a3c-4093-baa6-62d7880f2640"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

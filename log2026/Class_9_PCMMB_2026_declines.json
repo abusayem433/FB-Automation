@@ -2010,5 +2010,41 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:49:27.895Z",
+    "date": "2/11/2026, 5:49:27 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Ibn Haisum",
+    "facebookUserId": "100075390777846",
+    "memberUserId": "",
+    "memberPhone": "01540628741",
+    "memberTrxId": "de6a3f2e-ab56-447b-875a-da50b85754d3",
+    "memberQA": {
+      "তোমার নাম": "Muhai 69",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01540628741",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "de6a3f2e-ab56-447b-875a-da50b85754d3"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-11T11:49:45.009Z",
+    "date": "2/11/2026, 5:49:45 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Eysmin Akhter",
+    "facebookUserId": "61574732471666",
+    "memberUserId": "",
+    "memberPhone": "01867671935",
+    "memberTrxId": "DBB71HIHM7",
+    "memberQA": {
+      "তোমার নাম": "Israt Jahan Parushi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01867671935",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DBB71HIHM7"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]
