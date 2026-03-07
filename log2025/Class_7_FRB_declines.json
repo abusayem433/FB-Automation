@@ -4118,5 +4118,23 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-07T14:31:57.771Z",
+    "date": "3/7/2026, 8:31:57 PM",
+    "className": "Class 7 FRB",
+    "memberName": "Tashfika Mahjabin",
+    "facebookUserId": "61560559475883",
+    "memberUserId": "",
+    "memberPhone": "01733758864",
+    "memberTrxId": "adnan",
+    "memberQA": {
+      "তোমার নাম": "Adnan Mahmud",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01733758864",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "adnan"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

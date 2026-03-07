@@ -6545,5 +6545,41 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-07T14:26:41.203Z",
+    "date": "3/7/2026, 8:26:41 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Sajidul Islam Sabab",
+    "facebookUserId": "100040074758309",
+    "memberUserId": "",
+    "memberPhone": "01601814625",
+    "memberTrxId": "566e1283-828f-442d-928e-af4db73ec50a",
+    "memberQA": {
+      "তোমার নাম": "Sajidul islam sabab",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01601814625",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "566e1283-828f-442d-928e-af4db73ec50a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-07T14:26:46.537Z",
+    "date": "3/7/2026, 8:26:46 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Ayra Noor",
+    "facebookUserId": "61588188683433",
+    "memberUserId": "",
+    "memberPhone": "b77e250f-cbbe-4dc6-940c-e7a3bd258272",
+    "memberTrxId": "01673648419",
+    "memberQA": {
+      "তোমার নাম": "Maimuna",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "b77e250f-cbbe-4dc6-940c-e7a3bd258272",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "01673648419"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]
