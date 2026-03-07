@@ -568,5 +568,77 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:01:32.865Z",
+    "date": "2/23/2026, 5:01:32 PM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Rowshon Ara",
+    "facebookUserId": "100051585354367",
+    "memberUserId": "",
+    "memberPhone": "01728888509",
+    "memberTrxId": "6f4b4416-b3f7-41ac-bfcb-e78d8ae4c147",
+    "memberQA": {
+      "তোমার নাম": "Mohsina Haque Hia",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01728888509",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6f4b4416-b3f7-41ac-bfcb-e78d8ae4c147"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:02:09.437Z",
+    "date": "2/23/2026, 5:02:09 PM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "MD Mohor Ali",
+    "facebookUserId": "100091390538803",
+    "memberUserId": "",
+    "memberPhone": "01746063834",
+    "memberTrxId": "db09a14a-d992-431e-a8cf-be6dfc5a7b83",
+    "memberQA": {
+      "তোমার নাম": "Md Mohor Ali",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01746063834",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "db09a14a-d992-431e-a8cf-be6dfc5a7b83"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:02:14.735Z",
+    "date": "2/23/2026, 5:02:14 PM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Lazim Ahbab",
+    "facebookUserId": "61568017265549",
+    "memberUserId": "",
+    "memberPhone": "01308272732",
+    "memberTrxId": "16e4ddea-efdc-42a3-b662 0812db112731",
+    "memberQA": {
+      "তোমার নাম": "Lazim Ahbab",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01308272732",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "16e4ddea-efdc-42a3-b662 0812db112731"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:02:20.036Z",
+    "date": "2/23/2026, 5:02:20 PM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "AL Rafi",
+    "facebookUserId": "61588076117200",
+    "memberUserId": "",
+    "memberPhone": "01308145635",
+    "memberTrxId": "26866f9a-40f7-4e74-94a0-fad635460b60",
+    "memberQA": {
+      "তোমার নাম": "Al Rafi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01308145635",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "26866f9a-40f7-4e74-94a0-fad635460b60"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

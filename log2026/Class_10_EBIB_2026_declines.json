@@ -413,5 +413,40 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:16:20.430Z",
+    "date": "2/23/2026, 4:16:20 PM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Taslima Afroze",
+    "facebookUserId": "100020148145809",
+    "memberUserId": "",
+    "memberPhone": "01919064678",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Maisha Tasnim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01919064678"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:16:36.214Z",
+    "date": "2/23/2026, 4:16:36 PM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Munni Chanda",
+    "facebookUserId": "100054582805780",
+    "memberUserId": "",
+    "memberPhone": "01328981624",
+    "memberTrxId": "548bed6b-94d9-4c30-8463-64581 c9093de",
+    "memberQA": {
+      "তোমার নাম": "Summo Bhowmik",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01328981624",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "548bed6b-94d9-4c30-8463-64581 c9093de"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

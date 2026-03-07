@@ -685,5 +685,112 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:12:24.585Z",
+    "date": "2/23/2026, 5:12:24 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Shafayet Islam",
+    "facebookUserId": "100065451525663",
+    "memberUserId": "",
+    "memberPhone": "01792022850",
+    "memberTrxId": "এক্সেস কোডঃ f0abd0ec-b0e2-4dc9-b38e-fbb1a52fc06e\n\nBkash Transection ID: TrxID DBH275PUJQ",
+    "memberQA": {
+      "তোমার নাম": "SHAFAYET",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01792022850",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "এক্সেস কোডঃ f0abd0ec-b0e2-4dc9-b38e-fbb1a52fc06e\n\nBkash Transection ID: TrxID DBH275PUJQ"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:13:00.994Z",
+    "date": "2/23/2026, 5:13:00 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Sumaiya Akter Mim",
+    "facebookUserId": "61586627895033",
+    "memberUserId": "",
+    "memberPhone": "01931058422",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sumaiya Akter Mim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01931058422"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:13:16.701Z",
+    "date": "2/23/2026, 5:13:16 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Anika Shormila Shoshi",
+    "facebookUserId": "61588446752057",
+    "memberUserId": "",
+    "memberPhone": "01643700132",
+    "memberTrxId": "d50740a6-2bd4-43f7-851b-e5c6abbb0f54",
+    "memberQA": {
+      "তোমার নাম": "Resmina Jannat Alifa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01643700132",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d50740a6-2bd4-43f7-851b-e5c6abbb0f54"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:13:53.117Z",
+    "date": "2/23/2026, 5:13:53 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "MD Mohor Ali",
+    "facebookUserId": "100091390538803",
+    "memberUserId": "",
+    "memberPhone": "01746063834",
+    "memberTrxId": "db09a14a-d992-431e-a8cf-be6dfc5a7b83",
+    "memberQA": {
+      "তোমার নাম": "Md Mohor Ali",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01746063834",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "db09a14a-d992-431e-a8cf-be6dfc5a7b83"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:13:58.404Z",
+    "date": "2/23/2026, 5:13:58 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Rabeya Tun Nesa",
+    "facebookUserId": "61588361022322",
+    "memberUserId": "",
+    "memberPhone": "01822706358",
+    "memberTrxId": "cf3d220d-4ecb-4bb9-b9ee-154d3f2d6ade",
+    "memberQA": {
+      "তোমার নাম": "Rabeya Tun Nesa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01822706358",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cf3d220d-4ecb-4bb9-b9ee-154d3f2d6ade"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:14:14.075Z",
+    "date": "2/23/2026, 5:14:14 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "AL Rafi",
+    "facebookUserId": "61588076117200",
+    "memberUserId": "",
+    "memberPhone": "01308145635",
+    "memberTrxId": "26866f9a-40f7-4e74-94a0-fad635460b60",
+    "memberQA": {
+      "তোমার নাম": "Al Rafi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01308145635",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "26866f9a-40f7-4e74-94a0-fad635460b60"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

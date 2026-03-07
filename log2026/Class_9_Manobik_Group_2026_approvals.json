@@ -520,5 +520,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:11:35.340Z",
+    "date": "2/23/2026, 5:11:35 PM",
+    "className": "Class 9 Manobik Group (2026)",
+    "memberName": "Nusrat Jahan",
+    "facebookUserId": "61585819564390",
+    "memberUserId": "61585819564390",
+    "memberPhone": "01898854958",
+    "memberTrxId": "b91f8e4c-d698-4ccb-97fd-4a1d19a96882",
+    "memberQA": {
+      "তোমার নাম": "Mrs Noosrat jahan moon",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01898854958",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b91f8e4c-d698-4ccb-97fd-4a1d19a96882"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

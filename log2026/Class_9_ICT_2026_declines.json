@@ -173,5 +173,23 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:10:52.088Z",
+    "date": "2/23/2026, 5:10:52 PM",
+    "className": "Class 9 ICT (2026)",
+    "memberName": "AL Rafi",
+    "facebookUserId": "61588076117200",
+    "memberUserId": "",
+    "memberPhone": "01308145635",
+    "memberTrxId": "26866f9a-40f7-4e74-94a0-fad635460b60",
+    "memberQA": {
+      "তোমার নাম": "Al Rafi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01308145635",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "26866f9a-40f7-4e74-94a0-fad635460b60"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

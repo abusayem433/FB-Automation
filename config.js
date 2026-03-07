@@ -309,13 +309,13 @@ const config = {
   // DATABASE CONFIGURATION
   // ===========================================
   DATABASE_CONFIG: {
-    host: "codervaidb.cqhmggfpizrl.ap-southeast-2.rds.amazonaws.com",
-    port: 5432,
-    database: "afs_production",
-    user: "deep",
-    password: "deep_password",
+    host: "codervaidb-do-user-33481922-0.f.db.ondigitalocean.com",
+    port: 25061,
+    database: "afs_content",
+    user: "doadmin",
+    password: "AVNS_xOV8X-T54NfHWh1wOtO",
     ssl: {
-      rejectUnauthorized: false // Required for AWS RDS
+      rejectUnauthorized: false // Required for DigitalOcean managed DB
     }
   },
 

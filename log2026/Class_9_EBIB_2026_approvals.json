@@ -520,5 +520,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:04:02.263Z",
+    "date": "2/23/2026, 5:04:02 PM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Nahiz Akther",
+    "facebookUserId": "100058372944293",
+    "memberUserId": "100058372944293",
+    "memberPhone": "01819600122",
+    "memberTrxId": "3ee51611-61e2-468f-8adc-285f7cbfd525",
+    "memberQA": {
+      "তোমার নাম": "Araf Muhtadi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01819600122",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "3ee51611-61e2-468f-8adc-285f7cbfd525"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

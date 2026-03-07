@@ -577,5 +577,76 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:04:41.038Z",
+    "date": "2/23/2026, 5:04:41 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Afsana Akter",
+    "facebookUserId": "100053207162696",
+    "memberUserId": "",
+    "memberPhone": "01716050665",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Afia Fahmida",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01716050665"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:05:07.193Z",
+    "date": "2/23/2026, 5:05:07 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Mahedy Hasan Riyad",
+    "facebookUserId": "61577572973988",
+    "memberUserId": "",
+    "memberPhone": "01760422717",
+    "memberTrxId": "d040fff2-1387-417f-8922-7ece50fa8d82",
+    "memberQA": {
+      "তোমার নাম": "ltachi Uchiha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01760422717",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d040fff2-1387-417f-8922-7ece50fa8d82"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:05:43.654Z",
+    "date": "2/23/2026, 5:05:43 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "MD Mohor Ali",
+    "facebookUserId": "100091390538803",
+    "memberUserId": "",
+    "memberPhone": "01746063834",
+    "memberTrxId": "3b71f05d-a15b-40ca-bb35-f07c4eb213a2",
+    "memberQA": {
+      "তোমার নাম": "Md Mohor Ali",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01746063834",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "3b71f05d-a15b-40ca-bb35-f07c4eb213a2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:05:59.334Z",
+    "date": "2/23/2026, 5:05:59 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "AL Rafi",
+    "facebookUserId": "61588076117200",
+    "memberUserId": "",
+    "memberPhone": "01308145635",
+    "memberTrxId": "26866f9a-40f7-4e74-94a0-fad635460b60",
+    "memberQA": {
+      "তোমার নাম": "Al rafi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01308145635",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "26866f9a-40f7-4e74-94a0-fad635460b60"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

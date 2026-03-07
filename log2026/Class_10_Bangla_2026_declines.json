@@ -891,5 +891,91 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:08:29.821Z",
+    "date": "2/23/2026, 4:08:29 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Prottoy Sarker",
+    "facebookUserId": "61584916319396",
+    "memberUserId": "",
+    "memberPhone": "01613316050",
+    "memberTrxId": "00c4a24d-4f59-44be-8e35-4b2021902ee8",
+    "memberQA": {
+      "তোমার নাম": "PROTTOY SARKER",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01613316050",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "00c4a24d-4f59-44be-8e35-4b2021902ee8"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:08:35.063Z",
+    "date": "2/23/2026, 4:08:35 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Raisa Rashma",
+    "facebookUserId": "100025359668674",
+    "memberUserId": "",
+    "memberPhone": "01731685394",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Samina Karim Raisa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01731685394"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:08:40.273Z",
+    "date": "2/23/2026, 4:08:40 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Tahmid Noor",
+    "facebookUserId": "61573071257446",
+    "memberUserId": "",
+    "memberPhone": "০১৬১৮২৮৩৬৮৯",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "তাহমিদ নুর",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৬১৮২৮৩৬৮৯"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:08:55.846Z",
+    "date": "2/23/2026, 4:08:55 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Koushik Sarker",
+    "facebookUserId": "61585843451206",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Koushik Sarker"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:09:01.132Z",
+    "date": "2/23/2026, 4:09:01 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Sajid Ahmed",
+    "facebookUserId": "100078282829703",
+    "memberUserId": "",
+    "memberPhone": "01766607241",
+    "memberTrxId": "1f8e3156-66d8-4816-b97b-d9260f011254",
+    "memberQA": {
+      "তোমার নাম": "এস এম সাজিদ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01766607241",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1f8e3156-66d8-4816-b97b-d9260f011254"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -880,5 +880,58 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:44:10.193Z",
+    "date": "2/23/2026, 4:44:10 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Asma Akter",
+    "facebookUserId": "61568287890868",
+    "memberUserId": "",
+    "memberPhone": "01822291001",
+    "memberTrxId": "d315acfb-84d7-44dc-b6ff-42029c66ee02",
+    "memberQA": {
+      "তোমার নাম": "Safayet",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01822291001",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d315acfb-84d7-44dc-b6ff-42029c66ee02"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:44:36.235Z",
+    "date": "2/23/2026, 4:44:36 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Moslam Grameen",
+    "facebookUserId": "100027058573076",
+    "memberUserId": "",
+    "memberPhone": "55551e8b-22c0-4531-a4ba-2442aa82967",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mohona",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "55551e8b-22c0-4531-a4ba-2442aa82967"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:44:41.535Z",
+    "date": "2/23/2026, 4:44:41 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Shacch O",
+    "facebookUserId": "61587300653328",
+    "memberUserId": "",
+    "memberPhone": "01711414968",
+    "memberTrxId": "U",
+    "memberQA": {
+      "তোমার নাম": "Fatema Tanzim Alvi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711414968",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "U"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

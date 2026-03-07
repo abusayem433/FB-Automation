@@ -1936,5 +1936,218 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:20:31.525Z",
+    "date": "2/23/2026, 4:20:31 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Al Muksit",
+    "facebookUserId": "61560558315017",
+    "memberUserId": "",
+    "memberPhone": "01748420834",
+    "memberTrxId": "07930daa-6ad9-44cb-a4d8-39e7627fd998",
+    "memberQA": {
+      "তোমার নাম": "Al Muksit",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01748420834",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "07930daa-6ad9-44cb-a4d8-39e7627fd998"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:20:36.798Z",
+    "date": "2/23/2026, 4:20:36 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Jannatul Ferdous",
+    "facebookUserId": "61567059425985",
+    "memberUserId": "",
+    "memberPhone": "01706311105",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "maimuna binte jashim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01706311105"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:20:52.503Z",
+    "date": "2/23/2026, 4:20:52 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Rabeya Bagum",
+    "facebookUserId": "100028395132873",
+    "memberUserId": "",
+    "memberPhone": "01759802831",
+    "memberTrxId": "a6704dce-038d-486e-9a10-b15536170c72",
+    "memberQA": {
+      "তোমার নাম": "Ramisa Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01759802831",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a6704dce-038d-486e-9a10-b15536170c72"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:20:57.840Z",
+    "date": "2/23/2026, 4:20:57 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Sohaib Ahmed",
+    "facebookUserId": "61574036732880",
+    "memberUserId": "",
+    "memberPhone": "01964220625",
+    "memberTrxId": "ee4c1150-8d50-43b9-bd4a-235f61ff414c",
+    "memberQA": {
+      "তোমার নাম": "Mahafuz sardar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01964220625",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ee4c1150-8d50-43b9-bd4a-235f61ff414c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:21:03.145Z",
+    "date": "2/23/2026, 4:21:03 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Purno Paul",
+    "facebookUserId": "61585944121907",
+    "memberUserId": "",
+    "memberPhone": "01821152161",
+    "memberTrxId": "a27224f2-a109-4086-99bc-3cded88cc84c",
+    "memberQA": {
+      "তোমার নাম": "Hridita paul",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01821152161",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a27224f2-a109-4086-99bc-3cded88cc84c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:21:18.834Z",
+    "date": "2/23/2026, 4:21:18 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Md Rafid",
+    "facebookUserId": "61553549054161",
+    "memberUserId": "",
+    "memberPhone": "01737536148",
+    "memberTrxId": "@rafid",
+    "memberQA": {
+      "তোমার নাম": "RAFID",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01737536148",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "@rafid"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:21:34.571Z",
+    "date": "2/23/2026, 4:21:34 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Omar Faruk",
+    "facebookUserId": "100000843259097",
+    "memberUserId": "",
+    "memberPhone": "01556340327",
+    "memberTrxId": "2ccb02e3-bd13-4d1f-8493-7c834c6141ce",
+    "memberQA": {
+      "তোমার নাম": "Ainoon Jaria",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01556340327",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "2ccb02e3-bd13-4d1f-8493-7c834c6141ce"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:21:39.780Z",
+    "date": "2/23/2026, 4:21:39 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "বেবী সিরাজী",
+    "facebookUserId": "100058078058419",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Taj"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:21:55.444Z",
+    "date": "2/23/2026, 4:21:55 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Moh Sin",
+    "facebookUserId": "61577531521327",
+    "memberUserId": "",
+    "memberPhone": "01857189292",
+    "memberTrxId": "fcaa4a70-7efb-4013-9def-fb297d101ebe",
+    "memberQA": {
+      "তোমার নাম": "mohsin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01857189292",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "fcaa4a70-7efb-4013-9def-fb297d101ebe"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:22:44.012Z",
+    "date": "2/23/2026, 4:22:44 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Sathi Nodi",
+    "facebookUserId": "100034735574813",
+    "memberUserId": "",
+    "memberPhone": "01710604075",
+    "memberTrxId": "DBKIB3ZAQL",
+    "memberQA": {
+      "তোমার নাম": "sayma",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01710604075",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DBKIB3ZAQL"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:23:10.126Z",
+    "date": "2/23/2026, 4:23:10 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Ahmed Alamin",
+    "facebookUserId": "100067928963797",
+    "memberUserId": "",
+    "memberPhone": "01836032265",
+    "memberTrxId": "twy4z4iwgrrje",
+    "memberQA": {
+      "তোমার নাম": "Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01836032265",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "twy4z4iwgrrje"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:23:25.841Z",
+    "date": "2/23/2026, 4:23:25 PM",
+    "className": "Class 10 H. Math (2026)",
+    "memberName": "Bishal Sharker",
+    "facebookUserId": "100091568572728",
+    "memberUserId": "",
+    "memberPhone": "01639369279",
+    "memberTrxId": "a1a791c7-090e-4cea-a654-083b0e60e4b0",
+    "memberQA": {
+      "তোমার নাম": "Bishal",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01639369279",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a1a791c7-090e-4cea-a654-083b0e60e4b0"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -2115,5 +2115,321 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:15:13.769Z",
+    "date": "2/23/2026, 5:15:13 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "মেঘলা আকাশ মেঘলা আকাশ",
+    "facebookUserId": "100023863732606",
+    "memberUserId": "",
+    "memberPhone": "01985290307",
+    "memberTrxId": "01985290307",
+    "memberQA": {
+      "তোমার নাম": "Tanha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01985290307",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "01985290307"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:15:19.061Z",
+    "date": "2/23/2026, 5:15:19 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Lucky Parveen",
+    "facebookUserId": "100080917462670",
+    "memberUserId": "",
+    "memberPhone": "01845291136",
+    "memberTrxId": "cea73913-42d6-43c4-96dd-47f3caa79595",
+    "memberQA": {
+      "তোমার নাম": "Mahira Haque",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01845291136",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cea73913-42d6-43c4-96dd-47f3caa79595"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:15:34.686Z",
+    "date": "2/23/2026, 5:15:34 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Alifa Samiun",
+    "facebookUserId": "61551688688102",
+    "memberUserId": "",
+    "memberPhone": "01602783135",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "সামিউন হোসেন",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01602783135"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:15:39.991Z",
+    "date": "2/23/2026, 5:15:39 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Saroar Hossen",
+    "facebookUserId": "61588464861853",
+    "memberUserId": "",
+    "memberPhone": "01765036134",
+    "memberTrxId": "1dff369c-28f3-4d0c-b297-ec5d6eac49f8",
+    "memberQA": {
+      "তোমার নাম": "saroar Ahmed nur",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01765036134",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1dff369c-28f3-4d0c-b297-ec5d6eac49f8"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:15:45.311Z",
+    "date": "2/23/2026, 5:15:45 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Fatema Akter",
+    "facebookUserId": "61571317540622",
+    "memberUserId": "",
+    "memberPhone": "01647694654",
+    "memberTrxId": "DAV6MVO5UE",
+    "memberQA": {
+      "তোমার নাম": "Fatema Akter",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01647694654",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DAV6MVO5UE"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:15:50.599Z",
+    "date": "2/23/2026, 5:15:50 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Muhtadi Rahman Munif",
+    "facebookUserId": "100084459647079",
+    "memberUserId": "",
+    "memberPhone": "01540628741",
+    "memberTrxId": "de6a3f2e-ab56-447b-875a-da50b85754d3",
+    "memberQA": {
+      "তোমার নাম": "Muhai",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01540628741",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "de6a3f2e-ab56-447b-875a-da50b85754d3"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:15:55.855Z",
+    "date": "2/23/2026, 5:15:55 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Biplob Deb",
+    "facebookUserId": "100000142695652",
+    "memberUserId": "",
+    "memberPhone": "01712937551",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Beven Deb Behan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01712937551"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:16:32.344Z",
+    "date": "2/23/2026, 5:16:32 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Farzana Naznin",
+    "facebookUserId": "100027284212685",
+    "memberUserId": "",
+    "memberPhone": "01713164759",
+    "memberTrxId": "d26f700e-289c-4452-8ecb-902359683bfe",
+    "memberQA": {
+      "তোমার নাম": "Naveen",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01713164759",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d26f700e-289c-4452-8ecb-902359683bfe"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:16:37.642Z",
+    "date": "2/23/2026, 5:16:37 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Mahedy Hasan Riyad",
+    "facebookUserId": "61577572973988",
+    "memberUserId": "",
+    "memberPhone": "01760422717",
+    "memberTrxId": "f626b10d-afb4-4791-8fb4-7df5db9a6e33",
+    "memberQA": {
+      "তোমার নাম": "atahi Uchiha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01760422717",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f626b10d-afb4-4791-8fb4-7df5db9a6e33"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:17:15.850Z",
+    "date": "2/23/2026, 5:17:15 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Saifa Ahmed",
+    "facebookUserId": "61576505458308",
+    "memberUserId": "",
+    "memberPhone": "01986427378",
+    "memberTrxId": "e75f102d-899d-4484-9107-b6401670b6c2",
+    "memberQA": {
+      "তোমার নাম": "Saifa Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01986427378",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e75f102d-899d-4484-9107-b6401670b6c2"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:17:31.610Z",
+    "date": "2/23/2026, 5:17:31 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Azmeri Sultana Rita",
+    "facebookUserId": "100012337050919",
+    "memberUserId": "",
+    "memberPhone": "01884700022",
+    "memberTrxId": "341993",
+    "memberQA": {
+      "তোমার নাম": "Sabiha Islam Jannat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01884700022",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "341993"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:17:36.897Z",
+    "date": "2/23/2026, 5:17:36 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Luba Nahida Lubana",
+    "facebookUserId": "100004382730261",
+    "memberUserId": "",
+    "memberPhone": "01816442851",
+    "memberTrxId": "CLV6MKC48K",
+    "memberQA": {
+      "তোমার নাম": "Rafid Rafsan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01816442851",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "CLV6MKC48K"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:18:02.909Z",
+    "date": "2/23/2026, 5:18:02 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Susmita Chowdhury",
+    "facebookUserId": "61579316240234",
+    "memberUserId": "",
+    "memberPhone": "01887648686",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Musfiqur Rahman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01887648686"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:18:28.932Z",
+    "date": "2/23/2026, 5:18:28 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Ismat Jahan",
+    "facebookUserId": "100077401177185",
+    "memberUserId": "",
+    "memberPhone": "01724964955",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "প্রয়ি",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01724964955"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:19:27.436Z",
+    "date": "2/23/2026, 5:19:27 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Nurunnahar Ayesha",
+    "facebookUserId": "100054343632036",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Md Sifatul Islam Moni"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:19:32.663Z",
+    "date": "2/23/2026, 5:19:32 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Nurunnahar Ayesha",
+    "facebookUserId": "100028425662867",
+    "memberUserId": "",
+    "memberPhone": "01919897738",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Md Sifatul Islam Moni",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01919897738"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:19:48.273Z",
+    "date": "2/23/2026, 5:19:48 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Bitto Chowdhury",
+    "facebookUserId": "61580823898415",
+    "memberUserId": "",
+    "memberPhone": "01818470773",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Bornil Choudhury Borno",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01818470773"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:19:53.561Z",
+    "date": "2/23/2026, 5:19:53 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Mohammad Pranto",
+    "facebookUserId": "61574551935964",
+    "memberUserId": "",
+    "memberPhone": "01329971182",
+    "memberTrxId": "pranto",
+    "memberQA": {
+      "তোমার নাম": "সামদানী হাসান প্রান্ত",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01329971182",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "pranto"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

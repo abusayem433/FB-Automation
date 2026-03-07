@@ -2716,5 +2716,77 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:45:51.252Z",
+    "date": "2/23/2026, 4:45:51 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Anaya Jahan",
+    "facebookUserId": "61586760444157",
+    "memberUserId": "61586760444157",
+    "memberPhone": "01409019574",
+    "memberTrxId": "c47a44a3-6118-405d-a273-77e245f2ed50",
+    "memberQA": {
+      "তোমার নাম": "Nuha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01409019574",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "c47a44a3-6118-405d-a273-77e245f2ed50"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:46:01.698Z",
+    "date": "2/23/2026, 4:46:01 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Fatiha Farabi Sunan",
+    "facebookUserId": "100056723057255",
+    "memberUserId": "100056723057255",
+    "memberPhone": "01749668661",
+    "memberTrxId": "f240d33a-f83a-469c-97c7-92a3c9b9522b",
+    "memberQA": {
+      "তোমার নাম": "Farwah Farabi Ainan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01749668661",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f240d33a-f83a-469c-97c7-92a3c9b9522b"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:46:27.971Z",
+    "date": "2/23/2026, 4:46:27 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Nusrin Sultana",
+    "facebookUserId": "61585434813458",
+    "memberUserId": "61585434813458",
+    "memberPhone": "01833877436",
+    "memberTrxId": "9ff42c65-c360-4dfa-83b3-eb9ef547552f",
+    "memberQA": {
+      "তোমার নাম": "মোঃ কাইফ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01833877436",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "9ff42c65-c360-4dfa-83b3-eb9ef547552f"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:46:38.354Z",
+    "date": "2/23/2026, 4:46:38 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Nusrat Jahan Naznin",
+    "facebookUserId": "100054848806444",
+    "memberUserId": "100054848806444",
+    "memberPhone": "01743882540",
+    "memberTrxId": "ace14a6d-69b8-4d4a-9dd7-16961bd1c618",
+    "memberQA": {
+      "তোমার নাম": "daniyal munir",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01743882540",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ace14a6d-69b8-4d4a-9dd7-16961bd1c618"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

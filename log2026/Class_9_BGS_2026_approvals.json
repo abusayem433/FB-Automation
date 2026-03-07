@@ -196,5 +196,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T11:00:42.077Z",
+    "date": "2/23/2026, 5:00:42 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Afsharah Jahan Anika",
+    "facebookUserId": "100078628813366",
+    "memberUserId": "100078628813366",
+    "memberPhone": "০১৯৭৭২৯৫৮৯০",
+    "memberTrxId": "b49a7381-45bd-4b13-8c63-0d4b37caccc8",
+    "memberQA": {
+      "তোমার নাম": "আফসারাহ জাহান আনিকা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "০১৯৭৭২৯৫৮৯০",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b49a7381-45bd-4b13-8c63-0d4b37caccc8"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

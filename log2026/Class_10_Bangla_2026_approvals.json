@@ -1078,5 +1078,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T10:08:50.627Z",
+    "date": "2/23/2026, 4:08:50 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Rafayet Hasan",
+    "facebookUserId": "61574682131942",
+    "memberUserId": "61574682131942",
+    "memberPhone": "01711206189",
+    "memberTrxId": "dcd59c35-b671-4090-9777-d7d581b18f4f",
+    "memberQA": {
+      "তোমার নাম": "Rafayet Hasan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01711206189",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "dcd59c35-b671-4090-9777-d7d581b18f4f"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

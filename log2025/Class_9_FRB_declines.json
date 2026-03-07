@@ -36270,5 +36270,22 @@
     "approvalStatus": "no_answers",
     "declineReason": "প্রশ্নের উত্তর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T09:58:39.168Z",
+    "date": "2/23/2026, 3:58:39 PM",
+    "className": "Class 9 FRB",
+    "memberName": "Shazril Islam Aurzon",
+    "facebookUserId": "100076697922974",
+    "memberUserId": "",
+    "memberPhone": "01724804130",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "MD. Shazril Islam Aurzon",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01724804130"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

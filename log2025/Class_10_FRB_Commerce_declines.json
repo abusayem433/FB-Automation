@@ -6509,5 +6509,41 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T09:52:45.536Z",
+    "date": "2/23/2026, 3:52:45 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Nasima Begum",
+    "facebookUserId": "61588188683433",
+    "memberUserId": "",
+    "memberPhone": "01673648419",
+    "memberTrxId": "b77e250f-cbbe-4dc6-940c-e7a3bd258272",
+    "memberQA": {
+      "তোমার নাম": "maimuna",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01673648419",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b77e250f-cbbe-4dc6-940c-e7a3bd258272"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-02-23T09:52:50.849Z",
+    "date": "2/23/2026, 3:52:50 PM",
+    "className": "Class 10 FRB Commerce",
+    "memberName": "Nasima Begum",
+    "facebookUserId": "100095080380990",
+    "memberUserId": "",
+    "memberPhone": "01673648419",
+    "memberTrxId": "b77e250f-cbbe-4dc6-940c-e7a3bd258272",
+    "memberQA": {
+      "তোমার নাম": "Maimuna",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01673648419",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b77e250f-cbbe-4dc6-940c-e7a3bd258272"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]
