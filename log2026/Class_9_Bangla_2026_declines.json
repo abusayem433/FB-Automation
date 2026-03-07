@@ -213,5 +213,23 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-07T15:48:10.801Z",
+    "date": "3/7/2026, 9:48:10 PM",
+    "className": "Class 9 Bangla (2026)",
+    "memberName": "Priyom Kanungo",
+    "facebookUserId": "100080105636378",
+    "memberUserId": "",
+    "memberPhone": "01576510281",
+    "memberTrxId": "c6ab11f5-7345-4eaf-bcee-c15b23100a51",
+    "memberQA": {
+      "তোমার নাম": "priyom Kanungo",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01576510281",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "c6ab11f5-7345-4eaf-bcee-c15b23100a51"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

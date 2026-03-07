@@ -819,5 +819,22 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-07T15:49:09.874Z",
+    "date": "3/7/2026, 9:49:09 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Farhana Zaman",
+    "facebookUserId": "61556083257129",
+    "memberUserId": "",
+    "memberPhone": "01718286722",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Ayesha ferdosh",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01718286722"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

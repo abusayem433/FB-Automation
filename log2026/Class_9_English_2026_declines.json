@@ -648,5 +648,41 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-07T15:54:42.766Z",
+    "date": "3/7/2026, 9:54:42 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Nuren Islam",
+    "facebookUserId": "100049135208139",
+    "memberUserId": "",
+    "memberPhone": "01829395371",
+    "memberTrxId": "20112",
+    "memberQA": {
+      "তোমার নাম": "Nafiza Islam Nur",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01829395371",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "20112"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-07T15:54:58.560Z",
+    "date": "3/7/2026, 9:54:58 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Asma Airin",
+    "facebookUserId": "61581823721700",
+    "memberUserId": "",
+    "memberPhone": "01826735566",
+    "memberTrxId": "6d559365-4daf-4a9b-9d0c-11b8a2d82efb",
+    "memberQA": {
+      "তোমার নাম": "Naznin Nahar Nisat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01826735566",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6d559365-4daf-4a9b-9d0c-11b8a2d82efb"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]
