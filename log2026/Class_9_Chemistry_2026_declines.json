@@ -422,5 +422,22 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:10:09.789Z",
+    "date": "3/13/2026, 3:10:09 PM",
+    "className": "Class 9 Chemistry (2026)",
+    "memberName": "Raisha Moni",
+    "facebookUserId": "61586915784301",
+    "memberUserId": "",
+    "memberPhone": "01797334590",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Nure Jannat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01797334590"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

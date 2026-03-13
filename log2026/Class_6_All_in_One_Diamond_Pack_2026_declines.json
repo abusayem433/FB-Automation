@@ -1004,5 +1004,58 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:03:43.621Z",
+    "date": "3/13/2026, 3:03:43 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Fariya Fardin",
+    "facebookUserId": "100076437038777",
+    "memberUserId": "",
+    "memberPhone": "01935643185",
+    "memberTrxId": "6a2a713a-d313-4cc1-b6a8-66f5fd271f3a",
+    "memberQA": {
+      "তোমার নাম": "Fardin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01935643185",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6a2a713a-d313-4cc1-b6a8-66f5fd271f3a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:03:49.091Z",
+    "date": "3/13/2026, 3:03:49 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "কাশেম আলি মাধ্যমিক বিদ্যালয়",
+    "facebookUserId": "100013340771224",
+    "memberUserId": "",
+    "memberPhone": "01772091843",
+    "memberTrxId": "ef1e17b3-425f-406f-9785-071fbf0ac666",
+    "memberQA": {
+      "তোমার নাম": "Nazifa Zaman",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01772091843",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ef1e17b3-425f-406f-9785-071fbf0ac666"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:03:54.312Z",
+    "date": "3/13/2026, 3:03:54 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Kartick Chandra Nath Nath",
+    "facebookUserId": "61587906748398",
+    "memberUserId": "",
+    "memberPhone": "01774894000",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "শ্যাম গৌরী নাথ",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01774894000"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

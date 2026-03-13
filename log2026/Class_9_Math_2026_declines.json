@@ -972,5 +972,76 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:16:13.195Z",
+    "date": "3/13/2026, 3:16:13 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Zubayer Bhuiyan",
+    "facebookUserId": "100071904022504",
+    "memberUserId": "",
+    "memberPhone": "01754727999",
+    "memberTrxId": "e472ee03-59ef-4c33-8dc9-e4f61196c0b9",
+    "memberQA": {
+      "তোমার নাম": "এইচ এম যুবায়ের ভূঁইয়া",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01754727999",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e472ee03-59ef-4c33-8dc9-e4f61196c0b9"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:16:18.526Z",
+    "date": "3/13/2026, 3:16:18 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "KH Fuad Jamil",
+    "facebookUserId": "100085596946289",
+    "memberUserId": "",
+    "memberPhone": "01828155069",
+    "memberTrxId": "730ae22b-f8ea-4f12-aca5-f9d415261590",
+    "memberQA": {
+      "তোমার নাম": "Kh.fuad",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01828155069",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "730ae22b-f8ea-4f12-aca5-f9d415261590"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:16:23.833Z",
+    "date": "3/13/2026, 3:16:23 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Rakib Hassan",
+    "facebookUserId": "61559801137360",
+    "memberUserId": "",
+    "memberPhone": "01732164382",
+    "memberTrxId": "6b7a3d09-f1c7-47a3-8273-fd15fb94f70a",
+    "memberQA": {
+      "তোমার নাম": "Raid Hasan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01732164382",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "6b7a3d09-f1c7-47a3-8273-fd15fb94f70a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:16:39.462Z",
+    "date": "3/13/2026, 3:16:39 PM",
+    "className": "Class 9 Math (2026)",
+    "memberName": "Raisha Moni",
+    "facebookUserId": "61586915784301",
+    "memberUserId": "",
+    "memberPhone": "01797334590",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Nure Jannat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01797334590"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

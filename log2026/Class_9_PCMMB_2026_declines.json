@@ -2620,5 +2620,74 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:17:28.520Z",
+    "date": "3/13/2026, 3:17:28 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Tanisha Tarim Nihi",
+    "facebookUserId": "61586930632969",
+    "memberUserId": "",
+    "memberPhone": "01717890740",
+    "memberTrxId": "7ec43adc-0105-480b-aead-02f7f05eaa29",
+    "memberQA": {
+      "তোমার নাম": "Tanisha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01717890740",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7ec43adc-0105-480b-aead-02f7f05eaa29"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:17:54.889Z",
+    "date": "3/13/2026, 3:17:54 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "আখি আক্তার",
+    "facebookUserId": "61588571108832",
+    "memberUserId": "",
+    "memberPhone": "01603351918",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Asif sarkar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01603351918"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:18:00.129Z",
+    "date": "3/13/2026, 3:18:00 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Arshi Rani",
+    "facebookUserId": "100034920070762",
+    "memberUserId": "",
+    "memberPhone": "01712759418",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "0nonto",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01712759418"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:18:47.318Z",
+    "date": "3/13/2026, 3:18:47 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Asif Sarkar",
+    "facebookUserId": "61588122167479",
+    "memberUserId": "",
+    "memberPhone": "01603351918",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Asif sarkar",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01603351918"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

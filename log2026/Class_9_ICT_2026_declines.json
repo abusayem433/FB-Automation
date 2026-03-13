@@ -209,5 +209,40 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:14:44.366Z",
+    "date": "3/13/2026, 3:14:44 PM",
+    "className": "Class 9 ICT (2026)",
+    "memberName": "Raisha Moni",
+    "facebookUserId": "61586915784301",
+    "memberUserId": "",
+    "memberPhone": "01797334590",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Nure Jannat",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01797334590"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:14:50.187Z",
+    "date": "3/13/2026, 3:14:50 PM",
+    "className": "Class 9 ICT (2026)",
+    "memberName": "Jarna Akter",
+    "facebookUserId": "100041776280311",
+    "memberUserId": "",
+    "memberPhone": "01715363814",
+    "memberTrxId": "cf792553-3e23-4473-a2d1-d3ca5d1fcc5e",
+    "memberQA": {
+      "তোমার নাম": "Jannatul Eshan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01715363814",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "cf792553-3e23-4473-a2d1-d3ca5d1fcc5e"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

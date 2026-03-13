@@ -836,5 +836,21 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:08:15.707Z",
+    "date": "3/13/2026, 3:08:15 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Raisha Moni",
+    "facebookUserId": "61586915784301",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Nure jannat"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

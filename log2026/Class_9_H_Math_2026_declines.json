@@ -1337,5 +1337,125 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:12:47.750Z",
+    "date": "3/13/2026, 3:12:47 PM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Meer Suwadi",
+    "facebookUserId": "100052585935259",
+    "memberUserId": "",
+    "memberPhone": "01687778684",
+    "memberTrxId": "#b354e0de-80bd-4864-957e-6295ca0c8695",
+    "memberQA": {
+      "তোমার নাম": "Labib",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01687778684",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "#b354e0de-80bd-4864-957e-6295ca0c8695"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:12:52.997Z",
+    "date": "3/13/2026, 3:12:52 PM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Kohinur Akther",
+    "facebookUserId": "100071989241319",
+    "memberUserId": "",
+    "memberPhone": "01722330399",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mim Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01722330399"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:13:08.631Z",
+    "date": "3/13/2026, 3:13:08 PM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Raisha Moni",
+    "facebookUserId": "61586915784301",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Nure Jannat"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:13:13.870Z",
+    "date": "3/13/2026, 3:13:13 PM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Prabhabati Sarker",
+    "facebookUserId": "100044826974405",
+    "memberUserId": "",
+    "memberPhone": "01717278222",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Nirupam chowdhury",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01717278222"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:13:29.612Z",
+    "date": "3/13/2026, 3:13:29 PM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Ar Roy",
+    "facebookUserId": "61587589019177",
+    "memberUserId": "",
+    "memberPhone": "01749445077",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Aronno Roy",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01749445077"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:13:45.331Z",
+    "date": "3/13/2026, 3:13:45 PM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Shimla Akter",
+    "facebookUserId": "61572449033123",
+    "memberUserId": "",
+    "memberPhone": "01928142379",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Shimla",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01928142379"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:13:50.664Z",
+    "date": "3/13/2026, 3:13:50 PM",
+    "className": "Class 9 H. Math (2026)",
+    "memberName": "Mu Bin",
+    "facebookUserId": "61575124091073",
+    "memberUserId": "",
+    "memberPhone": "01903523487",
+    "memberTrxId": "a5f0500c-e225-4a48-94ce-4e9877000d86",
+    "memberQA": {
+      "তোমার নাম": "FATTAHUL MUBIN",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01903523487",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "a5f0500c-e225-4a48-94ce-4e9877000d86"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

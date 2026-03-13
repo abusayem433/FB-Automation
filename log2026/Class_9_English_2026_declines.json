@@ -684,5 +684,22 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:11:37.245Z",
+    "date": "3/13/2026, 3:11:37 PM",
+    "className": "Class 9 English (2026)",
+    "memberName": "Arafat Islam Shiam",
+    "facebookUserId": "61585418154591",
+    "memberUserId": "",
+    "memberPhone": "01304992121",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Arafat Islam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01304992121"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

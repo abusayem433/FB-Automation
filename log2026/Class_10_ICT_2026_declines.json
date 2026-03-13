@@ -988,5 +988,59 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T08:51:09.182Z",
+    "date": "3/13/2026, 2:51:09 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Mehedi Hasan",
+    "facebookUserId": "61573880065583",
+    "memberUserId": "",
+    "memberPhone": "01766305320",
+    "memberTrxId": "null",
+    "memberQA": {
+      "তোমার নাম": "Mehedi Hasan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01766305320",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "null"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T08:51:14.593Z",
+    "date": "3/13/2026, 2:51:14 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Morsheda Begum",
+    "facebookUserId": "100079437896215",
+    "memberUserId": "",
+    "memberPhone": "01302912084",
+    "memberTrxId": "d52a4a73-4e79-4fc9-8389-21e412aad445",
+    "memberQA": {
+      "তোমার নাম": "zarin Tasnim dina",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01302912084",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "d52a4a73-4e79-4fc9-8389-21e412aad445"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T08:51:19.985Z",
+    "date": "3/13/2026, 2:51:19 PM",
+    "className": "Class 10 ICT (2026)",
+    "memberName": "Mahabuba Mismis Tuba",
+    "facebookUserId": "61574207611892",
+    "memberUserId": "",
+    "memberPhone": "01952103894",
+    "memberTrxId": "f0833069-871a-4503-84a1-be20b8666b76",
+    "memberQA": {
+      "তোমার নাম": "MAHABUBA TUBA",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01952103894",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f0833069-871a-4503-84a1-be20b8666b76"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

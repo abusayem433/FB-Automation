@@ -24478,5 +24478,59 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T08:39:01.171Z",
+    "date": "3/13/2026, 2:39:01 PM",
+    "className": "Class 10 All in One Diamond Pack (2026)",
+    "memberName": "Shirin Korim",
+    "facebookUserId": "100011379769075",
+    "memberUserId": "100011379769075",
+    "memberPhone": "01729152064",
+    "memberTrxId": "37fdfdb2-9901-4869-9066-dbe609734755",
+    "memberQA": {
+      "তোমার নাম": "Moon",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01729152064",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "37fdfdb2-9901-4869-9066-dbe609734755"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T08:39:11.717Z",
+    "date": "3/13/2026, 2:39:11 PM",
+    "className": "Class 10 All in One Diamond Pack (2026)",
+    "memberName": "Mst Supto Sweet",
+    "facebookUserId": "61558129010858",
+    "memberUserId": "61558129010858",
+    "memberPhone": "01614787936",
+    "memberTrxId": "12914607-0a1f-4819-b4ca-48fef7b6a736",
+    "memberQA": {
+      "তোমার নাম": "Mst Moriom Akhter",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01614787936",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "12914607-0a1f-4819-b4ca-48fef7b6a736"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T08:40:16.145Z",
+    "date": "3/13/2026, 2:40:16 PM",
+    "className": "Class 10 All in One Diamond Pack (2026)",
+    "memberName": "Naimus Sadat Riyel",
+    "facebookUserId": "100043144203362",
+    "memberUserId": "100043144203362",
+    "memberPhone": "01876376858",
+    "memberTrxId": "54137b83-4cc1-4eb8-85d3-92c00fa62d87",
+    "memberQA": {
+      "তোমার নাম": "নাঈমুস সাদাত রিয়েল",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01876376858",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "54137b83-4cc1-4eb8-85d3-92c00fa62d87"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

@@ -397,5 +397,22 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T09:10:58.382Z",
+    "date": "3/13/2026, 3:10:58 PM",
+    "className": "Class 9 EBIB (2026)",
+    "memberName": "Abdur Rahnan Kashif",
+    "facebookUserId": "100026181047447",
+    "memberUserId": "",
+    "memberPhone": "01928360918",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "AFIYA HOSSEN ROZA",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01928360918"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

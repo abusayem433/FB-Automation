@@ -1594,5 +1594,39 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T08:45:39.086Z",
+    "date": "3/13/2026, 2:45:39 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Anonto Halder",
+    "facebookUserId": "61566824596912",
+    "memberUserId": "",
+    "memberPhone": "01708036886",
+    "memberTrxId": "bc97d51e-e540-468d-8838-86d585f680f4",
+    "memberQA": {
+      "তোমার নাম": "Anonto Halder",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01708036886",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "bc97d51e-e540-468d-8838-86d585f680f4"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-03-13T08:46:05.476Z",
+    "date": "3/13/2026, 2:46:05 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Jatiya Raveya",
+    "facebookUserId": "61586637524659",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "sanju"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]
