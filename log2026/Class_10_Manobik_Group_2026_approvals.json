@@ -1708,5 +1708,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T10:34:59.834Z",
+    "date": "4/6/2026, 4:34:59 PM",
+    "className": "Class 10 Manobik Group (2026)",
+    "memberName": "Fahad Ibrahim",
+    "facebookUserId": "61565834334465",
+    "memberUserId": "61565834334465",
+    "memberPhone": "01954831103",
+    "memberTrxId": "8a28581a-5e9d-40e9-ab4e-27f5ea1c35e1",
+    "memberQA": {
+      "তোমার নাম": "Fahad Ibrahim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01954831103",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8a28581a-5e9d-40e9-ab4e-27f5ea1c35e1"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

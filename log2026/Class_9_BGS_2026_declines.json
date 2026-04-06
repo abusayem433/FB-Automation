@@ -852,5 +852,40 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:11:44.932Z",
+    "date": "4/6/2026, 5:11:44 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Dentist-Mahbub Limon",
+    "facebookUserId": "100035481545529",
+    "memberUserId": "",
+    "memberPhone": "01711373508",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Rafci Khan",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "01711373508"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:11:50.281Z",
+    "date": "4/6/2026, 5:11:50 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Rahima Khanom",
+    "facebookUserId": "100065019450150",
+    "memberUserId": "",
+    "memberPhone": "01703187260",
+    "memberTrxId": "#9ce83128-c8dc-42f9-9305",
+    "memberQA": {
+      "তোমার নাম": "Fatima Jahan Tasmim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01703187260",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "#9ce83128-c8dc-42f9-9305"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

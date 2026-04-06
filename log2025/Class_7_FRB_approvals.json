@@ -952,5 +952,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-05T09:06:52.821Z",
+    "date": "4/5/2026, 3:06:52 PM",
+    "className": "Class 7 FRB",
+    "memberName": "Manzur Rasid",
+    "facebookUserId": "100010066569839",
+    "memberUserId": "100010066569839",
+    "memberPhone": "01916056896",
+    "memberTrxId": "83639c30-7dfe-4712-a8ad-27bb72027ec7",
+    "memberQA": {
+      "তোমার নাম": "Mahin",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01916056896",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "83639c30-7dfe-4712-a8ad-27bb72027ec7"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

@@ -2932,5 +2932,41 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:00:36.670Z",
+    "date": "4/6/2026, 5:00:36 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Shoaib Bin Wazi",
+    "facebookUserId": "61564247162347",
+    "memberUserId": "61564247162347",
+    "memberPhone": "01924084852",
+    "memberTrxId": "ad3575e6-83fc-4af3-bd63-64e081737fcc",
+    "memberQA": {
+      "তোমার নাম": "Shoaib Bin Wazi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01924084852",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ad3575e6-83fc-4af3-bd63-64e081737fcc"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:00:47.047Z",
+    "date": "4/6/2026, 5:00:47 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Hasina Aktar",
+    "facebookUserId": "61575379659734",
+    "memberUserId": "61575379659734",
+    "memberPhone": "01815115093",
+    "memberTrxId": "e33e431e-7a9a-4ee4-9aa4-8f5d5ea95f52",
+    "memberQA": {
+      "তোমার নাম": "Hojaifa Hasnin Sinha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01815115093",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "e33e431e-7a9a-4ee4-9aa4-8f5d5ea95f52"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

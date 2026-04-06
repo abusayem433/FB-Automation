@@ -250,5 +250,23 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:12:00.665Z",
+    "date": "4/6/2026, 5:12:00 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Sikha Sen",
+    "facebookUserId": "100024057404371",
+    "memberUserId": "100024057404371",
+    "memberPhone": "0182170547",
+    "memberTrxId": "26013afa-ddf3-4d43-a83f-426946e075fb",
+    "memberQA": {
+      "তোমার নাম": "Apurbo Sen",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "0182170547",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "26013afa-ddf3-4d43-a83f-426946e075fb"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]

@@ -500,5 +500,40 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T10:21:45.873Z",
+    "date": "4/6/2026, 4:21:45 PM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Swapna Mostari Kona",
+    "facebookUserId": "61554845047415",
+    "memberUserId": "",
+    "memberPhone": "01717605952",
+    "memberTrxId": "DCG16Ljc8f",
+    "memberQA": {
+      "তোমার নাম": "tahmid riyan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01717605952",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "DCG16Ljc8f"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T10:22:11.968Z",
+    "date": "4/6/2026, 4:22:11 PM",
+    "className": "Class 10 EBIB (2026)",
+    "memberName": "Shajid Arafin Shammo",
+    "facebookUserId": "100068000777700",
+    "memberUserId": "",
+    "memberPhone": "01630390787",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Shammo",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01630390787"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

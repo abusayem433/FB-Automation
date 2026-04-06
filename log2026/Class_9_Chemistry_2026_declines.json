@@ -439,5 +439,203 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:14:58.838Z",
+    "date": "4/6/2026, 5:14:58 PM",
+    "className": "Class 9 Chemistry (2026)",
+    "memberName": "Sima Saha",
+    "facebookUserId": "100087883182599",
+    "memberUserId": "",
+    "memberPhone": "01620549413",
+    "memberTrxId": "65ddde0c-672d-4ddc-b6bc-6d769c565b8a",
+    "memberQA": {
+      "তোমার নাম": "anupam",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01620549413",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "65ddde0c-672d-4ddc-b6bc-6d769c565b8a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:15:25.549Z",
+    "date": "4/6/2026, 5:15:25 PM",
+    "className": "Class 9 Chemistry (2026)",
+    "memberName": "Bornil Chowdhury",
+    "facebookUserId": "100066812373962",
+    "memberUserId": "",
+    "memberPhone": "01818470773",
+    "memberTrxId": "7e670e12-c7be-4748-a87d-68b2434f53b4",
+    "memberQA": {
+      "তোমার নাম": "Bornil Chowdhury Borno",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01818470773",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7e670e12-c7be-4748-a87d-68b2434f53b4"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:15:31.013Z",
+    "date": "4/6/2026, 5:15:31 PM",
+    "className": "Class 9 Chemistry (2026)",
+    "memberName": "Shafrin Jannat Progga",
+    "facebookUserId": "61558716388965",
+    "memberUserId": "",
+    "memberPhone": "01720847990",
+    "memberTrxId": "Shafrin Jannat Progga",
+    "memberQA": {
+      "তোমার নাম": "Shafrin A Jannat Progga",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01720847990",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Shafrin Jannat Progga"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:15:36.621Z",
+    "date": "4/6/2026, 5:15:36 PM",
+    "className": "Class 9 Chemistry (2026)",
+    "memberName": "Araf Ahmed",
+    "facebookUserId": "100084212418044",
+    "memberUserId": "",
+    "memberPhone": "01721419183",
+    "memberTrxId": "828acb6b-d6a8-4115-ba11-a12f1d6c8c70",
+    "memberQA": {
+      "তোমার নাম": "araf Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01721419183",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "828acb6b-d6a8-4115-ba11-a12f1d6c8c70"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:15:41.947Z",
+    "date": "4/6/2026, 5:15:41 PM",
+    "className": "Class 9 Chemistry (2026)",
+    "memberName": "Joya Das",
+    "facebookUserId": "100007161586648",
+    "memberUserId": "",
+    "memberPhone": "01841533486",
+    "memberTrxId": "87df44d3-101a-47b1-bcd4-63ba95f91e85",
+    "memberQA": {
+      "তোমার নাম": "Tirtho Das",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01841533486",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "87df44d3-101a-47b1-bcd4-63ba95f91e85"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:15:57.762Z",
+    "date": "4/6/2026, 5:15:57 PM",
+    "className": "Class 9 Chemistry (2026)",
+    "memberName": "Sadia Tabassum",
+    "facebookUserId": "61576406231579",
+    "memberUserId": "",
+    "memberPhone": "01719252863",
+    "memberTrxId": "79d27e56-523f-451c-ba7f-4cdfa54561e5",
+    "memberQA": {
+      "তোমার নাম": "Sadia Tabassum",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01719252863",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "79d27e56-523f-451c-ba7f-4cdfa54561e5"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:16:03.343Z",
+    "date": "4/6/2026, 5:16:03 PM",
+    "className": "Class 9 Chemistry (2026)",
+    "memberName": "Mst Sabina Khatun",
+    "facebookUserId": "61552367338837",
+    "memberUserId": "",
+    "memberPhone": "01318143247",
+    "memberTrxId": "f94d683d-0d88-47ad-898d-8b674f1f6181",
+    "memberQA": {
+      "তোমার নাম": "Mst.Yasmin Akther",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01318143247",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f94d683d-0d88-47ad-898d-8b674f1f6181"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:16:08.719Z",
+    "date": "4/6/2026, 5:16:08 PM",
+    "className": "Class 9 Chemistry (2026)",
+    "memberName": "আ্ঁজ্ঁব্ঁ ছে্ঁলে্ঁ আ্ঁমি্ঁ",
+    "facebookUserId": "61583622395848",
+    "memberUserId": "",
+    "memberPhone": "01872827615",
+    "memberTrxId": "7c5c9c70-4d64-41cb-9e62-36d5d7528dee",
+    "memberQA": {
+      "তোমার নাম": "Prince Roy Apurbo",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01872827615",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7c5c9c70-4d64-41cb-9e62-36d5d7528dee"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:16:24.505Z",
+    "date": "4/6/2026, 5:16:24 PM",
+    "className": "Class 9 Chemistry (2026)",
+    "memberName": "Ekra Tabasum Ekra",
+    "facebookUserId": "100086981041449",
+    "memberUserId": "",
+    "memberPhone": "01726189825",
+    "memberTrxId": "b87b2d65-2658-4865-914e-5edb0e7e479c",
+    "memberQA": {
+      "তোমার নাম": "Ekra Tabassum",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01726189825",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b87b2d65-2658-4865-914e-5edb0e7e479c"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:16:29.808Z",
+    "date": "4/6/2026, 5:16:29 PM",
+    "className": "Class 9 Chemistry (2026)",
+    "memberName": "G. M. Ahsanul Haque",
+    "facebookUserId": "61555631124950",
+    "memberUserId": "",
+    "memberPhone": "01782929173",
+    "memberTrxId": "Ahsanul Haque",
+    "memberQA": {
+      "তোমার নাম": "G.M.Ahsanul Haque",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01782929173",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Ahsanul Haque"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:16:35.108Z",
+    "date": "4/6/2026, 5:16:35 PM",
+    "className": "Class 9 Chemistry (2026)",
+    "memberName": "Sanjida Akter",
+    "facebookUserId": "100007656226599",
+    "memberUserId": "",
+    "memberPhone": "01750062850",
+    "memberTrxId": "38db91db-46c8-48d4-9d41-7822f89bdd\n75",
+    "memberQA": {
+      "তোমার নাম": "মোঃ সামিউল হাসিব",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01750062850",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "38db91db-46c8-48d4-9d41-7822f89bdd\n75"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -1711,5 +1711,73 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:00:10.392Z",
+    "date": "4/6/2026, 5:00:10 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Sadia Akter",
+    "facebookUserId": "61585102887049",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "mahir"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:00:15.746Z",
+    "date": "4/6/2026, 5:00:15 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Anika Tasnim Shifa",
+    "facebookUserId": "61581181834200",
+    "memberUserId": "",
+    "memberPhone": "01722288456",
+    "memberTrxId": "beca0aee-021e-44dd-93f7-c8c1bf5e6ce9",
+    "memberQA": {
+      "তোমার নাম": "Tahsin Mozumder",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01722288456",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "beca0aee-021e-44dd-93f7-c8c1bf5e6ce9"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:00:21.068Z",
+    "date": "4/6/2026, 5:00:21 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Sume Akter",
+    "facebookUserId": "100055472974710",
+    "memberUserId": "",
+    "memberPhone": "01774288299",
+    "memberTrxId": "386d61f1-9152-41c8-867d-37f867304de0",
+    "memberQA": {
+      "তোমার নাম": "Khusi Muni",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01774288299",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "386d61f1-9152-41c8-867d-37f867304de0"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T11:00:26.279Z",
+    "date": "4/6/2026, 5:00:26 PM",
+    "className": "Class 7 All in One Diamond Pack (2026)",
+    "memberName": "Supriya Chakraborty",
+    "facebookUserId": "100041386176393",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Rajdip"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

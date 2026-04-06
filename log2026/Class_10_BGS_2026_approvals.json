@@ -952,5 +952,77 @@
     "approvalStatus": "approved",
     "declineReason": null,
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T10:10:50.996Z",
+    "date": "4/6/2026, 4:10:50 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Sheikh Nur",
+    "facebookUserId": "61576583696012",
+    "memberUserId": "61576583696012",
+    "memberPhone": "01973179876",
+    "memberTrxId": "c91c8b44-c475-42cd-a9d2-9f65e5105322",
+    "memberQA": {
+      "তোমার নাম": "Sheikh Mahdi Rahman Nur",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01973179876",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "c91c8b44-c475-42cd-a9d2-9f65e5105322"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T10:11:12.056Z",
+    "date": "4/6/2026, 4:11:12 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "A. Haque",
+    "facebookUserId": "61550575232016",
+    "memberUserId": "61550575232016",
+    "memberPhone": "01739-994608",
+    "memberTrxId": "26431fcb-86f6-4bc3-9298-25469f1b60e1",
+    "memberQA": {
+      "তোমার নাম": "আইমান হক",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01739-994608",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "26431fcb-86f6-4bc3-9298-25469f1b60e1"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T10:11:43.975Z",
+    "date": "4/6/2026, 4:11:43 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Rumina Islam",
+    "facebookUserId": "100034652332393",
+    "memberUserId": "100034652332393",
+    "memberPhone": "01757798061",
+    "memberTrxId": "5e88cfba-93a5-4022-9df2-54402203701c",
+    "memberQA": {
+      "তোমার নাম": "Roshni",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01757798061",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "5e88cfba-93a5-4022-9df2-54402203701c"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-06T10:12:15.409Z",
+    "date": "4/6/2026, 4:12:15 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Soumyajit Dey",
+    "facebookUserId": "100063662236923",
+    "memberUserId": "100063662236923",
+    "memberPhone": "01748882963",
+    "memberTrxId": "b4f6a63d-4903-4590-848a-7d062eb32f47",
+    "memberQA": {
+      "তোমার নাম": "Soumyajit Dey",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01748882963",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b4f6a63d-4903-4590-848a-7d062eb32f47"
+    },
+    "approvalStatus": "approved",
+    "declineReason": null,
+    "processedBy": "FB-Automation"
   }
 ]
