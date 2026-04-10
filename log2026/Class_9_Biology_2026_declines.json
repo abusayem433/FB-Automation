@@ -939,5 +939,40 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:16:20.642Z",
+    "date": "4/10/2026, 3:16:20 PM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "Shohidul Islam",
+    "facebookUserId": "100011334213955",
+    "memberUserId": "",
+    "memberPhone": "201215",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01744306889",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "201215"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:16:26.052Z",
+    "date": "4/10/2026, 3:16:26 PM",
+    "className": "Class 9 Biology (2026)",
+    "memberName": "SI M MI",
+    "facebookUserId": "61573307245387",
+    "memberUserId": "",
+    "memberPhone": "01739523208",
+    "memberTrxId": "7b71eaa8-efae-4474-8f62-0977bf85068a\n\n\n7b71eaa8-efae-4474-8f62-0977bf85068a",
+    "memberQA": {
+      "তোমার নাম": "Simmi",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01739523208",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "7b71eaa8-efae-4474-8f62-0977bf85068a\n\n\n7b71eaa8-efae-4474-8f62-0977bf85068a"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

@@ -887,5 +887,76 @@
     "approvalStatus": "declined",
     "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:15:16.226Z",
+    "date": "4/10/2026, 3:15:16 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Rehab Mahmud",
+    "facebookUserId": "100056429962384",
+    "memberUserId": "",
+    "memberPhone": "01889224968",
+    "memberTrxId": "19a4423c-2cd7-42e3-ab2a-26eaa854ab40",
+    "memberQA": {
+      "তোমার নাম": "Jannatul Maowa",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01889224968",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "19a4423c-2cd7-42e3-ab2a-26eaa854ab40"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:15:21.637Z",
+    "date": "4/10/2026, 3:15:21 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Asm Tasnim",
+    "facebookUserId": "61579530103782",
+    "memberUserId": "",
+    "memberPhone": "01851560860",
+    "memberTrxId": "4f3b1c9c-69c6-4c2e-a8da-6e8ed467f7cd",
+    "memberQA": {
+      "তোমার নাম": "Tasnim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01851560860",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "4f3b1c9c-69c6-4c2e-a8da-6e8ed467f7cd"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:15:26.879Z",
+    "date": "4/10/2026, 3:15:26 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Md Mohidul Hasan",
+    "facebookUserId": "100060689075452",
+    "memberUserId": "",
+    "memberPhone": "Ihhi",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Nur",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "Ihhi"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:15:32.203Z",
+    "date": "4/10/2026, 3:15:32 PM",
+    "className": "Class 9 BGS (2026)",
+    "memberName": "Mst Sabina Khatun",
+    "facebookUserId": "61552367338837",
+    "memberUserId": "",
+    "memberPhone": "01318143247",
+    "memberTrxId": "f94d683d-0d88-47ad-898d-8b674f1f6181",
+    "memberQA": {
+      "তোমার নাম": "Mst. Yasmin Akther",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01318143247",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "f94d683d-0d88-47ad-898d-8b674f1f6181"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

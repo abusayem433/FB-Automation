@@ -2914,5 +2914,76 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:23:48.787Z",
+    "date": "4/10/2026, 3:23:48 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Tauhid Hossain Tahe",
+    "facebookUserId": "100014766011589",
+    "memberUserId": "",
+    "memberPhone": "01577661997",
+    "memberTrxId": "hjdduji",
+    "memberQA": {
+      "তোমার নাম": "Tauhid Hossain Tahe",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01577661997",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "hjdduji"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:23:54.164Z",
+    "date": "4/10/2026, 3:23:54 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Manika Roy",
+    "facebookUserId": "100053357132219",
+    "memberUserId": "",
+    "memberPhone": "01741438813",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sudipto  Kishore Roy",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01741438813"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:23:59.550Z",
+    "date": "4/10/2026, 3:23:59 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Opu Rayhan",
+    "facebookUserId": "100095346139181",
+    "memberUserId": "",
+    "memberPhone": "01749168599",
+    "memberTrxId": "123456",
+    "memberQA": {
+      "তোমার নাম": "Opu Rayhan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01749168599",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "123456"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:24:26.055Z",
+    "date": "4/10/2026, 3:24:26 PM",
+    "className": "Class 9 PCMMB (2026)",
+    "memberName": "Asm Tasnim",
+    "facebookUserId": "61579530103782",
+    "memberUserId": "",
+    "memberPhone": "01851560860",
+    "memberTrxId": "4f3b1c9c-69c6-4c2e-a8da-6e8ed467f7cd",
+    "memberQA": {
+      "তোমার নাম": "Tasnim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01851560860",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "4f3b1c9c-69c6-4c2e-a8da-6e8ed467f7cd"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

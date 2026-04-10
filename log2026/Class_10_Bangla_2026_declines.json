@@ -1472,5 +1472,94 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T08:53:15.957Z",
+    "date": "4/10/2026, 2:53:15 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Forhad Bhuiyan",
+    "facebookUserId": "100086593513073",
+    "memberUserId": "",
+    "memberPhone": "01907186760",
+    "memberTrxId": "18282ede-3646-476e-8b5f-095047c121ad",
+    "memberQA": {
+      "তোমার নাম": "jamaika binta forhad",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01907186760",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "18282ede-3646-476e-8b5f-095047c121ad"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T08:53:21.349Z",
+    "date": "4/10/2026, 2:53:21 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Maksudul Tanha",
+    "facebookUserId": "100005453882060",
+    "memberUserId": "",
+    "memberPhone": "01630963772",
+    "memberTrxId": "be69982d-6edd-4745-975a-9c850c2c6ebd",
+    "memberQA": {
+      "তোমার নাম": "Tanha",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01630963772",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "be69982d-6edd-4745-975a-9c850c2c6ebd"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T08:53:26.600Z",
+    "date": "4/10/2026, 2:53:26 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Mahfuza Akhter",
+    "facebookUserId": "100054791501898",
+    "memberUserId": "",
+    "memberPhone": "null",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Isra Jaiyana",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "null"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T08:53:31.912Z",
+    "date": "4/10/2026, 2:53:31 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Nirob Ahmed",
+    "facebookUserId": "61587026172999",
+    "memberUserId": "",
+    "memberPhone": "01935482102",
+    "memberTrxId": "Nirob",
+    "memberQA": {
+      "তোমার নাম": "Nirob Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01935482102",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Nirob"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T08:53:37.243Z",
+    "date": "4/10/2026, 2:53:37 PM",
+    "className": "Class 10 Bangla (2026)",
+    "memberName": "Asm Tasnim",
+    "facebookUserId": "61579530103782",
+    "memberUserId": "",
+    "memberPhone": "01851560860",
+    "memberTrxId": "b5cde20b-d3c4-4aa7-90d8-a1f835aafa7f",
+    "memberQA": {
+      "তোমার নাম": "Tasnim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01851560860",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "b5cde20b-d3c4-4aa7-90d8-a1f835aafa7f"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

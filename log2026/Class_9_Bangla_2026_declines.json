@@ -336,5 +336,39 @@
     "approvalStatus": "declined",
     "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:14:33.174Z",
+    "date": "4/10/2026, 3:14:33 PM",
+    "className": "Class 9 Bangla (2026)",
+    "memberName": "Md Mohidul Hasan",
+    "facebookUserId": "100060689075452",
+    "memberUserId": "",
+    "memberPhone": "01744532956",
+    "memberTrxId": "1425",
+    "memberQA": {
+      "তোমার নাম": "Md Rakib",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01744532956",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "1425"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:14:38.507Z",
+    "date": "4/10/2026, 3:14:38 PM",
+    "className": "Class 9 Bangla (2026)",
+    "memberName": "রূপকথার রাজকন্যা",
+    "facebookUserId": "61582779010262",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Sabrina"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]

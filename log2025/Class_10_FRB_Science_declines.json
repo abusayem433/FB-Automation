@@ -80822,5 +80822,23 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T08:47:33.139Z",
+    "date": "4/10/2026, 2:47:33 PM",
+    "className": "Class 10 FRB Science",
+    "memberName": "Ãkåšh Ãhmëd",
+    "facebookUserId": "61564898504198",
+    "memberUserId": "",
+    "memberPhone": "01760462205",
+    "memberTrxId": "4c6272dd-9f60-4bd6-bded-102b53df1640",
+    "memberQA": {
+      "তোমার নাম": "Akash Ahmed",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01760462205",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "4c6272dd-9f60-4bd6-bded-102b53df1640"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

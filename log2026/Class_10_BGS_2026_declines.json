@@ -9258,5 +9258,41 @@
     "approvalStatus": "missing_info",
     "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T08:54:15.269Z",
+    "date": "4/10/2026, 2:54:15 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Fahad Ibrahim",
+    "facebookUserId": "61565834334465",
+    "memberUserId": "",
+    "memberPhone": "01954831103",
+    "memberTrxId": "8a28581a-5e9d-40e9-ab4e-27f5ea1c35e1",
+    "memberQA": {
+      "তোমার নাম": "Fahad Ibrahim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01954831103",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "8a28581a-5e9d-40e9-ab4e-27f5ea1c35e1"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T08:54:20.706Z",
+    "date": "4/10/2026, 2:54:20 PM",
+    "className": "Class 10 BGS (2026)",
+    "memberName": "Sahila Akter",
+    "facebookUserId": "61573305326113",
+    "memberUserId": "",
+    "memberPhone": "+880 1866-250007",
+    "memberTrxId": "Transaction ID\n4741b603-174f-4c02-bae4-fdaebe8cadf4",
+    "memberQA": {
+      "তোমার নাম": "ইসা সিকদার",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "+880 1866-250007",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Transaction ID\n4741b603-174f-4c02-bae4-fdaebe8cadf4"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
   }
 ]

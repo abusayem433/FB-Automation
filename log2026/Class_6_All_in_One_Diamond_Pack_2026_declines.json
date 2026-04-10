@@ -1141,5 +1141,23 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:08:58.904Z",
+    "date": "4/10/2026, 3:08:58 PM",
+    "className": "Class 6 All in One Diamond Pack (2026)",
+    "memberName": "Masum Ahmed",
+    "facebookUserId": "100009816729874",
+    "memberUserId": "",
+    "memberPhone": "01714974661",
+    "memberTrxId": "2b2595d3-82a9-44fe-bd10-6d69c2296b51",
+    "memberQA": {
+      "তোমার নাম": "Anas Ahmed Ayan",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01714974661",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "2b2595d3-82a9-44fe-bd10-6d69c2296b51"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
   }
 ]

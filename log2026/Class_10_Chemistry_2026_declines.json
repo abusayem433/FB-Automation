@@ -1860,5 +1860,75 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T08:56:20.566Z",
+    "date": "4/10/2026, 2:56:20 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Maksudul Tanha",
+    "facebookUserId": "100005453882060",
+    "memberUserId": "",
+    "memberPhone": "01757231146",
+    "memberTrxId": "be69982d-6edd-4745-975a-9c850c2c6ebd",
+    "memberQA": {
+      "তোমার নাম": "তানহা",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01757231146",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "be69982d-6edd-4745-975a-9c850c2c6ebd"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T08:56:25.892Z",
+    "date": "4/10/2026, 2:56:25 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Siam Hossain",
+    "facebookUserId": "61582304686544",
+    "memberUserId": "",
+    "memberPhone": "",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "siam"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি ও ফোন নম্বর দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T08:56:31.233Z",
+    "date": "4/10/2026, 2:56:31 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Sahila Akter",
+    "facebookUserId": "61573305326113",
+    "memberUserId": "",
+    "memberPhone": "+880 1866-250007",
+    "memberTrxId": "Transaction ID\n4741b603-174f-4c02-bae4-fdaebe8cadf4",
+    "memberQA": {
+      "তোমার নাম": "ইসা সিকদার",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "+880 1866-250007",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Transaction ID\n4741b603-174f-4c02-bae4-fdaebe8cadf4"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T08:56:47.008Z",
+    "date": "4/10/2026, 2:56:47 PM",
+    "className": "Class 10 Chemistry (2026)",
+    "memberName": "Anonto Halder",
+    "facebookUserId": "61566824596912",
+    "memberUserId": "",
+    "memberPhone": "01708036886",
+    "memberTrxId": "bc97d51e-e540-468d-8838-86d585f680f4",
+    "memberQA": {
+      "তোমার নাম": "Anonto Halder",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01708036886",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "bc97d51e-e540-468d-8838-86d585f680f4"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "তুমি যে কোর্স কিনেছো, সেই কোর্সটি এই গ্রুপের জন্যে নয়",
+    "processedBy": "FB-Automation"
   }
 ]

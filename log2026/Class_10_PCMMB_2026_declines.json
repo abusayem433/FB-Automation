@@ -3881,5 +3881,58 @@
     "approvalStatus": "declined",
     "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
     "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:05:14.298Z",
+    "date": "4/10/2026, 3:05:14 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Sanjida Islam Suche",
+    "facebookUserId": "61573470328484",
+    "memberUserId": "",
+    "memberPhone": "01983299660",
+    "memberTrxId": "Sanjida Islam Suche",
+    "memberQA": {
+      "তোমার নাম": "Sanjida Islam Suche",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01983299660",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "Sanjida Islam Suche"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "ট্রানজেকশন আইডি সঠিক নয়",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:05:51.112Z",
+    "date": "4/10/2026, 3:05:51 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Alif Ahamed",
+    "facebookUserId": "61573318768970",
+    "memberUserId": "",
+    "memberPhone": "01586065997",
+    "memberTrxId": "ef6f3f95-55c5-4deb-bd75-e0b98973ab51",
+    "memberQA": {
+      "তোমার নাম": "Alif",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01586065997",
+      "তোমার ইউনিক ট্রানজেকশন আইডি": "ef6f3f95-55c5-4deb-bd75-e0b98973ab51"
+    },
+    "approvalStatus": "declined",
+    "declineReason": "এই ট্রানজেকশন আইডি একবার ব্যবহৃত হয়েছে, একটি ট্রানজেকশন আইডি ব্যবহার করে একবারই গ্রুপে জয়েন হতে পারবে",
+    "processedBy": "FB-Automation"
+  },
+  {
+    "timestamp": "2026-04-10T09:06:06.776Z",
+    "date": "4/10/2026, 3:06:06 PM",
+    "className": "Class 10 PCMMB (2026)",
+    "memberName": "Md Mahim",
+    "facebookUserId": "100093140434704",
+    "memberUserId": "",
+    "memberPhone": "01709619666",
+    "memberTrxId": "",
+    "memberQA": {
+      "তোমার নাম": "Mahim",
+      "তোমার রেজিস্টারকৃত মোবাইল নাম্বার": "01709619666"
+    },
+    "approvalStatus": "missing_info",
+    "declineReason": "ট্রানজেকশন আইডি দেওয়া হয়নি",
+    "processedBy": "FB-Automation"
   }
 ]
